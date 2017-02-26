@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 01:59:06 +0000 2017",
+		"id": 835308104657031200,
+		"id_str": "835308104657031168",
+		"text": "RT @cryoclaire242: They grow up so fast. https://t.co/sngx5YUvOb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cryoclaire242",
+					"name": "Cryo",
+					"id": 1905408666,
+					"id_str": "1905408666",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832749260781260800,
+					"id_str": "832749260781260800",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+					"url": "https://t.co/sngx5YUvOb",
+					"display_url": "pic.twitter.com/sngx5YUvOb",
+					"expanded_url": "https://twitter.com/cryoclaire242/status/832749307472158720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 849,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832749307472158700,
+					"source_status_id_str": "832749307472158720",
+					"source_user_id": 1905408666,
+					"source_user_id_str": "1905408666"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832749260781260800,
+					"id_str": "832749260781260800",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+					"url": "https://t.co/sngx5YUvOb",
+					"display_url": "pic.twitter.com/sngx5YUvOb",
+					"expanded_url": "https://twitter.com/cryoclaire242/status/832749307472158720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 849,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832749307472158700,
+					"source_status_id_str": "832749307472158720",
+					"source_user_id": 1905408666,
+					"source_user_id_str": "1905408666"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 199,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 481,
+			"utc_offset": 7200,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 18 00:31:21 +0000 2017",
+			"id": 832749307472158700,
+			"id_str": "832749307472158720",
+			"text": "They grow up so fast. https://t.co/sngx5YUvOb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 832749260781260800,
+						"id_str": "832749260781260800",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+						"url": "https://t.co/sngx5YUvOb",
+						"display_url": "pic.twitter.com/sngx5YUvOb",
+						"expanded_url": "https://twitter.com/cryoclaire242/status/832749307472158720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 849,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 849,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832749260781260800,
+						"id_str": "832749260781260800",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C46FCmPWEAAz4jp.jpg",
+						"url": "https://t.co/sngx5YUvOb",
+						"display_url": "pic.twitter.com/sngx5YUvOb",
+						"expanded_url": "https://twitter.com/cryoclaire242/status/832749307472158720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 849,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 849,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1905408666,
+				"id_str": "1905408666",
+				"name": "Cryo",
+				"screen_name": "cryoclaire242",
+				"location": "UK // Latvia // VR",
+				"description": "Comic artist, illustrator, cyberpunk enthusiast. Co-creator of Drugs & Wires  🔥Available for freelance work🔥",
+				"url": "https://t.co/HUml4NIQxp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HUml4NIQxp",
+								"expanded_url": "http://www.drugsandwires.fail",
+								"display_url": "drugsandwires.fail",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1497,
+				"friends_count": 813,
+				"listed_count": 68,
+				"created_at": "Wed Sep 25 21:21:36 +0000 2013",
+				"favourites_count": 11999,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000178500206/QgFWuf9q.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000178500206/QgFWuf9q.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830627183437680640/BAuymLOz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830627183437680640/BAuymLOz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1905408666/1483904163",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 357,
+			"favorite_count": 432,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 357,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 16 17:27:43 +0000 2017",
 		"id": 832280311031529500,
 		"id_str": "832280311031529474",
