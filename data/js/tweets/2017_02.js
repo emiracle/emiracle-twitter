@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 28 16:08:41 +0000 2017",
+		"id": 836609076591218700,
+		"id_str": "836609076591218692",
+		"text": "RT @ryanqnorth: The sky was the color of a television tuned to a dead channel: grey in the 90s, blue in the 2000s, now black with an overla…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryanqnorth",
+					"name": "Ryan North",
+					"id": 14162415,
+					"id_str": "14162415",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 199,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 474,
+			"utc_offset": 7200,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4352,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 28 14:52:33 +0000 2017",
+			"id": 836589916565999600,
+			"id_str": "836589916565999623",
+			"text": "The sky was the color of a television tuned to a dead channel: grey in the 90s, blue in the 2000s, now black with an overlay saying \"HDMI1\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14162415,
+				"id_str": "14162415",
+				"name": "Ryan North",
+				"screen_name": "ryanqnorth",
+				"location": "Toronto",
+				"description": "NYT bestselling, Eisner Award winning writer.  I'm packed and I'm stacked, specially in the back. You may want to think my mother for a butt like that.",
+				"url": "https://t.co/OXoZ7H0dfQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OXoZ7H0dfQ",
+								"expanded_url": "http://www.ryannorth.ca",
+								"display_url": "ryannorth.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65873,
+				"friends_count": 547,
+				"listed_count": 1985,
+				"created_at": "Mon Mar 17 10:41:31 +0000 2008",
+				"favourites_count": 56566,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 57273,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4C8BD9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/135751776/meandvictor2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/135751776/meandvictor2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783364619410759680/xajBDLGs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783364619410759680/xajBDLGs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14162415/1398193165",
+				"profile_link_color": "00008F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1122,
+			"favorite_count": 2392,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1122,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 25 01:59:06 +0000 2017",
 		"id": 835308104657031200,
 		"id_str": "835308104657031168",
