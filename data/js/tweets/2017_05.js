@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 13 09:13:07 +0000 2017",
+		"id": 863321197039296500,
+		"id_str": "863321197039296512",
+		"text": "RT @metcihan: Türkiye'de gazetecilik https://t.co/923xHW5CQg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metcihan",
+					"name": "metin cihan",
+					"id": 427178627,
+					"id_str": "427178627",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862975507159285800,
+					"id_str": "862975507159285760",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+					"url": "https://t.co/923xHW5CQg",
+					"display_url": "pic.twitter.com/923xHW5CQg",
+					"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 606,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 348,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862975923808849900,
+					"source_status_id_str": "862975923808849920",
+					"source_user_id": 427178627,
+					"source_user_id_str": "427178627"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862975507159285800,
+					"id_str": "862975507159285760",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+					"url": "https://t.co/923xHW5CQg",
+					"display_url": "pic.twitter.com/923xHW5CQg",
+					"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 606,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 348,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862975923808849900,
+					"source_status_id_str": "862975923808849920",
+					"source_user_id": 427178627,
+					"source_user_id_str": "427178627"
+				},
+				{
+					"id": 862975534791360500,
+					"id_str": "862975534791360512",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/C_nnrTkXgAAP6dB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_nnrTkXgAAP6dB.jpg",
+					"url": "https://t.co/923xHW5CQg",
+					"display_url": "pic.twitter.com/923xHW5CQg",
+					"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 607,
+							"h": 286,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 607,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 607,
+							"h": 286,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862975923808849900,
+					"source_status_id_str": "862975923808849920",
+					"source_user_id": 427178627,
+					"source_user_id_str": "427178627"
+				},
+				{
+					"id": 862975534787153900,
+					"id_str": "862975534787153922",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/C_nnrTjXUAIkAor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_nnrTjXUAIkAor.jpg",
+					"url": "https://t.co/923xHW5CQg",
+					"display_url": "pic.twitter.com/923xHW5CQg",
+					"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 602,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 602,
+							"h": 318,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862975923808849900,
+					"source_status_id_str": "862975923808849920",
+					"source_user_id": 427178627,
+					"source_user_id_str": "427178627"
+				},
+				{
+					"id": 862975558392610800,
+					"id_str": "862975558392610817",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/C_nnsrfWAAESdOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_nnsrfWAAESdOA.jpg",
+					"url": "https://t.co/923xHW5CQg",
+					"display_url": "pic.twitter.com/923xHW5CQg",
+					"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 599,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 599,
+							"h": 252,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862975923808849900,
+					"source_status_id_str": "862975923808849920",
+					"source_user_id": 427178627,
+					"source_user_id_str": "427178627"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270,
+			"friends_count": 199,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 493,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4396,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 12 10:21:08 +0000 2017",
+			"id": 862975923808849900,
+			"id_str": "862975923808849920",
+			"text": "Türkiye'de gazetecilik https://t.co/923xHW5CQg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862975507159285800,
+						"id_str": "862975507159285760",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+						"url": "https://t.co/923xHW5CQg",
+						"display_url": "pic.twitter.com/923xHW5CQg",
+						"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 348,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 606,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862975507159285800,
+						"id_str": "862975507159285760",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_nnpsoXgAA9jKG.jpg",
+						"url": "https://t.co/923xHW5CQg",
+						"display_url": "pic.twitter.com/923xHW5CQg",
+						"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 348,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 606,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 862975534791360500,
+						"id_str": "862975534791360512",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C_nnrTkXgAAP6dB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_nnrTkXgAAP6dB.jpg",
+						"url": "https://t.co/923xHW5CQg",
+						"display_url": "pic.twitter.com/923xHW5CQg",
+						"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 607,
+								"h": 286,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 286,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 607,
+								"h": 286,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 862975534787153900,
+						"id_str": "862975534787153922",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C_nnrTjXUAIkAor.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_nnrTjXUAIkAor.jpg",
+						"url": "https://t.co/923xHW5CQg",
+						"display_url": "pic.twitter.com/923xHW5CQg",
+						"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 602,
+								"h": 318,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 602,
+								"h": 318,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 602,
+								"h": 318,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 862975558392610800,
+						"id_str": "862975558392610817",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C_nnsrfWAAESdOA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_nnsrfWAAESdOA.jpg",
+						"url": "https://t.co/923xHW5CQg",
+						"display_url": "pic.twitter.com/923xHW5CQg",
+						"expanded_url": "https://twitter.com/metcihan/status/862975923808849920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 599,
+								"h": 252,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 599,
+								"h": 252,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 599,
+								"h": 252,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 427178627,
+				"id_str": "427178627",
+				"name": "metin cihan",
+				"screen_name": "metcihan",
+				"location": "",
+				"description": "gezici haberci",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17570,
+				"friends_count": 1104,
+				"listed_count": 96,
+				"created_at": "Sat Dec 03 06:27:08 +0000 2011",
+				"favourites_count": 4771,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35616,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000160589025/xe-xDQeg.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000160589025/xe-xDQeg.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831531352369557508/qb4nmIKA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831531352369557508/qb4nmIKA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/427178627/1401626034",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1492,
+			"favorite_count": 2595,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1492,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Thu May 11 18:27:06 +0000 2017",
 		"id": 862735835606790100,
 		"id_str": "862735835606790144",
