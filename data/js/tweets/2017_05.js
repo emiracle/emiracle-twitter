@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 24 21:00:46 +0000 2017",
+		"id": 867485549074030600,
+		"id_str": "867485549074030593",
+		"text": "Güzelmiş. https://t.co/E5k1RhCFMi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E5k1RhCFMi",
+					"expanded_url": "https://twitter.com/demarkesports/status/867483684181508098",
+					"display_url": "twitter.com/demarkesports/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 200,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 498,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 867483684181508100,
+		"quoted_status_id_str": "867483684181508098",
+		"quoted_status": {
+			"created_at": "Wed May 24 20:53:22 +0000 2017",
+			"id": 867483684181508100,
+			"id_str": "867483684181508098",
+			"text": "Manchester City'nin maç sonu paylaşımı https://t.co/i98SJCSRe7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 867483678930350100,
+						"id_str": "867483678930350080",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DAnrz1MXsAAcl7u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAnrz1MXsAAcl7u.jpg",
+						"url": "https://t.co/i98SJCSRe7",
+						"display_url": "pic.twitter.com/i98SJCSRe7",
+						"expanded_url": "https://twitter.com/demarkesports/status/867483684181508098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 867483678930350100,
+						"id_str": "867483678930350080",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DAnrz1MXsAAcl7u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAnrz1MXsAAcl7u.jpg",
+						"url": "https://t.co/i98SJCSRe7",
+						"display_url": "pic.twitter.com/i98SJCSRe7",
+						"expanded_url": "https://twitter.com/demarkesports/status/867483684181508098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1499266621,
+				"id_str": "1499266621",
+				"name": "De Marke Sports",
+				"screen_name": "demarkesports",
+				"location": "",
+				"description": "Bağımsız, markaj altında olmayan  📺YouTube - https://t.co/pXgRq4k1vz info@demarke.com.tr",
+				"url": "https://t.co/98mVgXnOpI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/98mVgXnOpI",
+								"expanded_url": "http://instagram.com/demarkesports",
+								"display_url": "instagram.com/demarkesports",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pXgRq4k1vz",
+								"expanded_url": "http://youtube.com/demarke",
+								"display_url": "youtube.com/demarke",
+								"indices": [
+									45,
+									68
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 466182,
+				"friends_count": 771,
+				"listed_count": 806,
+				"created_at": "Mon Jun 10 20:08:17 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49965,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000174758278/qbMR5YCh.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000174758278/qbMR5YCh.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865584820159602688/Bvktw-re_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865584820159602688/Bvktw-re_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1499266621/1495467866",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 737,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Mon May 22 08:00:38 +0000 2017",
 		"id": 866564446017253400,
 		"id_str": "866564446017253376",
