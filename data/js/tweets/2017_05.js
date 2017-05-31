@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 30 17:50:47 +0000 2017",
+		"id": 869612065731756000,
+		"id_str": "869612065731756032",
+		"text": "RT @tauriqmoosa: So there's a Twitter fight between two countries on their Verified accounts, using a Simpson's meme https://t.co/ddXNzuHBux",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tauriqmoosa",
+					"name": "Tauriq Moosa",
+					"id": 20665221,
+					"id_str": "20665221",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ddXNzuHBux",
+					"expanded_url": "https://twitter.com/Ukraine/status/869532150760165377",
+					"display_url": "twitter.com/Ukraine/status…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 200,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 501,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 30 14:12:26 +0000 2017",
+			"id": 869557115408588800,
+			"id_str": "869557115408588802",
+			"text": "So there's a Twitter fight between two countries on their Verified accounts, using a Simpson's meme https://t.co/ddXNzuHBux",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ddXNzuHBux",
+						"expanded_url": "https://twitter.com/Ukraine/status/869532150760165377",
+						"display_url": "twitter.com/Ukraine/status…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20665221,
+				"id_str": "20665221",
+				"name": "Tauriq Moosa",
+				"screen_name": "tauriqmoosa",
+				"location": "Cape Town, South Africa",
+				"description": "Word user: Guardian, Daily Beast, Polygon, Mary Sue, etc. Media, ethics, culture, games. Law student. Commission me: tauriq.moosa[at]fsi[dot]org[dot]za",
+				"url": "https://t.co/eAMM30feWH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eAMM30feWH",
+								"expanded_url": "https://about.me/tauriqmoosa",
+								"display_url": "about.me/tauriqmoosa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12888,
+				"friends_count": 1884,
+				"listed_count": 512,
+				"created_at": "Thu Feb 12 09:54:55 +0000 2009",
+				"favourites_count": 104658,
+				"utc_offset": 7200,
+				"time_zone": "Pretoria",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 235750,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866290996040134657/LwGy_X_Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866290996040134657/LwGy_X_Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20665221/1439409767",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 869532150760165400,
+			"quoted_status_id_str": "869532150760165377",
+			"quoted_status": {
+				"created_at": "Tue May 30 12:33:14 +0000 2017",
+				"id": 869532150760165400,
+				"id_str": "869532150760165377",
+				"text": "@Russia You really don't change, do you? https://t.co/HDfS9A8jWZ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Russia",
+							"name": "РоссиЯ 🇷🇺",
+							"id": 2874959663,
+							"id_str": "2874959663",
+							"indices": [
+								0,
+								7
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 869531942575910900,
+							"id_str": "869531942575910913",
+							"indices": [
+								41,
+								64
+							],
+							"media_url": "http://pbs.twimg.com/tweet_video_thumb/DBEysd4XsAETiga.jpg",
+							"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DBEysd4XsAETiga.jpg",
+							"url": "https://t.co/HDfS9A8jWZ",
+							"display_url": "pic.twitter.com/HDfS9A8jWZ",
+							"expanded_url": "https://twitter.com/Ukraine/status/869532150760165377/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 500,
+									"h": 284,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 500,
+									"h": 284,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 193,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 869531942575910900,
+							"id_str": "869531942575910913",
+							"indices": [
+								41,
+								64
+							],
+							"media_url": "http://pbs.twimg.com/tweet_video_thumb/DBEysd4XsAETiga.jpg",
+							"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DBEysd4XsAETiga.jpg",
+							"url": "https://t.co/HDfS9A8jWZ",
+							"display_url": "pic.twitter.com/HDfS9A8jWZ",
+							"expanded_url": "https://twitter.com/Ukraine/status/869532150760165377/photo/1",
+							"type": "animated_gif",
+							"sizes": {
+								"large": {
+									"w": 500,
+									"h": 284,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 500,
+									"h": 284,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 193,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									125,
+									71
+								],
+								"variants": [
+									{
+										"bitrate": 0,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/tweet_video/DBEysd4XsAETiga.mp4"
+									}
+								]
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 869518732615352300,
+				"in_reply_to_status_id_str": "869518732615352320",
+				"in_reply_to_user_id": 2874959663,
+				"in_reply_to_user_id_str": "2874959663",
+				"in_reply_to_screen_name": "Russia",
+				"user": {
+					"id": 732521058507620400,
+					"id_str": "732521058507620356",
+					"name": "Ukraine / Україна",
+					"screen_name": "Ukraine",
+					"location": "Ukraine",
+					"description": "Nice pics: #BeautifulUkraine⛰ Our music: #UkieBeats🎶 Bye-bye, Commies: #DecommunizationBenefits🇺🇦\n📸: https://t.co/Yiu8opJyU5",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/Yiu8opJyU5",
+									"expanded_url": "http://instagram.com/ukraine/",
+									"display_url": "instagram.com/ukraine/",
+									"indices": [
+										101,
+										124
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 29693,
+					"friends_count": 13,
+					"listed_count": 199,
+					"created_at": "Tue May 17 10:40:04 +0000 2016",
+					"favourites_count": 1,
+					"utc_offset": 10800,
+					"time_zone": "Kyiv",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 653,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/735117031301906432/gmEFMRgu_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/735117031301906432/gmEFMRgu_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/732521058507620356/1487330846",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 24492,
+				"favorite_count": 37254,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 669,
+			"favorite_count": 781,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 869532150760165400,
+		"quoted_status_id_str": "869532150760165377",
+		"retweet_count": 669,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 30 10:09:09 +0000 2017",
+		"id": 869495891396366300,
+		"id_str": "869495891396366336",
+		"text": "@zalambOdOnt Boşver 60 lira az para mı? :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zalambOdOnt",
+					"name": "Meriç",
+					"id": 15659467,
+					"id_str": "15659467",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 869495316894150700,
+		"in_reply_to_status_id_str": "869495316894150656",
+		"in_reply_to_user_id": 15659467,
+		"in_reply_to_user_id_str": "15659467",
+		"in_reply_to_screen_name": "zalambOdOnt",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 200,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 501,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Mon May 29 15:33:12 +0000 2017",
 		"id": 869215052188004400,
 		"id_str": "869215052188004353",
