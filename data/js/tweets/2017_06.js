@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 18 16:44:58 +0000 2017",
+		"id": 876480872219897900,
+		"id_str": "876480872219897857",
+		"text": "RT @mserdark: Giderek daha sık karşılaştığım (mantıklı) bir öngörü: Otomasyon çağında insana has 'KUSURLAR' kıymete binecek. https://t.co/l…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mserdark",
+					"name": "M. Serdar Kuzuloğlu",
+					"id": 15263572,
+					"id_str": "15263572",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 202,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 506,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 18 16:14:42 +0000 2017",
+			"id": 876473255024046100,
+			"id_str": "876473255024046081",
+			"text": "Giderek daha sık karşılaştığım (mantıklı) bir öngörü: Otomasyon çağında insana has 'KUSURLAR' kıymete binecek.… https://t.co/YDtJf4HKt2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YDtJf4HKt2",
+						"expanded_url": "https://twitter.com/i/web/status/876473255024046081",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15263572,
+				"id_str": "15263572",
+				"name": "M. Serdar Kuzuloğlu",
+				"screen_name": "mserdark",
+				"location": "Cyberspace",
+				"description": "Teknoloji ve trendlere tutkun bir gazeteci (Tech & Trends Editor) / İnternet Ekipler Amiri!",
+				"url": "https://t.co/4UvgGkdlda",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4UvgGkdlda",
+								"expanded_url": "https://www.mserdark.com",
+								"display_url": "mserdark.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 914516,
+				"friends_count": 883,
+				"listed_count": 1794,
+				"created_at": "Sat Jun 28 15:05:28 +0000 2008",
+				"favourites_count": 912,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48097,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "090907",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/597431383603056640/fFhWriCX.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/597431383603056640/fFhWriCX.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868592981162328064/UCfkbmHZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868592981162328064/UCfkbmHZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15263572/1436020012",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 121,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Thu Jun 08 22:22:43 +0000 2017",
 		"id": 872941987837743100,
 		"id_str": "872941987837743104",
