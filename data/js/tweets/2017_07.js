@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 07 21:14:04 +0000 2017",
+		"id": 883433960830795800,
+		"id_str": "883433960830795776",
+		"text": "RT @sputnik_TR: Hamburg'da polisin yaklaştığını gören protestocu, ıslıkla Star Wars'tan İmparatorluk Marşı'nı çalmaya başladı\nhttps://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sputnik_TR",
+					"name": "Sputnik Türkiye",
+					"id": 424893128,
+					"id_str": "424893128",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 202,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 511,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 07 16:24:48 +0000 2017",
+			"id": 883361164415176700,
+			"id_str": "883361164415176704",
+			"text": "Hamburg'da polisin yaklaştığını gören protestocu, ıslıkla Star Wars'tan İmparatorluk Marşı'nı çalmaya başladı… https://t.co/V3bhnFPaUr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V3bhnFPaUr",
+						"expanded_url": "https://twitter.com/i/web/status/883361164415176704",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 424893128,
+				"id_str": "424893128",
+				"name": "Sputnik Türkiye",
+				"screen_name": "sputnik_TR",
+				"location": "Rusya",
+				"description": "Sputnik Haber Ajansı & Radyo.",
+				"url": "https://t.co/zT5qbztfUv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zT5qbztfUv",
+								"expanded_url": "http://tr.sputniknews.com",
+								"display_url": "tr.sputniknews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 239577,
+				"friends_count": 20,
+				"listed_count": 1197,
+				"created_at": "Wed Nov 30 09:15:05 +0000 2011",
+				"favourites_count": 18,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 124472,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/618021750912196609/4Gwdkb86.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/618021750912196609/4Gwdkb86.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849891082095800321/Q33uvwpx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849891082095800321/Q33uvwpx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/424893128/1486735737",
+				"profile_link_color": "FF9600",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 964,
+			"favorite_count": 1677,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 964,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Sat Jul 01 13:09:49 +0000 2017",
 		"id": 881137770604974100,
 		"id_str": "881137770604974080",
