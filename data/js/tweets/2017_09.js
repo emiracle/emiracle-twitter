@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 05 18:35:23 +0000 2017",
+		"id": 905137300040015900,
+		"id_str": "905137300040015874",
+		"text": "RT @liberaLDP: Özet. https://t.co/T6Dwf0rq9d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liberaLDP",
+					"name": "LiberalDemokratParti",
+					"id": 70586612,
+					"id_str": "70586612",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 905026771388653600,
+					"id_str": "905026771388653570",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+					"url": "https://t.co/T6Dwf0rq9d",
+					"display_url": "pic.twitter.com/T6Dwf0rq9d",
+					"expanded_url": "https://twitter.com/liberaLDP/status/905026779106213889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 423,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 905026779106213900,
+					"source_status_id_str": "905026779106213889",
+					"source_user_id": 70586612,
+					"source_user_id_str": "70586612"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 905026771388653600,
+					"id_str": "905026771388653570",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+					"url": "https://t.co/T6Dwf0rq9d",
+					"display_url": "pic.twitter.com/T6Dwf0rq9d",
+					"expanded_url": "https://twitter.com/liberaLDP/status/905026779106213889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 423,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 905026779106213900,
+					"source_status_id_str": "905026779106213889",
+					"source_user_id": 70586612,
+					"source_user_id_str": "70586612"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 205,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 530,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 05 11:16:13 +0000 2017",
+			"id": 905026779106213900,
+			"id_str": "905026779106213889",
+			"text": "Özet. https://t.co/T6Dwf0rq9d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 905026771388653600,
+						"id_str": "905026771388653570",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+						"url": "https://t.co/T6Dwf0rq9d",
+						"display_url": "pic.twitter.com/T6Dwf0rq9d",
+						"expanded_url": "https://twitter.com/liberaLDP/status/905026779106213889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 423,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 423,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 905026771388653600,
+						"id_str": "905026771388653570",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI9NDbTW4AI0x8f.jpg",
+						"url": "https://t.co/T6Dwf0rq9d",
+						"display_url": "pic.twitter.com/T6Dwf0rq9d",
+						"expanded_url": "https://twitter.com/liberaLDP/status/905026779106213889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 423,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 423,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70586612,
+				"id_str": "70586612",
+				"name": "LiberalDemokratParti",
+				"screen_name": "liberaLDP",
+				"location": "Meclis dışında",
+				"description": "Liberal Demokrat Parti Resmi Twitter Hesabı",
+				"url": "https://t.co/qneT2YoHmR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qneT2YoHmR",
+								"expanded_url": "http://ldp.org.tr",
+								"display_url": "ldp.org.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 130096,
+				"friends_count": 605,
+				"listed_count": 224,
+				"created_at": "Tue Sep 01 03:30:03 +0000 2009",
+				"favourites_count": 3406,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4636,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/466512359414976514/G3q58clh.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/466512359414976514/G3q58clh.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816236861958000640/SthnrxLj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816236861958000640/SthnrxLj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70586612/1491824432",
+				"profile_link_color": "004CAB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1371,
+			"favorite_count": 4223,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1371,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Mon Sep 04 20:02:35 +0000 2017",
 		"id": 904796858320552000,
 		"id_str": "904796858320551936",
