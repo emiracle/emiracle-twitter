@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 28 21:11:21 +0000 2017",
+		"id": 913511470230630400,
+		"id_str": "913511470230630400",
+		"text": "RT @ChrisNovus: hahahahah, this is what happens when you create content for ad networks, not people, you fucks. https://t.co/XBzjaA1OFP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisNovus",
+					"name": "novus the destroyer",
+					"id": 38359821,
+					"id_str": "38359821",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XBzjaA1OFP",
+					"expanded_url": "https://twitter.com/brosandprose/status/913084997820719106",
+					"display_url": "twitter.com/brosandprose/s…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 206,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 534,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 27 18:13:24 +0000 2017",
+			"id": 913104299370192900,
+			"id_str": "913104299370192909",
+			"text": "hahahahah, this is what happens when you create content for ad networks, not people, you fucks. https://t.co/XBzjaA1OFP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XBzjaA1OFP",
+						"expanded_url": "https://twitter.com/brosandprose/status/913084997820719106",
+						"display_url": "twitter.com/brosandprose/s…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38359821,
+				"id_str": "38359821",
+				"name": "novus the destroyer",
+				"screen_name": "ChrisNovus",
+				"location": "Volcano Base",
+				"description": "Just your friendly-neighborhood supervillain, here to make the future weird. AGI apologist. Comics & science fiction scholar. https://t.co/d8vb0z805b",
+				"url": "https://t.co/5rWV7vwY8C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rWV7vwY8C",
+								"expanded_url": "http://www.chrisnovus.com",
+								"display_url": "chrisnovus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/d8vb0z805b",
+								"expanded_url": "https://tinyletter.com/ChrisNovus",
+								"display_url": "tinyletter.com/ChrisNovus",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 876,
+				"friends_count": 415,
+				"listed_count": 97,
+				"created_at": "Thu May 07 03:39:33 +0000 2009",
+				"favourites_count": 4826,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3427,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519904645477449730/2p0PnQuR.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519904645477449730/2p0PnQuR.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910027874123497473/GSLvL_if_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910027874123497473/GSLvL_if_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38359821/1503327715",
+				"profile_link_color": "E86A4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 913084997820719100,
+			"quoted_status_id_str": "913084997820719106",
+			"quoted_status": {
+				"created_at": "Wed Sep 27 16:56:42 +0000 2017",
+				"id": 913084997820719100,
+				"id_str": "913084997820719106",
+				"text": "Whoa. \"Publishers that pivoted to video this summer have seen at least a 60 percent drop in their traffic.\" https://t.co/gRSV9F73yS",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/gRSV9F73yS",
+							"expanded_url": "https://www.cjr.org/business_of_news/pivot-to-video.php",
+							"display_url": "cjr.org/business_of_ne…",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14317810,
+					"id_str": "14317810",
+					"name": "Ella Dawson",
+					"screen_name": "brosandprose",
+					"location": "Brooklyn, NY",
+					"description": "@TEDTalks social media editor. Erotica author. Opinions are only mine. You can't take the Razorback.",
+					"url": "https://t.co/TDKqpI3H8z",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/TDKqpI3H8z",
+									"expanded_url": "http://elladawson.com",
+									"display_url": "elladawson.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 13472,
+					"friends_count": 3049,
+					"listed_count": 291,
+					"created_at": "Sun Apr 06 21:14:24 +0000 2008",
+					"favourites_count": 85605,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 47194,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/879081643197247488/b8dpsUXm_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/879081643197247488/b8dpsUXm_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14317810/1496370940",
+					"profile_link_color": "990000",
+					"profile_sidebar_border_color": "DFDFDF",
+					"profile_sidebar_fill_color": "F3F3F3",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 61,
+				"favorite_count": 79,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 53,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 913084997820719100,
+		"quoted_status_id_str": "913084997820719106",
+		"retweet_count": 53,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 28 21:07:27 +0000 2017",
+		"id": 913510488495083500,
+		"id_str": "913510488495083523",
+		"text": "RT @dandouglas: for sale: @babyshoes, never used https://t.co/He8AzqhlCF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dandouglas",
+					"name": "Dan Douglas",
+					"id": 21102163,
+					"id_str": "21102163",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "babyshoes",
+					"name": "#BabyShoes",
+					"id": 15113157,
+					"id_str": "15113157",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 911967033746706400,
+					"id_str": "911967033746706432",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+					"url": "https://t.co/He8AzqhlCF",
+					"display_url": "pic.twitter.com/He8AzqhlCF",
+					"expanded_url": "https://twitter.com/dandouglas/status/911967039614570497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 381,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 381,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911967039614570500,
+					"source_status_id_str": "911967039614570497",
+					"source_user_id": 21102163,
+					"source_user_id_str": "21102163"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 911967033746706400,
+					"id_str": "911967033746706432",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+					"url": "https://t.co/He8AzqhlCF",
+					"display_url": "pic.twitter.com/He8AzqhlCF",
+					"expanded_url": "https://twitter.com/dandouglas/status/911967039614570497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 381,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 381,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911967039614570500,
+					"source_status_id_str": "911967039614570497",
+					"source_user_id": 21102163,
+					"source_user_id_str": "21102163"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 206,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 534,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 24 14:54:20 +0000 2017",
+			"id": 911967039614570500,
+			"id_str": "911967039614570497",
+			"text": "for sale: @babyshoes, never used https://t.co/He8AzqhlCF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "babyshoes",
+						"name": "#BabyShoes",
+						"id": 15113157,
+						"id_str": "15113157",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 911967033746706400,
+						"id_str": "911967033746706432",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+						"url": "https://t.co/He8AzqhlCF",
+						"display_url": "pic.twitter.com/He8AzqhlCF",
+						"expanded_url": "https://twitter.com/dandouglas/status/911967039614570497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911967033746706400,
+						"id_str": "911967033746706432",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKf1L3VW0AAIwb9.jpg",
+						"url": "https://t.co/He8AzqhlCF",
+						"display_url": "pic.twitter.com/He8AzqhlCF",
+						"expanded_url": "https://twitter.com/dandouglas/status/911967039614570497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21102163,
+				"id_str": "21102163",
+				"name": "Dan Douglas",
+				"screen_name": "dandouglas",
+				"location": "London via Tyneside",
+				"description": "obscene low follower count boy",
+				"url": "https://t.co/cO0VMCQMWe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cO0VMCQMWe",
+								"expanded_url": "http://dan-douglas.tumblr.com/",
+								"display_url": "dan-douglas.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5087,
+				"friends_count": 3476,
+				"listed_count": 152,
+				"created_at": "Tue Feb 17 16:21:18 +0000 2009",
+				"favourites_count": 36263,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65296,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/535923662/bubble.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/535923662/bubble.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875144738751598593/sYEmHjLh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875144738751598593/sYEmHjLh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21102163/1466372332",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4071,
+			"favorite_count": 14263,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4071,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 25 12:20:20 +0000 2017",
 		"id": 912290672371265500,
 		"id_str": "912290672371265537",
