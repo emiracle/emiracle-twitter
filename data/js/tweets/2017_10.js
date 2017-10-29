@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 28 22:15:57 +0000 2017",
+		"id": 924399363039916000,
+		"id_str": "924399363039916032",
+		"text": "@netflixturkiye Yakın zamanda Rick and Morty'nin üçüncü sezonu yayınlanır mı? (Netflix Türkiye'de yayınlanır mı yani?)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflixturkiye",
+					"name": "Netflix Türkiye",
+					"id": 4736304015,
+					"id_str": "4736304015",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 4736304015,
+		"in_reply_to_user_id_str": "4736304015",
+		"in_reply_to_screen_name": "netflixturkiye",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 205,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 545,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr"
+	},
+	{
+		"created_at": "Sat Oct 28 13:45:57 +0000 2017",
+		"id": 924271018616770600,
+		"id_str": "924271018616770560",
+		"text": "RT @CommodoreUSA: This week is the 30th anniversary of the Amiga 500! https://t.co/UGov5uOzWu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CommodoreUSA",
+					"name": "Commodore USA",
+					"id": 239696089,
+					"id_str": "239696089",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UGov5uOzWu",
+					"expanded_url": "http://fb.me/97aSpocbG",
+					"display_url": "fb.me/97aSpocbG",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 205,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 545,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 28 10:34:13 +0000 2017",
+			"id": 924222765531512800,
+			"id_str": "924222765531512832",
+			"text": "This week is the 30th anniversary of the Amiga 500! https://t.co/UGov5uOzWu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UGov5uOzWu",
+						"expanded_url": "http://fb.me/97aSpocbG",
+						"display_url": "fb.me/97aSpocbG",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239696089,
+				"id_str": "239696089",
+				"name": "Commodore USA",
+				"screen_name": "CommodoreUSA",
+				"location": "Fort Lauderdale FL, USA",
+				"description": "This is a fan run micro blog. Commodore USA, LLC brought back the much loved Commodore 64 and AMIGA range of computers with modern PC technology.",
+				"url": "http://t.co/fJsILRkAqW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fJsILRkAqW",
+								"expanded_url": "http://www.CommodoreUSA.net",
+								"display_url": "CommodoreUSA.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5085,
+				"friends_count": 2371,
+				"listed_count": 206,
+				"created_at": "Tue Jan 18 06:18:31 +0000 2011",
+				"favourites_count": 88,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3255,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194467610/TwitterBack.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194467610/TwitterBack.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218779847/C_Logo1_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218779847/C_Logo1_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 15 10:46:13 +0000 2017",
 		"id": 919514743030808600,
 		"id_str": "919514743030808577",
