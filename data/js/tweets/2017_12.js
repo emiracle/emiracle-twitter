@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 09 13:43:13 +0000 2017",
+		"id": 939490621772980200,
+		"id_str": "939490621772980225",
+		"text": "RT @MachinePix: Removing unripe tomatoes with an optical sorter. https://t.co/FnsjE1MESf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MachinePix",
+					"name": "Machine Pix",
+					"id": 2444425802,
+					"id_str": "2444425802",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 938538087369490400,
+					"id_str": "938538087369490432",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+					"url": "https://t.co/FnsjE1MESf",
+					"display_url": "pic.twitter.com/FnsjE1MESf",
+					"expanded_url": "https://twitter.com/MachinePix/status/938538155057209344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938538155057209300,
+					"source_status_id_str": "938538155057209344",
+					"source_user_id": 2444425802,
+					"source_user_id_str": "2444425802"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938538087369490400,
+					"id_str": "938538087369490432",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+					"url": "https://t.co/FnsjE1MESf",
+					"display_url": "pic.twitter.com/FnsjE1MESf",
+					"expanded_url": "https://twitter.com/MachinePix/status/938538155057209344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938538155057209300,
+					"source_status_id_str": "938538155057209344",
+					"source_user_id": 2444425802,
+					"source_user_id_str": "2444425802",
+					"video_info": {
+						"aspect_ratio": [
+							31,
+							48
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DQZbavnVQAAEVgP.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 212,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 563,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4485,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 06 22:38:28 +0000 2017",
+			"id": 938538155057209300,
+			"id_str": "938538155057209344",
+			"text": "Removing unripe tomatoes with an optical sorter. https://t.co/FnsjE1MESf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 938538087369490400,
+						"id_str": "938538087369490432",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+						"url": "https://t.co/FnsjE1MESf",
+						"display_url": "pic.twitter.com/FnsjE1MESf",
+						"expanded_url": "https://twitter.com/MachinePix/status/938538155057209344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 310,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 310,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 310,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938538087369490400,
+						"id_str": "938538087369490432",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQZbavnVQAAEVgP.jpg",
+						"url": "https://t.co/FnsjE1MESf",
+						"display_url": "pic.twitter.com/FnsjE1MESf",
+						"expanded_url": "https://twitter.com/MachinePix/status/938538155057209344/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 310,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 310,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 310,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								31,
+								48
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DQZbavnVQAAEVgP.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2444425802,
+				"id_str": "2444425802",
+				"name": "Machine Pix",
+				"screen_name": "MachinePix",
+				"location": "",
+				"description": "Amazing feats of engineering. Tweeted by @kane when he should be doing work at https://t.co/sTSKiC6GID.",
+				"url": "https://t.co/RrC2GWGQFS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RrC2GWGQFS",
+								"expanded_url": "http://tinyletter.com/machinepix",
+								"display_url": "tinyletter.com/machinepix",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sTSKiC6GID",
+								"expanded_url": "http://root.vc",
+								"display_url": "root.vc",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 59031,
+				"friends_count": 36,
+				"listed_count": 730,
+				"created_at": "Mon Apr 14 20:17:26 +0000 2014",
+				"favourites_count": 823,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1191,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739515667737645056/Rg0anujY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739515667737645056/Rg0anujY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2444425802/1397509307",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22771,
+			"favorite_count": 54646,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22771,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 07 05:44:31 +0000 2017",
 		"id": 938645376093081600,
 		"id_str": "938645376093081600",
