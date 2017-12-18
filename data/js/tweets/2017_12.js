@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 19:53:42 +0000 2017",
+		"id": 942482959147372500,
+		"id_str": "942482959147372544",
+		"text": "RT @tumsev: Monument Valley’i de çok sevmiştim ama Old Man’s Journey harikuladeymiş. https://t.co/DxXanvdER6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tumsev",
+					"name": "Tümsev Sayar☁️",
+					"id": 297340072,
+					"id_str": "297340072",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 942458530854002700,
+					"id_str": "942458530854002689",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+					"url": "https://t.co/DxXanvdER6",
+					"display_url": "pic.twitter.com/DxXanvdER6",
+					"expanded_url": "https://twitter.com/tumsev/status/942458551322185730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942458551322185700,
+					"source_status_id_str": "942458551322185730",
+					"source_user_id": 297340072,
+					"source_user_id_str": "297340072"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 942458530854002700,
+					"id_str": "942458530854002689",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+					"url": "https://t.co/DxXanvdER6",
+					"display_url": "pic.twitter.com/DxXanvdER6",
+					"expanded_url": "https://twitter.com/tumsev/status/942458551322185730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942458551322185700,
+					"source_status_id_str": "942458551322185730",
+					"source_user_id": 297340072,
+					"source_user_id_str": "297340072"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 213,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 569,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 18:16:43 +0000 2017",
+			"id": 942458551322185700,
+			"id_str": "942458551322185730",
+			"text": "Monument Valley’i de çok sevmiştim ama Old Man’s Journey harikuladeymiş. https://t.co/DxXanvdER6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 942458530854002700,
+						"id_str": "942458530854002689",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+						"url": "https://t.co/DxXanvdER6",
+						"display_url": "pic.twitter.com/DxXanvdER6",
+						"expanded_url": "https://twitter.com/tumsev/status/942458551322185730/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 942458530854002700,
+						"id_str": "942458530854002689",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRRJClsW4AEmiND.jpg",
+						"url": "https://t.co/DxXanvdER6",
+						"display_url": "pic.twitter.com/DxXanvdER6",
+						"expanded_url": "https://twitter.com/tumsev/status/942458551322185730/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 633,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 297340072,
+				"id_str": "297340072",
+				"name": "Tümsev Sayar☁️",
+				"screen_name": "tumsev",
+				"location": "İstanbul, Türkiye",
+				"description": "roses are red,\nthis life is a lie,\nexistence is pain,\ni just wanna die.\n\n-mr. meeseeks",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 491,
+				"friends_count": 600,
+				"listed_count": 0,
+				"created_at": "Thu May 12 10:43:52 +0000 2011",
+				"favourites_count": 14418,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8787,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575051687582281728/VDDh0LGy.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575051687582281728/VDDh0LGy.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932244901516972032/45_SU0zv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932244901516972032/45_SU0zv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1512465617",
+				"profile_link_color": "0A0909",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Sat Dec 16 22:04:35 +0000 2017",
 		"id": 942153509360820200,
 		"id_str": "942153509360820224",
