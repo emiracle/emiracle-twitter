@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 15:46:56 +0000 2018",
+		"id": 950031003871047700,
+		"id_str": "950031003871047682",
+		"text": "RT @KayipRihtim: Polonya'da karlar altında kalan bir heykelin #DarthVader'a benzemesi... Gerçekten de muazzam bir görüntü değil mi? https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DarthVader",
+					"indices": [
+						62,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KayipRihtim",
+					"name": "Kayıp Rıhtım",
+					"id": 41990209,
+					"id_str": "41990209",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 218,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 578,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4508,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 09:01:30 +0000 2018",
+			"id": 949928970560180200,
+			"id_str": "949928970560180224",
+			"text": "Polonya'da karlar altında kalan bir heykelin #DarthVader'a benzemesi... Gerçekten de muazzam bir görüntü değil mi? https://t.co/F6Wk6oBijI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DarthVader",
+						"indices": [
+							45,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 949928944266043400,
+						"id_str": "949928944266043392",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DS7TV4TW4AAkZmj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS7TV4TW4AAkZmj.jpg",
+						"url": "https://t.co/F6Wk6oBijI",
+						"display_url": "pic.twitter.com/F6Wk6oBijI",
+						"expanded_url": "https://twitter.com/KayipRihtim/status/949928970560180224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 586,
+								"h": 649,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 586,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 586,
+								"h": 649,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949928944266043400,
+						"id_str": "949928944266043392",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DS7TV4TW4AAkZmj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS7TV4TW4AAkZmj.jpg",
+						"url": "https://t.co/F6Wk6oBijI",
+						"display_url": "pic.twitter.com/F6Wk6oBijI",
+						"expanded_url": "https://twitter.com/KayipRihtim/status/949928970560180224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 586,
+								"h": 649,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 586,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 586,
+								"h": 649,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41990209,
+				"id_str": "41990209",
+				"name": "Kayıp Rıhtım",
+				"screen_name": "KayipRihtim",
+				"location": "",
+				"description": "Edebiyatta Kaybolanlara",
+				"url": "https://t.co/pKJvC3WrJJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pKJvC3WrJJ",
+								"expanded_url": "http://www.kayiprihtim.com",
+								"display_url": "kayiprihtim.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9370,
+				"friends_count": 243,
+				"listed_count": 73,
+				"created_at": "Sat May 23 06:54:30 +0000 2009",
+				"favourites_count": 2850,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13575,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/787669321/6fca7cb9e0a967e73de674c5d2d13b53.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/787669321/6fca7cb9e0a967e73de674c5d2d13b53.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948218637579620352/h5mRa-Tv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948218637579620352/h5mRa-Tv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41990209/1514916480",
+				"profile_link_color": "8E4A4A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "060608",
+				"profile_text_color": "FF0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 468,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Sun Jan 07 01:06:04 +0000 2018",
 		"id": 949809324519501800,
 		"id_str": "949809324519501824",
