@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 08 20:51:35 +0000 2018",
+		"id": 950470058299547600,
+		"id_str": "950470058299547650",
+		"text": "RT @vicenews: For your consideration, @realdonaldtrump https://t.co/FgV1F5UveC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vicenews",
+					"name": "VICE News",
+					"id": 1630896181,
+					"id_str": "1630896181",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FgV1F5UveC",
+					"expanded_url": "https://twitter.com/vicenews/status/921370511002783744",
+					"display_url": "twitter.com/vicenews/statu…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 218,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 579,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4509,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 20:44:47 +0000 2018",
+			"id": 950468345681281000,
+			"id_str": "950468345681281030",
+			"text": "For your consideration, @realdonaldtrump https://t.co/FgV1F5UveC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							24,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FgV1F5UveC",
+						"expanded_url": "https://twitter.com/vicenews/status/921370511002783744",
+						"display_url": "twitter.com/vicenews/statu…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1630896181,
+				"id_str": "1630896181",
+				"name": "VICE News",
+				"screen_name": "vicenews",
+				"location": "",
+				"description": "VICE News Tonight airs Mon-Friday 7:30PM on @HBO /  #VICEonHBO airs Fridays 7:30PM and 11PM /  SecureDrop: https://t.co/LvQqtezbzu",
+				"url": "https://t.co/gQt6G8Mm5K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gQt6G8Mm5K",
+								"expanded_url": "http://www.vicenews.com",
+								"display_url": "vicenews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LvQqtezbzu",
+								"expanded_url": "https://news.vice.com/securedrop/",
+								"display_url": "news.vice.com/securedrop/",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 872918,
+				"friends_count": 597,
+				"listed_count": 10631,
+				"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+				"favourites_count": 2663,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 71761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153810759/unteXmks.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153810759/unteXmks.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785208513177985024/Guc3ohmz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785208513177985024/Guc3ohmz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1478800860",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 921370511002783700,
+			"quoted_status_id_str": "921370511002783744",
+			"quoted_status": {
+				"created_at": "Fri Oct 20 13:40:22 +0000 2017",
+				"id": 921370511002783700,
+				"id_str": "921370511002783744",
+				"text": "VICE News: We're possibly the only media organization to be certified as \"fake news incorporated\" by Sebastian Gork… https://t.co/La32uwfwrP",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/La32uwfwrP",
+							"expanded_url": "https://twitter.com/i/web/status/921370511002783744",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1630896181,
+					"id_str": "1630896181",
+					"name": "VICE News",
+					"screen_name": "vicenews",
+					"location": "",
+					"description": "VICE News Tonight airs Mon-Friday 7:30PM on @HBO /  #VICEonHBO airs Fridays 7:30PM and 11PM /  SecureDrop: https://t.co/LvQqtezbzu",
+					"url": "https://t.co/gQt6G8Mm5K",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gQt6G8Mm5K",
+									"expanded_url": "http://www.vicenews.com",
+									"display_url": "vicenews.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/LvQqtezbzu",
+									"expanded_url": "https://news.vice.com/securedrop/",
+									"display_url": "news.vice.com/securedrop/",
+									"indices": [
+										107,
+										130
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 872918,
+					"friends_count": 597,
+					"listed_count": 10631,
+					"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+					"favourites_count": 2663,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 71761,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153810759/unteXmks.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153810759/unteXmks.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/785208513177985024/Guc3ohmz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/785208513177985024/Guc3ohmz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1478800860",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1257,
+				"favorite_count": 4220,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 23,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 921370511002783700,
+		"quoted_status_id_str": "921370511002783744",
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 07 15:46:56 +0000 2018",
 		"id": 950031003871047700,
 		"id_str": "950031003871047682",
