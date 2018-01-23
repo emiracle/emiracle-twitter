@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 22 19:10:06 +0000 2018",
+		"id": 955517948147400700,
+		"id_str": "955517948147400705",
+		"text": "RT @icmihraktwister: Türkiye siyaset sınıfının tümü, medya çalışanlarının da neredeyse tamamı kepazedir. Bu tarihsel olarak da böyledir, şi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "icmihraktwister",
+					"name": "iç-mihrak",
+					"id": 285315971,
+					"id_str": "285315971",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 217,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 579,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 22 12:09:16 +0000 2018",
+			"id": 955412042546106400,
+			"id_str": "955412042546106369",
+			"text": "Türkiye siyaset sınıfının tümü, medya çalışanlarının da neredeyse tamamı kepazedir. Bu tarihsel olarak da böyledir,… https://t.co/zvBV1I45fE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zvBV1I45fE",
+						"expanded_url": "https://twitter.com/i/web/status/955412042546106369",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 285315971,
+				"id_str": "285315971",
+				"name": "iç-mihrak",
+				"screen_name": "icmihraktwister",
+				"location": "Chiapas",
+				"description": "iç-mihrak / propaganda ・ajitasyon ・provokasyon",
+				"url": "http://t.co/eLEclnrFqN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eLEclnrFqN",
+								"expanded_url": "http://icmihrak.blogspot.com",
+								"display_url": "icmihrak.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2980,
+				"friends_count": 168,
+				"listed_count": 26,
+				"created_at": "Wed Apr 20 23:02:36 +0000 2011",
+				"favourites_count": 111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1408,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4D7560",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245037781/mihrahhoparlorlogo2profil.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245037781/mihrahhoparlorlogo2profil.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886261964493684737/n6c3v7Zz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886261964493684737/n6c3v7Zz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/285315971/1348763355",
+				"profile_link_color": "4E8CA3",
+				"profile_sidebar_border_color": "402F19",
+				"profile_sidebar_fill_color": "C6C79D",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Sun Jan 21 18:38:04 +0000 2018",
 		"id": 955147499982991400,
 		"id_str": "955147499982991361",
