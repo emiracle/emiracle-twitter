@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 24 19:23:27 +0000 2018",
+		"id": 956246086796095500,
+		"id_str": "956246086796095488",
+		"text": "RT @NeinQuarterly: A gentle reminder for #WEF18. From the #NeinManifesto. https://t.co/at7VnY32J5 https://t.co/kLFqkxxQYx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WEF18",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "NeinManifesto",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeinQuarterly",
+					"name": "Nein.",
+					"id": 458966079,
+					"id_str": "458966079",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/at7VnY32J5",
+					"expanded_url": "https://www.amazon.com/Nein-Manifesto-Eric-Jarosinski/dp/0802124372",
+					"display_url": "amazon.com/Nein-Manifesto…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 955525259574247400,
+					"id_str": "955525259574247427",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+					"url": "https://t.co/kLFqkxxQYx",
+					"display_url": "pic.twitter.com/kLFqkxxQYx",
+					"expanded_url": "https://twitter.com/NeinQuarterly/status/955525262241882117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955525262241882100,
+					"source_status_id_str": "955525262241882117",
+					"source_user_id": 458966079,
+					"source_user_id_str": "458966079"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 955525259574247400,
+					"id_str": "955525259574247427",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+					"url": "https://t.co/kLFqkxxQYx",
+					"display_url": "pic.twitter.com/kLFqkxxQYx",
+					"expanded_url": "https://twitter.com/NeinQuarterly/status/955525262241882117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955525262241882100,
+					"source_status_id_str": "955525262241882117",
+					"source_user_id": 458966079,
+					"source_user_id_str": "458966079"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 218,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 579,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 22 19:39:09 +0000 2018",
+			"id": 955525262241882100,
+			"id_str": "955525262241882117",
+			"text": "A gentle reminder for #WEF18. From the #NeinManifesto. https://t.co/at7VnY32J5 https://t.co/kLFqkxxQYx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WEF18",
+						"indices": [
+							22,
+							28
+						]
+					},
+					{
+						"text": "NeinManifesto",
+						"indices": [
+							39,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/at7VnY32J5",
+						"expanded_url": "https://www.amazon.com/Nein-Manifesto-Eric-Jarosinski/dp/0802124372",
+						"display_url": "amazon.com/Nein-Manifesto…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 955525259574247400,
+						"id_str": "955525259574247427",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+						"url": "https://t.co/kLFqkxxQYx",
+						"display_url": "pic.twitter.com/kLFqkxxQYx",
+						"expanded_url": "https://twitter.com/NeinQuarterly/status/955525262241882117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 955525259574247400,
+						"id_str": "955525259574247427",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUK1KTbWAAMKrXI.jpg",
+						"url": "https://t.co/kLFqkxxQYx",
+						"display_url": "pic.twitter.com/kLFqkxxQYx",
+						"expanded_url": "https://twitter.com/NeinQuarterly/status/955525262241882117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 458966079,
+				"id_str": "458966079",
+				"name": "Nein.",
+				"screen_name": "NeinQuarterly",
+				"location": "New York, NY",
+				"description": "A Compendium of Utopian Negation. Editor: Eric Jarosinski. In print in @DieZeit. Podcast coming soon: @NeinMinutes. neinquarterly@gmail.com",
+				"url": "https://t.co/ZvXuY82JbV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZvXuY82JbV",
+								"expanded_url": "http://neinquarterly.com",
+								"display_url": "neinquarterly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175885,
+				"friends_count": 8161,
+				"listed_count": 3246,
+				"created_at": "Mon Jan 09 04:15:23 +0000 2012",
+				"favourites_count": 64827,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 34307,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702248569324093441/5HWfjcOQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702248569324093441/5HWfjcOQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/458966079/1514827783",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 152,
+			"favorite_count": 371,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 23 18:27:55 +0000 2018",
 		"id": 955869721781522400,
 		"id_str": "955869721781522433",
