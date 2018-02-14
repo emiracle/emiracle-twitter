@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 13 19:20:16 +0000 2018",
+		"id": 963493042618536000,
+		"id_str": "963493042618535937",
+		"text": "RT @ihsaneliacik: Ruslar Berlin'e dayandığında Alman halkı ertesi gün zaferin ilan edileceğini sanıyordu. Yenilirken dahi milyonlar meydanl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ihsaneliacik",
+					"name": "R. İhsan Eliaçık",
+					"id": 69589842,
+					"id_str": "69589842",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 218,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 586,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 16:12:54 +0000 2018",
+			"id": 963083499405180900,
+			"id_str": "963083499405180928",
+			"text": "Ruslar Berlin'e dayandığında Alman halkı ertesi gün zaferin ilan edileceğini sanıyordu. Yenilirken dahi milyonlar m… https://t.co/Gy9AEH46E7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Gy9AEH46E7",
+						"expanded_url": "https://twitter.com/i/web/status/963083499405180928",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69589842,
+				"id_str": "69589842",
+				"name": "R. İhsan Eliaçık",
+				"screen_name": "ihsaneliacik",
+				"location": "İstanbul",
+				"description": "Lehu'l-Mülk (Mülk Allah'ındır) Gökte de yerde de. Yastık altı da dahil.",
+				"url": "http://t.co/hNF70bcn8m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hNF70bcn8m",
+								"expanded_url": "http://ihsaneliacik.com",
+								"display_url": "ihsaneliacik.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 335849,
+				"friends_count": 1103,
+				"listed_count": 866,
+				"created_at": "Fri Aug 28 13:39:56 +0000 2009",
+				"favourites_count": 21,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19343,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885889980874338304/LX8gnIO7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885889980874338304/LX8gnIO7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69589842/1487200696",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1230,
+			"favorite_count": 3627,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "tr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1230,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Sat Feb 03 16:53:15 +0000 2018",
 		"id": 959832163402346500,
 		"id_str": "959832163402346497",
