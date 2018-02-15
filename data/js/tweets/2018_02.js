@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 14 08:56:43 +0000 2018",
+		"id": 963698509315825700,
+		"id_str": "963698509315825664",
+		"text": "RT @coolcoffeedan: Stop Being Dumb On The Internet https://t.co/XUz3p52J6g",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coolcoffeedan",
+					"name": "Coolman Coffeedan",
+					"id": 18505773,
+					"id_str": "18505773",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 961672659850399700,
+					"id_str": "961672659850399744",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+					"url": "https://t.co/XUz3p52J6g",
+					"display_url": "pic.twitter.com/XUz3p52J6g",
+					"expanded_url": "https://twitter.com/coolcoffeedan/status/961672700988198913/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961672700988198900,
+					"source_status_id_str": "961672700988198913",
+					"source_user_id": 18505773,
+					"source_user_id_str": "18505773"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 961672659850399700,
+					"id_str": "961672659850399744",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+					"url": "https://t.co/XUz3p52J6g",
+					"display_url": "pic.twitter.com/XUz3p52J6g",
+					"expanded_url": "https://twitter.com/coolcoffeedan/status/961672700988198913/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961672700988198900,
+					"source_status_id_str": "961672700988198913",
+					"source_user_id": 18505773,
+					"source_user_id_str": "18505773",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60018,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/961672659850399744/pu/vid/640x360/sIjYiNBRT3nEbEsj.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/961672659850399744/pu/pl/Q5mNhjQPDaDWN7K9.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/961672659850399744/pu/vid/320x180/VWJtjyAZoQtTv7TX.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 18505773,
+							"id_str": "18505773",
+							"name": "Coolman Coffeedan",
+							"screen_name": "coolcoffeedan",
+							"location": "NYC",
+							"description": "Danny Casale the Bad Animator 🐍",
+							"url": "https://t.co/NnIPagF00Y",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/NnIPagF00Y",
+											"expanded_url": "http://www.instagram.com/coolman_coffeedan",
+											"display_url": "instagram.com/coolman_coffee…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11618,
+							"friends_count": 241,
+							"listed_count": 292,
+							"created_at": "Wed Dec 31 13:15:01 +0000 2008",
+							"favourites_count": 3538,
+							"utc_offset": -21600,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 13167,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/596219221/6764t1efreqfj3r6jov6.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/596219221/6764t1efreqfj3r6jov6.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/877555898994089985/xovN7rkr_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/877555898994089985/xovN7rkr_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18505773/1498060606",
+							"profile_link_color": "2FC2EF",
+							"profile_sidebar_border_color": "181A1E",
+							"profile_sidebar_fill_color": "252429",
+							"profile_text_color": "666666",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 218,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 586,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 08 18:46:53 +0000 2018",
+			"id": 961672700988198900,
+			"id_str": "961672700988198913",
+			"text": "Stop Being Dumb On The Internet https://t.co/XUz3p52J6g",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 961672659850399700,
+						"id_str": "961672659850399744",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+						"url": "https://t.co/XUz3p52J6g",
+						"display_url": "pic.twitter.com/XUz3p52J6g",
+						"expanded_url": "https://twitter.com/coolcoffeedan/status/961672700988198913/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961672659850399700,
+						"id_str": "961672659850399744",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961672659850399744/pu/img/ugb3_tbvMZhBeTY1.jpg",
+						"url": "https://t.co/XUz3p52J6g",
+						"display_url": "pic.twitter.com/XUz3p52J6g",
+						"expanded_url": "https://twitter.com/coolcoffeedan/status/961672700988198913/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60018,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/961672659850399744/pu/vid/640x360/sIjYiNBRT3nEbEsj.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/961672659850399744/pu/pl/Q5mNhjQPDaDWN7K9.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/961672659850399744/pu/vid/320x180/VWJtjyAZoQtTv7TX.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18505773,
+				"id_str": "18505773",
+				"name": "Coolman Coffeedan",
+				"screen_name": "coolcoffeedan",
+				"location": "NYC",
+				"description": "Danny Casale the Bad Animator 🐍",
+				"url": "https://t.co/NnIPagF00Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NnIPagF00Y",
+								"expanded_url": "http://www.instagram.com/coolman_coffeedan",
+								"display_url": "instagram.com/coolman_coffee…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11618,
+				"friends_count": 241,
+				"listed_count": 292,
+				"created_at": "Wed Dec 31 13:15:01 +0000 2008",
+				"favourites_count": 3538,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/596219221/6764t1efreqfj3r6jov6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/596219221/6764t1efreqfj3r6jov6.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877555898994089985/xovN7rkr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877555898994089985/xovN7rkr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18505773/1498060606",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1876,
+			"favorite_count": 1489,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1876,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 13 19:20:16 +0000 2018",
 		"id": 963493042618536000,
 		"id_str": "963493042618535937",
