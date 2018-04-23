@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 22 21:36:23 +0000 2018",
+		"id": 988169671156346900,
+		"id_str": "988169671156346881",
+		"text": "@PropagandaY Goodreads'te Propaganda Yayınları olarak yayımlanmış yeni kitapları eklersen, biz de dosta düşmana oku… https://t.co/QcGxsbkz8o",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PropagandaY",
+					"name": "Propaganda Yayınları",
+					"id": 2278784460,
+					"id_str": "2278784460",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QcGxsbkz8o",
+					"expanded_url": "https://twitter.com/i/web/status/988169671156346881",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2278784460,
+		"in_reply_to_user_id_str": "2278784460",
+		"in_reply_to_screen_name": "PropagandaY",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 222,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr"
+	},
+	{
+		"created_at": "Sun Apr 22 09:24:19 +0000 2018",
+		"id": 987985442271387600,
+		"id_str": "987985442271387648",
+		"text": "RT @ProfFeynman: The first principle is that you must not fool yourself and you are the easiest person to fool. https://t.co/ECfmpX2U49",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfFeynman",
+					"name": "Richard Feynman",
+					"id": 823518894182846500,
+					"id_str": "823518894182846464",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 987730820281454600,
+					"id_str": "987730820281454597",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+					"url": "https://t.co/ECfmpX2U49",
+					"display_url": "pic.twitter.com/ECfmpX2U49",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/987730850031722496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 596,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987730850031722500,
+					"source_status_id_str": "987730850031722496",
+					"source_user_id": 823518894182846500,
+					"source_user_id_str": "823518894182846464"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987730820281454600,
+					"id_str": "987730820281454597",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+					"url": "https://t.co/ECfmpX2U49",
+					"display_url": "pic.twitter.com/ECfmpX2U49",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/987730850031722496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 596,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987730850031722500,
+					"source_status_id_str": "987730850031722496",
+					"source_user_id": 823518894182846500,
+					"source_user_id_str": "823518894182846464"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 222,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 21 16:32:40 +0000 2018",
+			"id": 987730850031722500,
+			"id_str": "987730850031722496",
+			"text": "The first principle is that you must not fool yourself and you are the easiest person to fool. https://t.co/ECfmpX2U49",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 987730820281454600,
+						"id_str": "987730820281454597",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+						"url": "https://t.co/ECfmpX2U49",
+						"display_url": "pic.twitter.com/ECfmpX2U49",
+						"expanded_url": "https://twitter.com/ProfFeynman/status/987730850031722496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 596,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 596,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 596,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 987730820281454600,
+						"id_str": "987730820281454597",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbUf8qSU0AUkY_r.jpg",
+						"url": "https://t.co/ECfmpX2U49",
+						"display_url": "pic.twitter.com/ECfmpX2U49",
+						"expanded_url": "https://twitter.com/ProfFeynman/status/987730850031722496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 596,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 596,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 596,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823518894182846500,
+				"id_str": "823518894182846464",
+				"name": "Richard Feynman",
+				"screen_name": "ProfFeynman",
+				"location": "",
+				"description": "Here I stand, atoms with consciousness, matter with curiosity. A universe of atoms, an atom in the universe.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79042,
+				"friends_count": 0,
+				"listed_count": 760,
+				"created_at": "Mon Jan 23 13:12:59 +0000 2017",
+				"favourites_count": 6393,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 317,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985191201836941312/OjXZ17P-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985191201836941312/OjXZ17P-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823518894182846464/1521820148",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 590,
+			"favorite_count": 1521,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 590,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 19 20:03:37 +0000 2018",
 		"id": 987059163204407300,
 		"id_str": "987059163204407296",
