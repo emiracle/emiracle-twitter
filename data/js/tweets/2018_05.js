@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 29 15:18:27 +0000 2018",
+		"id": 1001482912066342900,
+		"id_str": "1001482912066342912",
+		"text": "RT @Royaards: Good migrant, bad migrant? https://t.co/SDGxx0BTrt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Royaards",
+					"name": "Tjeerd Royaards",
+					"id": 26541887,
+					"id_str": "26541887",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1001410698499457000,
+					"id_str": "1001410698499457024",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+					"url": "https://t.co/SDGxx0BTrt",
+					"display_url": "pic.twitter.com/SDGxx0BTrt",
+					"expanded_url": "https://twitter.com/Royaards/status/1001410709291524096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 693,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001410709291524100,
+					"source_status_id_str": "1001410709291524096",
+					"source_user_id": 26541887,
+					"source_user_id_str": "26541887"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1001410698499457000,
+					"id_str": "1001410698499457024",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+					"url": "https://t.co/SDGxx0BTrt",
+					"display_url": "pic.twitter.com/SDGxx0BTrt",
+					"expanded_url": "https://twitter.com/Royaards/status/1001410709291524096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 693,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001410709291524100,
+					"source_status_id_str": "1001410709291524096",
+					"source_user_id": 26541887,
+					"source_user_id_str": "26541887"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 224,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 616,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4576,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 29 10:31:33 +0000 2018",
+			"id": 1001410709291524100,
+			"id_str": "1001410709291524096",
+			"text": "Good migrant, bad migrant? https://t.co/SDGxx0BTrt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1001410698499457000,
+						"id_str": "1001410698499457024",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+						"url": "https://t.co/SDGxx0BTrt",
+						"display_url": "pic.twitter.com/SDGxx0BTrt",
+						"expanded_url": "https://twitter.com/Royaards/status/1001410709291524096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 693,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 693,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1001410698499457000,
+						"id_str": "1001410698499457024",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeW5uX5WAAARUYK.jpg",
+						"url": "https://t.co/SDGxx0BTrt",
+						"display_url": "pic.twitter.com/SDGxx0BTrt",
+						"expanded_url": "https://twitter.com/Royaards/status/1001410709291524096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 693,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 693,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26541887,
+				"id_str": "26541887",
+				"name": "Tjeerd Royaards",
+				"screen_name": "Royaards",
+				"location": "Amsterdam",
+				"description": "Editorial cartoonist. Also editor-in-chief of @cartoonmovement",
+				"url": "http://t.co/th4fpcSA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/th4fpcSA",
+								"expanded_url": "http://www.tjeerdroyaards.com",
+								"display_url": "tjeerdroyaards.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4901,
+				"friends_count": 881,
+				"listed_count": 205,
+				"created_at": "Wed Mar 25 17:20:45 +0000 2009",
+				"favourites_count": 186,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1763,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "165182",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1609013474/Tjeerd-Royaards-MARC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609013474/Tjeerd-Royaards-MARC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26541887/1446114764",
+				"profile_link_color": "165182",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D4D5DD",
+				"profile_text_color": "584D41",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28112,
+			"favorite_count": 41466,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28112,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 29 12:44:25 +0000 2018",
+		"id": 1001444148661112800,
+		"id_str": "1001444148661112832",
+		"text": "Bir new age zırvası olarak \"farkındalık\"a hasta oluyorum. İnsanın farkındalığı felsefeyle, sosyolojiyle, bilimle, o… https://t.co/Surt8wr7sg",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Surt8wr7sg",
+					"expanded_url": "https://twitter.com/i/web/status/1001444148661112832",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 224,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 616,
+			"utc_offset": 10800,
+			"time_zone": "Istanbul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4576,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Thu May 24 17:04:59 +0000 2018",
 		"id": 999697784361160700,
 		"id_str": "999697784361160704",
