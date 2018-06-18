@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 17 12:42:30 +0000 2018",
+		"id": 1008329037041881100,
+		"id_str": "1008329037041881089",
+		"text": "RT @tumsev: Vegan değilim ama veganları haklı buluyorum. Hiçbir ödün vermeden oturduğumuz yerden vah vahlanmakla hayvansever olmuyoruz. htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tumsev",
+					"name": "Tümsev Sayar☁️",
+					"id": 297340072,
+					"id_str": "297340072",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 224,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4585,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 17 08:50:04 +0000 2018",
+			"id": 1008270541516607500,
+			"id_str": "1008270541516607488",
+			"text": "Vegan değilim ama veganları haklı buluyorum. Hiçbir ödün vermeden oturduğumuz yerden vah vahlanmakla hayvansever ol… https://t.co/y3R97J3DsZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y3R97J3DsZ",
+						"expanded_url": "https://twitter.com/i/web/status/1008270541516607488",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 297340072,
+				"id_str": "297340072",
+				"name": "Tümsev Sayar☁️",
+				"screen_name": "tumsev",
+				"location": "İstanbul, Türkiye",
+				"description": "roses are red,\nthis life is a lie,\nexistence is pain,\ni just wanna die.\n\n-mr. meeseeks",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 475,
+				"friends_count": 595,
+				"listed_count": 0,
+				"created_at": "Thu May 12 10:43:52 +0000 2011",
+				"favourites_count": 14571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8979,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976805645923094528/-sKLawxH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976805645923094528/-sKLawxH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1524569498",
+				"profile_link_color": "0A0909",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1008253990000308200,
+			"quoted_status_id_str": "1008253990000308224",
+			"quoted_status": {
+				"created_at": "Sun Jun 17 07:44:18 +0000 2018",
+				"id": 1008253990000308200,
+				"id_str": "1008253990000308224",
+				"text": "Lütfen özrümüzü kabul edin ve bugünün Twitter gündemine dönün, bir dahaki infial yaratacak olaya kadar durmak yok,… https://t.co/bCHKqm48Wb",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/bCHKqm48Wb",
+							"expanded_url": "https://twitter.com/i/web/status/1008253990000308224",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 1008253210417561600,
+				"in_reply_to_status_id_str": "1008253210417561600",
+				"in_reply_to_user_id": 1473391598,
+				"in_reply_to_user_id_str": "1473391598",
+				"in_reply_to_screen_name": "ailedusmani",
+				"user": {
+					"id": 1473391598,
+					"id_str": "1473391598",
+					"name": "ayla duru",
+					"screen_name": "ailedusmani",
+					"location": "",
+					"description": "ciddi düşünüyorum.",
+					"url": "https://t.co/7EGhXOK0I2",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/7EGhXOK0I2",
+									"expanded_url": "http://ortaikidenterk.blogspot.com/",
+									"display_url": "ortaikidenterk.blogspot.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1150,
+					"friends_count": 400,
+					"listed_count": 4,
+					"created_at": "Sat Jun 01 00:06:26 +0000 2013",
+					"favourites_count": 8399,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 9997,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/789403633569796096/qUAXqU7N_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/789403633569796096/qUAXqU7N_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1473391598/1447446692",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 30,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "tr"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1008253990000308200,
+		"quoted_status_id_str": "1008253990000308224",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Fri Jun 15 16:14:42 +0000 2018",
 		"id": 1007657660328697900,
 		"id_str": "1007657660328697857",
