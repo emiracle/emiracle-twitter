@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 09:41:55 +0000 2018",
+		"id": 1009370753316384800,
+		"id_str": "1009370753316384768",
+		"text": "RT @aytuncelebi: Spikerlerin dahi tam bilmediği Video Yardımcı Hakem meselesini enine boyuna, A'dan Z'ye mercek altına aldım, masaya yatırd…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aytuncelebi",
+					"name": "aytun çelebi",
+					"id": 15863029,
+					"id_str": "15863029",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 224,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 07:55:17 +0000 2018",
+			"id": 1009343917182070800,
+			"id_str": "1009343917182070784",
+			"text": "Spikerlerin dahi tam bilmediği Video Yardımcı Hakem meselesini enine boyuna, A'dan Z'ye mercek altına aldım, masaya… https://t.co/5JdEukNBYM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5JdEukNBYM",
+						"expanded_url": "https://twitter.com/i/web/status/1009343917182070784",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15863029,
+				"id_str": "15863029",
+				"name": "aytun çelebi",
+				"screen_name": "aytuncelebi",
+				"location": "",
+				"description": "tech journalist • communicator • content king @haberturk • @goodgamersbiz • @topgearturkey • @tekmonocom • einmal ist keinmal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3978,
+				"friends_count": 851,
+				"listed_count": 30,
+				"created_at": "Fri Aug 15 13:55:28 +0000 2008",
+				"favourites_count": 1226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7248,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668234277163769857/TrMHiJ78_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668234277163769857/TrMHiJ78_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15863029/1470646855",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1009343312032161800,
+			"quoted_status_id_str": "1009343312032161792",
+			"quoted_status": {
+				"created_at": "Wed Jun 20 07:52:52 +0000 2018",
+				"id": 1009343312032161800,
+				"id_str": "1009343312032161792",
+				"text": "Futbol beklenen adalete kavuştu mu?\n\nhttps://t.co/mLyhVozh7M",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/mLyhVozh7M",
+							"expanded_url": "http://www.haberturk.com/var-video-yardimci-hakem-video-assistant-referee-ne-ise-yarar-teknik-altyapisi-elestiriler-2023261-ekonomi",
+							"display_url": "haberturk.com/var-video-yard…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 934069293557407700,
+					"id_str": "934069293557407744",
+					"name": "Habertürk Teknoloji",
+					"screen_name": "TeknolojiHT",
+					"location": "",
+					"description": "",
+					"url": "https://t.co/8NM2Yf0v5g",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8NM2Yf0v5g",
+									"expanded_url": "http://www.haberturk.com/ekonomi/teknoloji",
+									"display_url": "haberturk.com/ekonomi/teknol…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4017,
+					"friends_count": 3,
+					"listed_count": 9,
+					"created_at": "Fri Nov 24 14:40:48 +0000 2017",
+					"favourites_count": 0,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1394,
+					"lang": "tr",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/934070413893820417/kRyV8aWx_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/934070413893820417/kRyV8aWx_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/934069293557407744/1511535991",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "tr"
+			},
+			"retweet_count": 14,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1009343312032161800,
+		"quoted_status_id_str": "1009343312032161792",
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr"
+	},
+	{
 		"created_at": "Sun Jun 17 12:42:30 +0000 2018",
 		"id": 1008329037041881100,
 		"id_str": "1008329037041881089",
