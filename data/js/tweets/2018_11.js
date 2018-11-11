@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 04 17:00:02 +0000 2018",
+		"id": 1059128148133077000,
+		"id_str": "1059128148133076998",
+		"full_text": "lift yr skinny fists like antennas to heaven https://t.co/UMjHmmfiMc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059128139236790300,
+					"id_str": "1059128139236790278",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DrLHbl7UUAYYWGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrLHbl7UUAYYWGo.jpg",
+					"url": "https://t.co/UMjHmmfiMc",
+					"display_url": "pic.twitter.com/UMjHmmfiMc",
+					"expanded_url": "https://twitter.com/jeffdilorenzo/status/1059128148133076998/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059128139236790300,
+					"id_str": "1059128139236790278",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DrLHbl7UUAYYWGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrLHbl7UUAYYWGo.jpg",
+					"url": "https://t.co/UMjHmmfiMc",
+					"display_url": "pic.twitter.com/UMjHmmfiMc",
+					"expanded_url": "https://twitter.com/jeffdilorenzo/status/1059128148133076998/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20161007,
+			"id_str": "20161007",
+			"name": "jeff dilorenzo",
+			"screen_name": "jeffdilorenzo",
+			"location": "brooklyn",
+			"description": "born in painesville",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 310,
+			"listed_count": 13,
+			"created_at": "Thu Feb 05 16:24:04 +0000 2009",
+			"favourites_count": 7040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024900689103908864/S_JI4XvH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024900689103908864/S_JI4XvH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20161007/1533190250",
+			"profile_link_color": "0088BA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1053,
+		"favorite_count": 3784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lift yr skinny fists like antennas to heaven https://t.co/UMjHmmfiMc"
+	},
+	{
 		"created_at": "Thu Nov 08 19:38:33 +0000 2018",
 		"id": 1060617590198939600,
 		"id_str": "1060617590198939650",
