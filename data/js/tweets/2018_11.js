@@ -98,6 +98,337 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 869,
+			"listed_count": 59,
+			"created_at": "Mon Nov 09 09:30:34 +0000 2009",
+			"favourites_count": 1172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/468334274286870528/Fd8bNPui_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/468334274286870528/Fd8bNPui_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88629772/1400495093",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAE7ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Kötümserleri Sevin, Onlar Sizin Gerçek Dostlarınızdır. | İlker Canikligil https://t.co/Mj95cPsslI @YouTube aracılığıyla"
+	},
+	{
+		"created_at": "Wed Nov 21 20:30:51 +0000 2018",
+		"id": 1065341795062685700,
+		"id_str": "1065341795062685696",
+		"full_text": "@ahmetasabanci Merakımı cezbetti, çıkınca okurum. Tebrikler :)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ahmetasabanci",
+					"name": "Ahmet A. Sabancı",
+					"id": 55941547,
+					"id_str": "55941547",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1065334988873310200,
+		"in_reply_to_status_id_str": "1065334988873310208",
+		"in_reply_to_user_id": 55941547,
+		"in_reply_to_user_id_str": "55941547",
+		"in_reply_to_screen_name": "ahmetasabanci",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 233,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ahmetasabanci Merakımı cezbetti, çıkınca okurum. Tebrikler :)"
+	},
+	{
+		"created_at": "Wed Nov 21 18:50:51 +0000 2018",
+		"id": 1065316626743132200,
+		"id_str": "1065316626743132162",
+		"full_text": "@rmzonair Ben de \"Instegram\"a aşırı tepki veren bir arkadaşıma aynısını söyledim geçenlerde. O tren çoktan kalktı, haklısın. 😉",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rmzonair",
+					"name": "Remzi Belhan",
+					"id": 15629536,
+					"id_str": "15629536",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1065282088436420600,
+		"in_reply_to_status_id_str": "1065282088436420613",
+		"in_reply_to_user_id": 15629536,
+		"in_reply_to_user_id_str": "15629536",
+		"in_reply_to_screen_name": "rmzonair",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 233,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@rmzonair Ben de \"Instegram\"a aşırı tepki veren bir arkadaşıma aynısını söyledim geçenlerde. O tren çoktan kalktı, haklısın. 😉"
+	},
+	{
+		"created_at": "Wed Nov 21 17:57:35 +0000 2018",
+		"id": 1065303221638492200,
+		"id_str": "1065303221638492161",
+		"full_text": "Kötümserleri Sevin, Onlar Sizin Gerçek Dostlarınızdır. | İlker Canikligil https://t.co/Mj95cPsslI @YouTube aracılığıyla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mj95cPsslI",
+					"expanded_url": "https://youtu.be/jd2AMPNVANQ",
+					"display_url": "youtu.be/jd2AMPNVANQ",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88629772,
+			"id_str": "88629772",
+			"name": "ilker canikligil",
+			"screen_name": "ilkercanikligil",
+			"location": "istanbul",
+			"description": "visual artist/director/drummer/drone pilot/elitist/modernist Showreel:https://t.co/yksmj5NzJN Portfolio:https://t.co/BDF6tz0Jmc\nYoutube: https://t.co/Ib6JFbrL4g",
+			"url": "http://t.co/xFf9Wvbwv0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xFf9Wvbwv0",
+							"expanded_url": "http://www.ilkercanikligil.com",
+							"display_url": "ilkercanikligil.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yksmj5NzJN",
+							"expanded_url": "http://showreel.ilkercanikligil.com",
+							"display_url": "showreel.ilkercanikligil.com",
+							"indices": [
+								70,
+								93
+							]
+						},
+						{
+							"url": "https://t.co/BDF6tz0Jmc",
+							"expanded_url": "http://photography.ilkercanikligil.com",
+							"display_url": "photography.ilkercanikligil.com",
+							"indices": [
+								104,
+								127
+							]
+						},
+						{
+							"url": "https://t.co/Ib6JFbrL4g",
+							"expanded_url": "https://goo.gl/qK4x1h",
+							"display_url": "goo.gl/qK4x1h",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 10251,
 			"friends_count": 868,
 			"listed_count": 59,
