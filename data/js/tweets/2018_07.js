@@ -4,8 +4,12 @@ Grailbird.data.tweets_2018_07 =
 		"created_at": "Sun Jul 29 10:26:04 +0000 2018",
 		"id": 1023514991809519600,
 		"id_str": "1023514991809519616",
-		"text": "@dicleerkenci Öyle olmadığı büyük bir gerçeklik olduğundan böyle reklamlarla ihtiyaç duyuyorlar. Analar, çocuklarınızı polisten koruyunuz!",
+		"full_text": "@dicleerkenci Öyle olmadığı büyük bir gerçeklik olduğundan böyle reklamlarla ihtiyaç duyuyorlar. Analar, çocuklarınızı polisten koruyunuz!",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			138
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -43,16 +47,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 226,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 638,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4601,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -86,14 +90,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@dicleerkenci Öyle olmadığı büyük bir gerçeklik olduğundan böyle reklamlarla ihtiyaç duyuyorlar. Analar, çocuklarınızı polisten koruyunuz!"
 	},
 	{
 		"created_at": "Sun Jul 29 10:01:26 +0000 2018",
 		"id": 1023508790694633500,
 		"id_str": "1023508790694633472",
-		"text": "@dicleerkenci Annelerinin koynu.",
+		"full_text": "@dicleerkenci Annelerinin koynu.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			32
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -131,16 +140,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 226,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 638,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4601,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -174,14 +183,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@dicleerkenci Annelerinin koynu."
 	},
 	{
 		"created_at": "Sat Jul 21 12:39:57 +0000 2018",
 		"id": 1020649582714290200,
 		"id_str": "1020649582714290178",
-		"text": "Safiye İnci'ye ve birilerinin \"kutsallarına\" hakaret eden herkese tartışmasız, şartsız hemen şimdi özgürlük!",
+		"full_text": "Safiye İnci'ye ve birilerinin \"kutsallarına\" hakaret eden herkese tartışmasız, şartsız hemen şimdi özgürlük!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -208,16 +222,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 226,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 634,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4601,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -248,17 +262,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Safiye İnci'ye ve birilerinin \"kutsallarına\" hakaret eden herkese tartışmasız, şartsız hemen şimdi özgürlük!"
 	},
 	{
 		"created_at": "Wed Jul 11 22:56:42 +0000 2018",
 		"id": 1017180912897986600,
 		"id_str": "1017180912897986561",
-		"text": "Goodreads'in Android uygulaması sonunda modern bir arayüze kavuşmuş ve kullanılabilirliği çok artmış. https://t.co/qTzzCptzHK",
+		"full_text": "Goodreads'in Android uygulaması sonunda modern bir arayüze kavuşmuş ve kullanılabilirliği çok artmış. https://t.co/qTzzCptzHK",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -295,16 +314,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 227,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 629,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4601,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -339,14 +358,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Goodreads'in Android uygulaması sonunda modern bir arayüze kavuşmuş ve kullanılabilirliği çok artmış. https://t.co/qTzzCptzHK"
 	},
 	{
 		"created_at": "Wed Jul 11 22:44:20 +0000 2018",
 		"id": 1017177801588461600,
 		"id_str": "1017177801588461569",
-		"text": "Mafya devleti karşısında Adnan'ı destekliyorum. Konu organize suçlar olunca devletten daha aşağılık ve vasat bir organizasyon daha olamaz.",
+		"full_text": "Mafya devleti karşısında Adnan'ı destekliyorum. Konu organize suçlar olunca devletten daha aşağılık ve vasat bir organizasyon daha olamaz.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -373,16 +397,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 227,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 629,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4601,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -413,32 +437,27 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Mafya devleti karşısında Adnan'ı destekliyorum. Konu organize suçlar olunca devletten daha aşağılık ve vasat bir organizasyon daha olamaz."
 	},
 	{
 		"created_at": "Sat Jul 07 10:34:20 +0000 2018",
 		"id": 1015544537857523700,
 		"id_str": "1015544537857523713",
-		"text": "Tam olarak doğru olmadığını biliyorum ama deistlik ve biseksüellik bana bir noktada orta yolcu bir şımarıklık hissi… https://t.co/wzPqQsliSR",
-		"truncated": true,
+		"full_text": "Tam olarak doğru olmadığını biliyorum ama deistlik ve biseksüellik bana bir noktada orta yolcu bir şımarıklık hissiyatı veriyor. Ne şiş yansın ne de kebapçılık.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/wzPqQsliSR",
-					"expanded_url": "https://twitter.com/i/web/status/1015544537857523713",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
@@ -460,16 +479,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 227,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 626,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4599,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -503,14 +522,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Tam olarak doğru olmadığını biliyorum ama deistlik ve biseksüellik bana bir noktada orta yolcu bir şımarıklık hissiyatı veriyor. Ne şiş yansın ne de kebapçılık."
 	},
 	{
 		"created_at": "Mon Jul 02 21:49:26 +0000 2018",
 		"id": 1013902494362144800,
 		"id_str": "1013902494362144768",
-		"text": "ISTANBUL 2077 https://t.co/zEbjE0yTJQ",
+		"full_text": "ISTANBUL 2077 https://t.co/zEbjE0yTJQ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -547,16 +571,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 226,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 622,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4598,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -587,10 +611,11 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "ISTANBUL 2077 https://t.co/zEbjE0yTJQ"
 	}
 ]

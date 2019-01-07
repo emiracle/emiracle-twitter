@@ -4,8 +4,12 @@ Grailbird.data.tweets_2017_07 =
 		"created_at": "Sun Jul 30 17:54:33 +0000 2017",
 		"id": 891718674419241000,
 		"id_str": "891718674419240962",
-		"text": "@scalzi More accurately: Windows XP Wallpaper Day!",
+		"full_text": "@scalzi More accurately: Windows XP Wallpaper Day!",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -43,27 +47,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 266,
-			"friends_count": 201,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 519,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4420,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -86,14 +90,19 @@ Grailbird.data.tweets_2017_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@scalzi More accurately: Windows XP Wallpaper Day!"
 	},
 	{
 		"created_at": "Thu Jul 27 22:30:17 +0000 2017",
 		"id": 890700897336139800,
 		"id_str": "890700897336139776",
-		"text": "İklim sub tropical, şehir, saldım çayıra mevlam kayıra.",
+		"full_text": "İklim sub tropical, şehir, saldım çayıra mevlam kayıra.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -120,27 +129,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 268,
-			"friends_count": 201,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 519,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4419,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -160,47 +169,41 @@ Grailbird.data.tweets_2017_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "İklim sub tropical, şehir, saldım çayıra mevlam kayıra."
 	},
 	{
-		"created_at": "Thu Jul 27 21:06:53 +0000 2017",
-		"id": 890679909311553500,
-		"id_str": "890679909311553538",
-		"text": "RT @CumhuriyetAv: Şık: Siyasal görüşüm, dünyadaki tüm devletlerin terör örgütü olduğudur",
+		"created_at": "Wed Jul 26 15:26:47 +0000 2017",
+		"id": 890231935603281900,
+		"id_str": "890231935603281923",
+		"full_text": "Şık: Siyasal görüşüm, dünyadaki tüm devletlerin terör örgütü olduğudur",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "CumhuriyetAv",
-					"name": "Cumhuriyet Savunması",
-					"id": 796675307055042600,
-					"id_str": "796675307055042560",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 18937325,
-			"id_str": "18937325",
-			"name": "Emir Kaymakoğlu",
-			"screen_name": "emiracle",
-			"location": "Istanbul",
-			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"id": 796675307055042600,
+			"id_str": "796675307055042560",
+			"name": "Cumhuriyet Savunması",
+			"screen_name": "CumhuriyetAv",
+			"location": "",
+			"description": "Cumhuriyet  Gazetesi'ne yapılan hukuk dışı operasyonla tutuklanan ikisi  meslektaşımız dokuz Cumhuriyet emekçisi ile dayanışmak amacıyla kurulmuştur",
 			"url": null,
 			"entities": {
 				"description": {
@@ -208,134 +211,62 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 268,
-			"friends_count": 201,
-			"listed_count": 8,
-			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 519,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
-			"geo_enabled": true,
+			"followers_count": 13364,
+			"friends_count": 116,
+			"listed_count": 33,
+			"created_at": "Thu Nov 10 11:26:09 +0000 2016",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4419,
-			"lang": "en",
+			"statuses_count": 808,
+			"lang": "tr",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
-			"profile_link_color": "140DEB",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "FAEDC8",
-			"profile_text_color": "000000",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796676509486432257/1z_JpwpP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796676509486432257/1z_JpwpP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/796675307055042560/1478806736",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
-			"default_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
-			"translator_type": "regular"
+			"translator_type": "none"
 		},
 		"geo": null,
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jul 26 15:26:47 +0000 2017",
-			"id": 890231935603281900,
-			"id_str": "890231935603281923",
-			"text": "Şık: Siyasal görüşüm, dünyadaki tüm devletlerin terör örgütü olduğudur",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 796675307055042600,
-				"id_str": "796675307055042560",
-				"name": "Cumhuriyet Savunması",
-				"screen_name": "CumhuriyetAv",
-				"location": "",
-				"description": "Cumhuriyet  Gazetesi'ne yapılan hukuk dışı operasyonla tutuklanan ikisi  meslektaşımız dokuz Cumhuriyet emekçisi ile dayanışmak amacıyla kurulmuştur",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 15468,
-				"friends_count": 105,
-				"listed_count": 23,
-				"created_at": "Thu Nov 10 11:26:09 +0000 2016",
-				"favourites_count": 2,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 564,
-				"lang": "tr",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/796676509486432257/1z_JpwpP_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796676509486432257/1z_JpwpP_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/796675307055042560/1478806736",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3532,
-			"favorite_count": 9524,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "tr"
-		},
 		"is_quote_status": false,
-		"retweet_count": 3532,
-		"favorite_count": 0,
+		"retweet_count": 2986,
+		"favorite_count": 8590,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Şık: Siyasal görüşüm, dünyadaki tüm devletlerin terör örgütü olduğudur"
 	},
 	{
 		"created_at": "Tue Jul 18 08:22:08 +0000 2017",
 		"id": 887225964735983600,
 		"id_str": "887225964735983616",
-		"text": "Üçüncü sınıf distopik bir filmin senaryosundayız. Metropolde betondan su toprağı bulmuyor, sel basıyor. Üstelik Wikipedia da kapalı.",
+		"full_text": "Üçüncü sınıf distopik bir filmin senaryosundayız. Metropolde betondan su toprağı bulmuyor, sel basıyor. Üstelik Wikipedia da kapalı.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -362,27 +293,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 268,
-			"friends_count": 200,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 518,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4417,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -402,40 +333,34 @@ Grailbird.data.tweets_2017_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Üçüncü sınıf distopik bir filmin senaryosundayız. Metropolde betondan su toprağı bulmuyor, sel basıyor. Üstelik Wikipedia da kapalı."
 	},
 	{
 		"created_at": "Mon Jul 17 21:58:01 +0000 2017",
 		"id": 887068902467002400,
 		"id_str": "887068902467002368",
-		"text": "@iamcaner Bu kategorilerde takip etmeye değer ne var?",
+		"full_text": "@iamcaner Bu kategorilerde takip etmeye değer ne var?",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "iamcaner",
-					"name": "Caner Kamburoglu",
-					"id": 19111095,
-					"id_str": "19111095",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
-		"in_reply_to_status_id": 886974216947601400,
-		"in_reply_to_status_id_str": "886974216947601409",
-		"in_reply_to_user_id": 19111095,
-		"in_reply_to_user_id_str": "19111095",
-		"in_reply_to_screen_name": "iamcaner",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
 		"user": {
 			"id": 18937325,
 			"id_str": "18937325",
@@ -450,27 +375,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 269,
-			"friends_count": 201,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 518,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4416,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -493,14 +418,19 @@ Grailbird.data.tweets_2017_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@iamcaner Bu kategorilerde takip etmeye değer ne var?"
 	},
 	{
 		"created_at": "Sun Jul 16 19:15:55 +0000 2017",
 		"id": 886665717961158700,
 		"id_str": "886665717961158657",
-		"text": "@donanimcibaba Soğuk Füzyon",
+		"full_text": "@donanimcibaba Soğuk Füzyon",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -538,27 +468,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 270,
-			"friends_count": 202,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 518,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4422,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -581,14 +511,19 @@ Grailbird.data.tweets_2017_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@donanimcibaba Soğuk Füzyon"
 	},
 	{
 		"created_at": "Fri Jul 14 18:21:20 +0000 2017",
 		"id": 885927205347479600,
 		"id_str": "885927205347479556",
-		"text": "Sevan Nişanyan bugün firar etti. İşte ben destan diye buna derim. 14 Temmuz kutlu olsun!",
+		"full_text": "Sevan Nişanyan bugün firar etti. İşte ben destan diye buna derim. 14 Temmuz kutlu olsun!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -615,27 +550,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 270,
-			"friends_count": 203,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 517,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4422,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -658,243 +593,144 @@ Grailbird.data.tweets_2017_07 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Sevan Nişanyan bugün firar etti. İşte ben destan diye buna derim. 14 Temmuz kutlu olsun!"
 	},
 	{
-		"created_at": "Fri Jul 14 18:15:31 +0000 2017",
-		"id": 885925745016623100,
-		"id_str": "885925745016623108",
-		"text": "RT @icmihraktwister: Sen Sevan'ı kafeste tutabilir misin, eyyyy Türkiye! @SevanNisanyan",
+		"created_at": "Fri Jul 14 15:19:05 +0000 2017",
+		"id": 885881342256402400,
+		"id_str": "885881342256402432",
+		"full_text": "Sen Sevan'ı kafeste tutabilir misin, eyyyy Türkiye! @SevanNisanyan",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "icmihraktwister",
-					"name": "iç-mihrak",
-					"id": 285315971,
-					"id_str": "285315971",
-					"indices": [
-						3,
-						19
-					]
-				},
 				{
 					"screen_name": "SevanNisanyan",
 					"name": "Sevan Nişanyan",
 					"id": 490389216,
 					"id_str": "490389216",
 					"indices": [
-						73,
-						87
+						52,
+						66
 					]
 				}
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 18937325,
-			"id_str": "18937325",
-			"name": "Emir Kaymakoğlu",
-			"screen_name": "emiracle",
-			"location": "Istanbul",
-			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
-			"url": null,
+			"id": 285315971,
+			"id_str": "285315971",
+			"name": "iç-mihrak",
+			"screen_name": "icmihraktwister",
+			"location": "Chiapas",
+			"description": "iç-mihrak / propaganda ・ajitasyon ・provokasyon",
+			"url": "http://t.co/eLEclnrFqN",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eLEclnrFqN",
+							"expanded_url": "http://icmihrak.blogspot.com",
+							"display_url": "icmihrak.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 270,
-			"friends_count": 203,
-			"listed_count": 8,
-			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 517,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
-			"geo_enabled": true,
+			"followers_count": 2922,
+			"friends_count": 184,
+			"listed_count": 25,
+			"created_at": "Wed Apr 20 23:02:36 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4422,
+			"statuses_count": 1707,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
-			"profile_link_color": "140DEB",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "FAEDC8",
-			"profile_text_color": "000000",
+			"profile_background_color": "4D7560",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886261964493684737/n6c3v7Zz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886261964493684737/n6c3v7Zz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/285315971/1348763355",
+			"profile_link_color": "4E8CA3",
+			"profile_sidebar_border_color": "402F19",
+			"profile_sidebar_fill_color": "C6C79D",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
-			"translator_type": "regular"
+			"translator_type": "none"
 		},
 		"geo": null,
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Jul 14 15:19:05 +0000 2017",
-			"id": 885881342256402400,
-			"id_str": "885881342256402432",
-			"text": "Sen Sevan'ı kafeste tutabilir misin, eyyyy Türkiye! @SevanNisanyan",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "SevanNisanyan",
-						"name": "Sevan Nişanyan",
-						"id": 490389216,
-						"id_str": "490389216",
-						"indices": [
-							52,
-							66
-						]
-					}
-				],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 285315971,
-				"id_str": "285315971",
-				"name": "iç-mihrak",
-				"screen_name": "icmihraktwister",
-				"location": "Chiapas",
-				"description": "iç-mihrak / propaganda ・ajitasyon ・provokasyon",
-				"url": "http://t.co/eLEclnrFqN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/eLEclnrFqN",
-								"expanded_url": "http://icmihrak.blogspot.com",
-								"display_url": "icmihrak.blogspot.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2716,
-				"friends_count": 161,
-				"listed_count": 23,
-				"created_at": "Wed Apr 20 23:02:36 +0000 2011",
-				"favourites_count": 88,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 1366,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "4D7560",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245037781/mihrahhoparlorlogo2profil.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245037781/mihrahhoparlorlogo2profil.jpg",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/763133321949900802/jUWSmdqN_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763133321949900802/jUWSmdqN_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/285315971/1348763355",
-				"profile_link_color": "4E8CA3",
-				"profile_sidebar_border_color": "402F19",
-				"profile_sidebar_fill_color": "C6C79D",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "tr"
-		},
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 0,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Sen Sevan'ı kafeste tutabilir misin, eyyyy Türkiye! @SevanNisanyan"
 	},
 	{
-		"created_at": "Thu Jul 13 19:34:14 +0000 2017",
-		"id": 885583165703770100,
-		"id_str": "885583165703770112",
-		"text": "RT @tumsev: Bu kadar yedekleme sistemine rağmen \"Telefonum bozuldu, bana numaralarınızı atın\" diyen insan da gitsin 1998'de yaşasın.",
+		"created_at": "Thu Jul 13 14:48:00 +0000 2017",
+		"id": 885511132299112400,
+		"id_str": "885511132299112448",
+		"full_text": "Bu kadar yedekleme sistemine rağmen \"Telefonum bozuldu, bana numaralarınızı atın\" diyen insan da gitsin 1998'de yaşasın.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "tumsev",
-					"name": "Tümsev Sayar☁️",
-					"id": 297340072,
-					"id_str": "297340072",
-					"indices": [
-						3,
-						10
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 18937325,
-			"id_str": "18937325",
-			"name": "Emir Kaymakoğlu",
-			"screen_name": "emiracle",
-			"location": "Istanbul",
-			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"id": 297340072,
+			"id_str": "297340072",
+			"name": "Tümsev Sayar☁️",
+			"screen_name": "tumsev",
+			"location": "İstanbul, Türkiye",
+			"description": "roses are red,\nthis life is a lie,\nexistence is pain,\ni just wanna die.\n\n-mr. meeseeks",
 			"url": null,
 			"entities": {
 				"description": {
@@ -902,36 +738,36 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 270,
-			"friends_count": 203,
-			"listed_count": 8,
-			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 516,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"followers_count": 457,
+			"friends_count": 603,
+			"listed_count": 0,
+			"created_at": "Thu May 12 10:43:52 +0000 2011",
+			"favourites_count": 14978,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4420,
-			"lang": "en",
+			"statuses_count": 9086,
+			"lang": "tr",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
-			"profile_link_color": "140DEB",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "FAEDC8",
-			"profile_text_color": "000000",
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976805645923094528/-sKLawxH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976805645923094528/-sKLawxH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1542834076",
+			"profile_link_color": "0A0909",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
 			"profile_use_background_image": true,
-			"has_extended_profile": false,
+			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "regular"
@@ -940,96 +776,24 @@ Grailbird.data.tweets_2017_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jul 13 14:48:00 +0000 2017",
-			"id": 885511132299112400,
-			"id_str": "885511132299112448",
-			"text": "Bu kadar yedekleme sistemine rağmen \"Telefonum bozuldu, bana numaralarınızı atın\" diyen insan da gitsin 1998'de yaşasın.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 297340072,
-				"id_str": "297340072",
-				"name": "Tümsev Sayar☁️",
-				"screen_name": "tumsev",
-				"location": "İstanbul, Türkiye",
-				"description": "hayal gücü iktidara",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 472,
-				"friends_count": 562,
-				"listed_count": 0,
-				"created_at": "Thu May 12 10:43:52 +0000 2011",
-				"favourites_count": 13907,
-				"utc_offset": 10800,
-				"time_zone": "Istanbul",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 8555,
-				"lang": "tr",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575051687582281728/VDDh0LGy.jpeg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575051687582281728/VDDh0LGy.jpeg",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/875738357804019712/SOfXqif-_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875738357804019712/SOfXqif-_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1479732053",
-				"profile_link_color": "0A0909",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "252429",
-				"profile_text_color": "666666",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "regular"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 4,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "tr"
-		},
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 0,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Bu kadar yedekleme sistemine rağmen \"Telefonum bozuldu, bana numaralarınızı atın\" diyen insan da gitsin 1998'de yaşasın."
 	},
 	{
 		"created_at": "Wed Jul 12 16:02:06 +0000 2017",
 		"id": 885167392245948400,
 		"id_str": "885167392245948416",
-		"text": "Sizi söylemiştim 😠 https://t.co/hDqWRiymUm",
+		"full_text": "Sizi söylemiştim 😠 https://t.co/hDqWRiymUm",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1066,27 +830,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 270,
-			"friends_count": 203,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 516,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4419,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -1110,14 +874,19 @@ Grailbird.data.tweets_2017_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Sizi söylemiştim 😠 https://t.co/hDqWRiymUm"
 	},
 	{
 		"created_at": "Wed Jul 12 15:25:26 +0000 2017",
 		"id": 885158162667581400,
 		"id_str": "885158162667581441",
-		"text": "@Nick_Ashdown @cheja You are kind to say that Nick. Actually I can say that it's a classic Turkish dumbfuckery.",
+		"full_text": "@Nick_Ashdown @cheja You are kind to say that Nick. Actually I can say that it's a classic Turkish dumbfuckery.",
 		"truncated": false,
+		"display_text_range": [
+			21,
+			111
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1134,7 +903,7 @@ Grailbird.data.tweets_2017_07 =
 				},
 				{
 					"screen_name": "cheja",
-					"name": "Pinar S.",
+					"name": "𝔓𝔦𝔫𝔞𝔯 𝔖",
 					"id": 107981209,
 					"id_str": "107981209",
 					"indices": [
@@ -1165,27 +934,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 270,
-			"friends_count": 203,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 516,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4419,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -1208,14 +977,19 @@ Grailbird.data.tweets_2017_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Nick_Ashdown @cheja You are kind to say that Nick. Actually I can say that it's a classic Turkish dumbfuckery."
 	},
 	{
 		"created_at": "Sun Jul 09 15:42:12 +0000 2017",
 		"id": 884075220105080800,
 		"id_str": "884075220105080833",
-		"text": "Türkiye'de polisin izin verdiği yürüyüşler genellikle beyhudedir. İnşallah aksini görürürüz.",
+		"full_text": "Türkiye'de polisin izin verdiği yürüyüşler genellikle beyhudedir. İnşallah aksini görürürüz.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1242,27 +1016,27 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 271,
-			"friends_count": 202,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 513,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4417,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
 			"profile_link_color": "140DEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "FAEDC8",
@@ -1285,76 +1059,197 @@ Grailbird.data.tweets_2017_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Türkiye'de polisin izin verdiği yürüyüşler genellikle beyhudedir. İnşallah aksini görürürüz."
 	},
 	{
-		"created_at": "Fri Jul 07 21:14:04 +0000 2017",
-		"id": 883433960830795800,
-		"id_str": "883433960830795776",
-		"text": "RT @sputnik_TR: Hamburg'da polisin yaklaştığını gören protestocu, ıslıkla Star Wars'tan İmparatorluk Marşı'nı çalmaya başladı\nhttps://t.co/…",
+		"created_at": "Fri Jul 07 16:24:48 +0000 2017",
+		"id": 883361164415176700,
+		"id_str": "883361164415176704",
+		"full_text": "Hamburg'da polisin yaklaştığını gören protestocu, ıslıkla Star Wars'tan İmparatorluk Marşı'nı çalmaya başladı\nhttps://t.co/IN9KfGfdAf https://t.co/91W2Bpm3bV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [
 				{
-					"screen_name": "sputnik_TR",
-					"name": "Sputnik Türkiye",
-					"id": 424893128,
-					"id_str": "424893128",
+					"url": "https://t.co/IN9KfGfdAf",
+					"expanded_url": "https://sptnkne.ws/eQ6A",
+					"display_url": "sptnkne.ws/eQ6A",
 					"indices": [
-						3,
-						14
+						110,
+						133
 					]
 				}
 			],
-			"urls": []
+			"media": [
+				{
+					"id": 883359709243347000,
+					"id_str": "883359709243346948",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/883359709243346948/pu/img/xGyAy_w_-oT753TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/883359709243346948/pu/img/xGyAy_w_-oT753TX.jpg",
+					"url": "https://t.co/91W2Bpm3bV",
+					"display_url": "pic.twitter.com/91W2Bpm3bV",
+					"expanded_url": "https://twitter.com/sputnik_TR/status/883361164415176704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883359709243347000,
+					"id_str": "883359709243346948",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/883359709243346948/pu/img/xGyAy_w_-oT753TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/883359709243346948/pu/img/xGyAy_w_-oT753TX.jpg",
+					"url": "https://t.co/91W2Bpm3bV",
+					"display_url": "pic.twitter.com/91W2Bpm3bV",
+					"expanded_url": "https://twitter.com/sputnik_TR/status/883361164415176704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23760,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/883359709243346948/pu/vid/320x180/bZ26FZwsAOKLjTVP.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/883359709243346948/pu/pl/Zs1M5bzImeiJ9hxs.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/883359709243346948/pu/vid/640x360/ffgoz0Ne9AgZ6eJD.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 18937325,
-			"id_str": "18937325",
-			"name": "Emir Kaymakoğlu",
-			"screen_name": "emiracle",
-			"location": "Istanbul",
-			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
-			"url": null,
+			"id": 424893128,
+			"id_str": "424893128",
+			"name": "Sputnik Türkiye",
+			"screen_name": "sputnik_TR",
+			"location": "Rusya",
+			"description": "Sputnik Haber Ajansı & Radyo.",
+			"url": "https://t.co/zT5qbztfUv",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zT5qbztfUv",
+							"expanded_url": "http://tr.sputniknews.com",
+							"display_url": "tr.sputniknews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 271,
-			"friends_count": 202,
-			"listed_count": 8,
-			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 511,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"followers_count": 571010,
+			"friends_count": 17,
+			"listed_count": 1935,
+			"created_at": "Wed Nov 30 09:15:05 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 4416,
+			"verified": true,
+			"statuses_count": 218140,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
-			"profile_link_color": "140DEB",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "FAEDC8",
-			"profile_text_color": "000000",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980700428169109504/b_67519N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980700428169109504/b_67519N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/424893128/1546071016",
+			"profile_link_color": "FF9600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
 			"default_profile": false,
@@ -1362,408 +1257,236 @@ Grailbird.data.tweets_2017_07 =
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
-			"translator_type": "regular"
+			"translator_type": "none"
 		},
 		"geo": null,
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Jul 07 16:24:48 +0000 2017",
-			"id": 883361164415176700,
-			"id_str": "883361164415176704",
-			"text": "Hamburg'da polisin yaklaştığını gören protestocu, ıslıkla Star Wars'tan İmparatorluk Marşı'nı çalmaya başladı… https://t.co/V3bhnFPaUr",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/V3bhnFPaUr",
-						"expanded_url": "https://twitter.com/i/web/status/883361164415176704",
-						"display_url": "twitter.com/i/web/status/8…",
-						"indices": [
-							111,
-							134
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 424893128,
-				"id_str": "424893128",
-				"name": "Sputnik Türkiye",
-				"screen_name": "sputnik_TR",
-				"location": "Rusya",
-				"description": "Sputnik Haber Ajansı & Radyo.",
-				"url": "https://t.co/zT5qbztfUv",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/zT5qbztfUv",
-								"expanded_url": "http://tr.sputniknews.com",
-								"display_url": "tr.sputniknews.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 239577,
-				"friends_count": 20,
-				"listed_count": 1197,
-				"created_at": "Wed Nov 30 09:15:05 +0000 2011",
-				"favourites_count": 18,
-				"utc_offset": 10800,
-				"time_zone": "Volgograd",
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 124472,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C6E2EE",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/618021750912196609/4Gwdkb86.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/618021750912196609/4Gwdkb86.jpg",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/849891082095800321/Q33uvwpx_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849891082095800321/Q33uvwpx_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/424893128/1486735737",
-				"profile_link_color": "FF9600",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DAECF4",
-				"profile_text_color": "663B12",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 964,
-			"favorite_count": 1677,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "tr"
-		},
 		"is_quote_status": false,
-		"retweet_count": 964,
-		"favorite_count": 0,
+		"retweet_count": 2113,
+		"favorite_count": 4057,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "tr"
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Hamburg'da polisin yaklaştığını gören protestocu, ıslıkla Star Wars'tan İmparatorluk Marşı'nı çalmaya başladı\nhttps://t.co/IN9KfGfdAf https://t.co/91W2Bpm3bV"
 	},
 	{
-		"created_at": "Sat Jul 01 13:09:49 +0000 2017",
-		"id": 881137770604974100,
-		"id_str": "881137770604974080",
-		"text": "RT @Kaplanseren: Günlük hayatta noktalama işareti kullanmak hayat kurtarır, yanlış anlama ve komik duruma düşmelerden korur. https://t.co/x…",
+		"created_at": "Sat Jul 01 09:42:38 +0000 2017",
+		"id": 881085628812841000,
+		"id_str": "881085628812840962",
+		"full_text": "Günlük hayatta noktalama işareti kullanmak hayat kurtarır, yanlış anlama ve komik duruma düşmelerden korur. https://t.co/xpHpLd3tfj",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [],
+			"media": [
 				{
-					"screen_name": "Kaplanseren",
-					"name": "Erdal Kaplanseren",
-					"id": 17745286,
-					"id_str": "17745286",
+					"id": 881085622777151500,
+					"id_str": "881085622777151488",
 					"indices": [
-						3,
-						15
-					]
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
+					"url": "https://t.co/xpHpLd3tfj",
+					"display_url": "pic.twitter.com/xpHpLd3tfj",
+					"expanded_url": "https://twitter.com/Kaplanseren/status/881085628812840962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 881085622777151500,
+					"id_str": "881085622777151488",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
+					"url": "https://t.co/xpHpLd3tfj",
+					"display_url": "pic.twitter.com/xpHpLd3tfj",
+					"expanded_url": "https://twitter.com/Kaplanseren/status/881085628812840962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 18937325,
-			"id_str": "18937325",
-			"name": "Emir Kaymakoğlu",
-			"screen_name": "emiracle",
-			"location": "Istanbul",
-			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
-			"url": null,
+			"id": 17745286,
+			"id_str": "17745286",
+			"name": "Erdal Kaplanseren",
+			"screen_name": "Kaplanseren",
+			"location": "Beşiktaş, İstanbul",
+			"description": "POSTA Yazarı, Gazeteci, Dijital Yayıncı / Gazete yazılarım: https://t.co/VSPImkVzOw",
+			"url": "https://t.co/KZB1BiTiPu",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KZB1BiTiPu",
+							"expanded_url": "https://instagram.com/kaplanseren",
+							"display_url": "instagram.com/kaplanseren",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/VSPImkVzOw",
+							"expanded_url": "https://www.posta.com.tr/yazarlar/erdal-kaplanseren",
+							"display_url": "posta.com.tr/yazarlar/erdal…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 271,
-			"friends_count": 202,
-			"listed_count": 8,
-			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 512,
-			"utc_offset": 10800,
-			"time_zone": "Istanbul",
+			"followers_count": 134999,
+			"friends_count": 130538,
+			"listed_count": 254,
+			"created_at": "Sun Nov 30 00:36:04 +0000 2008",
+			"favourites_count": 3997,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 4415,
-			"lang": "en",
+			"verified": true,
+			"statuses_count": 32965,
+			"lang": "tr",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "12121A",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617795841311514624/6ta86JXU.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1462310264",
-			"profile_link_color": "140DEB",
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080484639406460928/7tl_UTsZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080484639406460928/7tl_UTsZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17745286/1546442606",
+			"profile_link_color": "1B95E0",
 			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "FAEDC8",
-			"profile_text_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
 			"profile_use_background_image": true,
-			"has_extended_profile": false,
+			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "regular"
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Jul 01 09:42:38 +0000 2017",
-			"id": 881085628812841000,
-			"id_str": "881085628812840962",
-			"text": "Günlük hayatta noktalama işareti kullanmak hayat kurtarır, yanlış anlama ve komik duruma düşmelerden korur. https://t.co/xpHpLd3tfj",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 881085622777151500,
-						"id_str": "881085622777151488",
-						"indices": [
-							108,
-							131
-						],
-						"media_url": "http://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
-						"url": "https://t.co/xpHpLd3tfj",
-						"display_url": "pic.twitter.com/xpHpLd3tfj",
-						"expanded_url": "https://twitter.com/Kaplanseren/status/881085628812840962/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 480,
-								"h": 433,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 480,
-								"h": 433,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 480,
-								"h": 433,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 881085622777151500,
-						"id_str": "881085622777151488",
-						"indices": [
-							108,
-							131
-						],
-						"media_url": "http://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DDo-tKpWAAAMj6c.jpg",
-						"url": "https://t.co/xpHpLd3tfj",
-						"display_url": "pic.twitter.com/xpHpLd3tfj",
-						"expanded_url": "https://twitter.com/Kaplanseren/status/881085628812840962/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 480,
-								"h": 433,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 480,
-								"h": 433,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 480,
-								"h": 433,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 17745286,
-				"id_str": "17745286",
-				"name": "Erdal Kaplanseren",
-				"screen_name": "Kaplanseren",
-				"location": "Beşiktaş",
-				"description": "Tech Journalist, Video Blogger, Digital Publisher @Teknologcom @TeknoTV @MedyaModacom @LaykaMedya Blog: @icimdekiler",
-				"url": "https://t.co/7CBTdpeEib",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/7CBTdpeEib",
-								"expanded_url": "http://Teknolog.com",
-								"display_url": "Teknolog.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 34666,
-				"friends_count": 854,
-				"listed_count": 212,
-				"created_at": "Sun Nov 30 00:36:04 +0000 2008",
-				"favourites_count": 1855,
-				"utc_offset": 10800,
-				"time_zone": "Istanbul",
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 31720,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/718129423791198209/Y-87_dRo.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/718129423791198209/Y-87_dRo.jpg",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/845764286882435074/6EkM1s4D_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845764286882435074/6EkM1s4D_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17745286/1497295221",
-				"profile_link_color": "1B95E0",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "252429",
-				"profile_text_color": "666666",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "regular"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": {
-				"id": "5e02a0f0d91c76d2",
-				"url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
-				"place_type": "city",
-				"name": "İstanbul",
-				"full_name": "İstanbul, Türkiye",
-				"country_code": "TR",
-				"country": "Turkey",
-				"contained_within": [],
-				"bounding_box": {
-					"type": "Polygon",
-					"coordinates": [
+		"place": {
+			"id": "5e02a0f0d91c76d2",
+			"url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+			"place_type": "city",
+			"name": "İstanbul",
+			"full_name": "İstanbul, Türkiye",
+			"country_code": "TR",
+			"country": "Turkey",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
 						[
-							[
-								28.6321043,
-								40.8027337
-							],
-							[
-								29.3783413,
-								40.8027337
-							],
-							[
-								29.3783413,
-								41.2399073
-							],
-							[
-								28.6321043,
-								41.2399073
-							]
+							28.6321043,
+							40.8027337
+						],
+						[
+							29.3783413,
+							40.8027337
+						],
+						[
+							29.3783413,
+							41.2399073
+						],
+						[
+							28.6321043,
+							41.2399073
 						]
 					]
-				},
-				"attributes": {}
+				]
 			},
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 5,
-			"favorite_count": 15,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "tr"
+			"attributes": {}
 		},
+		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 5,
-		"favorite_count": 0,
+		"favorite_count": 12,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "tr"
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Günlük hayatta noktalama işareti kullanmak hayat kurtarır, yanlış anlama ve komik duruma düşmelerden korur. https://t.co/xpHpLd3tfj"
 	}
 ]

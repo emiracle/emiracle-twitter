@@ -36,16 +36,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 288,
-			"friends_count": 234,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 676,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4640,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -76,7 +76,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "tr",
@@ -86,8 +86,12 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Sun Oct 07 17:09:46 +0000 2018",
 		"id": 1048983736090579000,
 		"id_str": "1048983736090578945",
-		"text": "8 haftada 8 puan. Haftalık ortalama 1 puan ile oynamaya devam edersek kümede kalmamız da tehlikeye girer. #YenidenKanser",
+		"full_text": "8 haftada 8 puan. Haftalık ortalama 1 puan ile oynamaya devam edersek kümede kalmamız da tehlikeye girer. #YenidenKanser",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -122,16 +126,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 288,
-			"friends_count": 232,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 674,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4639,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -162,17 +166,22 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "8 haftada 8 puan. Haftalık ortalama 1 puan ile oynamaya devam edersek kümede kalmamız da tehlikeye girer. #YenidenKanser"
 	},
 	{
 		"created_at": "Fri Oct 05 13:08:56 +0000 2018",
 		"id": 1048198353237016600,
 		"id_str": "1048198353237016577",
-		"text": "Part 2, \"Ahlaklı Yaşamanın Sırrı\" https://t.co/JgiK5STXfc",
+		"full_text": "Part 2, \"Ahlaklı Yaşamanın Sırrı\" https://t.co/JgiK5STXfc",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -209,16 +218,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 288,
-			"friends_count": 232,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 672,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4638,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -253,14 +262,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Part 2, \"Ahlaklı Yaşamanın Sırrı\" https://t.co/JgiK5STXfc"
 	},
 	{
 		"created_at": "Thu Oct 04 18:23:20 +0000 2018",
 		"id": 1047915084138381300,
 		"id_str": "1047915084138381314",
-		"text": "@ed_onthe_beach @hakki_alkan @AgaogluGrubu Unutma, halkımızın çok büyük bir kısmı oportünist ve orta yolcudur. Duya… https://t.co/Re0ThXs0H8",
-		"truncated": true,
+		"full_text": "@ed_onthe_beach @hakki_alkan @AgaogluGrubu Unutma, halkımızın çok büyük bir kısmı oportünist ve orta yolcudur. Duyarlı gibi olanların da ancak %1'i pratik hayatında politik olarak tutarlıdır.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			191
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -296,17 +310,7 @@ Grailbird.data.tweets_2018_10 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/Re0ThXs0H8",
-					"expanded_url": "https://twitter.com/i/web/status/1047915084138381314",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
 		"in_reply_to_status_id": 1047900767359848400,
@@ -328,16 +332,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 287,
-			"friends_count": 232,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 672,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4637,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -368,32 +372,26 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@ed_onthe_beach @hakki_alkan @AgaogluGrubu Unutma, halkımızın çok büyük bir kısmı oportünist ve orta yolcudur. Duyarlı gibi olanların da ancak %1'i pratik hayatında politik olarak tutarlıdır."
 	},
 	{
 		"created_at": "Thu Oct 04 17:13:07 +0000 2018",
 		"id": 1047897413845995500,
 		"id_str": "1047897413845995522",
-		"text": "@noveemezzo Çok güzel. Sevindim, herkese iyi okumalar dilerim.",
+		"full_text": "@noveemezzo Çok güzel. Sevindim, herkese iyi okumalar dilerim.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			62
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "noveemezzo",
-					"name": "ezgi",
-					"id": 460460268,
-					"id_str": "460460268",
-					"indices": [
-						0,
-						11
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
@@ -401,7 +399,7 @@ Grailbird.data.tweets_2018_10 =
 		"in_reply_to_status_id_str": "1047891955047419905",
 		"in_reply_to_user_id": 460460268,
 		"in_reply_to_user_id_str": "460460268",
-		"in_reply_to_screen_name": "noveemezzo",
+		"in_reply_to_screen_name": "yazlikdisco",
 		"user": {
 			"id": 18937325,
 			"id_str": "18937325",
@@ -416,16 +414,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 287,
-			"friends_count": 232,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 672,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4637,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -459,29 +457,23 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@noveemezzo Çok güzel. Sevindim, herkese iyi okumalar dilerim."
 	},
 	{
 		"created_at": "Thu Oct 04 16:45:52 +0000 2018",
 		"id": 1047890556402249700,
 		"id_str": "1047890556402249734",
-		"text": "@noveemezzo Hangi kitapları okuyorsunuz?",
+		"full_text": "@noveemezzo Hangi kitapları okuyorsunuz?",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			40
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "noveemezzo",
-					"name": "ezgi",
-					"id": 460460268,
-					"id_str": "460460268",
-					"indices": [
-						0,
-						11
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
@@ -489,7 +481,7 @@ Grailbird.data.tweets_2018_10 =
 		"in_reply_to_status_id_str": "1047587009336893440",
 		"in_reply_to_user_id": 460460268,
 		"in_reply_to_user_id_str": "460460268",
-		"in_reply_to_screen_name": "noveemezzo",
+		"in_reply_to_screen_name": "yazlikdisco",
 		"user": {
 			"id": 18937325,
 			"id_str": "18937325",
@@ -504,16 +496,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 287,
-			"friends_count": 232,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 672,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4637,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -547,14 +539,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@noveemezzo Hangi kitapları okuyorsunuz?"
 	},
 	{
 		"created_at": "Thu Oct 04 16:35:27 +0000 2018",
 		"id": 1047887937483018200,
 		"id_str": "1047887937483018241",
-		"text": "@hakki_alkan @AgaogluGrubu Öncelikle geçmiş olsun. Maslak 1453'te oturmaktan daha rezalet bir şey değil ama bu. Kes… https://t.co/eqP7C5q7Wx",
-		"truncated": true,
+		"full_text": "@hakki_alkan @AgaogluGrubu Öncelikle geçmiş olsun. Maslak 1453'te oturmaktan daha rezalet bir şey değil ama bu. Kesilen ağaçların, yerinden yurdundan edilen hayvanların ahı var. Hepsini geçtim Ağaoğlu gibi at hırsızlarına para kazandırmayı içine sindiren böyle telefonda küfür yerken de yutkunmayı öğrenir.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			306
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -580,17 +577,7 @@ Grailbird.data.tweets_2018_10 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/eqP7C5q7Wx",
-					"expanded_url": "https://twitter.com/i/web/status/1047887937483018241",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
 		"in_reply_to_status_id": 1047522487054094300,
@@ -612,16 +599,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 287,
-			"friends_count": 232,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 672,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4637,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -651,33 +638,27 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 37,
+		"retweet_count": 2,
+		"favorite_count": 54,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@hakki_alkan @AgaogluGrubu Öncelikle geçmiş olsun. Maslak 1453'te oturmaktan daha rezalet bir şey değil ama bu. Kesilen ağaçların, yerinden yurdundan edilen hayvanların ahı var. Hepsini geçtim Ağaoğlu gibi at hırsızlarına para kazandırmayı içine sindiren böyle telefonda küfür yerken de yutkunmayı öğrenir."
 	},
 	{
 		"created_at": "Wed Oct 03 20:35:42 +0000 2018",
 		"id": 1047586010106921000,
 		"id_str": "1047586010106920972",
-		"text": "@noveemezzo Kitap kulübü mü?",
+		"full_text": "@noveemezzo Kitap kulübü mü?",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "noveemezzo",
-					"name": "ezgi",
-					"id": 460460268,
-					"id_str": "460460268",
-					"indices": [
-						0,
-						11
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
@@ -685,7 +666,7 @@ Grailbird.data.tweets_2018_10 =
 		"in_reply_to_status_id_str": "1047584760942485509",
 		"in_reply_to_user_id": 460460268,
 		"in_reply_to_user_id_str": "460460268",
-		"in_reply_to_screen_name": "noveemezzo",
+		"in_reply_to_screen_name": "yazlikdisco",
 		"user": {
 			"id": 18937325,
 			"id_str": "18937325",
@@ -700,16 +681,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 285,
-			"friends_count": 232,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 672,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4633,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -743,6 +724,7 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@noveemezzo Kitap kulübü mü?"
 	}
 ]

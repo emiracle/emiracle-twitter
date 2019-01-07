@@ -4,8 +4,12 @@ Grailbird.data.tweets_2018_08 =
 		"created_at": "Wed Aug 29 18:51:07 +0000 2018",
 		"id": 1034876113925877800,
 		"id_str": "1034876113925877762",
-		"text": "@naturalelite @ArdaBingeli 😘 BU KALP SENİ UNUTUR MU?",
+		"full_text": "@naturalelite @ArdaBingeli 😘 BU KALP SENİ UNUTUR MU?",
 		"truncated": false,
+		"display_text_range": [
+			27,
+			52
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -53,16 +57,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 231,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 656,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4614,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -93,17 +97,22 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@naturalelite @ArdaBingeli 😘 BU KALP SENİ UNUTUR MU?"
 	},
 	{
 		"created_at": "Mon Aug 27 22:51:01 +0000 2018",
 		"id": 1034211710859526100,
 		"id_str": "1034211710859526144",
-		"text": "Son zamanlarda kitap okumaktan daha tatmin edici bir şey bulamıyorum. Krizi fırsata çevirin, daha çok okuyun.",
+		"full_text": "Son zamanlarda kitap okumaktan daha tatmin edici bir şey bulamıyorum. Krizi fırsata çevirin, daha çok okuyun.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -130,16 +139,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 231,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 654,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4613,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -170,17 +179,22 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Son zamanlarda kitap okumaktan daha tatmin edici bir şey bulamıyorum. Krizi fırsata çevirin, daha çok okuyun."
 	},
 	{
 		"created_at": "Fri Aug 24 17:58:42 +0000 2018",
 		"id": 1033050982517809200,
 		"id_str": "1033050982517809152",
-		"text": "@Gamsizm Bu derdi bilirim. Ben zamanında ana ekrana bir widget kurmuştum,  manuel olarak SSID'ler arasında geçiş ya… https://t.co/myei6qjHhY",
-		"truncated": true,
+		"full_text": "@Gamsizm Bu derdi bilirim. Ben zamanında ana ekrana bir widget kurmuştum,  manuel olarak SSID'ler arasında geçiş yapıyordum. Otomatik bir çözüm aramıştım, bulamamıştım.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			168
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -196,17 +210,7 @@ Grailbird.data.tweets_2018_08 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/myei6qjHhY",
-					"expanded_url": "https://twitter.com/i/web/status/1033050982517809152",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
 		"in_reply_to_status_id": 1033043303619539000,
@@ -228,16 +232,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 231,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 656,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4612,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -271,14 +275,19 @@ Grailbird.data.tweets_2018_08 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@Gamsizm Bu derdi bilirim. Ben zamanında ana ekrana bir widget kurmuştum,  manuel olarak SSID'ler arasında geçiş yapıyordum. Otomatik bir çözüm aramıştım, bulamamıştım."
 	},
 	{
 		"created_at": "Thu Aug 23 07:56:51 +0000 2018",
 		"id": 1032537134866022400,
 		"id_str": "1032537134866022401",
-		"text": "@DougCoupland \"Dog Coupland\"",
+		"full_text": "@DougCoupland \"Dog Coupland\"",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -316,16 +325,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 230,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 655,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4611,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -359,14 +368,19 @@ Grailbird.data.tweets_2018_08 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@DougCoupland \"Dog Coupland\""
 	},
 	{
 		"created_at": "Tue Aug 14 21:30:25 +0000 2018",
 		"id": 1029480383958736900,
 		"id_str": "1029480383958736896",
-		"text": "Anarşist ahlakına en çok ihtiyaç duyduğumuz günlerden geçiyoruz.",
+		"full_text": "Anarşist ahlakına en çok ihtiyaç duyduğumuz günlerden geçiyoruz.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -393,16 +407,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 229,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 643,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4610,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -433,17 +447,22 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Anarşist ahlakına en çok ihtiyaç duyduğumuz günlerden geçiyoruz."
 	},
 	{
 		"created_at": "Tue Aug 14 10:43:51 +0000 2018",
 		"id": 1029317672876564500,
 		"id_str": "1029317672876564480",
-		"text": "Neyse ki akşam #FenerinMaçıVar. Hiç olmazsa 2 saatlik bir teselli sağlar.",
+		"full_text": "Neyse ki akşam #FenerinMaçıVar. Hiç olmazsa 2 saatlik bir teselli sağlar.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -478,16 +497,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 229,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 643,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4610,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -521,14 +540,19 @@ Grailbird.data.tweets_2018_08 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Neyse ki akşam #FenerinMaçıVar. Hiç olmazsa 2 saatlik bir teselli sağlar."
 	},
 	{
 		"created_at": "Sat Aug 11 20:49:49 +0000 2018",
 		"id": 1028383003179974700,
 		"id_str": "1028383003179974657",
-		"text": "Fenerbahçe gençleri ve yeni transferleri ile umut veriyor. Belli ki 5 haftaya çok daha iyi olacağız. #Yeniden",
+		"full_text": "Fenerbahçe gençleri ve yeni transferleri ile umut veriyor. Belli ki 5 haftaya çok daha iyi olacağız. #Yeniden",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -563,16 +587,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 229,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 641,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4608,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -603,32 +627,27 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Fenerbahçe gençleri ve yeni transferleri ile umut veriyor. Belli ki 5 haftaya çok daha iyi olacağız. #Yeniden"
 	},
 	{
 		"created_at": "Fri Aug 10 21:38:05 +0000 2018",
 		"id": 1028032762287194100,
 		"id_str": "1028032762287194113",
-		"text": "Düşük zekalıların oyları ile iktidar olmuş düşük ahlaklı kifayetsiz muhterislerin ülkeyi getirebileceği yegane nokt… https://t.co/UCFJDDYFop",
-		"truncated": true,
+		"full_text": "Düşük zekalıların oyları ile iktidar olmuş düşük ahlaklı kifayetsiz muhterislerin ülkeyi getirebileceği yegane noktadayız. O caps'teki gibi: \"Kötü günleri geride bıraktık. Şimdi önümüzde daha kötü günler var.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/UCFJDDYFop",
-					"expanded_url": "https://twitter.com/i/web/status/1028032762287194113",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
@@ -650,16 +669,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 229,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 641,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4607,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -690,17 +709,22 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Düşük zekalıların oyları ile iktidar olmuş düşük ahlaklı kifayetsiz muhterislerin ülkeyi getirebileceği yegane noktadayız. O caps'teki gibi: \"Kötü günleri geride bıraktık. Şimdi önümüzde daha kötü günler var.\""
 	},
 	{
 		"created_at": "Wed Aug 08 21:18:55 +0000 2018",
 		"id": 1027303165560086500,
 		"id_str": "1027303165560086529",
-		"text": "@Tufan_Demir Çocukken plasebo gibi bunları yutmuşuz. Rezil bir şeydi, sevindim :)",
+		"full_text": "@Tufan_Demir Çocukken plasebo gibi bunları yutmuşuz. Rezil bir şeydi, sevindim :)",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			81
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -738,16 +762,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 225,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 641,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4606,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -778,17 +802,22 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@Tufan_Demir Çocukken plasebo gibi bunları yutmuşuz. Rezil bir şeydi, sevindim :)"
 	},
 	{
 		"created_at": "Wed Aug 08 17:37:22 +0000 2018",
 		"id": 1027247408856682500,
 		"id_str": "1027247408856682496",
-		"text": "Bu kadar kerize, bu kadar kriz bile az.",
+		"full_text": "Bu kadar kerize, bu kadar kriz bile az.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -815,16 +844,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 225,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 641,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4606,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -855,24 +884,29 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Bu kadar kerize, bu kadar kriz bile az."
 	},
 	{
 		"created_at": "Wed Aug 08 16:42:18 +0000 2018",
 		"id": 1027233549865439200,
 		"id_str": "1027233549865439232",
-		"text": "@fkadev Aptal ya da kafadan sakat olmayan devletçi mi olur? Bulmuşsun devletçi meczubu dövüyorsun. Yakışır mı kardeşim?",
+		"full_text": "@fkadev Aptal ya da kafadan sakat olmayan devletçi mi olur? Bulmuşsun devletçi meczubu dövüyorsun. Yakışır mı kardeşim?",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			119
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "fkadev",
-					"name": "Fatih Kadir Akın 🤔",
+					"name": "Fatih Kadir Akın 🧐",
 					"id": 229021888,
 					"id_str": "229021888",
 					"indices": [
@@ -903,16 +937,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 225,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 641,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4606,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -946,14 +980,19 @@ Grailbird.data.tweets_2018_08 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@fkadev Aptal ya da kafadan sakat olmayan devletçi mi olur? Bulmuşsun devletçi meczubu dövüyorsun. Yakışır mı kardeşim?"
 	},
 	{
 		"created_at": "Tue Aug 07 08:11:55 +0000 2018",
 		"id": 1026742723670360000,
 		"id_str": "1026742723670360064",
-		"text": "@Gamsizm Tam bir züğürt tesellisiymiş hakikaten.",
+		"full_text": "@Gamsizm Tam bir züğürt tesellisiymiş hakikaten.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			48
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -991,16 +1030,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 225,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 640,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4603,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1034,14 +1073,19 @@ Grailbird.data.tweets_2018_08 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@Gamsizm Tam bir züğürt tesellisiymiş hakikaten."
 	},
 	{
 		"created_at": "Mon Aug 06 21:07:51 +0000 2018",
 		"id": 1026575603787608000,
 		"id_str": "1026575603787608065",
-		"text": "@ccanozz End of the great romance diyorsun.",
+		"full_text": "@ccanozz End of the great romance diyorsun.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			43
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1079,16 +1123,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 225,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 640,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4602,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1122,29 +1166,24 @@ Grailbird.data.tweets_2018_08 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@ccanozz End of the great romance diyorsun."
 	},
 	{
 		"created_at": "Mon Aug 06 20:42:09 +0000 2018",
 		"id": 1026569136690716700,
 		"id_str": "1026569136690716673",
-		"text": "Ülkenin battığını anlamak için illa doların yeni bir rekor kırmasına şahit olmak mı gerekiyor? Bunu değiştirmek içi… https://t.co/uZEMe4QUXR",
-		"truncated": true,
+		"full_text": "Ülkenin battığını anlamak için illa doların yeni bir rekor kırmasına şahit olmak mı gerekiyor? Bunu değiştirmek için elinden bir şey gelmiyor olabilir ama salak olmanın da lüzumu yok.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/uZEMe4QUXR",
-					"expanded_url": "https://twitter.com/i/web/status/1026569136690716673",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
 		"in_reply_to_status_id": null,
@@ -1166,16 +1205,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 225,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 640,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4602,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1206,17 +1245,22 @@ Grailbird.data.tweets_2018_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "Ülkenin battığını anlamak için illa doların yeni bir rekor kırmasına şahit olmak mı gerekiyor? Bunu değiştirmek için elinden bir şey gelmiyor olabilir ama salak olmanın da lüzumu yok."
 	},
 	{
 		"created_at": "Sat Aug 04 21:24:35 +0000 2018",
 		"id": 1025855037245993000,
 		"id_str": "1025855037245992960",
-		"text": "@iamcaner Eskiden bunları sen söylerdin. Flamingo demiştin, orada kaldım şahsen. Twitter artık iyicene can çekiştir… https://t.co/752L1CCTdy",
-		"truncated": true,
+		"full_text": "@iamcaner Eskiden bunları sen söylerdin. Flamingo demiştin, orada kaldım şahsen. Twitter artık iyicene can çekiştiriyor üçüncü parti client'lara.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			145
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1232,17 +1276,7 @@ Grailbird.data.tweets_2018_08 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/752L1CCTdy",
-					"expanded_url": "https://twitter.com/i/web/status/1025855037245992960",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
 		"in_reply_to_status_id": 1025777552890228700,
@@ -1264,16 +1298,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 284,
-			"friends_count": 225,
-			"listed_count": 8,
+			"followers_count": 279,
+			"friends_count": 236,
+			"listed_count": 9,
 			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
-			"favourites_count": 640,
+			"favourites_count": 718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4600,
+			"statuses_count": 4684,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1307,6 +1341,7 @@ Grailbird.data.tweets_2018_08 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "tr"
+		"lang": "tr",
+		"text": "@iamcaner Eskiden bunları sen söylerdin. Flamingo demiştin, orada kaldım şahsen. Twitter artık iyicene can çekiştiriyor üçüncü parti client'lara."
 	}
 ]
