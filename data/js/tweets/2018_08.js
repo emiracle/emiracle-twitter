@@ -1264,26 +1264,15 @@ Grailbird.data.tweets_2018_08 =
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "iamcaner",
-					"name": "Caner",
-					"id": 19111095,
-					"id_str": "19111095",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
-		"in_reply_to_status_id": 1025777552890228700,
-		"in_reply_to_status_id_str": "1025777552890228741",
-		"in_reply_to_user_id": 19111095,
-		"in_reply_to_user_id_str": "19111095",
-		"in_reply_to_screen_name": "iamcaner",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
 		"user": {
 			"id": 18937325,
 			"id_str": "18937325",
