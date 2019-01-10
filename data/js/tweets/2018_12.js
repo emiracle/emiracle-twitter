@@ -81,6 +81,339 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 17642,
+			"friends_count": 0,
+			"listed_count": 330,
+			"created_at": "Wed Sep 02 21:17:52 +0000 2015",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/647554588678201344/v4Y1EfG__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/647554588678201344/v4Y1EfG__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3527137757/1443223910",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 858189777585262600,
+		"quoted_status_id_str": "858189777585262592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ixkUMcnrsd",
+			"expanded": "https://twitter.com/TurkeyBlocks/status/858189777585262592",
+			"display": "twitter.com/TurkeyBlocks/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 29 05:22:42 +0000 2017",
+			"id": 858189777585262600,
+			"id_str": "858189777585262592",
+			"full_text": "Confirmed: All editions of the #Wikipedia online encyclopedia blocked in #Turkey as of 8:00AM local time\nhttps://t.co/ybFolRmsOs https://t.co/hI9tn4bHe5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Wikipedia",
+						"indices": [
+							31,
+							41
+						]
+					},
+					{
+						"text": "Turkey",
+						"indices": [
+							73,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ybFolRmsOs",
+						"expanded_url": "https://turkeyblocks.org/2017/04/29/wikipedia-blocked-turkey/",
+						"display_url": "turkeyblocks.org/2017/04/29/wik…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 858188310107361300,
+						"id_str": "858188310107361280",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/C-jluJ5XkAAcRYJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-jluJ5XkAAcRYJ.jpg",
+						"url": "https://t.co/hI9tn4bHe5",
+						"display_url": "pic.twitter.com/hI9tn4bHe5",
+						"expanded_url": "https://twitter.com/TurkeyBlocks/status/858189777585262592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 692,
+								"h": 292,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 692,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 287,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 858188310107361300,
+						"id_str": "858188310107361280",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/C-jluJ5XkAAcRYJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-jluJ5XkAAcRYJ.jpg",
+						"url": "https://t.co/hI9tn4bHe5",
+						"display_url": "pic.twitter.com/hI9tn4bHe5",
+						"expanded_url": "https://twitter.com/TurkeyBlocks/status/858189777585262592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 692,
+								"h": 292,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 692,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 287,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3527137757,
+				"id_str": "3527137757",
+				"name": "Turkey Blocks",
+				"screen_name": "TurkeyBlocks",
+				"location": "",
+				"description": "Mapping Censorship in Turkey in Real Time | Tweets on #PressFreedom #HumanRights #Democracy #Law",
+				"url": "https://t.co/kpBzX7J1lP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kpBzX7J1lP",
+								"expanded_url": "https://TurkeyBlocks.org",
+								"display_url": "TurkeyBlocks.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17642,
+				"friends_count": 0,
+				"listed_count": 330,
+				"created_at": "Wed Sep 02 21:17:52 +0000 2015",
+				"favourites_count": 708,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 193,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/647554588678201344/v4Y1EfG__normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/647554588678201344/v4Y1EfG__normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3527137757/1443223910",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2645,
+			"favorite_count": 965,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 91,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It has been 612 days since #Wikipedia was blocked in #Turkey. Here's to a more open and free internet in 2019! #MutluYıllar\nhttps://t.co/ixkUMcnrsd"
+	},
+	{
+		"created_at": "Mon Dec 31 21:00:29 +0000 2018",
+		"id": 1079844767549280300,
+		"id_str": "1079844767549280257",
+		"full_text": "It has been 612 days since #Wikipedia was blocked in #Turkey. Here's to a more open and free internet in 2019! #MutluYıllar\nhttps://t.co/ixkUMcnrsd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wikipedia",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "Turkey",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "MutluYıllar",
+					"indices": [
+						111,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ixkUMcnrsd",
+					"expanded_url": "https://twitter.com/TurkeyBlocks/status/858189777585262592",
+					"display_url": "twitter.com/TurkeyBlocks/s…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3527137757,
+			"id_str": "3527137757",
+			"name": "Turkey Blocks",
+			"screen_name": "TurkeyBlocks",
+			"location": "",
+			"description": "Mapping Censorship in Turkey in Real Time | Tweets on #PressFreedom #HumanRights #Democracy #Law",
+			"url": "https://t.co/kpBzX7J1lP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kpBzX7J1lP",
+							"expanded_url": "https://TurkeyBlocks.org",
+							"display_url": "TurkeyBlocks.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 17643,
 			"friends_count": 0,
 			"listed_count": 330,
