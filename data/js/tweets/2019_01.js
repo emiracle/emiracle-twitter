@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 06:51:11 +0000 2019",
+		"id": 1086154015451299800,
+		"id_str": "1086154015451299840",
+		"full_text": "@isil_arican Yavuz Dizdar'ın ne gibi bir falsosu var? Kaçırmışım.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isil_arican",
+					"name": "Isil Arican",
+					"id": 20569249,
+					"id_str": "20569249",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1086148217572479000,
+		"in_reply_to_status_id_str": "1086148217572478976",
+		"in_reply_to_user_id": 20569249,
+		"in_reply_to_user_id_str": "20569249",
+		"in_reply_to_screen_name": "isil_arican",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 236,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@isil_arican Yavuz Dizdar'ın ne gibi bir falsosu var? Kaçırmışım."
+	},
+	{
+		"created_at": "Thu Jan 17 08:57:58 +0000 2019",
+		"id": 1085823534583218200,
+		"id_str": "1085823534583218176",
+		"full_text": "Atölye sahiplerinin \"Türk işçiler bize 3000 liraya mal oluyor, Suriyeliler en fazla 1000 lira\" dedikleri bir köle pazarında 5 Suriyeli işçinin yanarak ölmesi, Suriyelilerin Taksim'de yıl başı kutlaması kadar gündem olamıyor şu memlekette...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 473364279,
+			"id_str": "473364279",
+			"name": "Erdal İmrek",
+			"screen_name": "erdalimrek",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ls2LJCec2n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ls2LJCec2n",
+							"expanded_url": "http://instagram.com/hafiza_i_beser",
+							"display_url": "instagram.com/hafiza_i_beser",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6634,
+			"friends_count": 678,
+			"listed_count": 27,
+			"created_at": "Tue Jan 24 22:15:31 +0000 2012",
+			"favourites_count": 3213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3563,
+			"lang": "tr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863352553400041474/nJ716sZ-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863352553400041474/nJ716sZ-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/473364279/1457950461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Atölye sahiplerinin \"Türk işçiler bize 3000 liraya mal oluyor, Suriyeliler en fazla 1000 lira\" dedikleri bir köle pazarında 5 Suriyeli işçinin yanarak ölmesi, Suriyelilerin Taksim'de yıl başı kutlaması kadar gündem olamıyor şu memlekette..."
+	},
+	{
+		"created_at": "Thu Jan 17 18:25:29 +0000 2019",
+		"id": 1085966355080335400,
+		"id_str": "1085966355080335361",
+		"full_text": "@Gamsizm What can you do sometimes? 🤷‍♂️ https://t.co/K1LkBeKCyM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gamsizm",
+					"name": "Murat Gamsız",
+					"id": 41779319,
+					"id_str": "41779319",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K1LkBeKCyM",
+					"expanded_url": "https://twitter.com/leventp/status/1085953640597209088",
+					"display_url": "twitter.com/leventp/status…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 41779319,
+		"in_reply_to_user_id_str": "41779319",
+		"in_reply_to_screen_name": "Gamsizm",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 236,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085953640597209100,
+		"quoted_status_id_str": "1085953640597209088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K1LkBeKCyM",
+			"expanded": "https://twitter.com/leventp/status/1085953640597209088",
+			"display": "twitter.com/leventp/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 17 17:34:58 +0000 2019",
+			"id": 1085953640597209100,
+			"id_str": "1085953640597209088",
+			"full_text": "Kullandığı VPN hizmetinin kayıt tutmadığına inanlara gelsin. 🤔 https://t.co/17qY7fafMm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/17qY7fafMm",
+						"expanded_url": "https://twitter.com/x0rz/status/1085664672534142976",
+						"display_url": "twitter.com/x0rz/status/10…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755912,
+				"id_str": "755912",
+				"name": "Levent Pekcan",
+				"screen_name": "leventp",
+				"location": "Istanbul",
+				"description": "Teknoloji yazarı Levent Pekcan'ın çoğunlukla teknolojik twitlemeleri.. İşlerim: @TeknoSeyir ve @DarkHardware",
+				"url": "http://t.co/7oFjXO9Zkq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7oFjXO9Zkq",
+								"expanded_url": "http://www.teknoseyir.com",
+								"display_url": "teknoseyir.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22760,
+				"friends_count": 1186,
+				"listed_count": 150,
+				"created_at": "Wed Feb 07 10:51:36 +0000 2007",
+				"favourites_count": 7806,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10845,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000666888743/85f4c6b0f82e3a5975907867a1da42a4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000666888743/85f4c6b0f82e3a5975907867a1da42a4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755912/1402491430",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5e02a0f0d91c76d2",
+				"url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+				"place_type": "city",
+				"name": "İstanbul",
+				"full_name": "İstanbul, Türkiye",
+				"country_code": "TR",
+				"country": "Turkey",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								28.6321043,
+								40.8027337
+							],
+							[
+								29.3783413,
+								40.8027337
+							],
+							[
+								29.3783413,
+								41.2399073
+							],
+							[
+								28.6321043,
+								41.2399073
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1085664672534143000,
+			"quoted_status_id_str": "1085664672534142976",
+			"quoted_status_permalink": {
+				"url": "https://t.co/17qY7fafMm",
+				"expanded": "https://twitter.com/x0rz/status/1085664672534142976",
+				"display": "twitter.com/x0rz/status/10…"
+			},
+			"retweet_count": 12,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Gamsizm What can you do sometimes? 🤷‍♂️ https://t.co/K1LkBeKCyM"
+	},
+	{
 		"created_at": "Thu Jan 17 08:57:58 +0000 2019",
 		"id": 1085823534583218200,
 		"id_str": "1085823534583218176",
@@ -99,7 +543,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Thu Jan 17 18:25:29 +0000 2019",
 		"id": 1085966355080335400,
 		"id_str": "1085966355080335361",
-		"full_text": "@Gamsizm What can you do sometimes? 🤷‍♂️ https://t.co/K1LkBeKCyM",
+		"full_text": "@Gamsizm What can you do sometimes? 🤷♂️ https://t.co/K1LkBeKCyM",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -349,7 +793,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "@Gamsizm What can you do sometimes? 🤷‍♂️ https://t.co/K1LkBeKCyM"
+		"text": "@Gamsizm What can you do sometimes? 🤷♂️ https://t.co/K1LkBeKCyM"
 	},
 	{
 		"created_at": "Sat Jan 12 22:19:47 +0000 2019",
