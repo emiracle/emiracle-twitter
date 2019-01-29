@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 19:18:31 +0000 2019",
+		"id": 1089965965343895600,
+		"id_str": "1089965965343895552",
+		"full_text": "Sonunda 3 puan! Ayrıca Victor Moses da bu lig için çok kaliteli gözüküyor.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 238,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Sonunda 3 puan! Ayrıca Victor Moses da bu lig için çok kaliteli gözüküyor."
+	},
+	{
+		"created_at": "Fri Jan 25 09:05:07 +0000 2019",
+		"id": 1088724436788936700,
+		"id_str": "1088724436788936704",
+		"full_text": "Erişime engellenen (sansürlenen) web adresi ve Twitter hesabı listelerini #SansüreKarşıArşivle https://t.co/V9Yp67YxNR https://t.co/XeRzEYxR8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SansüreKarşıArşivle",
+					"indices": [
+						74,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V9Yp67YxNR",
+					"expanded_url": "https://stoppages.gitlab.io",
+					"display_url": "stoppages.gitlab.io",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088723657147453400,
+					"id_str": "1088723657147453445",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DxvsZdrWkAUeD96.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxvsZdrWkAUeD96.jpg",
+					"url": "https://t.co/XeRzEYxR8Z",
+					"display_url": "pic.twitter.com/XeRzEYxR8Z",
+					"expanded_url": "https://twitter.com/webofstoppages/status/1088724436788936704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 983,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 983,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088723657147453400,
+					"id_str": "1088723657147453445",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DxvsZdrWkAUeD96.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxvsZdrWkAUeD96.jpg",
+					"url": "https://t.co/XeRzEYxR8Z",
+					"display_url": "pic.twitter.com/XeRzEYxR8Z",
+					"expanded_url": "https://twitter.com/webofstoppages/status/1088724436788936704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 983,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 983,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088723678467186700,
+					"id_str": "1088723678467186688",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DxvsatGX4AAeNV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxvsatGX4AAeNV_.jpg",
+					"url": "https://t.co/XeRzEYxR8Z",
+					"display_url": "pic.twitter.com/XeRzEYxR8Z",
+					"expanded_url": "https://twitter.com/webofstoppages/status/1088724436788936704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 982,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121289128,
+			"id_str": "121289128",
+			"name": "Web of Stoppages",
+			"screen_name": "webofstoppages",
+			"location": "",
+			"description": "Sansür arşivi",
+			"url": "https://t.co/TItBSLSBKG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TItBSLSBKG",
+							"expanded_url": "https://stoppages.gitlab.io/",
+							"display_url": "stoppages.gitlab.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 48,
+			"listed_count": 1,
+			"created_at": "Tue Mar 09 01:42:01 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088647959020007424/FiDUWOLP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088647959020007424/FiDUWOLP_normal.jpg",
+			"profile_link_color": "0B0B0B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Erişime engellenen (sansürlenen) web adresi ve Twitter hesabı listelerini #SansüreKarşıArşivle https://t.co/V9Yp67YxNR https://t.co/XeRzEYxR8Z"
+	},
+	{
 		"created_at": "Tue Jan 22 13:10:08 +0000 2019",
 		"id": 1087698933583888400,
 		"id_str": "1087698933583888385",
