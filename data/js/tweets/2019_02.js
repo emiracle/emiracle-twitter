@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 16:50:10 +0000 2019",
+		"id": 1093552511385067500,
+		"id_str": "1093552511385067521",
+		"full_text": "@Kaburet Sarcasm mı yapıyorsun ciddi mi söylüyorsun anlamıyorum?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaburet",
+					"name": "Burak Kılıç",
+					"id": 69017535,
+					"id_str": "69017535",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1092864242817085400,
+		"in_reply_to_status_id_str": "1092864242817085440",
+		"in_reply_to_user_id": 69017535,
+		"in_reply_to_user_id_str": "69017535",
+		"in_reply_to_screen_name": "Kaburet",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 240,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaburet Sarcasm mı yapıyorsun ciddi mi söylüyorsun anlamıyorum?"
+	},
+	{
+		"created_at": "Thu Feb 07 16:28:47 +0000 2019",
+		"id": 1093547130038423600,
+		"id_str": "1093547130038423553",
+		"full_text": "T.C.'nin sırf Şık kardeşlere davranışından, ne kadar kokuşmuş ve ahlaksız bir devlet olduğunu anlayabilirsiniz.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 240,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "T.C.'nin sırf Şık kardeşlere davranışından, ne kadar kokuşmuş ve ahlaksız bir devlet olduğunu anlayabilirsiniz."
+	},
+	{
+		"created_at": "Tue Feb 05 11:51:40 +0000 2019",
+		"id": 1092752614285078500,
+		"id_str": "1092752614285078531",
+		"full_text": "anybody interested in a #rant on the #earnings of #freelance #journalism? if so, let me first brew some coffee and you can fasten your seat belt.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rant",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "earnings",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "freelance",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "journalism",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20808463,
+			"id_str": "20808463",
+			"name": "Frederike Geerdink",
+			"screen_name": "fgeerdink",
+			"location": "Suleymanya, Kurdistan",
+			"description": "Journalist in Kurdistan. Spent a year with the PKK and just published the book (Dutch, translations upcoming) about it. Expelled from Turkey, having no regrets.",
+			"url": "https://t.co/5b4PBWJ2R0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5b4PBWJ2R0",
+							"expanded_url": "https://frederikegeerdink.com/my-books/new-book-the-pkk-from-the-inside/",
+							"display_url": "frederikegeerdink.com/my-books/new-b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44374,
+			"friends_count": 2172,
+			"listed_count": 1294,
+			"created_at": "Fri Feb 13 21:27:37 +0000 2009",
+			"favourites_count": 25323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 169561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/599827131451998208/W6vlW3NI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/599827131451998208/W6vlW3NI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20808463/1442403377",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "anybody interested in a #rant on the #earnings of #freelance #journalism? if so, let me first brew some coffee and you can fasten your seat belt."
+	},
+	{
 		"created_at": "Tue Feb 05 11:51:40 +0000 2019",
 		"id": 1092752614285078500,
 		"id_str": "1092752614285078531",
