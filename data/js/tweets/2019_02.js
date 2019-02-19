@@ -59,6 +59,292 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 19913,
+			"friends_count": 618,
+			"listed_count": 330,
+			"created_at": "Mon Aug 15 21:54:06 +0000 2016",
+			"favourites_count": 16707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/765306742641078272/SLGPwx5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/765306742641078272/SLGPwx5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/765305590746722304/1471298455",
+			"profile_link_color": "151515",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095807014079512600,
+		"quoted_status_id_str": "1095807014079512579",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yAwpKjr7d6",
+			"expanded": "https://twitter.com/hashcat/status/1095807014079512579?s=21",
+			"display": "twitter.com/hashcat/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 13 22:08:45 +0000 2019",
+			"id": 1095807014079512600,
+			"id_str": "1095807014079512579",
+			"full_text": "hand-tuned hashcat 6.0.0 beta and 2080Ti (stock clocks) breaks NTLM cracking speed mark of 100GH/s on a single compute device https://t.co/aVRMpbap4H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1095806307007938600,
+						"id_str": "1095806307007938562",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/DzUWB8fXQAItycj.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzUWB8fXQAItycj.png",
+						"url": "https://t.co/aVRMpbap4H",
+						"display_url": "pic.twitter.com/aVRMpbap4H",
+						"expanded_url": "https://twitter.com/hashcat/status/1095807014079512579/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 318,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 882,
+								"h": 413,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 882,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095806307007938600,
+						"id_str": "1095806307007938562",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/DzUWB8fXQAItycj.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzUWB8fXQAItycj.png",
+						"url": "https://t.co/aVRMpbap4H",
+						"display_url": "pic.twitter.com/aVRMpbap4H",
+						"expanded_url": "https://twitter.com/hashcat/status/1095807014079512579/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 318,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 882,
+								"h": 413,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 882,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 450500038,
+				"id_str": "450500038",
+				"name": "hashcat",
+				"screen_name": "hashcat",
+				"location": "",
+				"description": "cat, zcat, bzcat, netcat ... ?",
+				"url": "http://t.co/2aRXlmZy9g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2aRXlmZy9g",
+								"expanded_url": "http://hashcat.net/",
+								"display_url": "hashcat.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23106,
+				"friends_count": 129,
+				"listed_count": 424,
+				"created_at": "Fri Dec 30 09:27:27 +0000 2011",
+				"favourites_count": 73,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1621,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917548598522535936/k66Ngp4Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917548598522535936/k66Ngp4Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/450500038/1398377618",
+				"profile_link_color": "03394F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 579,
+			"favorite_count": 1253,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4733,
+		"favorite_count": 5306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "~=8 Character Passwords Are Dead=~\n\nNew benchmark means that the entire keyspace, or every possible combination of:\n- Upper\n- Lower\n- Number\n- Symbol\n\n...of an 8 character password can be guessed in:\n\n~2.5 hours\n\n(8x 2080 GPUs against NTLM Windows hash)\nhttps://t.co/yAwpKjr7d6"
+	},
+	{
+		"created_at": "Thu Feb 14 14:00:56 +0000 2019",
+		"id": 1096046635593928700,
+		"id_str": "1096046635593928704",
+		"full_text": "~=8 Character Passwords Are Dead=~\n\nNew benchmark means that the entire keyspace, or every possible combination of:\n- Upper\n- Lower\n- Number\n- Symbol\n\n...of an 8 character password can be guessed in:\n\n~2.5 hours\n\n(8x 2080 GPUs against NTLM Windows hash)\nhttps://t.co/yAwpKjr7d6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAwpKjr7d6",
+					"expanded_url": "https://twitter.com/hashcat/status/1095807014079512579?s=21",
+					"display_url": "twitter.com/hashcat/status…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 765305590746722300,
+			"id_str": "765305590746722304",
+			"name": "Tinker ❎",
+			"screen_name": "TinkerSec",
+			"location": "/dev/null",
+			"description": "Tinkerer | Cypherpunk | Hacker - @Dallas_Hackers",
+			"url": "https://t.co/oQdjp002Rl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oQdjp002Rl",
+							"expanded_url": "https://www.tinker.sh",
+							"display_url": "tinker.sh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 19864,
 			"friends_count": 617,
 			"listed_count": 330,
