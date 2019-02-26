@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 09:24:43 +0000 2019",
+		"id": 1099963393279184900,
+		"id_str": "1099963393279184896",
+		"full_text": "@naturalelite Ben biliyorum hocam 🙋‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naturalelite",
+					"name": "Bajkaloff 🇱🇮",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1099741436445102100,
+		"in_reply_to_status_id_str": "1099741436445102080",
+		"in_reply_to_user_id": 425080324,
+		"in_reply_to_user_id_str": "425080324",
+		"in_reply_to_screen_name": "naturalelite",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 241,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@naturalelite Ben biliyorum hocam 🙋‍♂️"
+	},
+	{
+		"created_at": "Sat Feb 23 17:15:36 +0000 2019",
+		"id": 1099357117113344000,
+		"id_str": "1099357117113344001",
+		"full_text": "Frames Per Second https://t.co/6YGyKZImrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099357115272052700,
+					"id_str": "1099357115272052736",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0GzeMEWwAACfNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0GzeMEWwAACfNV.jpg",
+					"url": "https://t.co/6YGyKZImrX",
+					"display_url": "pic.twitter.com/6YGyKZImrX",
+					"expanded_url": "https://twitter.com/universal_sci/status/1099357117113344001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099357115272052700,
+					"id_str": "1099357115272052736",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0GzeMEWwAACfNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0GzeMEWwAACfNV.jpg",
+					"url": "https://t.co/6YGyKZImrX",
+					"display_url": "pic.twitter.com/6YGyKZImrX",
+					"expanded_url": "https://twitter.com/universal_sci/status/1099357117113344001/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							230,
+							179
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D0GzeMEWwAACfNV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2993230373,
+			"id_str": "2993230373",
+			"name": "Universal-Sci",
+			"screen_name": "universal_sci",
+			"location": "",
+			"description": "Official Universal-Sci twitter account - Providing you with Interesting news stories about world wide scientific endeavours",
+			"url": "http://t.co/aNRhjeA1c2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/aNRhjeA1c2",
+							"expanded_url": "http://www.universal-sci.com/",
+							"display_url": "universal-sci.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162925,
+			"friends_count": 17811,
+			"listed_count": 756,
+			"created_at": "Thu Jan 22 23:36:39 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989844082318102528/4k0jYitV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989844082318102528/4k0jYitV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993230373/1480520666",
+			"profile_link_color": "014E48",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1761,
+		"favorite_count": 7180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Frames Per Second https://t.co/6YGyKZImrX"
+	},
+	{
 		"created_at": "Sat Feb 23 17:15:36 +0000 2019",
 		"id": 1099357117113344000,
 		"id_str": "1099357117113344001",
