@@ -1,10 +1,514 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 15:33:42 +0000 2019",
+		"id": 1100418636240511000,
+		"id_str": "1100418636240510976",
+		"full_text": "@leventp Bunlar, baz istasyonlarına, WiFi'lara savaş açan amca ve teyzelerin torunları mı acaba? Kahrolsun örgütlü cahillik!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leventp",
+					"name": "Levent Pekcan",
+					"id": 755912,
+					"id_str": "755912",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1100364993365770200,
+		"in_reply_to_status_id_str": "1100364993365770240",
+		"in_reply_to_user_id": 755912,
+		"in_reply_to_user_id_str": "755912",
+		"in_reply_to_screen_name": "leventp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 241,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@leventp Bunlar, baz istasyonlarına, WiFi'lara savaş açan amca ve teyzelerin torunları mı acaba? Kahrolsun örgütlü cahillik!"
+	},
+	{
+		"created_at": "Tue Feb 26 12:39:38 +0000 2019",
+		"id": 1100374833282641900,
+		"id_str": "1100374833282641920",
+		"full_text": "@Dezotronic @naturalelite Forma da benim ilk Fenerbahçe formam. 1996 senesinden Jay Jay Okocha forması. Keramet formada yani ;)",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dezotronic",
+					"name": "Dezotronic",
+					"id": 251980175,
+					"id_str": "251980175",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "naturalelite",
+					"name": "Bajkaloff 🇱🇮",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1100364272729763800,
+		"in_reply_to_status_id_str": "1100364272729763842",
+		"in_reply_to_user_id": 251980175,
+		"in_reply_to_user_id_str": "251980175",
+		"in_reply_to_screen_name": "Dezotronic",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 241,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Dezotronic @naturalelite Forma da benim ilk Fenerbahçe formam. 1996 senesinden Jay Jay Okocha forması. Keramet formada yani ;)"
+	},
+	{
+		"created_at": "Tue Feb 26 12:28:03 +0000 2019",
+		"id": 1100371918455300100,
+		"id_str": "1100371918455300096",
+		"full_text": "@arrdakadabra Kalabalıkların diktatörlüğünde her şey mümkün maalesef. Kavramların içini bir kurdun tahtayı kemirmesi gibi kemirip, oyarlar.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arrdakadabra",
+					"name": "Madame Dôlâ Quai",
+					"id": 604913720,
+					"id_str": "604913720",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1100369592914972700,
+		"in_reply_to_status_id_str": "1100369592914972672",
+		"in_reply_to_user_id": 604913720,
+		"in_reply_to_user_id_str": "604913720",
+		"in_reply_to_screen_name": "arrdakadabra",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 241,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@arrdakadabra Kalabalıkların diktatörlüğünde her şey mümkün maalesef. Kavramların içini bir kurdun tahtayı kemirmesi gibi kemirip, oyarlar."
+	},
+	{
+		"created_at": "Tue Feb 26 12:11:46 +0000 2019",
+		"id": 1100367817520615400,
+		"id_str": "1100367817520615425",
+		"full_text": "Bugün \"Hayvanat bahçeleri, tüm tutsakların masum olduğu tek hapishanedir\" diye bir laf duydum. Ne kadar da doğru! O zaman \"Parlamentolar da tüm üyelerinin potansiyel hırsız ve katiller olduğu tek yerdir.\" diyebilir miyiz? Bence diyebiliriz.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 241,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Bugün \"Hayvanat bahçeleri, tüm tutsakların masum olduğu tek hapishanedir\" diye bir laf duydum. Ne kadar da doğru! O zaman \"Parlamentolar da tüm üyelerinin potansiyel hırsız ve katiller olduğu tek yerdir.\" diyebilir miyiz? Bence diyebiliriz."
+	},
+	{
+		"created_at": "Tue Feb 26 07:10:34 +0000 2019",
+		"id": 1100292019761659900,
+		"id_str": "1100292019761659904",
+		"full_text": "@vadiefe @FastCompany @aytacyazici @rmzonair @naturalelite Güzelmiş 👍",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vadiefe",
+					"name": "Vadi Efe",
+					"id": 15157855,
+					"id_str": "15157855",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "FastCompany",
+					"name": "Fast Company",
+					"id": 2735591,
+					"id_str": "2735591",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "aytacyazici",
+					"name": "Aytac Yazici",
+					"id": 55199587,
+					"id_str": "55199587",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "rmzonair",
+					"name": "Remzi Belhan",
+					"id": 15629536,
+					"id_str": "15629536",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "naturalelite",
+					"name": "Bajkaloff 🇱🇮",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						45,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1100152064380948500,
+		"in_reply_to_status_id_str": "1100152064380948480",
+		"in_reply_to_user_id": 15157855,
+		"in_reply_to_user_id_str": "15157855",
+		"in_reply_to_screen_name": "vadiefe",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 241,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@vadiefe @FastCompany @aytacyazici @rmzonair @naturalelite Güzelmiş 👍"
+	},
+	{
 		"created_at": "Mon Feb 25 09:24:43 +0000 2019",
 		"id": 1099963393279184900,
 		"id_str": "1099963393279184896",
-		"full_text": "@naturalelite Ben biliyorum hocam 🙋‍♂️",
+		"full_text": "@naturalelite Ben biliyorum hocam 🙋♂️",
 		"truncated": false,
 		"display_text_range": [
 			14,
@@ -91,7 +595,7 @@ Grailbird.data.tweets_2019_02 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "tr",
-		"text": "@naturalelite Ben biliyorum hocam 🙋‍♂️"
+		"text": "@naturalelite Ben biliyorum hocam 🙋♂️"
 	},
 	{
 		"created_at": "Sat Feb 23 17:15:36 +0000 2019",
