@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 20:17:03 +0000 2019",
+		"id": 1103389045726593000,
+		"id_str": "1103389045726593025",
+		"full_text": "Carl Sagan (s.a.v) 🤲🏻 https://t.co/5nCI6DWlZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5nCI6DWlZ6",
+					"expanded_url": "https://twitter.com/teyitorg/status/1103339096825577477",
+					"display_url": "twitter.com/teyitorg/statu…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 240,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4718,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103339096825577500,
+		"quoted_status_id_str": "1103339096825577477",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5nCI6DWlZ6",
+			"expanded": "https://twitter.com/teyitorg/status/1103339096825577477",
+			"display": "twitter.com/teyitorg/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 06 16:58:34 +0000 2019",
+			"id": 1103339096825577500,
+			"id_str": "1103339096825577477",
+			"full_text": "▪️ Otorite kaynaklı argümanların çok kıymeti yoktur\n▪️ ‘Gerçek’ diye sunulan olguları bağımsız kaynaklardan teyit edin\n▪️ Bir hipotezi, size ait diye fazla benimsemeyin\n\nSagan'ın, Karanlık Bir Dünyada Bilimin Mum Işığı kitabından palavra tespit yöntemleri. https://t.co/Qmla6nSF1E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Qmla6nSF1E",
+						"expanded_url": "https://teyit.org/carl-saganin-palavra-tespit-yontemleri/",
+						"display_url": "teyit.org/carl-saganin-p…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 765187661996884000,
+				"id_str": "765187661996883968",
+				"name": "teyit",
+				"screen_name": "teyitorg",
+				"location": "Ankara, Türkiye",
+				"description": "İnternetteki şüpheli bilgileri inceleyen doğrulama platformu. For English: @teyit_EN",
+				"url": "https://t.co/JzvlnweYs7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JzvlnweYs7",
+								"expanded_url": "http://www.teyit.org",
+								"display_url": "teyit.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 359766,
+				"friends_count": 44,
+				"listed_count": 706,
+				"created_at": "Mon Aug 15 14:05:29 +0000 2016",
+				"favourites_count": 1038,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3482,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1077227881389047808/DWQNokQF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077227881389047808/DWQNokQF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765187661996883968/1545656202",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 211,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Carl Sagan (s.a.v) 🤲🏻 https://t.co/5nCI6DWlZ6"
+	},
+	{
 		"created_at": "Tue Mar 05 17:26:39 +0000 2019",
 		"id": 1102983777716969500,
 		"id_str": "1102983777716969472",
