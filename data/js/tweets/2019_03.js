@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 21:14:31 +0000 2019",
+		"id": 1108839326492823600,
+		"id_str": "1108839326492823561",
+		"full_text": "Douglas Coupland'ın Bit Rot kitabının epub'ını o kadar zor buldum ki, en son Napster zamanlarında böyle şevkle download izlemiştim. (Thanks in advance @DougCoupland and sorry for illegally downloading your book. Our economy is in decline 😢) https://t.co/BaxxlpYKUr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DougCoupland",
+					"name": "Doug Coupland",
+					"id": 28196433,
+					"id_str": "28196433",
+					"indices": [
+						151,
+						164
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108837824147714000,
+					"id_str": "1108837824147714048",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D2NiIE3XcAAOlhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2NiIE3XcAAOlhe.jpg",
+					"url": "https://t.co/BaxxlpYKUr",
+					"display_url": "pic.twitter.com/BaxxlpYKUr",
+					"expanded_url": "https://twitter.com/emiracle/status/1108839326492823561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 641,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108837824147714000,
+					"id_str": "1108837824147714048",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D2NiIE3XcAAOlhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2NiIE3XcAAOlhe.jpg",
+					"url": "https://t.co/BaxxlpYKUr",
+					"display_url": "pic.twitter.com/BaxxlpYKUr",
+					"expanded_url": "https://twitter.com/emiracle/status/1108839326492823561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 641,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 242,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4724,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Douglas Coupland'ın Bit Rot kitabının epub'ını o kadar zor buldum ki, en son Napster zamanlarında böyle şevkle download izlemiştim. (Thanks in advance @DougCoupland and sorry for illegally downloading your book. Our economy is in decline 😢) https://t.co/BaxxlpYKUr"
+	},
+	{
 		"created_at": "Fri Mar 15 09:34:03 +0000 2019",
 		"id": 1106488723577995300,
 		"id_str": "1106488723577995265",
