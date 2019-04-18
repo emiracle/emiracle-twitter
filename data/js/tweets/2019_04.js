@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 21:20:32 +0000 2019",
+		"id": 1118625314819719200,
+		"id_str": "1118625314819719169",
+		"full_text": "Yatacağız kalkacağız, yatacağız kalkacağız T.C. hâlâ aynı T.C... https://t.co/MvEHS2hGj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MvEHS2hGj2",
+					"expanded_url": "https://twitter.com/DemokratHaber/status/1118584465461215233",
+					"display_url": "twitter.com/DemokratHaber/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 246,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118584465461215200,
+		"quoted_status_id_str": "1118584465461215233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MvEHS2hGj2",
+			"expanded": "https://twitter.com/DemokratHaber/status/1118584465461215233",
+			"display": "twitter.com/DemokratHaber/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 18:38:13 +0000 2019",
+			"id": 1118584465461215200,
+			"id_str": "1118584465461215233",
+			"full_text": "Ayşe öğretmen yeniden cezaevinde \n\nhttps://t.co/je5y8gI0pP https://t.co/WWXeQ0Rbvw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/je5y8gI0pP",
+						"expanded_url": "https://www.demokrathaber.org/guncel/ayse-ogretmen-yeniden-cezaevinde-h114836.html",
+						"display_url": "demokrathaber.org/guncel/ayse-og…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118584455491477500,
+						"id_str": "1118584455491477504",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D4YCosDX4AAnkOd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4YCosDX4AAnkOd.jpg",
+						"url": "https://t.co/WWXeQ0Rbvw",
+						"display_url": "pic.twitter.com/WWXeQ0Rbvw",
+						"expanded_url": "https://twitter.com/DemokratHaber/status/1118584465461215233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 709,
+								"h": 409,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 709,
+								"h": 409,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118584455491477500,
+						"id_str": "1118584455491477504",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D4YCosDX4AAnkOd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4YCosDX4AAnkOd.jpg",
+						"url": "https://t.co/WWXeQ0Rbvw",
+						"display_url": "pic.twitter.com/WWXeQ0Rbvw",
+						"expanded_url": "https://twitter.com/DemokratHaber/status/1118584465461215233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 709,
+								"h": 409,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 709,
+								"h": 409,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 242820583,
+				"id_str": "242820583",
+				"name": "Demokrat Haber",
+				"screen_name": "DemokratHaber",
+				"location": "İstanbul",
+				"description": "'Kendine Demokrat' Olmayan Haberler",
+				"url": "https://t.co/apFKbqatWw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/apFKbqatWw",
+								"expanded_url": "https://www.demokrathaber.org",
+								"display_url": "demokrathaber.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78775,
+				"friends_count": 0,
+				"listed_count": 303,
+				"created_at": "Tue Jan 25 17:37:46 +0000 2011",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 133712,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "161317",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773458476056051712/E2wWK_Ly_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773458476056051712/E2wWK_Ly_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/242820583/1478385241",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0EBDA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Yatacağız kalkacağız, yatacağız kalkacağız T.C. hâlâ aynı T.C... https://t.co/MvEHS2hGj2"
+	},
+	{
 		"created_at": "Mon Apr 15 12:11:38 +0000 2019",
 		"id": 1117762401057767400,
 		"id_str": "1117762401057767425",
