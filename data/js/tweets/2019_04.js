@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 20:08:55 +0000 2019",
+		"id": 1120413850002763800,
+		"id_str": "1120419230267183104",
+		"full_text": "\"Türkler\" bence başka herhangi bir milletten daha iyi veya daha kötü insanlar değiller. Ancak \"Türk milli kültürü\", başka herhangi bir kültürle kıyaslanmayacak ölçüde habisleşmiş bir ur.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890904534222032900,
+			"id_str": "890904534222032896",
+			"name": "Real Sevan Nişanyan",
+			"screen_name": "SevanNisanyan_r",
+			"location": "Ελλάς",
+			"description": "“Köpekler kurtlardan nasıl nefret ederse öyle nefret eder halk da özgür ruhlu kişiden, zincirlerin düşmanından, tapınmayandan, ormanı mesken edinenden.”",
+			"url": "https://t.co/wJCoSORjno",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJCoSORjno",
+							"expanded_url": "http://www.nisanyansozluk.com",
+							"display_url": "nisanyansozluk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14758,
+			"friends_count": 209,
+			"listed_count": 66,
+			"created_at": "Fri Jul 28 11:59:27 +0000 2017",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1366,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/916792873005322240/xfEbjMxG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/916792873005322240/xfEbjMxG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890904534222032896/1511471234",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "\"Türkler\" bence başka herhangi bir milletten daha iyi veya daha kötü insanlar değiller. Ancak \"Türk milli kültürü\", başka herhangi bir kültürle kıyaslanmayacak ölçüde habisleşmiş bir ur."
+	},
+	{
 		"created_at": "Sat Apr 20 17:05:11 +0000 2019",
 		"id": 1119648214968410100,
 		"id_str": "1119648214968410114",
