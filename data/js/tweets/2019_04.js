@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 21:05:58 +0000 2019",
+		"id": 1121520749972467700,
+		"id_str": "1121520749972467714",
+		"full_text": "İyi ki bu kadar iyi bir basketbol takımımız var. Yoksa komple boku yemiştik. 💛💙 https://t.co/TOF8mNLrRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TOF8mNLrRG",
+					"expanded_url": "https://twitter.com/Fenerbahce/status/1121486383342919681",
+					"display_url": "twitter.com/Fenerbahce/sta…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 245,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121486383342919700,
+		"quoted_status_id_str": "1121486383342919681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TOF8mNLrRG",
+			"expanded": "https://twitter.com/Fenerbahce/status/1121486383342919681",
+			"display": "twitter.com/Fenerbahce/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 25 18:49:24 +0000 2019",
+			"id": 1121486383342919700,
+			"id_str": "1121486383342919681",
+			"full_text": "Dünyanın En Güzel Takımı yine ait olduğu yerde, üst üste 5. kez Final Four'da! 👏💛💙 https://t.co/BRPg8gR9as",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121483697646121000,
+						"id_str": "1121483697646120960",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/D5BQkpZXsAA9q8_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5BQkpZXsAA9q8_.jpg",
+						"url": "https://t.co/BRPg8gR9as",
+						"display_url": "pic.twitter.com/BRPg8gR9as",
+						"expanded_url": "https://twitter.com/Fenerbahce/status/1121486383342919681/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121483697646121000,
+						"id_str": "1121483697646120960",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/D5BQkpZXsAA9q8_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5BQkpZXsAA9q8_.jpg",
+						"url": "https://t.co/BRPg8gR9as",
+						"display_url": "pic.twitter.com/BRPg8gR9as",
+						"expanded_url": "https://twitter.com/Fenerbahce/status/1121486383342919681/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 54688,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1121483697646120960/vid/480x480/AjJsUv7cNWPN6DdW.mp4?tag=11"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1121483697646120960/vid/320x320/MJ4ZDanDUqiWJe0-.mp4?tag=11"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1121483697646120960/pl/ALc2De2A661pqDUL.m3u8?tag=11"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1121483697646120960/vid/720x720/Mjq7KSUeT-IkaRnR.mp4?tag=11"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11525172,
+				"id_str": "11525172",
+				"name": "Fenerbahçe SK",
+				"screen_name": "Fenerbahce",
+				"location": "Kadıköy, İstanbul",
+				"description": "Fenerbahçe Spor Kulübü resmi hesabı. The official account of Fenerbahçe SK. Please follow @Fenerbahce_EN for English.",
+				"url": "https://t.co/UChceCPj66",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UChceCPj66",
+								"expanded_url": "https://fenerbahce.org/fenerol",
+								"display_url": "fenerbahce.org/fenerol",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6548221,
+				"friends_count": 93,
+				"listed_count": 4236,
+				"created_at": "Wed Dec 26 07:40:58 +0000 2007",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 61450,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3D3936",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113834374154342401/xFXQG_0Y_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113834374154342401/xFXQG_0Y_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11525172/1554400123",
+				"profile_link_color": "002D72",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFF305",
+				"profile_text_color": "101080",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15537,
+			"favorite_count": 53931,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "İyi ki bu kadar iyi bir basketbol takımımız var. Yoksa komple boku yemiştik. 💛💙 https://t.co/TOF8mNLrRG"
+	},
+	{
 		"created_at": "Wed Apr 24 09:06:07 +0000 2019",
 		"id": 1120977206799478800,
 		"id_str": "1120977206799478785",
