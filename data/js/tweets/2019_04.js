@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 10:46:56 +0000 2019",
+		"id": 1122801719312814100,
+		"id_str": "1122814519158476800",
+		"full_text": "Sorularla Wikipedia sansürünün 2. yılı\nAhmet A. Sabancı, Susma Platformu için yazdı...\n\n#Susma \n#Wikipedia\n#Wikipediasız2Yıl\nhttps://t.co/IA6Fyutxpa https://t.co/FYIVisLnYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Susma",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "Wikipedia",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "Wikipediasız2Yıl",
+					"indices": [
+						107,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IA6Fyutxpa",
+					"expanded_url": "http://susma24.com/sorularla-wikipedia-sansurunun-2-yili/",
+					"display_url": "susma24.com/sorularla-wiki…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1122801534289567700,
+					"id_str": "1122801534289567745",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/D5T-C-yX4AE5zXs.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5T-C-yX4AE5zXs.png",
+					"url": "https://t.co/FYIVisLnYA",
+					"display_url": "pic.twitter.com/FYIVisLnYA",
+					"expanded_url": "https://twitter.com/susma_24/status/1122801719312814081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 777,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 777,
+							"h": 437,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122801534289567700,
+					"id_str": "1122801534289567745",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/D5T-C-yX4AE5zXs.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5T-C-yX4AE5zXs.png",
+					"url": "https://t.co/FYIVisLnYA",
+					"display_url": "pic.twitter.com/FYIVisLnYA",
+					"expanded_url": "https://twitter.com/susma_24/status/1122801719312814081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 777,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 777,
+							"h": 437,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1122799812892557300,
+		"in_reply_to_status_id_str": "1122799812892557313",
+		"in_reply_to_user_id": 788146455135608800,
+		"in_reply_to_user_id_str": "788146455135608832",
+		"in_reply_to_screen_name": "susma_24",
+		"user": {
+			"id": 788146455135608800,
+			"id_str": "788146455135608832",
+			"name": "SUSMA",
+			"screen_name": "susma_24",
+			"location": "İstanbul, Türkiye",
+			"description": "Sansüre ve Otosansüre Karşı Platform",
+			"url": "https://t.co/20hli4xwm4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/20hli4xwm4",
+							"expanded_url": "http://www.susma24.com",
+							"display_url": "susma24.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6490,
+			"friends_count": 304,
+			"listed_count": 41,
+			"created_at": "Mon Oct 17 22:35:32 +0000 2016",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879976969370251265/GFX4vfJ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879976969370251265/GFX4vfJ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788146455135608832/1476745349",
+			"profile_link_color": "773CBE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Sorularla Wikipedia sansürünün 2. yılı\nAhmet A. Sabancı, Susma Platformu için yazdı...\n\n#Susma \n#Wikipedia\n#Wikipediasız2Yıl\nhttps://t.co/IA6Fyutxpa https://t.co/FYIVisLnYA"
+	},
+	{
 		"created_at": "Sat Apr 27 20:40:12 +0000 2019",
 		"id": 1122239041968189400,
 		"id_str": "1122239041968189442",
