@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 17:07:42 +0000 2019",
+		"id": 1126877125938753500,
+		"id_str": "1126896606480039936",
+		"full_text": "Socrates Dergi'den sonra https://t.co/uHhXb58BEz'u da 90'lara döndürdük, o dönemin ruhunu yansıtmaya çalıştık. Bizce çok eğlenceli oldu!\n\n👉 https://t.co/zfXDLqWxZs https://t.co/6a8OJGWvBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uHhXb58BEz",
+					"expanded_url": "https://www.socratesdergi.com",
+					"display_url": "socratesdergi.com",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/zfXDLqWxZs",
+					"expanded_url": "https://www.socratesdergi.com/90lar.html",
+					"display_url": "socratesdergi.com/90lar.html",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126877119101980700,
+					"id_str": "1126877119101980673",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D6N4xPWW0AEAlGq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6N4xPWW0AEAlGq.jpg",
+					"url": "https://t.co/6a8OJGWvBt",
+					"display_url": "pic.twitter.com/6a8OJGWvBt",
+					"expanded_url": "https://twitter.com/SocratesDergi/status/1126877125938753536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126877119101980700,
+					"id_str": "1126877119101980673",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D6N4xPWW0AEAlGq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6N4xPWW0AEAlGq.jpg",
+					"url": "https://t.co/6a8OJGWvBt",
+					"display_url": "pic.twitter.com/6a8OJGWvBt",
+					"expanded_url": "https://twitter.com/SocratesDergi/status/1126877125938753536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2831651580,
+			"id_str": "2831651580",
+			"name": "Socrates",
+			"screen_name": "SocratesDergi",
+			"location": "info@socratesdergi.com",
+			"description": "Düşünen Spor Dergisi I https://t.co/ZJon7Dr0RB I Instagram: @socratesdergi I Abonelik: https://t.co/HWrzJBVue7",
+			"url": "https://t.co/08SaEzxHBY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/08SaEzxHBY",
+							"expanded_url": "http://www.socratesdergi.com/",
+							"display_url": "socratesdergi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZJon7Dr0RB",
+							"expanded_url": "http://youtube.com/socratesdergi",
+							"display_url": "youtube.com/socratesdergi",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/HWrzJBVue7",
+							"expanded_url": "http://dukkan.socratesdergi.com",
+							"display_url": "dukkan.socratesdergi.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 81030,
+			"friends_count": 217,
+			"listed_count": 410,
+			"created_at": "Thu Sep 25 11:59:03 +0000 2014",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8186,
+			"lang": "tr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D8D8D8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123944433773363201/vsZ6VYBV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123944433773363201/vsZ6VYBV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2831651580/1556655451",
+			"profile_link_color": "6E6E6E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Socrates Dergi'den sonra https://t.co/uHhXb58BEz'u da 90'lara döndürdük, o dönemin ruhunu yansıtmaya çalıştık. Bizce çok eğlenceli oldu!\n\n👉 https://t.co/zfXDLqWxZs https://t.co/6a8OJGWvBt"
+	},
+	{
 		"created_at": "Tue May 07 19:58:24 +0000 2019",
 		"id": 1125852399418081300,
 		"id_str": "1125852399418081280",
