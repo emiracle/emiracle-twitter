@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 19:28:04 +0000 2019",
+		"id": 1127294319407267800,
+		"id_str": "1127294319407267842",
+		"full_text": "@msbaykar @selimkaymakoglu Çok önemli bir şey ama öyle deme? Şapka olmadan bazı şeyleri yazamazsın. Mesela: \"Hâlâ halanı ziyarete gitmedin mi? Bugün karlı bir gün olsa da ondan alacağın para seni kâra geçirecek.\" 😉",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msbaykar",
+					"name": "mehmet selim baykar",
+					"id": 2790637098,
+					"id_str": "2790637098",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "selimkaymakoglu",
+					"name": "selim kaymakoglu",
+					"id": 1497881094,
+					"id_str": "1497881094",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1127289672277925900,
+		"in_reply_to_status_id_str": "1127289672277925888",
+		"in_reply_to_user_id": 2790637098,
+		"in_reply_to_user_id_str": "2790637098",
+		"in_reply_to_screen_name": "msbaykar",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 247,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4774,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@msbaykar @selimkaymakoglu Çok önemli bir şey ama öyle deme? Şapka olmadan bazı şeyleri yazamazsın. Mesela: \"Hâlâ halanı ziyarete gitmedin mi? Bugün karlı bir gün olsa da ondan alacağın para seni kâra geçirecek.\" 😉"
+	},
+	{
+		"created_at": "Sat May 11 11:20:00 +0000 2019",
+		"id": 1127171494197571600,
+		"id_str": "1127171494197571584",
+		"full_text": "@selimkaymakoglu Bunları kâle bile almaya değmez.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "selimkaymakoglu",
+					"name": "selim kaymakoglu",
+					"id": 1497881094,
+					"id_str": "1497881094",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1127170866134097900,
+		"in_reply_to_status_id_str": "1127170866134097920",
+		"in_reply_to_user_id": 1497881094,
+		"in_reply_to_user_id_str": "1497881094",
+		"in_reply_to_screen_name": "selimkaymakoglu",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 247,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4774,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@selimkaymakoglu Bunları kâle bile almaya değmez."
+	},
+	{
 		"created_at": "Fri May 10 17:07:42 +0000 2019",
 		"id": 1126877125938753500,
 		"id_str": "1126896606480039936",
