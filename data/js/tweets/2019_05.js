@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 00:15:56 +0000 2019",
+		"id": 1129178702187774000,
+		"id_str": "1129178702187773952",
+		"full_text": "@ilahisafakbey Annen de olsa cahil, anlayışsız ya da sadece kötü birisine tahammül etmek, anlayış göstermek, rızasını almak zorunda değilsin. İnsanın bedeninin bile doğuştan yanlış geldiği bir yaşamda, 'annelik' de doğuştan bir kutsiyetle gelmiyor.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilahisafakbey",
+					"name": "arın şａｆａｋᵏᵒᶜ",
+					"id": 933032411008585700,
+					"id_str": "933032411008585730",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1129099786525773800,
+		"in_reply_to_status_id_str": "1129099786525773824",
+		"in_reply_to_user_id": 933032411008585700,
+		"in_reply_to_user_id_str": "933032411008585730",
+		"in_reply_to_screen_name": "ilahisafakbey",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 245,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4775,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ilahisafakbey Annen de olsa cahil, anlayışsız ya da sadece kötü birisine tahammül etmek, anlayış göstermek, rızasını almak zorunda değilsin. İnsanın bedeninin bile doğuştan yanlış geldiği bir yaşamda, 'annelik' de doğuştan bir kutsiyetle gelmiyor."
+	},
+	{
 		"created_at": "Sat May 11 19:28:04 +0000 2019",
 		"id": 1127294319407267800,
 		"id_str": "1127294319407267842",
