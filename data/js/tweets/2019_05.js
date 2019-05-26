@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 20:12:31 +0000 2019",
+		"id": 1132378935403143200,
+		"id_str": "1132378935403143170",
+		"full_text": "Tamam anladık bankalar hırsızdır ama bari adları ile yayınevlerini kirletmesinler. Işık Ergüden başta olmak üzere hiçbir çevirmeninin emeğini gasp etmeyin! @YapiKrediKultur @YKYHaber https://t.co/ClSE9pgw7N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YapiKrediKultur",
+					"name": "YapıKrediKültürSanat",
+					"id": 97178604,
+					"id_str": "97178604",
+					"indices": [
+						156,
+						172
+					]
+				},
+				{
+					"screen_name": "YKYHaber",
+					"name": "Yapı Kredi Yayınları",
+					"id": 53635359,
+					"id_str": "53635359",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ClSE9pgw7N",
+					"expanded_url": "https://oggito.com/icerikler/cevirmen-isik-ergudenden-yapi-kredi-yayinlarina-acik-mektup/64026",
+					"display_url": "oggito.com/icerikler/cevi…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 246,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Tamam anladık bankalar hırsızdır ama bari adları ile yayınevlerini kirletmesinler. Işık Ergüden başta olmak üzere hiçbir çevirmeninin emeğini gasp etmeyin! @YapiKrediKultur @YKYHaber https://t.co/ClSE9pgw7N"
+	},
+	{
 		"created_at": "Mon May 20 20:58:57 +0000 2019",
 		"id": 1130578681653542900,
 		"id_str": "1130578681653542913",
