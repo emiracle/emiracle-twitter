@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 23:24:40 +0000 2019",
+		"id": 1133876843516506100,
+		"id_str": "1133876843516506112",
+		"full_text": "@yunusecgin @fkadev Aynı broşürde hem yenilen gıdalarla ilgisi yoktur diyor hem de diyet öneriyor?",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yunusecgin",
+					"name": "Yunus Seçgin",
+					"id": 153187299,
+					"id_str": "153187299",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "fkadev",
+					"name": "Fatih Kadir Akın 🤔",
+					"id": 229021888,
+					"id_str": "229021888",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1133641381254238200,
+		"in_reply_to_status_id_str": "1133641381254238208",
+		"in_reply_to_user_id": 153187299,
+		"in_reply_to_user_id_str": "153187299",
+		"in_reply_to_screen_name": "yunusecgin",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 246,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@yunusecgin @fkadev Aynı broşürde hem yenilen gıdalarla ilgisi yoktur diyor hem de diyet öneriyor?"
+	},
+	{
 		"created_at": "Mon May 27 15:33:14 +0000 2019",
 		"id": 1133033428725764100,
 		"id_str": "1133033428725764096",
