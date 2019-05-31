@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 08:25:59 +0000 2019",
+		"id": 1133770522943270900,
+		"id_str": "1134013071335284737",
+		"full_text": "\"Bah 155'i ararın haa\" diyen muhbir yobaza ve hoşuna gitmeyen her şeyi devlet babasına şikayet edip cezalandırılmasını bekleyenlere ateş püsküren ülkenin ÖZGÜRLÜKÇÜ SEKÜLER kesimi 2 gündür EmniyetGm, Cimer filan menşınlayıp kitap şikayet ediyor. LoL!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95475223,
+			"id_str": "95475223",
+			"name": "Sezgi 🇺🇸",
+			"screen_name": "kutsaliyok",
+			"location": "Philadelphia, PA",
+			"description": "Free speech is more important than your feelings!",
+			"url": "https://t.co/xFq8cCS4QV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xFq8cCS4QV",
+							"expanded_url": "https://twitter.com/tatyosbey/status/568733507222159361",
+							"display_url": "twitter.com/tatyosbey/stat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 803,
+			"friends_count": 73,
+			"listed_count": 19,
+			"created_at": "Tue Dec 08 18:36:36 +0000 2009",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076524831624097792/YaPCrbfL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076524831624097792/YaPCrbfL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95475223/1535911446",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e4a0d228eb6be76b",
+			"url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+			"place_type": "city",
+			"name": "Philadelphia",
+			"full_name": "Philadelphia, PA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-75.280284,
+							39.871811
+						],
+						[
+							-74.955712,
+							39.871811
+						],
+						[
+							-74.955712,
+							40.13792
+						],
+						[
+							-75.280284,
+							40.13792
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "\"Bah 155'i ararın haa\" diyen muhbir yobaza ve hoşuna gitmeyen her şeyi devlet babasına şikayet edip cezalandırılmasını bekleyenlere ateş püsküren ülkenin ÖZGÜRLÜKÇÜ SEKÜLER kesimi 2 gündür EmniyetGm, Cimer filan menşınlayıp kitap şikayet ediyor. LoL!"
+	},
+	{
 		"created_at": "Wed May 29 23:24:40 +0000 2019",
 		"id": 1133876843516506100,
 		"id_str": "1133876843516506112",
