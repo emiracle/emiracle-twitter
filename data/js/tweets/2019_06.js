@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 15:22:24 +0000 2019",
+		"id": 1136654578341044200,
+		"id_str": "1136654578341044224",
+		"full_text": "@medyapod @ahmetasabanci Ahmet'in \"finansal destekçisi\" ya da sadece \"destekçisi\". \"Patronu\" yanlış bir kullanım. İşvereni mi olacağız Ahmet'in?",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medyapod",
+					"name": "Medyapod",
+					"id": 1022771435293601800,
+					"id_str": "1022771435293601793",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ahmetasabanci",
+					"name": "Ahmet A. Sabancı",
+					"id": 55941547,
+					"id_str": "55941547",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1136594537374199800,
+		"in_reply_to_status_id_str": "1136594537374199808",
+		"in_reply_to_user_id": 1022771435293601800,
+		"in_reply_to_user_id_str": "1022771435293601793",
+		"in_reply_to_screen_name": "medyapod",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 247,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@medyapod @ahmetasabanci Ahmet'in \"finansal destekçisi\" ya da sadece \"destekçisi\". \"Patronu\" yanlış bir kullanım. İşvereni mi olacağız Ahmet'in?"
+	},
+	{
 		"created_at": "Wed Jun 05 15:41:04 +0000 2019",
 		"id": 1136296888523788300,
 		"id_str": "1136296888523788288",
