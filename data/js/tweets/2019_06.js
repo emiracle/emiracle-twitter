@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 13:16:59 +0000 2019",
+		"id": 1138072569913970700,
+		"id_str": "1138072569913970688",
+		"full_text": "Daha iki gün önce tribünde milli marş yuhalayanların, İsviçrelileri sahada dövenlerin zülfü yâre dokundu bir fırça... Her zaman derim: \"Türk milleti bir gariptir. İbne dersin kızar da sikersin aldırmaz.\" https://t.co/ViB92reIra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ViB92reIra",
+					"expanded_url": "https://twitter.com/elimdetuzluk/status/1138052118244470785",
+					"display_url": "twitter.com/elimdetuzluk/s…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 246,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138052118244470800,
+		"quoted_status_id_str": "1138052118244470785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ViB92reIra",
+			"expanded": "https://twitter.com/elimdetuzluk/status/1138052118244470785",
+			"display": "twitter.com/elimdetuzluk/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 10 11:55:43 +0000 2019",
+			"id": 1138052118244470800,
+			"id_str": "1138052118244470785",
+			"full_text": "Adama deli meli denmiş ama clowning yapıyor muhtemelen. \"A young icelandic guy aşırı ciddi bir ortama absürt bir şekilde dahil olarak komedi yapmak istiyor ve Türkiye Kompleks Cumhuriyeti gerçeğiyle tanışıyor\" olma ihtimali çok yüksek. https://t.co/klqV6b62yF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1138052112569589800,
+						"id_str": "1138052112569589761",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/D8ssXeGX4AEvmJO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8ssXeGX4AEvmJO.jpg",
+						"url": "https://t.co/klqV6b62yF",
+						"display_url": "pic.twitter.com/klqV6b62yF",
+						"expanded_url": "https://twitter.com/elimdetuzluk/status/1138052118244470785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138052112569589800,
+						"id_str": "1138052112569589761",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/D8ssXeGX4AEvmJO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8ssXeGX4AEvmJO.jpg",
+						"url": "https://t.co/klqV6b62yF",
+						"display_url": "pic.twitter.com/klqV6b62yF",
+						"expanded_url": "https://twitter.com/elimdetuzluk/status/1138052118244470785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95229139,
+				"id_str": "95229139",
+				"name": "Cevahir Bolayır",
+				"screen_name": "elimdetuzluk",
+				"location": "Kadıköy, İstanbul",
+				"description": "100 metreyi 10 saniyenin altında koşabiliyorum",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39208,
+				"friends_count": 439,
+				"listed_count": 175,
+				"created_at": "Mon Dec 07 16:13:45 +0000 2009",
+				"favourites_count": 77527,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075082539222609920/L0Gd5xDv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075082539222609920/L0Gd5xDv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95229139/1546948355",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 1021,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Daha iki gün önce tribünde milli marş yuhalayanların, İsviçrelileri sahada dövenlerin zülfü yâre dokundu bir fırça... Her zaman derim: \"Türk milleti bir gariptir. İbne dersin kızar da sikersin aldırmaz.\" https://t.co/ViB92reIra"
+	},
+	{
 		"created_at": "Thu Jun 06 15:22:24 +0000 2019",
 		"id": 1136654578341044200,
 		"id_str": "1136654578341044224",
