@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 23:09:54 +0000 2019",
+		"id": 1139308944051101700,
+		"id_str": "1139308944051101701",
+		"full_text": "Devletin valisine neden it denmediğini anlayamıyorum. Birisinin iti olmasa onu niye vali yapsınlar ki?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 248,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Devletin valisine neden it denmediğini anlayamıyorum. Birisinin iti olmasa onu niye vali yapsınlar ki?"
+	},
+	{
+		"created_at": "Thu Jun 13 16:25:57 +0000 2019",
+		"id": 1139207285677482000,
+		"id_str": "1139207285677481986",
+		"full_text": "@isil_arican Böyle bir imlâ ile doğru düzgün bir şey yazan birine rastlamadım henüz. https://t.co/BYcVtxVEmJ",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isil_arican",
+					"name": "Isil Arican",
+					"id": 20569249,
+					"id_str": "20569249",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139207282632380400,
+					"id_str": "1139207282632380416",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D89G_N7XUAA3nEF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D89G_N7XUAA3nEF.jpg",
+					"url": "https://t.co/BYcVtxVEmJ",
+					"display_url": "pic.twitter.com/BYcVtxVEmJ",
+					"expanded_url": "https://twitter.com/emiracle/status/1139207285677481986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139207282632380400,
+					"id_str": "1139207282632380416",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D89G_N7XUAA3nEF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D89G_N7XUAA3nEF.jpg",
+					"url": "https://t.co/BYcVtxVEmJ",
+					"display_url": "pic.twitter.com/BYcVtxVEmJ",
+					"expanded_url": "https://twitter.com/emiracle/status/1139207285677481986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1139198837568839700,
+		"in_reply_to_status_id_str": "1139198837568839681",
+		"in_reply_to_user_id": 20569249,
+		"in_reply_to_user_id_str": "20569249",
+		"in_reply_to_screen_name": "isil_arican",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 248,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@isil_arican Böyle bir imlâ ile doğru düzgün bir şey yazan birine rastlamadım henüz. https://t.co/BYcVtxVEmJ"
+	},
+	{
+		"created_at": "Thu Jun 13 11:50:43 +0000 2019",
+		"id": 1139138022149111800,
+		"id_str": "1139138022149111808",
+		"full_text": "@tanmorgul @TurkiyeBlizzard Tabii tabii öyle yapacağım. 20'sinden sonra raflara bakacağız artık. Hâlâ okumadığım makaleler var ilk sayıdan :)",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tanmorgul",
+					"name": "Tan Morgül",
+					"id": 245354744,
+					"id_str": "245354744",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TurkiyeBlizzard",
+					"name": "The Blizzard Türkiye",
+					"id": 1063294054631424000,
+					"id_str": "1063294054631424000",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1139130588772937700,
+		"in_reply_to_status_id_str": "1139130588772937728",
+		"in_reply_to_user_id": 245354744,
+		"in_reply_to_user_id_str": "245354744",
+		"in_reply_to_screen_name": "tanmorgul",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 248,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@tanmorgul @TurkiyeBlizzard Tabii tabii öyle yapacağım. 20'sinden sonra raflara bakacağız artık. Hâlâ okumadığım makaleler var ilk sayıdan :)"
+	},
+	{
+		"created_at": "Thu Jun 13 11:13:10 +0000 2019",
+		"id": 1139128575012065300,
+		"id_str": "1139128575012065280",
+		"full_text": "@TurkiyeBlizzard @tanmorgul Sözümü geri alıyorum. 10 TL kargo ücreti alıyorlar, 2 lira için pre-order yapmanın hiçbir anlamı yok. Kampanya ancak 75 TL ve üzeri alışveriş yapacaklar için anlamlı olmuş. (Kusura bakmayın, sizi baltalamak niyetinde değilim aslında ama gerçek bu.)",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TurkiyeBlizzard",
+					"name": "The Blizzard Türkiye",
+					"id": 1063294054631424000,
+					"id_str": "1063294054631424000",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "tanmorgul",
+					"name": "Tan Morgül",
+					"id": 245354744,
+					"id_str": "245354744",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1139127191176917000,
+		"in_reply_to_status_id_str": "1139127191176916994",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 248,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@TurkiyeBlizzard @tanmorgul Sözümü geri alıyorum. 10 TL kargo ücreti alıyorlar, 2 lira için pre-order yapmanın hiçbir anlamı yok. Kampanya ancak 75 TL ve üzeri alışveriş yapacaklar için anlamlı olmuş. (Kusura bakmayın, sizi baltalamak niyetinde değilim aslında ama gerçek bu.)"
+	},
+	{
 		"created_at": "Wed Jun 12 18:00:51 +0000 2019",
 		"id": 1138868782913458200,
 		"id_str": "1138868782913458176",
