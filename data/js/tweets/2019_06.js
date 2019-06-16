@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 16:36:00 +0000 2019",
+		"id": 1139934593635835900,
+		"id_str": "1139934593635835909",
+		"full_text": "@icmihraktwister @gunzileli @Komunist_Hermes Senin de 31'ci anarşizmin sıktı be. 16 yaşında liseli misin ya?",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "icmihraktwister",
+					"name": "iç-mihrak",
+					"id": 285315971,
+					"id_str": "285315971",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "gunzileli",
+					"name": "gün zileli",
+					"id": 130488429,
+					"id_str": "130488429",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "Komunist_Hermes",
+					"name": "Hermes",
+					"id": 857313694140833800,
+					"id_str": "857313694140833794",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1139881778854785000,
+		"in_reply_to_status_id_str": "1139881778854785024",
+		"in_reply_to_user_id": 285315971,
+		"in_reply_to_user_id_str": "285315971",
+		"in_reply_to_screen_name": "icmihraktwister",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 246,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@icmihraktwister @gunzileli @Komunist_Hermes Senin de 31'ci anarşizmin sıktı be. 16 yaşında liseli misin ya?"
+	},
+	{
 		"created_at": "Sat Jun 15 00:08:57 +0000 2019",
 		"id": 1139686193694556200,
 		"id_str": "1139686193694556162",
