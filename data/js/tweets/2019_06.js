@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 24 20:25:35 +0000 2019",
+		"id": 1143253861538455600,
+		"id_str": "1143253861538455553",
+		"full_text": "@saglamtolga_ @ithakiyayinlari @TurkiyeBlizzard Ben bugün İstiklâl Caddesi Mephisto'dan aldım. 3'ncü katta, dergi standında.",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saglamtolga_",
+					"name": "Tolga Sağlam",
+					"id": 894213018665537500,
+					"id_str": "894213018665537537",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ithakiyayinlari",
+					"name": "İthaki Yayınları",
+					"id": 105742028,
+					"id_str": "105742028",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "TurkiyeBlizzard",
+					"name": "The Blizzard Türkiye",
+					"id": 1063294054631424000,
+					"id_str": "1063294054631424000",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1143201485095886800,
+		"in_reply_to_status_id_str": "1143201485095886849",
+		"in_reply_to_user_id": 894213018665537500,
+		"in_reply_to_user_id_str": "894213018665537537",
+		"in_reply_to_screen_name": "saglamtolga_",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 249,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@saglamtolga_ @ithakiyayinlari @TurkiyeBlizzard Ben bugün İstiklâl Caddesi Mephisto'dan aldım. 3'ncü katta, dergi standında."
+	},
+	{
+		"created_at": "Mon Jun 24 17:56:08 +0000 2019",
+		"id": 1143216250392391700,
+		"id_str": "1143216250392391681",
+		"full_text": "@alpos @TurkiyeBlizzard Yok. Biletle girilen bir yaş değil henüz :) Ben küçük gösterdiğim için 13 yaşına kadar biletsiz girdim maçlara... Bir süre sonra yemediler tabii :)",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alpos",
+					"name": "Alp Ulagay",
+					"id": 26708466,
+					"id_str": "26708466",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "TurkiyeBlizzard",
+					"name": "The Blizzard Türkiye",
+					"id": 1063294054631424000,
+					"id_str": "1063294054631424000",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1143212119460130800,
+		"in_reply_to_status_id_str": "1143212119460130817",
+		"in_reply_to_user_id": 26708466,
+		"in_reply_to_user_id_str": "26708466",
+		"in_reply_to_screen_name": "alpos",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 249,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@alpos @TurkiyeBlizzard Yok. Biletle girilen bir yaş değil henüz :) Ben küçük gösterdiğim için 13 yaşına kadar biletsiz girdim maçlara... Bir süre sonra yemediler tabii :)"
+	},
+	{
+		"created_at": "Mon Jun 24 17:31:44 +0000 2019",
+		"id": 1143132698187325400,
+		"id_str": "1143210108991758336",
+		"full_text": "\"O tozlar bu çamurları getirdi.\" https://t.co/19wWSYAkhA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143132662774808600,
+					"id_str": "1143132662774808577",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D905GafWwAE0JQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D905GafWwAE0JQj.jpg",
+					"url": "https://t.co/19wWSYAkhA",
+					"display_url": "pic.twitter.com/19wWSYAkhA",
+					"expanded_url": "https://twitter.com/cerenonder_/status/1143132698187325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143132662774808600,
+					"id_str": "1143132662774808577",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D905GafWwAE0JQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D905GafWwAE0JQj.jpg",
+					"url": "https://t.co/19wWSYAkhA",
+					"display_url": "pic.twitter.com/19wWSYAkhA",
+					"expanded_url": "https://twitter.com/cerenonder_/status/1143132698187325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1143132662791573500,
+					"id_str": "1143132662791573504",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D905GajWkAAyGTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D905GajWkAAyGTE.jpg",
+					"url": "https://t.co/19wWSYAkhA",
+					"display_url": "pic.twitter.com/19wWSYAkhA",
+					"expanded_url": "https://twitter.com/cerenonder_/status/1143132698187325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 921,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4859562915,
+			"id_str": "4859562915",
+			"name": "ceren önder",
+			"screen_name": "cerenonder_",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/O7N0LCtuab",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7N0LCtuab",
+							"expanded_url": "https://twitter.com/cerenonder_",
+							"display_url": "twitter.com/cerenonder_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17672,
+			"friends_count": 171,
+			"listed_count": 1,
+			"created_at": "Fri Jan 29 09:04:03 +0000 2016",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972415982559006720/-ibIy8F__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972415982559006720/-ibIy8F__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6608,
+		"favorite_count": 29690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "\"O tozlar bu çamurları getirdi.\" https://t.co/19wWSYAkhA"
+	},
+	{
+		"created_at": "Mon Jun 24 16:40:25 +0000 2019",
+		"id": 1143197196206186500,
+		"id_str": "1143197196206186496",
+		"full_text": "@alpos @TurkiyeBlizzard Evet Maraton. 4-1'lik Konyaspor maçı olması lazım.\nHayatımda gittiğim ilk futbol maçı da yine bu sezonda 14'ncü haftadaki Boluspor maçıydı. 4-2 kazanmıştık, Rıdvan güzel bir gol atmıştı. 😀",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alpos",
+					"name": "Alp Ulagay",
+					"id": 26708466,
+					"id_str": "26708466",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "TurkiyeBlizzard",
+					"name": "The Blizzard Türkiye",
+					"id": 1063294054631424000,
+					"id_str": "1063294054631424000",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1143192169316048900,
+		"in_reply_to_status_id_str": "1143192169316048898",
+		"in_reply_to_user_id": 26708466,
+		"in_reply_to_user_id_str": "26708466",
+		"in_reply_to_screen_name": "alpos",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 249,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@alpos @TurkiyeBlizzard Evet Maraton. 4-1'lik Konyaspor maçı olması lazım.\nHayatımda gittiğim ilk futbol maçı da yine bu sezonda 14'ncü haftadaki Boluspor maçıydı. 4-2 kazanmıştık, Rıdvan güzel bir gol atmıştı. 😀"
+	},
+	{
 		"created_at": "Sun Jun 23 19:25:55 +0000 2019",
 		"id": 1142876455019450400,
 		"id_str": "1142876455019450369",
