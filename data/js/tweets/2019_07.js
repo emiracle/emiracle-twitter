@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 12:21:50 +0000 2019",
+		"id": 1148168769094783000,
+		"id_str": "1148205548443189254",
+		"full_text": "Selahattin Demirtaş, yargılandığı davanın ne kadar uyduruk delillere dayandığını bir salağa anlatır gibi tek tek açıklamış https://t.co/99RDf8m1qD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/99RDf8m1qD",
+					"expanded_url": "https://twitter.com/hdpdemirtas/status/1148112381219889154",
+					"display_url": "twitter.com/hdpdemirtas/st…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778160555467079700,
+			"id_str": "778160555467079680",
+			"name": "zerrdust",
+			"screen_name": "zerrdust",
+			"location": "Istán, España",
+			"description": "Vamos | Khalkedon | Rojava | Behram",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449,
+			"friends_count": 189,
+			"listed_count": 3,
+			"created_at": "Tue Sep 20 09:15:08 +0000 2016",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778162547883147264/EIonFMAJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778162547883147264/EIonFMAJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778160555467079680/1474363429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148112381219889200,
+		"quoted_status_id_str": "1148112381219889154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/99RDf8m1qD",
+			"expanded": "https://twitter.com/hdpdemirtas/status/1148112381219889154",
+			"display": "twitter.com/hdpdemirtas/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 08 06:11:37 +0000 2019",
+			"id": 1148112381219889200,
+			"id_str": "1148112381219889154",
+			"full_text": "1- Merhaba, umarım hepiniz daha iyisinizdir. Biz de iyiyiz. Sözde yargılandığım davaya dair biraz bilgi vermek istiyorum. Malum nedenlerle, medyanın önemli bir kısmı duruşmalarımı takip etmiyor. Ancak herkesin gerçekleri bilme hakkı var.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224609329,
+				"id_str": "224609329",
+				"name": "Selahattin Demirtaş",
+				"screen_name": "hdpdemirtas",
+				"location": "",
+				"description": "Siyasi rehine",
+				"url": "https://t.co/H63KYxZDAS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H63KYxZDAS",
+								"expanded_url": "http://www.hdp.org.tr",
+								"display_url": "hdp.org.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1757529,
+				"friends_count": 1022,
+				"listed_count": 1686,
+				"created_at": "Thu Dec 09 12:21:24 +0000 2010",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1935,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075271391530893313/gpWHf1ki_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075271391530893313/gpWHf1ki_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224609329/1545199635",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7681,
+			"favorite_count": 26991,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Selahattin Demirtaş, yargılandığı davanın ne kadar uyduruk delillere dayandığını bir salağa anlatır gibi tek tek açıklamış https://t.co/99RDf8m1qD"
+	},
+	{
 		"created_at": "Wed Jul 03 22:01:22 +0000 2019",
 		"id": 1146539457052643300,
 		"id_str": "1146539457052643330",
