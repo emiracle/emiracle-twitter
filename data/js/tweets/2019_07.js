@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 12:21:21 +0000 2019",
+		"id": 1148567817777832000,
+		"id_str": "1148567817777831936",
+		"full_text": "@e_hakan_i @leventp @SunaVarol_ Sen mi yapacaksın siyaseti simitçi bıyık? Fatih Tezcan retweet'leyen bir meczupsun belli ki.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "e_hakan_i",
+					"name": "Emin Hakan IŞIK",
+					"id": 125999363,
+					"id_str": "125999363",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "leventp",
+					"name": "Levent Pekcan",
+					"id": 755912,
+					"id_str": "755912",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "SunaVarol_",
+					"name": "Suna Varol",
+					"id": 872403805148553200,
+					"id_str": "872403805148553216",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1148557448569073700,
+		"in_reply_to_status_id_str": "1148557448569073664",
+		"in_reply_to_user_id": 125999363,
+		"in_reply_to_user_id_str": "125999363",
+		"in_reply_to_screen_name": "e_hakan_i",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 250,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@e_hakan_i @leventp @SunaVarol_ Sen mi yapacaksın siyaseti simitçi bıyık? Fatih Tezcan retweet'leyen bir meczupsun belli ki."
+	},
+	{
 		"created_at": "Mon Jul 08 12:21:50 +0000 2019",
 		"id": 1148168769094783000,
 		"id_str": "1148205548443189254",
