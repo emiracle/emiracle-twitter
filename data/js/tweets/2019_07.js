@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 12:58:43 +0000 2019",
+		"id": 1149995930109784000,
+		"id_str": "1150026773444333568",
+		"full_text": "Vikipedi'nin ne kadar büyük bir proje olduğunu şöyle de anlayabiliriz: 9 senedir gece gündüz demeden ufacık bir ekip olarak @evrimagaci'na yazı yazıyoruz ve bugüne kadar yaklaşık 5 milyon kelime yazmışız. Türkçe Vikipedi'nin tamamında 35 milyon kelime bulunuyor.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evrimagaci",
+					"name": "Evrim Ağacı",
+					"id": 262348793,
+					"id_str": "262348793",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187316309,
+			"id_str": "187316309",
+			"name": "Çağrı Mert Bakırcı",
+			"screen_name": "cagrimbakirci",
+			"location": "Lubbock",
+			"description": "PhD. Science Communicator and Author. Featured in: @nature, @sciam. Founder/CEO: @evrimagaci, @treeofevo, @kreosus. Board Member: @Balkan_Science",
+			"url": "https://t.co/WLut8ArPMG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WLut8ArPMG",
+							"expanded_url": "http://www.evrimagaci.org/",
+							"display_url": "evrimagaci.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73952,
+			"friends_count": 936,
+			"listed_count": 301,
+			"created_at": "Sun Sep 05 22:07:37 +0000 2010",
+			"favourites_count": 15059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/712891732338159616/7cS7VDqr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/712891732338159616/7cS7VDqr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187316309/1458802328",
+			"profile_link_color": "FF2240",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 2531,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Vikipedi'nin ne kadar büyük bir proje olduğunu şöyle de anlayabiliriz: 9 senedir gece gündüz demeden ufacık bir ekip olarak @evrimagaci'na yazı yazıyoruz ve bugüne kadar yaklaşık 5 milyon kelime yazmışız. Türkçe Vikipedi'nin tamamında 35 milyon kelime bulunuyor."
+	},
+	{
 		"created_at": "Fri Jul 12 18:06:49 +0000 2019",
 		"id": 1149741920438169600,
 		"id_str": "1149741920438169600",
