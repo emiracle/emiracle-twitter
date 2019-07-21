@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 14:46:34 +0000 2019",
+		"id": 1152587866578571300,
+		"id_str": "1152590626476740611",
+		"full_text": "Mükemmel zincir.\n\nDüşünsene, astronot olmuşsun, hala çükünün boyu hakkında yalan söylüyorsun. Ve bunun sonucu olarak işeme düzeneği bol geliyor, tüm kıyafetinin içi çiş doluyor.\n\nAdalet. https://t.co/VK028losSA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VK028losSA",
+					"expanded_url": "https://twitter.com/MaryRobinette/status/1152277166996017152",
+					"display_url": "twitter.com/MaryRobinette/…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224816746,
+			"id_str": "224816746",
+			"name": "Immanuel Tolstoyevski",
+			"screen_name": "imTolstoyevski",
+			"location": "yarı-seyyar",
+			"description": "Yazın gönüllülük ile seyahat, kışın cognitive psy seminerleri, yakında Safsata Ansiklopedisi, ve her daim Fularsız Entellik. (@sozluk ve mühendis eskisi)",
+			"url": "https://t.co/xcvzWPkxdu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xcvzWPkxdu",
+							"expanded_url": "http://fularsizentellik.com",
+							"display_url": "fularsizentellik.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39356,
+			"friends_count": 457,
+			"listed_count": 193,
+			"created_at": "Thu Dec 09 23:09:12 +0000 2010",
+			"favourites_count": 2626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725536750303498243/Nan8JTpi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725536750303498243/Nan8JTpi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224816746/1461816465",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1152277166996017200,
+		"quoted_status_id_str": "1152277166996017152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VK028losSA",
+			"expanded": "https://twitter.com/MaryRobinette/status/1152277166996017152",
+			"display": "twitter.com/MaryRobinette/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 19 18:00:59 +0000 2019",
+			"id": 1152277166996017200,
+			"id_str": "1152277166996017152",
+			"full_text": "Let's talk about peeing in space. \n\nSeveral people, in response to my NY Times essay, have said that women couldn't go into space because we lacked the technology for them to pee in space.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12418482,
+				"id_str": "12418482",
+				"name": "Mary Robinette Kowal",
+				"screen_name": "MaryRobinette",
+				"location": "Nashville, TN",
+				"description": "Nebula and Hugo-award winning SFF author, professional puppeteer, & narrator (she/her) 'Mary Robinette' just like 'Mary Anne.' Support: https://t.co/Y2MjT9vGXW",
+				"url": "http://t.co/yXqTqTLTQS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yXqTqTLTQS",
+								"expanded_url": "http://www.maryrobinettekowal.com",
+								"display_url": "maryrobinettekowal.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Y2MjT9vGXW",
+								"expanded_url": "http://patreon.com/maryrobinette",
+								"display_url": "patreon.com/maryrobinette",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 51255,
+				"friends_count": 1403,
+				"listed_count": 1567,
+				"created_at": "Fri Jan 18 23:27:32 +0000 2008",
+				"favourites_count": 33717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75180,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBD4C1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096083066328477697/_py_j1Pm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096083066328477697/_py_j1Pm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12418482/1517004380",
+				"profile_link_color": "7B8894",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "8F2E2E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25159,
+			"favorite_count": 61171,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Mükemmel zincir.\n\nDüşünsene, astronot olmuşsun, hala çükünün boyu hakkında yalan söylüyorsun. Ve bunun sonucu olarak işeme düzeneği bol geliyor, tüm kıyafetinin içi çiş doluyor.\n\nAdalet. https://t.co/VK028losSA"
+	},
+	{
 		"created_at": "Thu Jul 18 19:39:18 +0000 2019",
 		"id": 1151939522365722600,
 		"id_str": "1151939522365722624",
