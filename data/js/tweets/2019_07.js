@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 19:16:22 +0000 2019",
+		"id": 1156168093284089900,
+		"id_str": "1156282402597212160",
+		"full_text": "Türk milletinin başına ne fenalık gelmişse kişisel kifayetsizliğini, tembelliğini, cahilliğini vatan-millet-bayrak-Ata yahut din-i Muhammed ardına saklayarak mevzi tutanlardan gelmiştir.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890904534222032900,
+			"id_str": "890904534222032896",
+			"name": "Real Sevan Nişanyan",
+			"screen_name": "SevanNisanyan_r",
+			"location": "Ελλάς",
+			"description": "İdiotsavar.",
+			"url": "https://t.co/wJCoSORjno",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJCoSORjno",
+							"expanded_url": "http://www.nisanyansozluk.com",
+							"display_url": "nisanyansozluk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16948,
+			"friends_count": 221,
+			"listed_count": 82,
+			"created_at": "Fri Jul 28 11:59:27 +0000 2017",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125441442321698816/n8dZssow_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125441442321698816/n8dZssow_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890904534222032896/1511471234",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Türk milletinin başına ne fenalık gelmişse kişisel kifayetsizliğini, tembelliğini, cahilliğini vatan-millet-bayrak-Ata yahut din-i Muhammed ardına saklayarak mevzi tutanlardan gelmiştir."
+	},
+	{
 		"created_at": "Tue Jul 23 00:35:16 +0000 2019",
 		"id": 1153463554059702300,
 		"id_str": "1153463554059702276",
