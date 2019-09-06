@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 21:32:33 +0000 2019",
+		"id": 1169721155932106800,
+		"id_str": "1169725025986994177",
+		"full_text": "Karşı evin penceresi, 00.15 https://t.co/3Lu8Rg8nPm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169721138475409400,
+					"id_str": "1169721138475409409",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EDuvLZEXoAEWJTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDuvLZEXoAEWJTo.jpg",
+					"url": "https://t.co/3Lu8Rg8nPm",
+					"display_url": "pic.twitter.com/3Lu8Rg8nPm",
+					"expanded_url": "https://twitter.com/tumsev/status/1169721155932106752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169721138475409400,
+					"id_str": "1169721138475409409",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EDuvLZEXoAEWJTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDuvLZEXoAEWJTo.jpg",
+					"url": "https://t.co/3Lu8Rg8nPm",
+					"display_url": "pic.twitter.com/3Lu8Rg8nPm",
+					"expanded_url": "https://twitter.com/tumsev/status/1169721155932106752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297340072,
+			"id_str": "297340072",
+			"name": "Tümsev Sayar☁️",
+			"screen_name": "tumsev",
+			"location": "İstanbul, Türkiye",
+			"description": "roses are red,\nthis life is a lie,\nexistence is pain,\ni just wanna die.\n\n-mr. meeseeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 463,
+			"friends_count": 607,
+			"listed_count": 0,
+			"created_at": "Thu May 12 10:43:52 +0000 2011",
+			"favourites_count": 15618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163142338195144704/2IujpW8W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163142338195144704/2IujpW8W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1542834076",
+			"profile_link_color": "0A0909",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Karşı evin penceresi, 00.15 https://t.co/3Lu8Rg8nPm"
+	},
+	{
 		"created_at": "Wed Sep 04 23:58:27 +0000 2019",
 		"id": 1169399356295979000,
 		"id_str": "1169399356295979008",
