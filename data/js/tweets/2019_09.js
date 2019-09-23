@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 13:03:18 +0000 2019",
+		"id": 1175757461661323300,
+		"id_str": "1175757461661323264",
+		"full_text": "@grandemt7 @PlayStationTR Bulduğun en ucuz fiyat hangisi? Mümkünse link paylaşabilir misin?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grandemt7",
+					"name": "GrandeMT",
+					"id": 1008789266489540600,
+					"id_str": "1008789266489540612",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "PlayStationTR",
+					"name": "PlayStation Türkiye",
+					"id": 229763989,
+					"id_str": "229763989",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1175745668473921500,
+		"in_reply_to_status_id_str": "1175745668473921538",
+		"in_reply_to_user_id": 1008789266489540600,
+		"in_reply_to_user_id_str": "1008789266489540612",
+		"in_reply_to_screen_name": "grandemt7",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@grandemt7 @PlayStationTR Bulduğun en ucuz fiyat hangisi? Mümkünse link paylaşabilir misin?"
+	},
+	{
 		"created_at": "Fri Sep 20 21:15:04 +0000 2019",
 		"id": 1175156444515225600,
 		"id_str": "1175156444515225600",
