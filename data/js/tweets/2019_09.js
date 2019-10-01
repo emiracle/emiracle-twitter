@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 16:11:06 +0000 2019",
+		"id": 1178703825882042400,
+		"id_str": "1178703825882042369",
+		"full_text": "@UtkuOgeturk @elcgurer Shyamalan filmlerinden ancak gerçekten sinemadan anlayanlar zevk alabilir. Savunmak ne demek anlamadım? 😉",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UtkuOgeturk",
+					"name": "Utku Ögetürk",
+					"id": 145641389,
+					"id_str": "145641389",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "elcgurer",
+					"name": "ritivitci kadin kökenli birey",
+					"id": 1474066183,
+					"id_str": "1474066183",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1178622161562603500,
+		"in_reply_to_status_id_str": "1178622161562603520",
+		"in_reply_to_user_id": 145641389,
+		"in_reply_to_user_id_str": "145641389",
+		"in_reply_to_screen_name": "UtkuOgeturk",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@UtkuOgeturk @elcgurer Shyamalan filmlerinden ancak gerçekten sinemadan anlayanlar zevk alabilir. Savunmak ne demek anlamadım? 😉"
+	},
+	{
+		"created_at": "Mon Sep 30 16:06:02 +0000 2019",
+		"id": 1178702554022207500,
+		"id_str": "1178702554022207489",
+		"full_text": "I ❤️ you too Ed, always. https://t.co/TnzltZ80Vm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TnzltZ80Vm",
+					"expanded_url": "https://twitter.com/Snowden/status/1178698035385249792",
+					"display_url": "twitter.com/Snowden/status…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178698035385249800,
+		"quoted_status_id_str": "1178698035385249792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TnzltZ80Vm",
+			"expanded": "https://twitter.com/Snowden/status/1178698035385249792",
+			"display": "twitter.com/Snowden/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 30 15:48:05 +0000 2019",
+			"id": 1178698035385249800,
+			"id_str": "1178698035385249792",
+			"full_text": "Finally, I owe gratitude to each of you, the readers. It is you, the free minds of every country, that give me hope for the future. I love you, my faraway friends. \n\nStay free.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1178697865822195700,
+			"in_reply_to_status_id_str": "1178697865822195713",
+			"in_reply_to_user_id": 2916305152,
+			"in_reply_to_user_id_str": "2916305152",
+			"in_reply_to_screen_name": "Snowden",
+			"user": {
+				"id": 2916305152,
+				"id_str": "2916305152",
+				"name": "Edward Snowden",
+				"screen_name": "Snowden",
+				"location": "",
+				"description": "I used to work for the government. Now I work for the public. President at @FreedomofPress.",
+				"url": "https://t.co/U63fP7T2ST",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U63fP7T2ST",
+								"expanded_url": "https://freedom.press",
+								"display_url": "freedom.press",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4074275,
+				"friends_count": 1,
+				"listed_count": 22952,
+				"created_at": "Thu Dec 11 21:24:28 +0000 2014",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4014,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2916305152/1443542022",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 275,
+			"favorite_count": 1975,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I ❤️ you too Ed, always. https://t.co/TnzltZ80Vm"
+	},
+	{
+		"created_at": "Mon Sep 30 13:12:38 +0000 2019",
+		"id": 1178658913635442700,
+		"id_str": "1178658913635442688",
+		"full_text": "@zindekultur \"Ulan öküz devletçi! Sizin kültürle, zindelikle ne işiniz var? Kültür lazımsa bunu biz yaparız. Zindelik gerekiyorsa onu da biz getiririz. Sizin iki vazifeniz var: Birincisi milli ideolojinin ezberlerini papağan gibi tekrar etmek ve ikincisi de çağırdığımızda askere gelmek\" 😉",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zindekultur",
+					"name": "Zinde Kültür",
+					"id": 1523098741,
+					"id_str": "1523098741",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178656761328390100,
+		"in_reply_to_status_id_str": "1178656761328390144",
+		"in_reply_to_user_id": 1523098741,
+		"in_reply_to_user_id_str": "1523098741",
+		"in_reply_to_screen_name": "zindekultur",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@zindekultur \"Ulan öküz devletçi! Sizin kültürle, zindelikle ne işiniz var? Kültür lazımsa bunu biz yaparız. Zindelik gerekiyorsa onu da biz getiririz. Sizin iki vazifeniz var: Birincisi milli ideolojinin ezberlerini papağan gibi tekrar etmek ve ikincisi de çağırdığımızda askere gelmek\" 😉"
+	},
+	{
+		"created_at": "Mon Sep 30 12:45:23 +0000 2019",
+		"id": 1178652056158183400,
+		"id_str": "1178652056158183424",
+		"full_text": "@zindekultur Yol aldım zaten merak etme. Kültür filan deyince ben de bir şey sanıp takip etmişim, hemen takipten çıktım. TGB seviyesinde bir propagandist hesabını niye takip edeyim zaten, orta okulda bu muhabbetlerin ne kadar boş olduğunu çoktan idrak etmiştim.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zindekultur",
+					"name": "Zinde Kültür",
+					"id": 1523098741,
+					"id_str": "1523098741",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178649254933536800,
+		"in_reply_to_status_id_str": "1178649254933536778",
+		"in_reply_to_user_id": 1523098741,
+		"in_reply_to_user_id_str": "1523098741",
+		"in_reply_to_screen_name": "zindekultur",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@zindekultur Yol aldım zaten merak etme. Kültür filan deyince ben de bir şey sanıp takip etmişim, hemen takipten çıktım. TGB seviyesinde bir propagandist hesabını niye takip edeyim zaten, orta okulda bu muhabbetlerin ne kadar boş olduğunu çoktan idrak etmiştim."
+	},
+	{
 		"created_at": "Thu Sep 26 21:45:14 +0000 2019",
 		"id": 1177338365282115600,
 		"id_str": "1177338365282115584",
