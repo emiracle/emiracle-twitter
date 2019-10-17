@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 15:07:35 +0000 2019",
+		"id": 1184397157056598000,
+		"id_str": "1184486047310405633",
+		"full_text": "Democide nedir serisi:\n\n1- Democide eski yunanca  “halk” ve “öldürme” sözcüklerinden oluşur.  \n\nR. J. Rummel bu kavramı şöyle tanımlamış: Ülkedeki bir iktidarın kararları sonucu gerçekleşen (jenosit(soykırım), politisid (siyasi katliam) ve kitle kıyımları dahil her türlü ölüm\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190247958,
+			"id_str": "190247958",
+			"name": "Koray Pehlivanoğlu",
+			"screen_name": "korayphlvglu",
+			"location": "İstanbul, Türkiye",
+			"description": "Yalnız varolan bilinir...",
+			"url": "https://t.co/WQfp9U2HqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQfp9U2HqC",
+							"expanded_url": "http://koraypehlivanoglu.blogspot.com",
+							"display_url": "koraypehlivanoglu.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22769,
+			"friends_count": 1832,
+			"listed_count": 75,
+			"created_at": "Mon Sep 13 13:31:30 +0000 2010",
+			"favourites_count": 100295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 163221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027632293672873984/LdCW1xl-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027632293672873984/LdCW1xl-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190247958/1398245694",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Democide nedir serisi:\n\n1- Democide eski yunanca  “halk” ve “öldürme” sözcüklerinden oluşur.  \n\nR. J. Rummel bu kavramı şöyle tanımlamış: Ülkedeki bir iktidarın kararları sonucu gerçekleşen (jenosit(soykırım), politisid (siyasi katliam) ve kitle kıyımları dahil her türlü ölüm\""
+	},
+	{
+		"created_at": "Wed Oct 16 14:54:14 +0000 2019",
+		"id": 1184482688289460200,
+		"id_str": "1184482688289460224",
+		"full_text": "@samettulca \"Aslan Asker Şvayk\" kitabının yazarı. Anarşist olduğunu ben de bilmiyordum senenin başına kadar. Anarşist olunca ilgimi çekti :)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samettulca",
+					"name": "Samet Tulça",
+					"id": 962355935258824700,
+					"id_str": "962355935258824704",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1184481202268442600,
+		"in_reply_to_status_id_str": "1184481202268442624",
+		"in_reply_to_user_id": 962355935258824700,
+		"in_reply_to_user_id_str": "962355935258824704",
+		"in_reply_to_screen_name": "samettulca",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@samettulca \"Aslan Asker Şvayk\" kitabının yazarı. Anarşist olduğunu ben de bilmiyordum senenin başına kadar. Anarşist olunca ilgimi çekti :)"
+	},
+	{
 		"created_at": "Tue Oct 15 17:40:51 +0000 2019",
 		"id": 1184162233577857000,
 		"id_str": "1184162233577857025",
