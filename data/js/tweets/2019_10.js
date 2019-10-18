@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 17 21:08:39 +0000 2019",
+		"id": 1184939303824253000,
+		"id_str": "1184939303824252928",
+		"full_text": "Yüz binleri yerinden ettiniz, insanları öldürdünüz. Devletiniz batsın! https://t.co/bAQLdX3KJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bAQLdX3KJG",
+					"expanded_url": "https://twitter.com/AlArabiya_Eng/status/1184899375899635712",
+					"display_url": "twitter.com/AlArabiya_Eng/…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184899375899635700,
+		"quoted_status_id_str": "1184899375899635712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bAQLdX3KJG",
+			"expanded": "https://twitter.com/AlArabiya_Eng/status/1184899375899635712",
+			"display": "twitter.com/AlArabiya_Eng/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 17 18:30:00 +0000 2019",
+			"id": 1184899375899635700,
+			"id_str": "1184899375899635712",
+			"full_text": "A Turkish offensive into northeast Syria has led to the death of 224 from the Kurdish-led SDF and 183 Turkish-backed rebels after the first eight days of fighting, the Syrian Observatory reports.\n\nhttps://t.co/0kTQetbHUG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0kTQetbHUG",
+						"expanded_url": "https://english.alarabiya.net/en/News/middle-east/2019/10/17/224-SDF-soldiers-183-Turkish-backed-rebels-killed-in-Syria-clashes-monitor-.html",
+						"display_url": "english.alarabiya.net/en/News/middle…",
+						"indices": [
+							197,
+							220
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22240612,
+				"id_str": "22240612",
+				"name": "Al Arabiya English",
+				"screen_name": "AlArabiya_Eng",
+				"location": "Dubai",
+				"description": "The English service of Al Arabiya network",
+				"url": "https://t.co/myYhzsAW4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/myYhzsAW4F",
+								"expanded_url": "http://english.alarabiya.net",
+								"display_url": "english.alarabiya.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 794523,
+				"friends_count": 40,
+				"listed_count": 11036,
+				"created_at": "Sat Feb 28 08:31:32 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 235506,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6C2769",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087679656038486016/y3ynZrM6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087679656038486016/y3ynZrM6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22240612/1559137648",
+				"profile_link_color": "2B064D",
+				"profile_sidebar_border_color": "030108",
+				"profile_sidebar_fill_color": "EDDCF7",
+				"profile_text_color": "0F0F0F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Yüz binleri yerinden ettiniz, insanları öldürdünüz. Devletiniz batsın! https://t.co/bAQLdX3KJG"
+	},
+	{
+		"created_at": "Thu Oct 17 11:59:17 +0000 2019",
+		"id": 1184801050068476000,
+		"id_str": "1184801050068475905",
+		"full_text": "@Kaplanseren Ben zaten normalde çok kola içtiğim için ikinci kolayı içmemeyi bir \"başarı\" olarak atfediyorum. 🙃",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaplanseren",
+					"name": "Erdal Kaplanseren",
+					"id": 17745286,
+					"id_str": "17745286",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184800531593732000,
+		"in_reply_to_status_id_str": "1184800531593732096",
+		"in_reply_to_user_id": 17745286,
+		"in_reply_to_user_id_str": "17745286",
+		"in_reply_to_screen_name": "Kaplanseren",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaplanseren Ben zaten normalde çok kola içtiğim için ikinci kolayı içmemeyi bir \"başarı\" olarak atfediyorum. 🙃"
+	},
+	{
 		"created_at": "Wed Oct 16 15:07:35 +0000 2019",
 		"id": 1184397157056598000,
 		"id_str": "1184486047310405633",
