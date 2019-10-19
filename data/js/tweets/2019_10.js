@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 17:51:54 +0000 2019",
+		"id": 1185252176815370200,
+		"id_str": "1185252176815370246",
+		"full_text": "@wardumpp @ilkercanikligil Ben bu tweet'leri görmemiştim. Bilsem  baştan hiç bu topa girmezdim. Şu üsluba şu derinliğe bakar mısın? Eric Cartman, DonanımHaber forumlarında yazıyor sanki. 🤦‍♂️ https://t.co/vqbhm0lwpJ",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185252172965011500,
+					"id_str": "1185252172965011457",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EHLcklLW4AE-zvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHLcklLW4AE-zvI.jpg",
+					"url": "https://t.co/vqbhm0lwpJ",
+					"display_url": "pic.twitter.com/vqbhm0lwpJ",
+					"expanded_url": "https://twitter.com/emiracle/status/1185252176815370246/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185252172965011500,
+					"id_str": "1185252172965011457",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EHLcklLW4AE-zvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHLcklLW4AE-zvI.jpg",
+					"url": "https://t.co/vqbhm0lwpJ",
+					"display_url": "pic.twitter.com/vqbhm0lwpJ",
+					"expanded_url": "https://twitter.com/emiracle/status/1185252176815370246/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1185248509685047300,
+		"in_reply_to_status_id_str": "1185248509685047296",
+		"in_reply_to_user_id": 19335165,
+		"in_reply_to_user_id_str": "19335165",
+		"in_reply_to_screen_name": "wardumpp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@wardumpp @ilkercanikligil Ben bu tweet'leri görmemiştim. Bilsem  baştan hiç bu topa girmezdim. Şu üsluba şu derinliğe bakar mısın? Eric Cartman, DonanımHaber forumlarında yazıyor sanki. 🤦‍♂️ https://t.co/vqbhm0lwpJ"
+	},
+	{
+		"created_at": "Fri Oct 18 15:34:03 +0000 2019",
+		"id": 1185217486494535700,
+		"id_str": "1185217486494535680",
+		"full_text": "@kaanklky @ilkercanikligil @wardumpp Ben lafa iyisin hoşsun diye başlıyorum zaten. Programlarını ben de izliyorum, bir sorunum yok ama bir konuyu bilmemesine rağmen ahkam kesmeye devam ediyor. \"Android bilgilerim güncel olmayabilir haklısın  ama ben yine de iOS'u her zaman tercih ederim\" dese kim ne diyecek?",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			309
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kaanklky",
+					"name": "Kaan Kölköy",
+					"id": 108723832,
+					"id_str": "108723832",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1185215422028812300,
+		"in_reply_to_status_id_str": "1185215422028812290",
+		"in_reply_to_user_id": 108723832,
+		"in_reply_to_user_id_str": "108723832",
+		"in_reply_to_screen_name": "kaanklky",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@kaanklky @ilkercanikligil @wardumpp Ben lafa iyisin hoşsun diye başlıyorum zaten. Programlarını ben de izliyorum, bir sorunum yok ama bir konuyu bilmemesine rağmen ahkam kesmeye devam ediyor. \"Android bilgilerim güncel olmayabilir haklısın  ama ben yine de iOS'u her zaman tercih ederim\" dese kim ne diyecek?"
+	},
+	{
+		"created_at": "Fri Oct 18 15:17:55 +0000 2019",
+		"id": 1185213425519071200,
+		"id_str": "1185213425519071234",
+		"full_text": "@ilkercanikligil @wardumpp Hayır, bilmiyorsun. Bir sürü şey vardı da ilk aklıma gelen: Apple Watch'a gelen, AMOLED ekranın sadece belirli piksellerini yakarak görüntü oluşturma ve tasarruf etme zımbırtısı \"Always on Display\" adıyla Samsung'da yıllardır var mesela.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1185207969773961200,
+		"in_reply_to_status_id_str": "1185207969773961218",
+		"in_reply_to_user_id": 88629772,
+		"in_reply_to_user_id_str": "88629772",
+		"in_reply_to_screen_name": "ilkercanikligil",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ilkercanikligil @wardumpp Hayır, bilmiyorsun. Bir sürü şey vardı da ilk aklıma gelen: Apple Watch'a gelen, AMOLED ekranın sadece belirli piksellerini yakarak görüntü oluşturma ve tasarruf etme zımbırtısı \"Always on Display\" adıyla Samsung'da yıllardır var mesela."
+	},
+	{
+		"created_at": "Fri Oct 18 13:43:55 +0000 2019",
+		"id": 1185189770030248000,
+		"id_str": "1185189770030247936",
+		"full_text": "@wardumpp @ilkercanikligil Bravo, sen de fark ettin demek. Sinema programlarında 10 kaplan gücünde ama kitap ve şu teknoloji programında Veysi'leşiyor zaman zaman ;)",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1185188234407698400,
+		"in_reply_to_status_id_str": "1185188234407698432",
+		"in_reply_to_user_id": 19335165,
+		"in_reply_to_user_id_str": "19335165",
+		"in_reply_to_screen_name": "wardumpp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@wardumpp @ilkercanikligil Bravo, sen de fark ettin demek. Sinema programlarında 10 kaplan gücünde ama kitap ve şu teknoloji programında Veysi'leşiyor zaman zaman ;)"
+	},
+	{
 		"created_at": "Thu Oct 17 21:08:39 +0000 2019",
 		"id": 1184939303824253000,
 		"id_str": "1184939303824252928",
