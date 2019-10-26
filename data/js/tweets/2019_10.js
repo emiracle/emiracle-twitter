@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 19:41:12 +0000 2019",
+		"id": 1187806189108826000,
+		"id_str": "1187816397402968065",
+		"full_text": "#ömerhayyamstories https://t.co/HP2EUMnLrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ömerhayyamstories",
+					"indices": [
+						0,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1187806170246996000,
+					"id_str": "1187806170246995969",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvvayeW4AELK8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvvayeW4AELK8K.jpg",
+					"url": "https://t.co/HP2EUMnLrX",
+					"display_url": "pic.twitter.com/HP2EUMnLrX",
+					"expanded_url": "https://twitter.com/tumsev/status/1187806189108826113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187806170246996000,
+					"id_str": "1187806170246995969",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvvayeW4AELK8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvvayeW4AELK8K.jpg",
+					"url": "https://t.co/HP2EUMnLrX",
+					"display_url": "pic.twitter.com/HP2EUMnLrX",
+					"expanded_url": "https://twitter.com/tumsev/status/1187806189108826113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1187806170259558400,
+					"id_str": "1187806170259558402",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvvayhWkAI2E9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvvayhWkAI2E9u.jpg",
+					"url": "https://t.co/HP2EUMnLrX",
+					"display_url": "pic.twitter.com/HP2EUMnLrX",
+					"expanded_url": "https://twitter.com/tumsev/status/1187806189108826113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297340072,
+			"id_str": "297340072",
+			"name": "Tümsev Sayar☁️",
+			"screen_name": "tumsev",
+			"location": "İstanbul, Türkiye",
+			"description": "roses are red,\nthis life is a lie,\nexistence is pain,\ni just wanna die.\n\n-mr. meeseeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460,
+			"friends_count": 614,
+			"listed_count": 0,
+			"created_at": "Thu May 12 10:43:52 +0000 2011",
+			"favourites_count": 15698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187805494553038853/-U65LbGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187805494553038853/-U65LbGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1568734762",
+			"profile_link_color": "0A0909",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e02a0f0d91c76d2",
+			"url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+			"place_type": "city",
+			"name": "İstanbul",
+			"full_name": "İstanbul, Türkiye",
+			"country_code": "TR",
+			"country": "Turkey",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							28.6321043,
+							40.8027337
+						],
+						[
+							29.3783413,
+							40.8027337
+						],
+						[
+							29.3783413,
+							41.2399073
+						],
+						[
+							28.6321043,
+							41.2399073
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#ömerhayyamstories https://t.co/HP2EUMnLrX"
+	},
+	{
 		"created_at": "Thu Oct 24 18:44:17 +0000 2019",
 		"id": 1187439684898693000,
 		"id_str": "1187439684898693122",
