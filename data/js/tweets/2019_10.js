@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 22:30:31 +0000 2019",
+		"id": 1190033333822066700,
+		"id_str": "1190033333822066688",
+		"full_text": "@webrazzi @Kaplanseren Güzel bir özet olmuş, tebrikler 👍 Makalede bir adet typo gözüme çarptı: *CompuServe",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "webrazzi",
+					"name": "Webrazzi",
+					"id": 14250331,
+					"id_str": "14250331",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Kaplanseren",
+					"name": "Erdal Kaplanseren",
+					"id": 17745286,
+					"id_str": "17745286",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189861064470679600,
+		"in_reply_to_status_id_str": "1189861064470679553",
+		"in_reply_to_user_id": 14250331,
+		"in_reply_to_user_id_str": "14250331",
+		"in_reply_to_screen_name": "webrazzi",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@webrazzi @Kaplanseren Güzel bir özet olmuş, tebrikler 👍 Makalede bir adet typo gözüme çarptı: *CompuServe"
+	},
+	{
+		"created_at": "Thu Oct 31 21:58:03 +0000 2019",
+		"id": 1190021550117929000,
+		"id_str": "1190025163385004032",
+		"full_text": "@SevanNisanyan_r Kemalistlerin, Türk-İslamcı faşistlerden daha tehlikeli olduğunu düşünmüşümdür hep. Yanılmadım. \nBu iki güruhu, okumuş cahil ve okumamış cahil örneği üzerinden de tarif edebiliriz. Kemalistlerin esas niteliği, faşizmi pompalayan ana akım olmalarıdır.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SevanNisanyan_r",
+					"name": "Real Sevan Nişanyan",
+					"id": 890904534222032900,
+					"id_str": "890904534222032896",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1189965615194427400,
+		"in_reply_to_status_id_str": "1189965615194427392",
+		"in_reply_to_user_id": 890904534222032900,
+		"in_reply_to_user_id_str": "890904534222032896",
+		"in_reply_to_screen_name": "SevanNisanyan_r",
+		"user": {
+			"id": 1044993791822835700,
+			"id_str": "1044993791822835712",
+			"name": "iyi aile robotu",
+			"screen_name": "hipertimestik",
+			"location": "İstanbul, Türkiye",
+			"description": "Gala D'élite",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30,
+			"friends_count": 100,
+			"listed_count": 0,
+			"created_at": "Wed Sep 26 16:55:09 +0000 2018",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145317314109300736/cJXqRqdj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145317314109300736/cJXqRqdj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044993791822835712/1572088220",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "@SevanNisanyan_r Kemalistlerin, Türk-İslamcı faşistlerden daha tehlikeli olduğunu düşünmüşümdür hep. Yanılmadım. \nBu iki güruhu, okumuş cahil ve okumamış cahil örneği üzerinden de tarif edebiliriz. Kemalistlerin esas niteliği, faşizmi pompalayan ana akım olmalarıdır."
+	},
+	{
 		"created_at": "Wed Oct 30 18:59:26 +0000 2019",
 		"id": 1189617826941800400,
 		"id_str": "1189617826941800454",
