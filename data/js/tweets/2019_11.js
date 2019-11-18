@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 12:04:51 +0000 2019",
+		"id": 1195608304459931600,
+		"id_str": "1196036473604186112",
+		"full_text": "Britanya İşçi Partisi'nden 'göçmen sorunu'na dair Türkiye'deki mülteci karşıtlığına da rahatlıkla uyarlanabilecek bir reklam: \"Her şey onların suçu!\"\nhttps://t.co/A1loJtu01q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195328912626274300,
+					"id_str": "1195328912626274307",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195328912626274307/pu/img/1gDt8da4_rfp6l1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195328912626274307/pu/img/1gDt8da4_rfp6l1N.jpg",
+					"url": "https://t.co/A1loJtu01q",
+					"display_url": "pic.twitter.com/A1loJtu01q",
+					"expanded_url": "https://twitter.com/t24comtr/status/1195333603720417281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195333603720417300,
+					"source_status_id_str": "1195333603720417281",
+					"source_user_id": 80549263,
+					"source_user_id_str": "80549263",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195328912626274300,
+					"id_str": "1195328912626274307",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195328912626274307/pu/img/1gDt8da4_rfp6l1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195328912626274307/pu/img/1gDt8da4_rfp6l1N.jpg",
+					"url": "https://t.co/A1loJtu01q",
+					"display_url": "pic.twitter.com/A1loJtu01q",
+					"expanded_url": "https://twitter.com/t24comtr/status/1195333603720417281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195333603720417300,
+					"source_status_id_str": "1195333603720417281",
+					"source_user_id": 80549263,
+					"source_user_id_str": "80549263",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 125280,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195328912626274307/pu/vid/480x270/EVqgGDm0Bkg_IvvI.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195328912626274307/pu/vid/1280x720/rIwLAU074MYGkd5W.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195328912626274307/pu/vid/640x360/lcmuhEtHvpGGkYrN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195328912626274307/pu/pl/o712VKd_0W9DgHWL.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 80549263,
+							"id_str": "80549263",
+							"name": "T24",
+							"screen_name": "t24comtr",
+							"location": "Türkiye",
+							"description": "Bağımsız İnternet Gazetesi\nhttps://t.co/SY3V445OdN\nhttps://t.co/VYsK2ngebT\nhttps://t.co/0qnVHpOMMV",
+							"url": "http://t.co/w3HmMEXsvI",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/w3HmMEXsvI",
+											"expanded_url": "http://t24.com.tr",
+											"display_url": "t24.com.tr",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/SY3V445OdN",
+											"expanded_url": "http://facebook.com/T24comtr",
+											"display_url": "facebook.com/T24comtr",
+											"indices": [
+												27,
+												50
+											]
+										},
+										{
+											"url": "https://t.co/VYsK2ngebT",
+											"expanded_url": "http://instagram.com/T24comtr",
+											"display_url": "instagram.com/T24comtr",
+											"indices": [
+												51,
+												74
+											]
+										},
+										{
+											"url": "https://t.co/0qnVHpOMMV",
+											"expanded_url": "http://youtube.com/T24comtr",
+											"display_url": "youtube.com/T24comtr",
+											"indices": [
+												75,
+												98
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 1272227,
+							"friends_count": 6,
+							"listed_count": 2641,
+							"created_at": "Wed Oct 07 10:59:41 +0000 2009",
+							"favourites_count": 6,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 337175,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "0C2043",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/762959504841506816/4Ouvt9fd_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/762959504841506816/4Ouvt9fd_normal.jpg",
+							"profile_link_color": "087FC2",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "FF9F0F",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 296225782,
+			"id_str": "296225782",
+			"name": "İrfan Aktan",
+			"screen_name": "irfanaktans",
+			"location": "",
+			"description": "Journalist/ eXpress dergisi & https://t.co/LYJfcQVyCf • GazeteDuvar",
+			"url": "https://t.co/BoYCxWRgEb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BoYCxWRgEb",
+							"expanded_url": "https://www.gazeteduvar.com.tr/yazarlar/#",
+							"display_url": "gazeteduvar.com.tr/yazarlar/#",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LYJfcQVyCf",
+							"expanded_url": "http://birartibir.org",
+							"display_url": "birartibir.org",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 125316,
+			"friends_count": 1991,
+			"listed_count": 354,
+			"created_at": "Tue May 10 12:07:46 +0000 2011",
+			"favourites_count": 2799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065758593230635008/dzeVvInn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065758593230635008/dzeVvInn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/296225782/1453584698",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1112,
+		"favorite_count": 2465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Britanya İşçi Partisi'nden 'göçmen sorunu'na dair Türkiye'deki mülteci karşıtlığına da rahatlıkla uyarlanabilecek bir reklam: \"Her şey onların suçu!\"\nhttps://t.co/A1loJtu01q"
+	},
+	{
 		"created_at": "Sat Nov 16 19:37:22 +0000 2019",
 		"id": 1195787964418277400,
 		"id_str": "1195787964418277377",
