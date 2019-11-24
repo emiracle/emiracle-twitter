@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 08:55:28 +0000 2019",
+		"id": 1198163141466701800,
+		"id_str": "1198163141466701825",
+		"full_text": "@OperationAtilla @drama_junkie @tv8 Bundan bahsediyorsun değil mi? Acun'un parası yine gidiyor, adeta Şeyma 2.0 😀https://t.co/cXqv2IL8bC",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OperationAtilla",
+					"name": "Atilla",
+					"id": 2942587906,
+					"id_str": "2942587906",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "drama_junkie",
+					"name": "zeynep ocak",
+					"id": 89852936,
+					"id_str": "89852936",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "tv8",
+					"name": "tv8",
+					"id": 77419430,
+					"id_str": "77419430",
+					"indices": [
+						31,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cXqv2IL8bC",
+					"expanded_url": "https://www.gazetemag.com/sok-show-tv-rekor-tazminat-odeyecek/",
+					"display_url": "gazetemag.com/sok-show-tv-re…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1197974075097923600,
+		"in_reply_to_status_id_str": "1197974075097923585",
+		"in_reply_to_user_id": 2942587906,
+		"in_reply_to_user_id_str": "2942587906",
+		"in_reply_to_screen_name": "OperationAtilla",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 255,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@OperationAtilla @drama_junkie @tv8 Bundan bahsediyorsun değil mi? Acun'un parası yine gidiyor, adeta Şeyma 2.0 😀https://t.co/cXqv2IL8bC"
+	},
+	{
 		"created_at": "Thu Nov 21 10:00:51 +0000 2019",
 		"id": 1197454819667124200,
 		"id_str": "1197454819667124224",
