@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 19:03:36 +0000 2019",
+		"id": 1206594956594466800,
+		"id_str": "1206651104232189953",
+		"full_text": "Ben de çocukken kurduğum suç imparatorluğundan bahsedeyim öyleyse\n\nBakkaldan futbolcu kartı alıp oynuyoruz diğer çocuklarla. Ben ufak ufak ütmeye başladım milleti ama standart kumar sistemi kaybeden \"bi daha bi daha\" diyor.  Yine kaybediyor. Bakkalde kartlar kapalı tabi + https://t.co/BAfi2ZaERO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BAfi2ZaERO",
+					"expanded_url": "https://twitter.com/KoymenKadir/status/1206102156610326529",
+					"display_url": "twitter.com/KoymenKadir/st…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277474424,
+			"id_str": "277474424",
+			"name": "Gokhan Topcu",
+			"screen_name": "ifndefgt",
+			"location": "",
+			"description": "Forward engineer by day, reverse engineer by night. Random stuff on random things with random frequency. Code Janitor",
+			"url": "https://t.co/2iEWiKwuFU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2iEWiKwuFU",
+							"expanded_url": "http://gokhantopcu.me",
+							"display_url": "gokhantopcu.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3096,
+			"friends_count": 289,
+			"listed_count": 27,
+			"created_at": "Tue Apr 05 13:04:06 +0000 2011",
+			"favourites_count": 2982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949025001302306817/ZKWMR_oc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949025001302306817/ZKWMR_oc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/277474424/1416430442",
+			"profile_link_color": "000088",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206102156610326500,
+		"quoted_status_id_str": "1206102156610326529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BAfi2ZaERO",
+			"expanded": "https://twitter.com/KoymenKadir/status/1206102156610326529",
+			"display": "twitter.com/KoymenKadir/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 15 06:42:17 +0000 2019",
+			"id": 1206102156610326500,
+			"id_str": "1206102156610326529",
+			"full_text": "Çocukken çok meraklıydınız ve hep oyuncakları kırıp içini açıp baktınız di mi? Bu o kadar da kıymetli bir marifet değil. Çocukken kendi oyuncaklarınızı geliştirmiş olsanız, o bile önemli değil. Çocukken BİR BAŞKASINA oyuncak üretmiş olmak girişimci olduğunuzun asıl göstergesidir.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3139200947,
+				"id_str": "3139200947",
+				"name": "Kadir Koymen",
+				"screen_name": "KoymenKadir",
+				"location": "Ankara, Türkiye",
+				"description": "Uydurmalarla mücadelenin yolu daha iyisini senin uydurmandır...",
+				"url": "https://t.co/re8Nf9wcwu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/re8Nf9wcwu",
+								"expanded_url": "http://www.spreaker.com/user/kkymnstudios",
+								"display_url": "spreaker.com/user/kkymnstud…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9583,
+				"friends_count": 350,
+				"listed_count": 21,
+				"created_at": "Mon Apr 06 04:25:11 +0000 2015",
+				"favourites_count": 443,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 431,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160415989856649219/xLZT3zok_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160415989856649219/xLZT3zok_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3139200947/1563625237",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 283,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 15,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Ben de çocukken kurduğum suç imparatorluğundan bahsedeyim öyleyse\n\nBakkaldan futbolcu kartı alıp oynuyoruz diğer çocuklarla. Ben ufak ufak ütmeye başladım milleti ama standart kumar sistemi kaybeden \"bi daha bi daha\" diyor.  Yine kaybediyor. Bakkalde kartlar kapalı tabi + https://t.co/BAfi2ZaERO"
+	},
+	{
 		"created_at": "Sat Dec 14 14:46:18 +0000 2019",
 		"id": 1205861577347543000,
 		"id_str": "1205861577347543041",
