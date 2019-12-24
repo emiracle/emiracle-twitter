@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 21:16:01 +0000 2019",
+		"id": 1209221144160678000,
+		"id_str": "1209221144160677888",
+		"full_text": "İlk iki tanesi 21. yüzyılda bile değil hâlâ \"bu düzen böyle sürmeyecek\" diyorlar. \"Düzen\" değişmiyor işte, kabul edin. https://t.co/eStrbwIOYn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eStrbwIOYn",
+					"expanded_url": "https://twitter.com/12numaraorg/status/1209025550209163264",
+					"display_url": "twitter.com/12numaraorg/st…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1209025550209163300,
+		"quoted_status_id_str": "1209025550209163264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eStrbwIOYn",
+			"expanded": "https://twitter.com/12numaraorg/status/1209025550209163264",
+			"display": "twitter.com/12numaraorg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 23 08:18:48 +0000 2019",
+			"id": 1209025550209163300,
+			"id_str": "1209025550209163264",
+			"full_text": "😎 https://t.co/rB3ujm62OS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				1
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1209025544572022800,
+						"id_str": "1209025544572022785",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/media/EMdSU7yWsAEBmjd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMdSU7yWsAEBmjd.jpg",
+						"url": "https://t.co/rB3ujm62OS",
+						"display_url": "pic.twitter.com/rB3ujm62OS",
+						"expanded_url": "https://twitter.com/12numaraorg/status/1209025550209163264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 776,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 776,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 863,
+										"y": 420,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 464,
+										"y": 663,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 491,
+										"y": 358,
+										"h": 115,
+										"w": 115
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 863,
+										"y": 420,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 464,
+										"y": 663,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 491,
+										"y": 358,
+										"h": 115,
+										"w": 115
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 863,
+										"y": 420,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 464,
+										"y": 663,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 491,
+										"y": 358,
+										"h": 115,
+										"w": 115
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 573,
+										"y": 278,
+										"h": 24,
+										"w": 24
+									},
+									{
+										"x": 308,
+										"y": 440,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 326,
+										"y": 237,
+										"h": 76,
+										"w": 76
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1209025544572022800,
+						"id_str": "1209025544572022785",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/media/EMdSU7yWsAEBmjd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMdSU7yWsAEBmjd.jpg",
+						"url": "https://t.co/rB3ujm62OS",
+						"display_url": "pic.twitter.com/rB3ujm62OS",
+						"expanded_url": "https://twitter.com/12numaraorg/status/1209025550209163264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 776,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 776,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 863,
+										"y": 420,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 464,
+										"y": 663,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 491,
+										"y": 358,
+										"h": 115,
+										"w": 115
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 863,
+										"y": 420,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 464,
+										"y": 663,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 491,
+										"y": 358,
+										"h": 115,
+										"w": 115
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 863,
+										"y": 420,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 464,
+										"y": 663,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 491,
+										"y": 358,
+										"h": 115,
+										"w": 115
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 573,
+										"y": 278,
+										"h": 24,
+										"w": 24
+									},
+									{
+										"x": 308,
+										"y": 440,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 326,
+										"y": 237,
+										"h": 76,
+										"w": 76
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322951176,
+				"id_str": "322951176",
+				"name": "12 Numara 🇹🇷",
+				"screen_name": "12numaraorg",
+				"location": "İstanbul",
+				"description": "Fenerbahçe Resmi Taraftar Sitesi & 12 Numara Official Twitter Account #1907 #Fenerbahce #12numara | 📫 mail@12numara.org | Multimedya @12numara_medya",
+				"url": "https://t.co/ZHropPvf99",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZHropPvf99",
+								"expanded_url": "http://12numara.org",
+								"display_url": "12numara.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1728907,
+				"friends_count": 515,
+				"listed_count": 1371,
+				"created_at": "Fri Jun 24 00:53:33 +0000 2011",
+				"favourites_count": 3765,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 170977,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F9F9F9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150321609485574145/tFMwVixk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150321609485574145/tFMwVixk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322951176/1545299853",
+				"profile_link_color": "101438",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 392,
+			"favorite_count": 4484,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "İlk iki tanesi 21. yüzyılda bile değil hâlâ \"bu düzen böyle sürmeyecek\" diyorlar. \"Düzen\" değişmiyor işte, kabul edin. https://t.co/eStrbwIOYn"
+	},
+	{
+		"created_at": "Mon Dec 23 12:52:09 +0000 2019",
+		"id": 1209094341278470100,
+		"id_str": "1209094341278470146",
+		"full_text": "@yalazbey @umit_k Faşist mi? 🙃 Yalnız Türkçe imla kurallarına riayet etmen gözümden kaçmadı. Senin gibi ırkçı faşist gençler genelde Türkçe yazamıyor. Tebrikler. Onun dışında senin gibi anonim bir ırkçı trolü besleyecek değilim herhalde. Bir reply adam olana çok bile.",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yalazbey",
+					"name": "Yalazbey",
+					"id": 1165166911648403500,
+					"id_str": "1165166911648403457",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "umit_k",
+					"name": "ümit kıvanç",
+					"id": 256665334,
+					"id_str": "256665334",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1209092092758241300,
+		"in_reply_to_status_id_str": "1209092092758241281",
+		"in_reply_to_user_id": 1165166911648403500,
+		"in_reply_to_user_id_str": "1165166911648403457",
+		"in_reply_to_screen_name": "yalazbey",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@yalazbey @umit_k Faşist mi? 🙃 Yalnız Türkçe imla kurallarına riayet etmen gözümden kaçmadı. Senin gibi ırkçı faşist gençler genelde Türkçe yazamıyor. Tebrikler. Onun dışında senin gibi anonim bir ırkçı trolü besleyecek değilim herhalde. Bir reply adam olana çok bile."
+	},
+	{
 		"created_at": "Sat Dec 21 14:02:56 +0000 2019",
 		"id": 1208387379268067300,
 		"id_str": "1208387379268067330",
