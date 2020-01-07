@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 11:15:33 +0000 2020",
+		"id": 1214106219318849500,
+		"id_str": "1214143463211569152",
+		"full_text": "32 yaşında, 14 yıldır hapiste. Maltepe Cezaevi’nde. Kendisine dijital kol saati verilmiyor. Televizyonun USB yuvaları sökülüyor. Ortaokulu, liseyi, üniversiteyi cezaevinde bitirdi. 306 sayfalık kriptografi tezini kurşun kalemle yazdı. Çalışması için Rubrik Küp bile verilmiyor! https://t.co/n2Es3DBqr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n2Es3DBqr8",
+					"expanded_url": "https://twitter.com/birgun_gazetesi/status/1214035562769858560",
+					"display_url": "twitter.com/birgun_gazetes…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73387846,
+			"id_str": "73387846",
+			"name": "Erk Acarer",
+			"screen_name": "eacarer",
+			"location": "",
+			"description": "BirGün-Taz-ArtıTV                 HABER ve İLETİŞİM için: erkacarer@birgun.net",
+			"url": "https://t.co/uc3DmHVtIf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uc3DmHVtIf",
+							"expanded_url": "http://www.birgun.net",
+							"display_url": "birgun.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227119,
+			"friends_count": 1151,
+			"listed_count": 459,
+			"created_at": "Fri Sep 11 13:43:42 +0000 2009",
+			"favourites_count": 14933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/766730567052328960/gf0naTLy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/766730567052328960/gf0naTLy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73387846/1443434622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214035562769858600,
+		"quoted_status_id_str": "1214035562769858560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n2Es3DBqr8",
+			"expanded": "https://twitter.com/birgun_gazetesi/status/1214035562769858560",
+			"display": "twitter.com/birgun_gazetes…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 04:06:48 +0000 2020",
+			"id": 1214035562769858600,
+			"id_str": "1214035562769858560",
+			"full_text": "Cezaevinde bir dahi: 10 yıl daha yatmasının kime yararı var?\nhttps://t.co/oUIeXlHYP0\nErk Acarer yazdı https://t.co/5YJU3vRBVd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oUIeXlHYP0",
+						"expanded_url": "http://bit.ly/2uhJxzX",
+						"display_url": "bit.ly/2uhJxzX",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1214035555387879400,
+						"id_str": "1214035555387879434",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/ENke58eWsAoL1sc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENke58eWsAoL1sc.jpg",
+						"url": "https://t.co/5YJU3vRBVd",
+						"display_url": "pic.twitter.com/5YJU3vRBVd",
+						"expanded_url": "https://twitter.com/BirGun_Gazetesi/status/1214035562769858560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214035555387879400,
+						"id_str": "1214035555387879434",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/ENke58eWsAoL1sc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENke58eWsAoL1sc.jpg",
+						"url": "https://t.co/5YJU3vRBVd",
+						"display_url": "pic.twitter.com/5YJU3vRBVd",
+						"expanded_url": "https://twitter.com/BirGun_Gazetesi/status/1214035562769858560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 27,
+										"y": 141,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 75,
+										"y": 65,
+										"h": 78,
+										"w": 78
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 99620272,
+				"id_str": "99620272",
+				"name": "BirGün Gazetesi",
+				"screen_name": "BirGun_Gazetesi",
+				"location": "İstanbul, Türkiye",
+				"description": "BirGün Gazetesi'nin Twitter hesabı.\n\nBirGün'ü Instagram'dan takip edin: https://t.co/ojmHEZRnOG",
+				"url": "https://t.co/6Z04jmeSTs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6Z04jmeSTs",
+								"expanded_url": "http://www.birgun.net/",
+								"display_url": "birgun.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ojmHEZRnOG",
+								"expanded_url": "https://www.instagram.com/birgungazetesi/",
+								"display_url": "instagram.com/birgungazetesi/",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1300480,
+				"friends_count": 13,
+				"listed_count": 2599,
+				"created_at": "Sun Dec 27 02:27:30 +0000 2009",
+				"favourites_count": 168,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 328442,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1104131201172942848/TE2QT7f-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104131201172942848/TE2QT7f-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/99620272/1551696971",
+				"profile_link_color": "900000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 154,
+			"favorite_count": 344,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 795,
+		"favorite_count": 2034,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "32 yaşında, 14 yıldır hapiste. Maltepe Cezaevi’nde. Kendisine dijital kol saati verilmiyor. Televizyonun USB yuvaları sökülüyor. Ortaokulu, liseyi, üniversiteyi cezaevinde bitirdi. 306 sayfalık kriptografi tezini kurşun kalemle yazdı. Çalışması için Rubrik Küp bile verilmiyor! https://t.co/n2Es3DBqr8"
+	},
+	{
 		"created_at": "Wed Jan 01 19:30:53 +0000 2020",
 		"id": 1212456178200010800,
 		"id_str": "1212456178200010753",
