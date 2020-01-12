@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 21:07:03 +0000 2020",
+		"id": 1216104255020589000,
+		"id_str": "1216104255020589056",
+		"full_text": "İnternet, öz evladını kaybedeli tam 7 yıl olmuş. Oysa ki dün gibi... https://t.co/j4NOyxAtx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j4NOyxAtx7",
+					"expanded_url": "https://twitter.com/beadmomsw/status/1216028870396301312",
+					"display_url": "twitter.com/beadmomsw/stat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 255,
+			"listed_count": 0,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216028870396301300,
+		"quoted_status_id_str": "1216028870396301312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j4NOyxAtx7",
+			"expanded": "https://twitter.com/beadmomsw/status/1216028870396301312",
+			"display": "twitter.com/beadmomsw/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 11 16:07:30 +0000 2020",
+			"id": 1216028870396301300,
+			"id_str": "1216028870396301312",
+			"full_text": "Unbelievable—7 years today. RIP my darling boy. https://t.co/1anIEyM9aB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1216028865979670500,
+						"id_str": "1216028865979670528",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EOAzz5FW4AA0WrM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOAzz5FW4AA0WrM.jpg",
+						"url": "https://t.co/1anIEyM9aB",
+						"display_url": "pic.twitter.com/1anIEyM9aB",
+						"expanded_url": "https://twitter.com/beadmomsw/status/1216028870396301312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 478,
+										"y": 450,
+										"h": 624,
+										"w": 624
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 280,
+										"y": 263,
+										"h": 365,
+										"w": 365
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 478,
+										"y": 450,
+										"h": 624,
+										"w": 624
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 158,
+										"y": 149,
+										"h": 207,
+										"w": 207
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1216028865979670500,
+						"id_str": "1216028865979670528",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EOAzz5FW4AA0WrM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOAzz5FW4AA0WrM.jpg",
+						"url": "https://t.co/1anIEyM9aB",
+						"display_url": "pic.twitter.com/1anIEyM9aB",
+						"expanded_url": "https://twitter.com/beadmomsw/status/1216028870396301312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 478,
+										"y": 450,
+										"h": 624,
+										"w": 624
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 280,
+										"y": 263,
+										"h": 365,
+										"w": 365
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 478,
+										"y": 450,
+										"h": 624,
+										"w": 624
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 158,
+										"y": 149,
+										"h": 207,
+										"w": 207
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1216028865979736000,
+						"id_str": "1216028865979736064",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EOAzz5FX4AAufmu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOAzz5FX4AAufmu.jpg",
+						"url": "https://t.co/1anIEyM9aB",
+						"display_url": "pic.twitter.com/1anIEyM9aB",
+						"expanded_url": "https://twitter.com/beadmomsw/status/1216028870396301312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 482,
+										"y": 473,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 474,
+										"y": 100,
+										"h": 165,
+										"w": 165
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 482,
+										"y": 473,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 474,
+										"y": 100,
+										"h": 165,
+										"w": 165
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 341,
+										"y": 335,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 335,
+										"y": 70,
+										"h": 116,
+										"w": 116
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 482,
+										"y": 473,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 474,
+										"y": 100,
+										"h": 165,
+										"w": 165
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19580770,
+				"id_str": "19580770",
+				"name": "Susan Swartz",
+				"screen_name": "beadmomsw",
+				"location": "Chicago area",
+				"description": "Knitter, spinner, beader, crocheter, fiberartist, felter. Mother of Aaron, Noah and Ben.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2539,
+				"friends_count": 705,
+				"listed_count": 32,
+				"created_at": "Tue Jan 27 06:46:38 +0000 2009",
+				"favourites_count": 64260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6729,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "444497",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888782361386774528/VeUzDgQm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888782361386774528/VeUzDgQm_normal.jpg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "0498D7",
+				"profile_sidebar_fill_color": "B9E9FE",
+				"profile_text_color": "151413",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1058,
+			"favorite_count": 5071,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "İnternet, öz evladını kaybedeli tam 7 yıl olmuş. Oysa ki dün gibi... https://t.co/j4NOyxAtx7"
+	},
+	{
 		"created_at": "Fri Jan 10 19:22:07 +0000 2020",
 		"id": 1215715459338772500,
 		"id_str": "1215715459338772482",
