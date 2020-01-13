@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 21:37:23 +0000 2020",
+		"id": 1216474279220519000,
+		"id_str": "1216474279220518912",
+		"full_text": "@mirzametin @irfanaktans https://t.co/TtmYqmqdqc",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mirzametin",
+					"name": "Mirza Metin",
+					"id": 376220073,
+					"id_str": "376220073",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "irfanaktans",
+					"name": "İrfan Aktan",
+					"id": 296225782,
+					"id_str": "296225782",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216474271901417500,
+					"id_str": "1216474271901417473",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EOHI57cWAAEfVcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOHI57cWAAEfVcw.jpg",
+					"url": "https://t.co/TtmYqmqdqc",
+					"display_url": "pic.twitter.com/TtmYqmqdqc",
+					"expanded_url": "https://twitter.com/emiracle/status/1216474279220518912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1658,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 217,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216474271901417500,
+					"id_str": "1216474271901417473",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EOHI57cWAAEfVcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOHI57cWAAEfVcw.jpg",
+					"url": "https://t.co/TtmYqmqdqc",
+					"display_url": "pic.twitter.com/TtmYqmqdqc",
+					"expanded_url": "https://twitter.com/emiracle/status/1216474279220518912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1658,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 217,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216473775195205600,
+		"in_reply_to_status_id_str": "1216473775195205636",
+		"in_reply_to_user_id": 376220073,
+		"in_reply_to_user_id_str": "376220073",
+		"in_reply_to_screen_name": "mirzametin",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mirzametin @irfanaktans https://t.co/TtmYqmqdqc"
+	},
+	{
 		"created_at": "Sat Jan 11 21:07:03 +0000 2020",
 		"id": 1216104255020589000,
 		"id_str": "1216104255020589056",
