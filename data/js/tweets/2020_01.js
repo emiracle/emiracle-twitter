@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 13:28:56 +0000 2020",
+		"id": 1216970702470860800,
+		"id_str": "1217076131603656704",
+		"full_text": "Fenerbahçe demek tarih boyunca kazanılan tüm şampiyonluklardaki her futbolcuyu ve değeri, bugün halen şampiyonluk posterlerine gururla koyabilmek, onurla paylaşabilmek demektir.\n\n#YAŞAFENERBAHÇE https://t.co/OlNUv5MRtZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YAŞAFENERBAHÇE",
+					"indices": [
+						179,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216963826211524600,
+					"id_str": "1216963826211524612",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EOOHs9-X0AAHhpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOOHs9-X0AAHhpy.jpg",
+					"url": "https://t.co/OlNUv5MRtZ",
+					"display_url": "pic.twitter.com/OlNUv5MRtZ",
+					"expanded_url": "https://twitter.com/Fenerbahce/status/1216970702470860800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216963826211524600,
+					"id_str": "1216963826211524612",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EOOHs9-X0AAHhpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOOHs9-X0AAHhpy.jpg",
+					"url": "https://t.co/OlNUv5MRtZ",
+					"display_url": "pic.twitter.com/OlNUv5MRtZ",
+					"expanded_url": "https://twitter.com/Fenerbahce/status/1216970702470860800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23000,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216963826211524612/vid/480x270/wKbd006wED7Qc5K_.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1216963826211524612/pl/t03h4KtdLFEMHcyl.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216963826211524612/vid/640x360/GZ1FCoyU0lOpbLky.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216963826211524612/vid/1280x720/UDv1SDBkmyBRcvWL.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11525172,
+			"id_str": "11525172",
+			"name": "Fenerbahçe SK",
+			"screen_name": "Fenerbahce",
+			"location": "Kadıköy, İstanbul",
+			"description": "Fenerbahçe Spor Kulübü resmi hesabı. The official account of Fenerbahçe SK. Please follow @Fenerbahce_EN for English.",
+			"url": "https://t.co/UChceCPj66",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UChceCPj66",
+							"expanded_url": "https://fenerbahce.org/fenerol",
+							"display_url": "fenerbahce.org/fenerol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6990693,
+			"friends_count": 93,
+			"listed_count": 4303,
+			"created_at": "Wed Dec 26 07:40:58 +0000 2007",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 63309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3D3936",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113834374154342401/xFXQG_0Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113834374154342401/xFXQG_0Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11525172/1565958927",
+			"profile_link_color": "002D72",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF305",
+			"profile_text_color": "101080",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16837,
+		"favorite_count": 65072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Fenerbahçe demek tarih boyunca kazanılan tüm şampiyonluklardaki her futbolcuyu ve değeri, bugün halen şampiyonluk posterlerine gururla koyabilmek, onurla paylaşabilmek demektir.\n\n#YAŞAFENERBAHÇE https://t.co/OlNUv5MRtZ"
+	},
+	{
 		"created_at": "Sun Jan 12 21:37:23 +0000 2020",
 		"id": 1216474279220519000,
 		"id_str": "1216474279220518912",
