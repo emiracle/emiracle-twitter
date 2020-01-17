@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 16:57:47 +0000 2020",
+		"id": 1217853465193599000,
+		"id_str": "1217853465193598977",
+		"full_text": "@johantenenbaum @isil_arican I'm on your side with this but actually you don't have to put your headphones to listen voice messages. https://t.co/ywErjuEMlG",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johantenenbaum",
+					"name": "Johan Tenenbaum",
+					"id": 931129568290922500,
+					"id_str": "931129568290922497",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "isil_arican",
+					"name": "Işıl Arıcan",
+					"id": 20569249,
+					"id_str": "20569249",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217853462945435600,
+					"id_str": "1217853462945435653",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EOavRadXkAUPrVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOavRadXkAUPrVP.jpg",
+					"url": "https://t.co/ywErjuEMlG",
+					"display_url": "pic.twitter.com/ywErjuEMlG",
+					"expanded_url": "https://twitter.com/emiracle/status/1217853465193598977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1042,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 558,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1042,
+							"h": 855,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217853462945435600,
+					"id_str": "1217853462945435653",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EOavRadXkAUPrVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOavRadXkAUPrVP.jpg",
+					"url": "https://t.co/ywErjuEMlG",
+					"display_url": "pic.twitter.com/ywErjuEMlG",
+					"expanded_url": "https://twitter.com/emiracle/status/1217853465193598977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1042,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 558,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1042,
+							"h": 855,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1217732631913287700,
+		"in_reply_to_status_id_str": "1217732631913287680",
+		"in_reply_to_user_id": 931129568290922500,
+		"in_reply_to_user_id_str": "931129568290922497",
+		"in_reply_to_screen_name": "johantenenbaum",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@johantenenbaum @isil_arican I'm on your side with this but actually you don't have to put your headphones to listen voice messages. https://t.co/ywErjuEMlG"
+	},
+	{
+		"created_at": "Thu Jan 16 12:01:48 +0000 2020",
+		"id": 1217778980771725300,
+		"id_str": "1217778980771725312",
+		"full_text": "@arrdakadabra Maalesef. Biliyorsun ben azılı Aziz Yıldırım muhalifiydim, gidince sevindirik olduk ama bir şey değişmediğini görmek insanı karamsarlığa itiyor.  Kaderde varsa düzülmek, neye yarar üzülmek deyip geçelim bari. 😕",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arrdakadabra",
+					"name": "Madame Dôlâ Quai",
+					"id": 604913720,
+					"id_str": "604913720",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217777677983256600,
+		"in_reply_to_status_id_str": "1217777677983256582",
+		"in_reply_to_user_id": 604913720,
+		"in_reply_to_user_id_str": "604913720",
+		"in_reply_to_screen_name": "arrdakadabra",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@arrdakadabra Maalesef. Biliyorsun ben azılı Aziz Yıldırım muhalifiydim, gidince sevindirik olduk ama bir şey değişmediğini görmek insanı karamsarlığa itiyor.  Kaderde varsa düzülmek, neye yarar üzülmek deyip geçelim bari. 😕"
+	},
+	{
+		"created_at": "Thu Jan 16 11:07:33 +0000 2020",
+		"id": 1217765327146291200,
+		"id_str": "1217765327146291200",
+		"full_text": "@arrdakadabra Demek istediğim Ali Koç doğru ya da yanlış bir kararının arkasında duramıyor. Vizyon vs. hikaye. Bir master planı yok belli ki, rüzgar nereden eserse oraya yöneliyor gibi görünüyor. Bir plan çizersin ona göre karar alırsın sonra doğrusuna yanlışına bakarsın. Burası TR, vizyon bu.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			294
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arrdakadabra",
+					"name": "Madame Dôlâ Quai",
+					"id": 604913720,
+					"id_str": "604913720",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217763563269492700,
+		"in_reply_to_status_id_str": "1217763563269492738",
+		"in_reply_to_user_id": 604913720,
+		"in_reply_to_user_id_str": "604913720",
+		"in_reply_to_screen_name": "arrdakadabra",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@arrdakadabra Demek istediğim Ali Koç doğru ya da yanlış bir kararının arkasında duramıyor. Vizyon vs. hikaye. Bir master planı yok belli ki, rüzgar nereden eserse oraya yöneliyor gibi görünüyor. Bir plan çizersin ona göre karar alırsın sonra doğrusuna yanlışına bakarsın. Burası TR, vizyon bu."
+	},
+	{
+		"created_at": "Thu Jan 16 10:56:01 +0000 2020",
+		"id": 1217762423404449800,
+		"id_str": "1217762423404449792",
+		"full_text": "Bu kadarını şeker hastası faşist Aziz de yapıyordu. Ortamlarda dünya kulübü diyorsunuz, orta doğulu zihniyetine devam ediyorsunuz.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217762421391200300,
+		"in_reply_to_status_id_str": "1217762421391200256",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Bu kadarını şeker hastası faşist Aziz de yapıyordu. Ortamlarda dünya kulübü diyorsunuz, orta doğulu zihniyetine devam ediyorsunuz."
+	},
+	{
 		"created_at": "Wed Jan 15 20:43:27 +0000 2020",
 		"id": 1217547867323322400,
 		"id_str": "1217547867323322376",
