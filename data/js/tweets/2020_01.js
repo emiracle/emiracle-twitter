@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 18:44:28 +0000 2020",
+		"id": 1218242699234508800,
+		"id_str": "1218242699234508800",
+		"full_text": "Tipik bir T.C. terörü. Böyle şeylere şaşırabilmek için aptal olmak gerekiyor. https://t.co/V6YU24hdRz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V6YU24hdRz",
+					"expanded_url": "https://twitter.com/NuriAkm/status/1218239656971599873",
+					"display_url": "twitter.com/NuriAkm/status…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 256,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218239656971600000,
+		"quoted_status_id_str": "1218239656971599873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V6YU24hdRz",
+			"expanded": "https://twitter.com/NuriAkm/status/1218239656971599873",
+			"display": "twitter.com/NuriAkm/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 18:32:22 +0000 2020",
+			"id": 1218239656971600000,
+			"id_str": "1218239656971599873",
+			"full_text": "Dersim’de mide bulandırıcı olaylar yaşanıyor ancak herkes sessiz. Yaşanılanları kentteki birebir muhataplarından edindiğim bilgiler ile bu Flood altında toplayacağım. Umarım bir duyan, gören, harekete geçen olur..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2733499498,
+				"id_str": "2733499498",
+				"name": "Nuri Akman",
+				"screen_name": "NuriAkm",
+				"location": "",
+				"description": "Gazeteci",
+				"url": "https://t.co/tt9UmJmJkl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tt9UmJmJkl",
+								"expanded_url": "https://www.hawarnews.com/tr/",
+								"display_url": "hawarnews.com/tr/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24258,
+				"friends_count": 997,
+				"listed_count": 74,
+				"created_at": "Mon Aug 04 17:51:13 +0000 2014",
+				"favourites_count": 761,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1685,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868904024669646848/kwX6OzWr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868904024669646848/kwX6OzWr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2733499498/1574603762",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 468,
+			"favorite_count": 670,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Tipik bir T.C. terörü. Böyle şeylere şaşırabilmek için aptal olmak gerekiyor. https://t.co/V6YU24hdRz"
+	},
+	{
 		"created_at": "Thu Jan 16 16:57:47 +0000 2020",
 		"id": 1217853465193599000,
 		"id_str": "1217853465193598977",
