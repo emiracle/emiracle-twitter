@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 12:16:10 +0000 2020",
+		"id": 1223943187833802800,
+		"id_str": "1223943187833802752",
+		"full_text": "@samettulca Çok güzeldi. Acaba ne kadarı gerçek ne kadarı senaryo? Almanya - Arjantin finalini seyrettiler mi gerçekten? :) Papa bile Allah'tan şüphe ediyor, bizim hayvanlar çok emin 😉",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samettulca",
+					"name": "Samet Tulça",
+					"id": 962355935258824700,
+					"id_str": "962355935258824704",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1223940114851733500,
+		"in_reply_to_status_id_str": "1223940114851733506",
+		"in_reply_to_user_id": 962355935258824700,
+		"in_reply_to_user_id_str": "962355935258824704",
+		"in_reply_to_screen_name": "samettulca",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@samettulca Çok güzeldi. Acaba ne kadarı gerçek ne kadarı senaryo? Almanya - Arjantin finalini seyrettiler mi gerçekten? :) Papa bile Allah'tan şüphe ediyor, bizim hayvanlar çok emin 😉"
+	},
+	{
 		"created_at": "Sat Feb 01 19:15:52 +0000 2020",
 		"id": 1223686421300510700,
 		"id_str": "1223686421300510720",
