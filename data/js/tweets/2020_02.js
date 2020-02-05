@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 21:13:15 +0000 2020",
+		"id": 1224803125091012600,
+		"id_str": "1224803125091012615",
+		"full_text": "@MGokhanAhi Bayrak bir yerden tanıdık geliyor. Wikipedia'yı 3 seneye yakın yasaklayan, hiçbir şeye merhem olmayan KVKK kanunu çıkartan ama vatandaşlarının kredi kartı bilgileri ve sağlık bilgileri çalınınca/satılınca sus pus olan kabile devleti değil mi bu? 🤔",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MGokhanAhi",
+					"name": "Av. M. Gökhan Ahi",
+					"id": 33722388,
+					"id_str": "33722388",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224794772931596300,
+		"in_reply_to_status_id_str": "1224794772931596290",
+		"in_reply_to_user_id": 33722388,
+		"in_reply_to_user_id_str": "33722388",
+		"in_reply_to_screen_name": "MGokhanAhi",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@MGokhanAhi Bayrak bir yerden tanıdık geliyor. Wikipedia'yı 3 seneye yakın yasaklayan, hiçbir şeye merhem olmayan KVKK kanunu çıkartan ama vatandaşlarının kredi kartı bilgileri ve sağlık bilgileri çalınınca/satılınca sus pus olan kabile devleti değil mi bu? 🤔"
+	},
+	{
 		"created_at": "Mon Feb 03 08:27:37 +0000 2020",
 		"id": 1224248060651495400,
 		"id_str": "1224248060651495424",
