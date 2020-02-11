@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 22:13:37 +0000 2020",
+		"id": 1226992646155120600,
+		"id_str": "1226992646155120642",
+		"full_text": "Chaotic evil &amp; true neutral https://t.co/mVa5GuRYnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mVa5GuRYnl",
+					"expanded_url": "https://twitter.com/wingheadd/status/1226539849018224643",
+					"display_url": "twitter.com/wingheadd/stat…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226539849018224600,
+		"quoted_status_id_str": "1226539849018224643",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mVa5GuRYnl",
+			"expanded": "https://twitter.com/wingheadd/status/1226539849018224643",
+			"display": "twitter.com/wingheadd/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 09 16:14:22 +0000 2020",
+			"id": 1226539849018224600,
+			"id_str": "1226539849018224643",
+			"full_text": "chaotic good and chaotic evil https://t.co/QQM5RGYB4u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1226539843209003000,
+						"id_str": "1226539843209003014",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/EQWLfSlWAAY2v0l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQWLfSlWAAY2v0l.jpg",
+						"url": "https://t.co/QQM5RGYB4u",
+						"display_url": "pic.twitter.com/QQM5RGYB4u",
+						"expanded_url": "https://twitter.com/wingheadd/status/1226539849018224643/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 567,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 567,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 567,
+								"h": 610,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1226539843209003000,
+						"id_str": "1226539843209003014",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/EQWLfSlWAAY2v0l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQWLfSlWAAY2v0l.jpg",
+						"url": "https://t.co/QQM5RGYB4u",
+						"display_url": "pic.twitter.com/QQM5RGYB4u",
+						"expanded_url": "https://twitter.com/wingheadd/status/1226539849018224643/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 567,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 567,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 567,
+								"h": 610,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2288845969,
+				"id_str": "2288845969",
+				"name": "4x academy award winner bong joon ho",
+				"screen_name": "wingheadd",
+				"location": "they / dyke / 21 / 18+",
+				"description": "bette porter call me",
+				"url": "https://t.co/821tQ3FJPs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/821tQ3FJPs",
+								"expanded_url": "https://boxd.it/2loX",
+								"display_url": "boxd.it/2loX",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 199,
+				"friends_count": 118,
+				"listed_count": 7,
+				"created_at": "Mon Jan 13 00:07:47 +0000 2014",
+				"favourites_count": 5812,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3319,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1226320303728533504/WQAI87KE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226320303728533504/WQAI87KE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2288845969/1579830934",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4116,
+			"favorite_count": 19227,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Chaotic evil &amp; true neutral https://t.co/mVa5GuRYnl"
+	},
+	{
 		"created_at": "Sun Feb 09 21:23:34 +0000 2020",
 		"id": 1226617662979137500,
 		"id_str": "1226617662979137536",
