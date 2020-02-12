@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 18:13:50 +0000 2020",
+		"id": 1227294687737925600,
+		"id_str": "1227294687737925633",
+		"full_text": "#TürkFutboluİçinUyanmaZamanı https://t.co/cDp1CbBqKE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TürkFutboluİçinUyanmaZamanı",
+					"indices": [
+						0,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cDp1CbBqKE",
+					"expanded_url": "https://twitter.com/mehdennis/status/1227278937358786562",
+					"display_url": "twitter.com/mehdennis/stat…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227278937358786600,
+		"quoted_status_id_str": "1227278937358786562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cDp1CbBqKE",
+			"expanded": "https://twitter.com/mehdennis/status/1227278937358786562",
+			"display": "twitter.com/mehdennis/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 11 17:11:15 +0000 2020",
+			"id": 1227278937358786600,
+			"id_str": "1227278937358786562",
+			"full_text": "Bu sözde belgeseli çok ama çok iyi izle Fenerbahçeli. https://t.co/kCnZTyoZHP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1227276547477864400,
+						"id_str": "1227276547477864448",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227276547477864448/pu/img/MZpq2vHSEqgVsg14.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227276547477864448/pu/img/MZpq2vHSEqgVsg14.jpg",
+						"url": "https://t.co/kCnZTyoZHP",
+						"display_url": "pic.twitter.com/kCnZTyoZHP",
+						"expanded_url": "https://twitter.com/mehdennis/status/1227278937358786562/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227276547477864400,
+						"id_str": "1227276547477864448",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227276547477864448/pu/img/MZpq2vHSEqgVsg14.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227276547477864448/pu/img/MZpq2vHSEqgVsg14.jpg",
+						"url": "https://t.co/kCnZTyoZHP",
+						"display_url": "pic.twitter.com/kCnZTyoZHP",
+						"expanded_url": "https://twitter.com/mehdennis/status/1227278937358786562/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 71567,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1227276547477864448/pu/pl/7DB2r4Tr3WZlXkl1.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1227276547477864448/pu/vid/640x360/p2uNzbi39dOecMfu.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1227276547477864448/pu/vid/480x270/DyTvkpXvyuRVTcdL.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1227276547477864448/pu/vid/1280x720/SDtdXhPeGzuT7iol.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3380346790,
+				"id_str": "3380346790",
+				"name": "herr daum",
+				"screen_name": "mehdennis",
+				"location": "",
+				"description": "#FENER",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45869,
+				"friends_count": 382,
+				"listed_count": 135,
+				"created_at": "Fri Jul 17 12:52:23 +0000 2015",
+				"favourites_count": 67283,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51040,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015380226052894720/Srjo927Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015380226052894720/Srjo927Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3380346790/1578907256",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2571,
+			"favorite_count": 10134,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#TürkFutboluİçinUyanmaZamanı https://t.co/cDp1CbBqKE"
+	},
+	{
 		"created_at": "Mon Feb 10 22:13:37 +0000 2020",
 		"id": 1226992646155120600,
 		"id_str": "1226992646155120642",
