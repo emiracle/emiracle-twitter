@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 16 17:35:21 +0000 2020",
+		"id": 1229096942719905800,
+		"id_str": "1229096942719905799",
+		"full_text": "@ahmetasabanci @logotasarimcisi Zehri sen attın bize. Ben denemişsindir diye hayal etmiştim. 🤣",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ahmetasabanci",
+					"name": "Ahmet Alphan Sabancı",
+					"id": 55941547,
+					"id_str": "55941547",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "logotasarimcisi",
+					"name": "Hızlı Tasarımcı Ali",
+					"id": 1135257332,
+					"id_str": "1135257332",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1229096043385626600,
+		"in_reply_to_status_id_str": "1229096043385626625",
+		"in_reply_to_user_id": 55941547,
+		"in_reply_to_user_id_str": "55941547",
+		"in_reply_to_screen_name": "ahmetasabanci",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 261,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ahmetasabanci @logotasarimcisi Zehri sen attın bize. Ben denemişsindir diye hayal etmiştim. 🤣"
+	},
+	{
+		"created_at": "Sun Feb 16 17:30:00 +0000 2020",
+		"id": 1229095596633530400,
+		"id_str": "1229095596633530368",
+		"full_text": "@Babovfett Onu bilmiyordum. Teşekkürler 😀",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Babovfett",
+					"name": "Özgür Çelikel",
+					"id": 1485193446,
+					"id_str": "1485193446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1229092920105586700,
+		"in_reply_to_status_id_str": "1229092920105586690",
+		"in_reply_to_user_id": 1485193446,
+		"in_reply_to_user_id_str": "1485193446",
+		"in_reply_to_screen_name": "Babovfett",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 261,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Babovfett Onu bilmiyordum. Teşekkürler 😀"
+	},
+	{
+		"created_at": "Sun Feb 16 17:28:45 +0000 2020",
+		"id": 1229095282849321000,
+		"id_str": "1229095282849320966",
+		"full_text": "@logotasarimcisi @ahmetasabanci Biz eve sipariş verdik. 10 numara bir lezzet. Tam bir Meksika - Orta Doğu füzyonu 😀 Varsa mahallede yarın seninle de yeriz. https://t.co/P8MzyIMIFt",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "logotasarimcisi",
+					"name": "Hızlı Tasarımcı Ali",
+					"id": 1135257332,
+					"id_str": "1135257332",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ahmetasabanci",
+					"name": "Ahmet Alphan Sabancı",
+					"id": 55941547,
+					"id_str": "55941547",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229095278533398500,
+					"id_str": "1229095278533398531",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ6fpNAX0AMLCm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ6fpNAX0AMLCm2.jpg",
+					"url": "https://t.co/P8MzyIMIFt",
+					"display_url": "pic.twitter.com/P8MzyIMIFt",
+					"expanded_url": "https://twitter.com/emiracle/status/1229095282849320966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229095278533398500,
+					"id_str": "1229095278533398531",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ6fpNAX0AMLCm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ6fpNAX0AMLCm2.jpg",
+					"url": "https://t.co/P8MzyIMIFt",
+					"display_url": "pic.twitter.com/P8MzyIMIFt",
+					"expanded_url": "https://twitter.com/emiracle/status/1229095282849320966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1229086773399167000,
+		"in_reply_to_status_id_str": "1229086773399166983",
+		"in_reply_to_user_id": 1135257332,
+		"in_reply_to_user_id_str": "1135257332",
+		"in_reply_to_screen_name": "logotasarimcisi",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 261,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@logotasarimcisi @ahmetasabanci Biz eve sipariş verdik. 10 numara bir lezzet. Tam bir Meksika - Orta Doğu füzyonu 😀 Varsa mahallede yarın seninle de yeriz. https://t.co/P8MzyIMIFt"
+	},
+	{
+		"created_at": "Sun Feb 16 16:35:58 +0000 2020",
+		"id": 1229081998888706000,
+		"id_str": "1229081998888706050",
+		"full_text": "@vedatmilor Adını bilmiyordum internetten araştırdım. Köfte Arabası ya da Köfteci Mustafa diye geçiyor. Mecidiyeköy'de Profilo AVM'ye giderken Avni Dilligil Sk.'ta. https://t.co/tDk406hXzw",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vedatmilor",
+					"name": "Vedat Milor",
+					"id": 64820716,
+					"id_str": "64820716",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tDk406hXzw",
+					"expanded_url": "https://www.zomato.com/tr/kofte-arabasi-sokak-lezzetleri",
+					"display_url": "zomato.com/tr/kofte-araba…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1229067572013871000,
+		"in_reply_to_status_id_str": "1229067572013871106",
+		"in_reply_to_user_id": 64820716,
+		"in_reply_to_user_id_str": "64820716",
+		"in_reply_to_screen_name": "vedatmilor",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 261,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@vedatmilor Adını bilmiyordum internetten araştırdım. Köfte Arabası ya da Köfteci Mustafa diye geçiyor. Mecidiyeköy'de Profilo AVM'ye giderken Avni Dilligil Sk.'ta. https://t.co/tDk406hXzw"
+	},
+	{
 		"created_at": "Sat Feb 15 18:55:35 +0000 2020",
 		"id": 1228754748381245400,
 		"id_str": "1228754748381245440",
