@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 19:39:18 +0000 2020",
+		"id": 1232027240931696600,
+		"id_str": "1232027240931696650",
+		"full_text": "Müthiş bir olay! 😂 https://t.co/qbMCNhrO0Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qbMCNhrO0Z",
+					"expanded_url": "https://twitter.com/TurkFootballTV/status/1232009396500213765",
+					"display_url": "twitter.com/TurkFootballTV…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232009396500213800,
+		"quoted_status_id_str": "1232009396500213765",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qbMCNhrO0Z",
+			"expanded": "https://twitter.com/TurkFootballTV/status/1232009396500213765",
+			"display": "twitter.com/TurkFootballTV…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 24 18:28:24 +0000 2020",
+			"id": 1232009396500213800,
+			"id_str": "1232009396500213765",
+			"full_text": "Diego Lugano went undercover, dressing up in this disguise to get the opportunity to watch the Fenerbahçe vs Galatasaray derby as a fan 😁\n\nThe funny thing is this was probably the least craziest thing that happened last night 🤣 https://t.co/JRFwO77lTh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1232009370667536400,
+						"id_str": "1232009370667536385",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/ERj5_sKXUAEMoNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERj5_sKXUAEMoNF.jpg",
+						"url": "https://t.co/JRFwO77lTh",
+						"display_url": "pic.twitter.com/JRFwO77lTh",
+						"expanded_url": "https://twitter.com/TurkFootballTV/status/1232009396500213765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 742,
+								"h": 959,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232009370667536400,
+						"id_str": "1232009370667536385",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/ERj5_sKXUAEMoNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERj5_sKXUAEMoNF.jpg",
+						"url": "https://t.co/JRFwO77lTh",
+						"display_url": "pic.twitter.com/JRFwO77lTh",
+						"expanded_url": "https://twitter.com/TurkFootballTV/status/1232009396500213765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 742,
+								"h": 959,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1232009370667552800,
+						"id_str": "1232009370667552768",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/ERj5_sKXkAAG3Zw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERj5_sKXkAAG3Zw.jpg",
+						"url": "https://t.co/JRFwO77lTh",
+						"display_url": "pic.twitter.com/JRFwO77lTh",
+						"expanded_url": "https://twitter.com/TurkFootballTV/status/1232009396500213765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 403,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1232009370659106800,
+						"id_str": "1232009370659106821",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/ERj5_sIWsAUMvif.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERj5_sIWsAUMvif.jpg",
+						"url": "https://t.co/JRFwO77lTh",
+						"display_url": "pic.twitter.com/JRFwO77lTh",
+						"expanded_url": "https://twitter.com/TurkFootballTV/status/1232009396500213765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 742,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 742,
+								"h": 452,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 988800963392753700,
+				"id_str": "988800963392753665",
+				"name": "Turkish Football",
+				"screen_name": "TurkFootballTV",
+				"location": "London, England",
+				"description": "Emre Sarigul Co-founder: https://t.co/GBzcgtBvby | Can also be found on @guardian/@bleacherreport | Contact: admin@turkish-football.com",
+				"url": "https://t.co/FgnRHMZMYR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FgnRHMZMYR",
+								"expanded_url": "https://www.theguardian.com/profile/emre-sarigul",
+								"display_url": "theguardian.com/profile/emre-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GBzcgtBvby",
+								"expanded_url": "http://Turkish-football.com",
+								"display_url": "Turkish-football.com",
+								"indices": [
+									25,
+									48
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3192,
+				"friends_count": 216,
+				"listed_count": 25,
+				"created_at": "Tue Apr 24 15:24:55 +0000 2018",
+				"favourites_count": 3361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3256,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1205113215518216192/oj_lNA0A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205113215518216192/oj_lNA0A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/988800963392753665/1524587691",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Müthiş bir olay! 😂 https://t.co/qbMCNhrO0Z"
+	},
+	{
 		"created_at": "Sun Feb 23 20:02:12 +0000 2020",
 		"id": 1231670614932512800,
 		"id_str": "1231670614932512769",
