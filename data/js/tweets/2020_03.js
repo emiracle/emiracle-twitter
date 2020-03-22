@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 21:31:30 +0000 2020",
+		"id": 1241477558371340300,
+		"id_str": "1241477558371340288",
+		"full_text": "@BarlikTugba @MGokhanAhi Ben de 38 yaşındayım, kendimce iyi bir kitap okuru ve YouTube izleyicisiyim. Çocuklar YouTube izleyecek tabii, ne izleyecekler Acun mu yoksa TV'deki şartlatanların tartışma programlarını mı? Konu karışmasın şunu demek istiyorum: Çocuk kitap okusun istiyorsanız önce siz okuyun.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BarlikTugba",
+					"name": "tbbarlik",
+					"id": 1203005097049022500,
+					"id_str": "1203005097049022467",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MGokhanAhi",
+					"name": "Av. M. Gökhan Ahi",
+					"id": 33722388,
+					"id_str": "33722388",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1241472856271343600,
+		"in_reply_to_status_id_str": "1241472856271343618",
+		"in_reply_to_user_id": 1203005097049022500,
+		"in_reply_to_user_id_str": "1203005097049022467",
+		"in_reply_to_screen_name": "BarlikTugba",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 264,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@BarlikTugba @MGokhanAhi Ben de 38 yaşındayım, kendimce iyi bir kitap okuru ve YouTube izleyicisiyim. Çocuklar YouTube izleyecek tabii, ne izleyecekler Acun mu yoksa TV'deki şartlatanların tartışma programlarını mı? Konu karışmasın şunu demek istiyorum: Çocuk kitap okusun istiyorsanız önce siz okuyun."
+	},
+	{
+		"created_at": "Sat Mar 21 21:06:08 +0000 2020",
+		"id": 1241471175626236000,
+		"id_str": "1241471175626235910",
+		"full_text": "@cargun Şeffaf olmayan veri ile yapılan her değerlendirme kahve muhabbetinden öteye gitmez.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cargun",
+					"name": "Carlos Gunnera",
+					"id": 6631492,
+					"id_str": "6631492",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1241468451652321300,
+		"in_reply_to_status_id_str": "1241468451652321281",
+		"in_reply_to_user_id": 6631492,
+		"in_reply_to_user_id_str": "6631492",
+		"in_reply_to_screen_name": "cargun",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 264,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@cargun Şeffaf olmayan veri ile yapılan her değerlendirme kahve muhabbetinden öteye gitmez."
+	},
+	{
+		"created_at": "Sat Mar 21 20:07:55 +0000 2020",
+		"id": 1241456525874540500,
+		"id_str": "1241456525874540544",
+		"full_text": "@yildiraybeyy @MGokhanAhi Benim dönemimin çocuklarının çok büyük bir kısmı da kitap okumuyor zaten. 😉 Tabii kitap okuyun desinler, zararı yok hatta iyi bir şey. Çocuklar da YouTuber'ları dinliyorsa ne âlâ.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yildiraybeyy",
+					"name": "Yıldıray",
+					"id": 93829477,
+					"id_str": "93829477",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MGokhanAhi",
+					"name": "Av. M. Gökhan Ahi",
+					"id": 33722388,
+					"id_str": "33722388",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1241448657767092200,
+		"in_reply_to_status_id_str": "1241448657767092231",
+		"in_reply_to_user_id": 93829477,
+		"in_reply_to_user_id_str": "93829477",
+		"in_reply_to_screen_name": "yildiraybeyy",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 264,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@yildiraybeyy @MGokhanAhi Benim dönemimin çocuklarının çok büyük bir kısmı da kitap okumuyor zaten. 😉 Tabii kitap okuyun desinler, zararı yok hatta iyi bir şey. Çocuklar da YouTuber'ları dinliyorsa ne âlâ."
+	},
+	{
 		"created_at": "Fri Mar 20 22:54:38 +0000 2020",
 		"id": 1241136092805505000,
 		"id_str": "1241136092805505025",
