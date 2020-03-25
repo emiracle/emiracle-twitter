@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 00:12:36 +0000 2020",
+		"id": 1242605264127365000,
+		"id_str": "1242605264127365124",
+		"full_text": "Okullarda ders olarak okutulası bir @imTolstoyevski hizmeti! https://t.co/NglCLSIc4j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imTolstoyevski",
+					"name": "Immanuel Tolstoyevski (Fularsız Entellik)",
+					"id": 224816746,
+					"id_str": "224816746",
+					"indices": [
+						36,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NglCLSIc4j",
+					"expanded_url": "https://twitter.com/imTolstoyevski/status/1242422935450763264",
+					"display_url": "twitter.com/imTolstoyevski…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 265,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242422935450763300,
+		"quoted_status_id_str": "1242422935450763264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NglCLSIc4j",
+			"expanded": "https://twitter.com/imTolstoyevski/status/1242422935450763264",
+			"display": "twitter.com/imTolstoyevski…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 12:08:05 +0000 2020",
+			"id": 1242422935450763300,
+			"id_str": "1242422935450763264",
+			"full_text": "Argümantasyon hakkında uzun bir zincir.\n\n1/ O kadar çok mikro-tartışma yapıyor/gözlüyoruz ki, biraz soluklanıp bunları incelemeye vakit olmuyor genelde. Ama bugün, dün yaşadığım kısa bir tartışmayı örnek göstereceğim.\n\nGenel çerçevemiz de şu olacak:\n(zincirin kalanı Türkçe) https://t.co/ngro5KeysH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1242397610343829500,
+						"id_str": "1242397610343829505",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/ET3iC0pWkAEaZ0N.png",
+						"media_url_https": "https://pbs.twimg.com/media/ET3iC0pWkAEaZ0N.png",
+						"url": "https://t.co/ngro5KeysH",
+						"display_url": "pic.twitter.com/ngro5KeysH",
+						"expanded_url": "https://twitter.com/imTolstoyevski/status/1242422935450763264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1242397610343829500,
+						"id_str": "1242397610343829505",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/ET3iC0pWkAEaZ0N.png",
+						"media_url_https": "https://pbs.twimg.com/media/ET3iC0pWkAEaZ0N.png",
+						"url": "https://t.co/ngro5KeysH",
+						"display_url": "pic.twitter.com/ngro5KeysH",
+						"expanded_url": "https://twitter.com/imTolstoyevski/status/1242422935450763264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224816746,
+				"id_str": "224816746",
+				"name": "Immanuel Tolstoyevski (Fularsız Entellik)",
+				"screen_name": "imTolstoyevski",
+				"location": "Orta Avrupa, yarı-seyyar",
+				"description": "#FularsızPodcast + popüler felsefe yazıları + eleştirel düşünce seminerleri + gönüllülük + Safsatalar Ansiklopedisi (Mart 2020). DESTEK: https://t.co/1B0HSqGjhD",
+				"url": "https://t.co/AfrQe2J9l9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AfrQe2J9l9",
+								"expanded_url": "https://fularsizentellik.com",
+								"display_url": "fularsizentellik.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1B0HSqGjhD",
+								"expanded_url": "http://bit.ly/imtol_patreon",
+								"display_url": "bit.ly/imtol_patreon",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 62411,
+				"friends_count": 484,
+				"listed_count": 253,
+				"created_at": "Thu Dec 09 23:09:12 +0000 2010",
+				"favourites_count": 3446,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11050,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230305083071619073/1Vjzb62n_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230305083071619073/1Vjzb62n_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224816746/1579901221",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 806,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Okullarda ders olarak okutulası bir @imTolstoyevski hizmeti! https://t.co/NglCLSIc4j"
+	},
+	{
 		"created_at": "Mon Mar 23 22:25:46 +0000 2020",
 		"id": 1242215991498756000,
 		"id_str": "1242215991498756101",
