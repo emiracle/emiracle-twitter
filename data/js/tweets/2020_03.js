@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 09:35:13 +0000 2020",
+		"id": 1243471626899009500,
+		"id_str": "1243471626899009536",
+		"full_text": "@samettulca @ArdaBingeli @naturalelite Yok be kafamız güzeldi 😂",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samettulca",
+					"name": "Samet Tulça",
+					"id": 962355935258824700,
+					"id_str": "962355935258824704",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ArdaBingeli",
+					"name": "Arda Bingeli",
+					"id": 208980937,
+					"id_str": "208980937",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "naturalelite",
+					"name": "Baykaloff",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1243470283505311700,
+		"in_reply_to_status_id_str": "1243470283505311745",
+		"in_reply_to_user_id": 962355935258824700,
+		"in_reply_to_user_id_str": "962355935258824704",
+		"in_reply_to_screen_name": "samettulca",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 265,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@samettulca @ArdaBingeli @naturalelite Yok be kafamız güzeldi 😂"
+	},
+	{
+		"created_at": "Fri Mar 27 09:17:08 +0000 2020",
+		"id": 1243467077228335000,
+		"id_str": "1243467077228335111",
+		"full_text": "@seranuno Şimdi \"açmayın dedeler\" olduk 😀",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seranuno",
+					"name": "bayan sera official",
+					"id": 18216325,
+					"id_str": "18216325",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1243464843195277300,
+		"in_reply_to_status_id_str": "1243464843195277312",
+		"in_reply_to_user_id": 18216325,
+		"in_reply_to_user_id_str": "18216325",
+		"in_reply_to_screen_name": "seranuno",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 265,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@seranuno Şimdi \"açmayın dedeler\" olduk 😀"
+	},
+	{
 		"created_at": "Thu Mar 26 23:38:41 +0000 2020",
 		"id": 1243321504957374500,
 		"id_str": "1243321504957374465",
