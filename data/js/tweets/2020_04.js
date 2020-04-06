@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 23:21:00 +0000 2020",
+		"id": 1246923341769986000,
+		"id_str": "1246940933318475782",
+		"full_text": "I always enjoy chatting with @Trevornoah, even though we had to sit a little bit further apart than usual this time. https://t.co/aqwtN1tS2p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trevornoah",
+					"name": "Trevor Noah",
+					"id": 46335511,
+					"id_str": "46335511",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aqwtN1tS2p",
+					"expanded_url": "https://twitter.com/TheDailyShow/status/1246876853283033088",
+					"display_url": "twitter.com/TheDailyShow/s…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50393960,
+			"id_str": "50393960",
+			"name": "Bill Gates",
+			"screen_name": "BillGates",
+			"location": "Seattle, WA",
+			"description": "Sharing things I'm learning through my foundation work and other interests.",
+			"url": "https://t.co/emd1hfqSRD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emd1hfqSRD",
+							"expanded_url": "https://gatesnot.es/blog",
+							"display_url": "gatesnot.es/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49457113,
+			"friends_count": 217,
+			"listed_count": 122890,
+			"created_at": "Wed Jun 24 18:44:10 +0000 2009",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50393960/1573055931",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246876853283033000,
+		"quoted_status_id_str": "1246876853283033088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aqwtN1tS2p",
+			"expanded": "https://twitter.com/TheDailyShow/status/1246876853283033088",
+			"display": "twitter.com/TheDailyShow/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 19:06:22 +0000 2020",
+			"id": 1246876853283033000,
+			"id_str": "1246876853283033088",
+			"full_text": "Full interview with @BillGates: https://t.co/PPoxNqXwVM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BillGates",
+						"name": "Bill Gates",
+						"id": 50393960,
+						"id_str": "50393960",
+						"indices": [
+							20,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PPoxNqXwVM",
+						"expanded_url": "https://youtu.be/iyFT8qXcOrM",
+						"display_url": "youtu.be/iyFT8qXcOrM",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1246875502721134600,
+			"in_reply_to_status_id_str": "1246875502721134594",
+			"in_reply_to_user_id": 158414847,
+			"in_reply_to_user_id_str": "158414847",
+			"in_reply_to_screen_name": "TheDailyShow",
+			"user": {
+				"id": 158414847,
+				"id_str": "158414847",
+				"name": "The Daily Show",
+				"screen_name": "TheDailyShow",
+				"location": "",
+				"description": "Trevor Noah and The World's Fakest News Team. Weeknights 11/10c on @ComedyCentral.\n\nDonate to #FirstRespondersFirst: https://t.co/Nkrp4kH7Ds",
+				"url": "https://t.co/BAakBFaEGx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BAakBFaEGx",
+								"expanded_url": "http://thedailyshow.com",
+								"display_url": "thedailyshow.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Nkrp4kH7Ds",
+								"expanded_url": "http://dailyshow.com/firstrespondersfirst",
+								"display_url": "dailyshow.com/firstresponder…",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8518068,
+				"friends_count": 604,
+				"listed_count": 37206,
+				"created_at": "Tue Jun 22 16:41:05 +0000 2010",
+				"favourites_count": 1674,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1246210124252958721/9sPxtCEL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246210124252958721/9sPxtCEL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158414847/1585954622",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 287,
+			"favorite_count": 835,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 749,
+		"favorite_count": 7288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I always enjoy chatting with @Trevornoah, even though we had to sit a little bit further apart than usual this time. https://t.co/aqwtN1tS2p"
+	},
+	{
 		"created_at": "Fri Apr 03 16:22:37 +0000 2020",
 		"id": 1246110870821843000,
 		"id_str": "1246110870821842945",
