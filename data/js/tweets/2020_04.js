@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 22:52:50 +0000 2020",
+		"id": 1249108174164177000,
+		"id_str": "1249108174164176897",
+		"full_text": "COVID-19 sonrası devletlerin hayata geçireceği biyopolitikalar neler olacak merak ediyorum. Vücuda entegre RFID çipler mi dersin, telefonlara zorunlu yüklenecek sağlık bilgilerini paylaşan app'ler mi dersin \"sky is the limit\"... Cyberpunk zamanlara erken ulaştık gibi!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 261,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "COVID-19 sonrası devletlerin hayata geçireceği biyopolitikalar neler olacak merak ediyorum. Vücuda entegre RFID çipler mi dersin, telefonlara zorunlu yüklenecek sağlık bilgilerini paylaşan app'ler mi dersin \"sky is the limit\"... Cyberpunk zamanlara erken ulaştık gibi!"
+	},
+	{
+		"created_at": "Sat Apr 11 14:11:17 +0000 2020",
+		"id": 1248976921607708700,
+		"id_str": "1248976921607708673",
+		"full_text": "@canereler Sen de kendi kitleni tanı böylece. Bu kadar temel bir şeyi anlamaktan aciz, modern görünüşlü yobazlar sürüsü. Ha Socrates takipçisi ha Yeni Akit okuru, aradaki zihniyet farkı tartışılır.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "canereler",
+					"name": "Caner Eler",
+					"id": 63075162,
+					"id_str": "63075162",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248926014832627700,
+		"in_reply_to_status_id_str": "1248926014832627713",
+		"in_reply_to_user_id": 63075162,
+		"in_reply_to_user_id_str": "63075162",
+		"in_reply_to_screen_name": "canereler",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 261,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@canereler Sen de kendi kitleni tanı böylece. Bu kadar temel bir şeyi anlamaktan aciz, modern görünüşlü yobazlar sürüsü. Ha Socrates takipçisi ha Yeni Akit okuru, aradaki zihniyet farkı tartışılır."
+	},
+	{
 		"created_at": "Fri Apr 10 23:08:06 +0000 2020",
 		"id": 1248749625449812000,
 		"id_str": "1248749625449811968",
@@ -97,7 +272,7 @@ Grailbird.data.tweets_2020_04 =
 		"created_at": "Fri Apr 10 22:26:52 +0000 2020",
 		"id": 1248739251749077000,
 		"id_str": "1248739251749076992",
-		"full_text": "@Kaplanseren Bu tweet'i attığından beri olanlar... 🤦‍♂️",
+		"full_text": "@Kaplanseren Bu tweet'i attığından beri olanlar... 🤦♂️",
 		"truncated": false,
 		"display_text_range": [
 			13,
@@ -184,7 +359,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "tr",
-		"text": "@Kaplanseren Bu tweet'i attığından beri olanlar... 🤦‍♂️"
+		"text": "@Kaplanseren Bu tweet'i attığından beri olanlar... 🤦♂️"
 	},
 	{
 		"created_at": "Fri Apr 10 22:21:50 +0000 2020",
