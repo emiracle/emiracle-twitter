@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 15:57:47 +0000 2020",
+		"id": 1249812102027542500,
+		"id_str": "1250090886450552833",
+		"full_text": "İnternet tasarısının yarın Meclise gelmeyeceğini anlıyoruz. Bunun tam bir zafer olduğunu söylemek mümkün olmamakla birlikte kamuoyu tepkisi \"şimdilik\" işe yaramış gözüküyor. Tekrar aynı tasarının veya benzer bir tasarının hortlayacağına hiç şüphem yok. https://t.co/weQOSDe8r5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/weQOSDe8r5",
+					"expanded_url": "https://twitter.com/cyberrights/status/1248177493732884481",
+					"display_url": "twitter.com/cyberrights/st…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17142064,
+			"id_str": "17142064",
+			"name": "Yaman Akdeniz",
+			"screen_name": "cyberrights",
+			"location": "",
+			"description": "Academic, cyber-rights activist, and trouble-maker :)",
+			"url": "https://t.co/7QBmxcakKl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7QBmxcakKl",
+							"expanded_url": "https://ifade.org.tr",
+							"display_url": "ifade.org.tr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40542,
+			"friends_count": 1188,
+			"listed_count": 272,
+			"created_at": "Mon Nov 03 22:09:13 +0000 2008",
+			"favourites_count": 5272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996337772691681280/xNPSJKSf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996337772691681280/xNPSJKSf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17142064/1371936764",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248177493732884500,
+		"quoted_status_id_str": "1248177493732884481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/weQOSDe8r5",
+			"expanded": "https://twitter.com/cyberrights/status/1248177493732884481",
+			"display": "twitter.com/cyberrights/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 09 09:14:39 +0000 2020",
+			"id": 1248177493732884500,
+			"id_str": "1248177493732884481",
+			"full_text": "SANSÜR ARTIYOR, HEDEF SOSYAL MEDYA: Yeni bir tasarı ile Twitter, YouTube, Instagram, Facebook ve diğer sosyal medya ağları eğer Türkiye'de sorumlu belirleyip bildirmezse İnternet trafik ağları %50-95 oranında daraltılması ve kullanılmaz hale gelmesi mümkün olacak. Sansür kapıda. https://t.co/rWBILgiyy5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248176696865386500,
+						"id_str": "1248176696865386497",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVJqF7mU8AEO0kk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVJqF7mU8AEO0kk.jpg",
+						"url": "https://t.co/rWBILgiyy5",
+						"display_url": "pic.twitter.com/rWBILgiyy5",
+						"expanded_url": "https://twitter.com/cyberrights/status/1248177493732884481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1678,
+								"h": 528,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 214,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248176696865386500,
+						"id_str": "1248176696865386497",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVJqF7mU8AEO0kk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVJqF7mU8AEO0kk.jpg",
+						"url": "https://t.co/rWBILgiyy5",
+						"display_url": "pic.twitter.com/rWBILgiyy5",
+						"expanded_url": "https://twitter.com/cyberrights/status/1248177493732884481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1678,
+								"h": 528,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 214,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17142064,
+				"id_str": "17142064",
+				"name": "Yaman Akdeniz",
+				"screen_name": "cyberrights",
+				"location": "",
+				"description": "Academic, cyber-rights activist, and trouble-maker :)",
+				"url": "https://t.co/7QBmxcakKl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7QBmxcakKl",
+								"expanded_url": "https://ifade.org.tr",
+								"display_url": "ifade.org.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40542,
+				"friends_count": 1188,
+				"listed_count": 272,
+				"created_at": "Mon Nov 03 22:09:13 +0000 2008",
+				"favourites_count": 5272,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10708,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996337772691681280/xNPSJKSf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996337772691681280/xNPSJKSf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17142064/1371936764",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1797,
+			"favorite_count": 2595,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 71,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "İnternet tasarısının yarın Meclise gelmeyeceğini anlıyoruz. Bunun tam bir zafer olduğunu söylemek mümkün olmamakla birlikte kamuoyu tepkisi \"şimdilik\" işe yaramış gözüküyor. Tekrar aynı tasarının veya benzer bir tasarının hortlayacağına hiç şüphem yok. https://t.co/weQOSDe8r5"
+	},
+	{
+		"created_at": "Tue Apr 14 13:33:09 +0000 2020",
+		"id": 1250054488083386400,
+		"id_str": "1250054488083386373",
+		"full_text": "İşte bunların ağababası hep söylüyor ya: \"İnsanı yaşat ki, devlet yaşasın!\" İşte oradaki \"insan\" bu \"insan\".",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250054486728552400,
+		"in_reply_to_status_id_str": "1250054486728552450",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 260,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "İşte bunların ağababası hep söylüyor ya: \"İnsanı yaşat ki, devlet yaşasın!\" İşte oradaki \"insan\" bu \"insan\"."
+	},
+	{
+		"created_at": "Tue Apr 14 13:33:09 +0000 2020",
+		"id": 1250054486728552400,
+		"id_str": "1250054486728552450",
+		"full_text": "Devletin açıkladığı ölü sayılarına inanmayan insanları eleştiren bir güruh var. Ama maddi bir menfaatle ama kullanışlı aptal oldukları için, herhangi bir saikle bunu yapıyorlar. Bunların elinde virüsün aşısı olmadığına göre, belli ki salaklığı bile gücendirecek bir salaklık bu!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 260,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Devletin açıkladığı ölü sayılarına inanmayan insanları eleştiren bir güruh var. Ama maddi bir menfaatle ama kullanışlı aptal oldukları için, herhangi bir saikle bunu yapıyorlar. Bunların elinde virüsün aşısı olmadığına göre, belli ki salaklığı bile gücendirecek bir salaklık bu!"
+	},
+	{
 		"created_at": "Mon Apr 13 20:50:16 +0000 2020",
 		"id": 1249802105348665300,
 		"id_str": "1249802105348665344",
