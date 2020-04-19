@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 17:49:13 +0000 2020",
+		"id": 1251568481075695600,
+		"id_str": "1251568481075695617",
+		"full_text": "@Gamsizm @leventp @Ejderha Bu kadar lafa gerek yoktu bence. Her geçen gün daha fakirleşiyoruz işte. Şu anda elimizde olan teknoloji en iyisi. Bozulmasın diye dua edelim. Tozlu raflara nur yağacak belli ki.🤦‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gamsizm",
+					"name": "Murat Gamsız",
+					"id": 41779319,
+					"id_str": "41779319",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "leventp",
+					"name": "Levent Pekcan",
+					"id": 755912,
+					"id_str": "755912",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "Ejderha",
+					"name": "Murat Sönmez",
+					"id": 31436861,
+					"id_str": "31436861",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1251567283106914300,
+		"in_reply_to_status_id_str": "1251567283106914304",
+		"in_reply_to_user_id": 41779319,
+		"in_reply_to_user_id_str": "41779319",
+		"in_reply_to_screen_name": "Gamsizm",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 259,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Gamsizm @leventp @Ejderha Bu kadar lafa gerek yoktu bence. Her geçen gün daha fakirleşiyoruz işte. Şu anda elimizde olan teknoloji en iyisi. Bozulmasın diye dua edelim. Tozlu raflara nur yağacak belli ki.🤦‍♂️"
+	},
+	{
+		"created_at": "Sat Apr 18 17:02:10 +0000 2020",
+		"id": 1251556642321293300,
+		"id_str": "1251556642321293312",
+		"full_text": "Maç Topu - Şehir Kulüplerinin Geçmişleri Üzerinden Tarihi Değerlendirmeler https://t.co/IXaKDaMokq Hem futbol hem de tarih. @jeandpardaillan hoşuna gideceğini düşünüyorum.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IXaKDaMokq",
+					"expanded_url": "https://youtu.be/2tHm7D7cq4k",
+					"display_url": "youtu.be/2tHm7D7cq4k",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 259,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Maç Topu - Şehir Kulüplerinin Geçmişleri Üzerinden Tarihi Değerlendirmeler https://t.co/IXaKDaMokq Hem futbol hem de tarih. @jeandpardaillan hoşuna gideceğini düşünüyorum."
+	},
+	{
 		"created_at": "Fri Apr 17 10:40:42 +0000 2020",
 		"id": 1251098254839820300,
 		"id_str": "1251098254839820289",
