@@ -1,10 +1,401 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 23:16:36 +0000 2020",
+		"id": 1252013257570824200,
+		"id_str": "1252013257570824192",
+		"full_text": "@naturalelite Olabilir. Demokrasilerde her şey mümkün! 😉",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naturalelite",
+					"name": "Baykaloff",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1252012214044811300,
+		"in_reply_to_status_id_str": "1252012214044811274",
+		"in_reply_to_user_id": 425080324,
+		"in_reply_to_user_id_str": "425080324",
+		"in_reply_to_screen_name": "naturalelite",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 259,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@naturalelite Olabilir. Demokrasilerde her şey mümkün! 😉"
+	},
+	{
+		"created_at": "Sun Apr 19 23:09:52 +0000 2020",
+		"id": 1252011562329669600,
+		"id_str": "1252011562329669634",
+		"full_text": "@naturalelite Niye öyle diyorsun ki, parti devleti SMS yolladı, gittim kodla eczaneden istihkâkım olan 5 adet maskeyi aldım. Öyle kaliteli\" maske ki takmayınca kendini daha güvende hissediyorsun. Demek sen makbul bir vatandaş değilsin ki sana kod gelmemiş.  Böyle düşün, büyük biraderi üzme!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naturalelite",
+					"name": "Baykaloff",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1251993204192350200,
+		"in_reply_to_status_id_str": "1251993204192350213",
+		"in_reply_to_user_id": 425080324,
+		"in_reply_to_user_id_str": "425080324",
+		"in_reply_to_screen_name": "naturalelite",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 259,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@naturalelite Niye öyle diyorsun ki, parti devleti SMS yolladı, gittim kodla eczaneden istihkâkım olan 5 adet maskeyi aldım. Öyle kaliteli\" maske ki takmayınca kendini daha güvende hissediyorsun. Demek sen makbul bir vatandaş değilsin ki sana kod gelmemiş.  Böyle düşün, büyük biraderi üzme!"
+	},
+	{
+		"created_at": "Sun Apr 19 23:01:58 +0000 2020",
+		"id": 1251944015391608800,
+		"id_str": "1252009575919824901",
+		"full_text": "Sokağa çıkma yasağında evsizler neler yapıyor? Bugün onu çekmeye çalıştım. https://t.co/C3Fj4uTgFN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251941669131485200,
+					"id_str": "1251941669131485184",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251941669131485184/pu/img/uTkI5hokM12TSOrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251941669131485184/pu/img/uTkI5hokM12TSOrm.jpg",
+					"url": "https://t.co/C3Fj4uTgFN",
+					"display_url": "pic.twitter.com/C3Fj4uTgFN",
+					"expanded_url": "https://twitter.com/kaanburaksen/status/1251944015391608841/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251941669131485200,
+					"id_str": "1251941669131485184",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251941669131485184/pu/img/uTkI5hokM12TSOrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251941669131485184/pu/img/uTkI5hokM12TSOrm.jpg",
+					"url": "https://t.co/C3Fj4uTgFN",
+					"display_url": "pic.twitter.com/C3Fj4uTgFN",
+					"expanded_url": "https://twitter.com/kaanburaksen/status/1251944015391608841/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251941669131485184/pu/pl/xh5UWpUWmmmf1xQt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251941669131485184/pu/vid/640x360/08R7zqPRyGc1WwPU.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251941669131485184/pu/vid/480x270/4sCukF5-XcuqDvpE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251941669131485184/pu/vid/1280x720/U2Vzhw43Y2RVBjkF.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 178740924,
+			"id_str": "178740924",
+			"name": "Kaan Burak Şen",
+			"screen_name": "kaanburaksen",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/2toh6ZSxkL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2toh6ZSxkL",
+							"expanded_url": "https://instagram.com/kaanburaksen",
+							"display_url": "instagram.com/kaanburaksen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5750,
+			"friends_count": 124,
+			"listed_count": 19,
+			"created_at": "Sun Aug 15 15:30:20 +0000 2010",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "707375",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250331948293054464/NOA53aVH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250331948293054464/NOA53aVH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178740924/1586937502",
+			"profile_link_color": "914091",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 799,
+		"favorite_count": 2562,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Sokağa çıkma yasağında evsizler neler yapıyor? Bugün onu çekmeye çalıştım. https://t.co/C3Fj4uTgFN"
+	},
+	{
 		"created_at": "Sat Apr 18 17:49:13 +0000 2020",
 		"id": 1251568481075695600,
 		"id_str": "1251568481075695617",
-		"full_text": "@Gamsizm @leventp @Ejderha Bu kadar lafa gerek yoktu bence. Her geçen gün daha fakirleşiyoruz işte. Şu anda elimizde olan teknoloji en iyisi. Bozulmasın diye dua edelim. Tozlu raflara nur yağacak belli ki.🤦‍♂️",
+		"full_text": "@Gamsizm @leventp @Ejderha Bu kadar lafa gerek yoktu bence. Her geçen gün daha fakirleşiyoruz işte. Şu anda elimizde olan teknoloji en iyisi. Bozulmasın diye dua edelim. Tozlu raflara nur yağacak belli ki.🤦♂️",
 		"truncated": false,
 		"display_text_range": [
 			27,
@@ -111,7 +502,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "tr",
-		"text": "@Gamsizm @leventp @Ejderha Bu kadar lafa gerek yoktu bence. Her geçen gün daha fakirleşiyoruz işte. Şu anda elimizde olan teknoloji en iyisi. Bozulmasın diye dua edelim. Tozlu raflara nur yağacak belli ki.🤦‍♂️"
+		"text": "@Gamsizm @leventp @Ejderha Bu kadar lafa gerek yoktu bence. Her geçen gün daha fakirleşiyoruz işte. Şu anda elimizde olan teknoloji en iyisi. Bozulmasın diye dua edelim. Tozlu raflara nur yağacak belli ki.🤦♂️"
 	},
 	{
 		"created_at": "Sat Apr 18 17:02:10 +0000 2020",
