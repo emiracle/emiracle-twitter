@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 19:03:05 +0000 2020",
+		"id": 1272621271344451600,
+		"id_str": "1273330340128452608",
+		"full_text": "Never forget this mountain was sacred to the local Indigenous groups and this was 100% on purpose. https://t.co/tEXbeCoHfk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tEXbeCoHfk",
+					"expanded_url": "https://twitter.com/Anarchopology/status/1272557176767250432",
+					"display_url": "twitter.com/Anarchopology/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034651904490565600,
+			"id_str": "1034651904490565632",
+			"name": "EZPZ",
+			"screen_name": "NahNotFeelinIt",
+			"location": "",
+			"description": "He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2162,
+			"friends_count": 347,
+			"listed_count": 1,
+			"created_at": "Wed Aug 29 04:00:11 +0000 2018",
+			"favourites_count": 53912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258851312403451905/sd5HxU2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258851312403451905/sd5HxU2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034651904490565632/1591331859",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272557176767250400,
+		"quoted_status_id_str": "1272557176767250432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tEXbeCoHfk",
+			"expanded": "https://twitter.com/Anarchopology/status/1272557176767250432",
+			"display": "twitter.com/Anarchopology/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 15:50:48 +0000 2020",
+			"id": 1272557176767250400,
+			"id_str": "1272557176767250432",
+			"full_text": "This was vandalism https://t.co/tRslk2OGMh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1272557172799529000,
+						"id_str": "1272557172799528960",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EakIAaEXYAAOpi5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EakIAaEXYAAOpi5.jpg",
+						"url": "https://t.co/tRslk2OGMh",
+						"display_url": "pic.twitter.com/tRslk2OGMh",
+						"expanded_url": "https://twitter.com/Anarchopology/status/1272557176767250432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272557172799529000,
+						"id_str": "1272557172799528960",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EakIAaEXYAAOpi5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EakIAaEXYAAOpi5.jpg",
+						"url": "https://t.co/tRslk2OGMh",
+						"display_url": "pic.twitter.com/tRslk2OGMh",
+						"expanded_url": "https://twitter.com/Anarchopology/status/1272557176767250432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1136736311312883700,
+				"id_str": "1136736311312883733",
+				"name": "Aaron the Anthropologist",
+				"screen_name": "Anarchopology",
+				"location": "Washington, DC",
+				"description": "PhD candidate, MA, BA. research with homeless/unhoused in NoMa Business Improvement District (BID) in Washington DC. marx anarchy social reproduction. they/them",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3671,
+				"friends_count": 1412,
+				"listed_count": 25,
+				"created_at": "Thu Jun 06 20:47:10 +0000 2019",
+				"favourites_count": 13127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10516,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1271951841333587970/plTmU9wY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271951841333587970/plTmU9wY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136736311312883733/1592069385",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18058,
+			"favorite_count": 100270,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 181839,
+		"favorite_count": 593161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never forget this mountain was sacred to the local Indigenous groups and this was 100% on purpose. https://t.co/tEXbeCoHfk"
+	},
+	{
 		"created_at": "Fri Jun 12 20:35:26 +0000 2020",
 		"id": 1271541645184503800,
 		"id_str": "1271541645184503814",
