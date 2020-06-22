@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 16:00:57 +0000 2020",
+		"id": 1274581873730166800,
+		"id_str": "1274734058887675905",
+		"full_text": "https://t.co/FKABgNi2Q1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274581867094777900,
+					"id_str": "1274581867094777856",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EbA5dIFWoAA4zIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbA5dIFWoAA4zIb.jpg",
+					"url": "https://t.co/FKABgNi2Q1",
+					"display_url": "pic.twitter.com/FKABgNi2Q1",
+					"expanded_url": "https://twitter.com/naturalelite/status/1274581873730166785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1212,
+							"h": 819,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274581867094777900,
+					"id_str": "1274581867094777856",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EbA5dIFWoAA4zIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbA5dIFWoAA4zIb.jpg",
+					"url": "https://t.co/FKABgNi2Q1",
+					"display_url": "pic.twitter.com/FKABgNi2Q1",
+					"expanded_url": "https://twitter.com/naturalelite/status/1274581873730166785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1212,
+							"h": 819,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 425080324,
+			"id_str": "425080324",
+			"name": "Baykaloff",
+			"screen_name": "naturalelite",
+			"location": "Constantinople",
+			"description": "Austro-Libertarian, Gun Nut Smith.Menger.Mises.Rothbard.Hoppe",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 637,
+			"listed_count": 3,
+			"created_at": "Wed Nov 30 14:46:17 +0000 2011",
+			"favourites_count": 2474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264207796683395072/3idFigYJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264207796683395072/3idFigYJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/425080324/1591911108",
+			"profile_link_color": "050505",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C7AA37",
+			"profile_text_color": "141413",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/FKABgNi2Q1"
+	},
+	{
 		"created_at": "Wed Jun 17 19:03:05 +0000 2020",
 		"id": 1272621271344451600,
 		"id_str": "1273330340128452608",
