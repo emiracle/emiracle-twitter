@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 23:25:57 +0000 2020",
+		"id": 1285717681866518500,
+		"id_str": "1285717681866518533",
+		"full_text": "@naturalelite @samettulca https://t.co/DyCOiwL0Mb",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naturalelite",
+					"name": "Baykaloff",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "samettulca",
+					"name": "Samet Tulça",
+					"id": 962355935258824700,
+					"id_str": "962355935258824704",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DyCOiwL0Mb",
+					"expanded_url": "https://readonlymemory.vg/the-making-of-sensible-soccer/",
+					"display_url": "readonlymemory.vg/the-making-of-…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285693177664610300,
+		"in_reply_to_status_id_str": "1285693177664610310",
+		"in_reply_to_user_id": 425080324,
+		"in_reply_to_user_id_str": "425080324",
+		"in_reply_to_screen_name": "naturalelite",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@naturalelite @samettulca https://t.co/DyCOiwL0Mb"
+	},
+	{
+		"created_at": "Tue Jul 21 23:24:58 +0000 2020",
+		"id": 1285717434478067700,
+		"id_str": "1285717434478067712",
+		"full_text": "@samettulca @naturalelite Haha öyle mi dersin? Sensible Soccer kült bir oyun ama çocukken zaten her şey daha güzeldi. Caner'in odasının kapısına yapıştırılmış Euro 92 Panini çıkartmaları ya da FIFA International Soccer da güzeldi mesela 🤓",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samettulca",
+					"name": "Samet Tulça",
+					"id": 962355935258824700,
+					"id_str": "962355935258824704",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "naturalelite",
+					"name": "Baykaloff",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285692197225078800,
+		"in_reply_to_status_id_str": "1285692197225078789",
+		"in_reply_to_user_id": 962355935258824700,
+		"in_reply_to_user_id_str": "962355935258824704",
+		"in_reply_to_screen_name": "samettulca",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@samettulca @naturalelite Haha öyle mi dersin? Sensible Soccer kült bir oyun ama çocukken zaten her şey daha güzeldi. Caner'in odasının kapısına yapıştırılmış Euro 92 Panini çıkartmaları ya da FIFA International Soccer da güzeldi mesela 🤓"
+	},
+	{
+		"created_at": "Tue Jul 21 21:44:41 +0000 2020",
+		"id": 1285273264856526800,
+		"id_str": "1285692199301193730",
+		"full_text": "Retweet if you loved playing Sensible Soccer in the 90s! https://t.co/WjvAlBeNpB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1029433131319812100,
+					"id_str": "1029433131319812096",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DklH-pBV4AAQ1fR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DklH-pBV4AAQ1fR.jpg",
+					"url": "https://t.co/WjvAlBeNpB",
+					"display_url": "pic.twitter.com/WjvAlBeNpB",
+					"expanded_url": "https://twitter.com/SWOSUnited/status/1029433382390751232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029433382390751200,
+					"source_status_id_str": "1029433382390751232",
+					"source_user_id": 725002208018882600,
+					"source_user_id_str": "725002208018882564"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029433131319812100,
+					"id_str": "1029433131319812096",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DklH-pBV4AAQ1fR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DklH-pBV4AAQ1fR.jpg",
+					"url": "https://t.co/WjvAlBeNpB",
+					"display_url": "pic.twitter.com/WjvAlBeNpB",
+					"expanded_url": "https://twitter.com/SWOSUnited/status/1029433382390751232/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029433382390751200,
+					"source_status_id_str": "1029433382390751232",
+					"source_user_id": 725002208018882600,
+					"source_user_id_str": "725002208018882564",
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							129
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DklH-pBV4AAQ1fR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872191892,
+			"id_str": "872191892",
+			"name": "90s Football",
+			"screen_name": "90sfootball",
+			"location": "The 90s",
+			"description": "Sponsored by Classic Football Shirts: https://t.co/pD0k5KHTIP. Tweeting photos, videos and more of football in the 90s. Enquiries: ninetiesfootball@gmail.com.",
+			"url": "https://t.co/hFWpooIyVU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hFWpooIyVU",
+							"expanded_url": "http://www.90sfootball.com",
+							"display_url": "90sfootball.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pD0k5KHTIP",
+							"expanded_url": "http://bit.ly/90sShirts",
+							"display_url": "bit.ly/90sShirts",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443285,
+			"friends_count": 983,
+			"listed_count": 1771,
+			"created_at": "Wed Oct 10 17:25:17 +0000 2012",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109909136584699906/TumHPQQ1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109909136584699906/TumHPQQ1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872191892/1462552979",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 547,
+		"favorite_count": 1291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweet if you loved playing Sensible Soccer in the 90s! https://t.co/WjvAlBeNpB"
+	},
+	{
 		"created_at": "Mon Jul 20 17:14:54 +0000 2020",
 		"id": 1285261917410472000,
 		"id_str": "1285261917410471939",
