@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 11:27:19 +0000 2020",
+		"id": 1290972650962067500,
+		"id_str": "1290972650962067457",
+		"full_text": "@nazeningemi İyi oldu bunu gördüğüm. Bu devletçi köpeklere yağmurlu havada su yok! Babası devletmiş ya anası kim acaba?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nazeningemi",
+					"name": "Suhulet Kantonyan",
+					"id": 3053431321,
+					"id_str": "3053431321",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290944730843553800,
+		"in_reply_to_status_id_str": "1290944730843553792",
+		"in_reply_to_user_id": 3053431321,
+		"in_reply_to_user_id_str": "3053431321",
+		"in_reply_to_screen_name": "nazeningemi",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 259,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@nazeningemi İyi oldu bunu gördüğüm. Bu devletçi köpeklere yağmurlu havada su yok! Babası devletmiş ya anası kim acaba?"
+	},
+	{
 		"created_at": "Sun Aug 02 21:04:33 +0000 2020",
 		"id": 1290030749744107500,
 		"id_str": "1290030749744107523",
@@ -107,7 +200,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Sun Aug 02 17:48:08 +0000 2020",
 		"id": 1289981320618283000,
 		"id_str": "1289981320618283008",
-		"full_text": "@sevketuy Evet biliyorum, haklısın. Ben sesli düşündüm en başta acaba o sıyır at vizör plastiklerinden satılıyor mudur diye... Sonuçta güvenlikle ilgili bir şey ve motor sadece bizimki gibi fukara 3. dünya ülkelerinde kullanılmıyor. 🤷‍♂️",
+		"full_text": "@sevketuy Evet biliyorum, haklısın. Ben sesli düşündüm en başta acaba o sıyır at vizör plastiklerinden satılıyor mudur diye... Sonuçta güvenlikle ilgili bir şey ve motor sadece bizimki gibi fukara 3. dünya ülkelerinde kullanılmıyor. 🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			10,
@@ -194,7 +287,7 @@ Grailbird.data.tweets_2020_08 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "tr",
-		"text": "@sevketuy Evet biliyorum, haklısın. Ben sesli düşündüm en başta acaba o sıyır at vizör plastiklerinden satılıyor mudur diye... Sonuçta güvenlikle ilgili bir şey ve motor sadece bizimki gibi fukara 3. dünya ülkelerinde kullanılmıyor. 🤷‍♂️"
+		"text": "@sevketuy Evet biliyorum, haklısın. Ben sesli düşündüm en başta acaba o sıyır at vizör plastiklerinden satılıyor mudur diye... Sonuçta güvenlikle ilgili bir şey ve motor sadece bizimki gibi fukara 3. dünya ülkelerinde kullanılmıyor. 🤷♂️"
 	},
 	{
 		"created_at": "Sun Aug 02 12:10:13 +0000 2020",
