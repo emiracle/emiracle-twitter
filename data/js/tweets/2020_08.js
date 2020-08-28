@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 16:48:19 +0000 2020",
+		"id": 1299025965771886600,
+		"id_str": "1299025965771886593",
+		"full_text": "@utkukali @mserdark Lists sayfasına pinleme özelliği gelmiş. Bundan mı bahsediyorsun?",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "utkukali",
+					"name": "Utku Kalı",
+					"id": 20558296,
+					"id_str": "20558296",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mserdark",
+					"name": "M. Serdar Kuzuloğlu",
+					"id": 15263572,
+					"id_str": "15263572",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1299025070699040800,
+		"in_reply_to_status_id_str": "1299025070699040769",
+		"in_reply_to_user_id": 20558296,
+		"in_reply_to_user_id_str": "20558296",
+		"in_reply_to_screen_name": "utkukali",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 260,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@utkukali @mserdark Lists sayfasına pinleme özelliği gelmiş. Bundan mı bahsediyorsun?"
+	},
+	{
 		"created_at": "Tue Aug 25 11:30:25 +0000 2020",
 		"id": 1298221188976648200,
 		"id_str": "1298221188976648193",
