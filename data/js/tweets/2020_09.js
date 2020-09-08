@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 16:12:22 +0000 2020",
+		"id": 1303003183220916200,
+		"id_str": "1303003183220916224",
+		"full_text": "@sislamoglu @jeandpardaillan Niye yapmadıklarını inan anlamıyorum. Hem satması kolay hem tüketmesi. Web sitelerinden kendileri satabilirler maksimum 1 MB bir ePUB dosyası, teknik bir maliyeti de yok. Yayıncılara soruyorum doğru düzgün bir cevap bile veremiyorlar. eKitap okuyucusu azmış, azsa az ne olacak!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sislamoglu",
+					"name": "Selčuk Islamoghlou 😷",
+					"id": 41403264,
+					"id_str": "41403264",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1303001928033538000,
+		"in_reply_to_status_id_str": "1303001928033538049",
+		"in_reply_to_user_id": 41403264,
+		"in_reply_to_user_id_str": "41403264",
+		"in_reply_to_screen_name": "sislamoglu",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 258,
+			"listed_count": 9,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@sislamoglu @jeandpardaillan Niye yapmadıklarını inan anlamıyorum. Hem satması kolay hem tüketmesi. Web sitelerinden kendileri satabilirler maksimum 1 MB bir ePUB dosyası, teknik bir maliyeti de yok. Yayıncılara soruyorum doğru düzgün bir cevap bile veremiyorlar. eKitap okuyucusu azmış, azsa az ne olacak!"
+	},
+	{
 		"created_at": "Mon Sep 07 00:52:00 +0000 2020",
 		"id": 1302771565063540700,
 		"id_str": "1302771565063540737",
