@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 23 00:14:38 +0000 2020",
+		"id": 1308560366935388200,
+		"id_str": "1308560366935388161",
+		"full_text": "@imTolstoyevski İyi ki bu logoyu Erdil Yaşaroğlu çizmemiş. Donunu alırdı valla donunu! 😉 https://t.co/Wx4e2xixs0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imTolstoyevski",
+					"name": "Immanuel Tolstoyevski 🐵 Fularsız Entellik",
+					"id": 224816746,
+					"id_str": "224816746",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308560360904044500,
+					"id_str": "1308560360904044545",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EijwtxbXsAE060P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EijwtxbXsAE060P.jpg",
+					"url": "https://t.co/Wx4e2xixs0",
+					"display_url": "pic.twitter.com/Wx4e2xixs0",
+					"expanded_url": "https://twitter.com/emiracle/status/1308560366935388161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308560360904044500,
+					"id_str": "1308560360904044545",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EijwtxbXsAE060P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EijwtxbXsAE060P.jpg",
+					"url": "https://t.co/Wx4e2xixs0",
+					"display_url": "pic.twitter.com/Wx4e2xixs0",
+					"expanded_url": "https://twitter.com/emiracle/status/1308560366935388161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 224816746,
+		"in_reply_to_user_id_str": "224816746",
+		"in_reply_to_screen_name": "imTolstoyevski",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@imTolstoyevski İyi ki bu logoyu Erdil Yaşaroğlu çizmemiş. Donunu alırdı valla donunu! 😉 https://t.co/Wx4e2xixs0"
+	},
+	{
+		"created_at": "Tue Sep 22 20:01:45 +0000 2020",
+		"id": 1308496727868088300,
+		"id_str": "1308496727868088322",
+		"full_text": "@seheloto @canitti @VuslatCamkerten @kaansezyum @say_cem Kemalist kişilik bozukluğu var onda. Suriyeliler Taksim'de yılbaşı kutluyor diye laf ediyordu, ırkçılık yaptığını söylediğimde beni de bloklamıştı. Başta polemiğe girdi ama sonra böyle dedim: \"Cem sen de kendini muteber bir adam Say\" dayanamadı. 😀",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seheloto",
+					"name": "Roket Muroğlu",
+					"id": 518781374,
+					"id_str": "518781374",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "canitti",
+					"name": "can gurses",
+					"id": 142441415,
+					"id_str": "142441415",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "VuslatCamkerten",
+					"name": "Vuslat Çamkerten",
+					"id": 96108920,
+					"id_str": "96108920",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "kaansezyum",
+					"name": "kaan sezyum",
+					"id": 25861979,
+					"id_str": "25861979",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "say_cem",
+					"name": "Cem Say",
+					"id": 505670972,
+					"id_str": "505670972",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308456360925896700,
+		"in_reply_to_status_id_str": "1308456360925896705",
+		"in_reply_to_user_id": 518781374,
+		"in_reply_to_user_id_str": "518781374",
+		"in_reply_to_screen_name": "seheloto",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@seheloto @canitti @VuslatCamkerten @kaansezyum @say_cem Kemalist kişilik bozukluğu var onda. Suriyeliler Taksim'de yılbaşı kutluyor diye laf ediyordu, ırkçılık yaptığını söylediğimde beni de bloklamıştı. Başta polemiğe girdi ama sonra böyle dedim: \"Cem sen de kendini muteber bir adam Say\" dayanamadı. 😀"
+	},
+	{
+		"created_at": "Tue Sep 22 15:49:01 +0000 2020",
+		"id": 1308433126612504600,
+		"id_str": "1308433126612504579",
+		"full_text": "Sincaplı YouTube videolarına rastlayınca seyrederdim. Adam müthiş bir con artist çıktı Rıza baba! https://t.co/LswJFP3DqJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LswJFP3DqJ",
+					"expanded_url": "https://seyler.eksisozluk.com/kendini-13-yildir-olu-gosterip-sincap-videolariyla-populer-olan-dolandirici-tayfun-demir",
+					"display_url": "seyler.eksisozluk.com/kendini-13-yil…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 259,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Sincaplı YouTube videolarına rastlayınca seyrederdim. Adam müthiş bir con artist çıktı Rıza baba! https://t.co/LswJFP3DqJ"
+	},
+	{
 		"created_at": "Fri Sep 18 21:55:23 +0000 2020",
 		"id": 1307075774353203200,
 		"id_str": "1307075774353203200",
