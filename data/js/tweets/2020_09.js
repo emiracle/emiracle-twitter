@@ -1,6 +1,1174 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 25 21:49:42 +0000 2020",
+		"id": 1309611060798926800,
+		"id_str": "1309611060798926854",
+		"full_text": "@naturalelite @istanbulspor Yazık, sahipsiz bir takım. İki tane İstanbulspor vardı bir ara, o mevzu ne oldu bilmiyorum.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naturalelite",
+					"name": "Baykaloff",
+					"id": 425080324,
+					"id_str": "425080324",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "istanbulspor",
+					"name": "İstanbulspor A.Ş.",
+					"id": 932078622,
+					"id_str": "932078622",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1309580560361234400,
+		"in_reply_to_status_id_str": "1309580560361234433",
+		"in_reply_to_user_id": 425080324,
+		"in_reply_to_user_id_str": "425080324",
+		"in_reply_to_screen_name": "naturalelite",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@naturalelite @istanbulspor Yazık, sahipsiz bir takım. İki tane İstanbulspor vardı bir ara, o mevzu ne oldu bilmiyorum."
+	},
+	{
+		"created_at": "Fri Sep 25 21:45:21 +0000 2020",
+		"id": 1309580560361234400,
+		"id_str": "1309609963497627650",
+		"full_text": "Sevgili @istanbulspor\n1-A.Ş. mi, Ş.A mı?\n2-Parantez içi İngilizce ise officcial hangi dilde?\n3-Ilk ve son tanıdığım İstanbulsporlu @emiracle ‘ın dedesini de bu vesileyle buradan saygıyla anıyorum. https://t.co/kFT6NEsHuV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "istanbulspor",
+					"name": "İstanbulspor A.Ş.",
+					"id": 932078622,
+					"id_str": "932078622",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "emiracle",
+					"name": "Emir Kaymakoğlu",
+					"id": 18937325,
+					"id_str": "18937325",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309580553243553800,
+					"id_str": "1309580553243553794",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EiyQkyDXcAIU9P8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiyQkyDXcAIU9P8.jpg",
+					"url": "https://t.co/kFT6NEsHuV",
+					"display_url": "pic.twitter.com/kFT6NEsHuV",
+					"expanded_url": "https://twitter.com/naturalelite/status/1309580560361234433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1163,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309580553243553800,
+					"id_str": "1309580553243553794",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EiyQkyDXcAIU9P8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiyQkyDXcAIU9P8.jpg",
+					"url": "https://t.co/kFT6NEsHuV",
+					"display_url": "pic.twitter.com/kFT6NEsHuV",
+					"expanded_url": "https://twitter.com/naturalelite/status/1309580560361234433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1163,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 425080324,
+			"id_str": "425080324",
+			"name": "Baykaloff",
+			"screen_name": "naturalelite",
+			"location": "Constantinople",
+			"description": "Austro-Libertarian (Ancap) ————————————- If you don't believe it or don't get it, I don't have the time to try to convince you sorry.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554,
+			"friends_count": 678,
+			"listed_count": 3,
+			"created_at": "Wed Nov 30 14:46:17 +0000 2011",
+			"favourites_count": 2928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307626094296694785/6ut-CAhD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307626094296694785/6ut-CAhD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/425080324/1598098894",
+			"profile_link_color": "050505",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C7AA37",
+			"profile_text_color": "141413",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Sevgili @istanbulspor\n1-A.Ş. mi, Ş.A mı?\n2-Parantez içi İngilizce ise officcial hangi dilde?\n3-Ilk ve son tanıdığım İstanbulsporlu @emiracle ‘ın dedesini de bu vesileyle buradan saygıyla anıyorum. https://t.co/kFT6NEsHuV"
+	},
+	{
+		"created_at": "Thu Sep 24 15:02:08 +0000 2020",
+		"id": 1309146103930118100,
+		"id_str": "1309146103930118145",
+		"full_text": "@Kaplanseren Erdalcım Fenerbahçe adamı ne yapar bize burada söyletme herkesin içerisinde, burası kamuya açık bir yer 😀",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaplanseren",
+					"name": "Erdal Kaplanseren",
+					"id": 17745286,
+					"id_str": "17745286",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1309144346487337000,
+		"in_reply_to_status_id_str": "1309144346487336962",
+		"in_reply_to_user_id": 17745286,
+		"in_reply_to_user_id_str": "17745286",
+		"in_reply_to_screen_name": "Kaplanseren",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaplanseren Erdalcım Fenerbahçe adamı ne yapar bize burada söyletme herkesin içerisinde, burası kamuya açık bir yer 😀"
+	},
+	{
+		"created_at": "Wed Sep 23 15:34:13 +0000 2020",
+		"id": 1308791789231517700,
+		"id_str": "1308791789231517697",
+		"full_text": "@Kaburet Dinleyelim. \"Boş Adam İşi\"nde \"Sağ kanattan öyle bir geldi ki Anelka\" stili geçirirdin, o sert üslubunla orta sahada bir dinamoydun. Sonra üşendin, zor geldi tek başına her şeyi ile uğraşmak gittin yancı oldun. O yüzden fazla tutunamadım ben de.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaburet",
+					"name": "Burak Kılıç",
+					"id": 69017535,
+					"id_str": "69017535",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308789964319199200,
+		"in_reply_to_status_id_str": "1308789964319199243",
+		"in_reply_to_user_id": 69017535,
+		"in_reply_to_user_id_str": "69017535",
+		"in_reply_to_screen_name": "Kaburet",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaburet Dinleyelim. \"Boş Adam İşi\"nde \"Sağ kanattan öyle bir geldi ki Anelka\" stili geçirirdin, o sert üslubunla orta sahada bir dinamoydun. Sonra üşendin, zor geldi tek başına her şeyi ile uğraşmak gittin yancı oldun. O yüzden fazla tutunamadım ben de."
+	},
+	{
+		"created_at": "Wed Sep 23 15:22:43 +0000 2020",
+		"id": 1308788895795105800,
+		"id_str": "1308788895795105795",
+		"full_text": "@Kaburet \"ONU ÇEKME, BUNU ÇEK!\" o zaman... Pazar ne olur?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaburet",
+					"name": "Burak Kılıç",
+					"id": 69017535,
+					"id_str": "69017535",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308780609142239200,
+		"in_reply_to_status_id_str": "1308780609142239237",
+		"in_reply_to_user_id": 69017535,
+		"in_reply_to_user_id_str": "69017535",
+		"in_reply_to_screen_name": "Kaburet",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaburet \"ONU ÇEKME, BUNU ÇEK!\" o zaman... Pazar ne olur?"
+	},
+	{
+		"created_at": "Wed Sep 23 14:20:29 +0000 2020",
+		"id": 1308773235056685000,
+		"id_str": "1308773235056685056",
+		"full_text": "@Kaburet Motorcu haklı, kadın cesur. İngiltere'ye gittin \"polisimizi\" mi unuttun?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaburet",
+					"name": "Burak Kılıç",
+					"id": 69017535,
+					"id_str": "69017535",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308770495903432700,
+		"in_reply_to_status_id_str": "1308770495903432706",
+		"in_reply_to_user_id": 69017535,
+		"in_reply_to_user_id_str": "69017535",
+		"in_reply_to_screen_name": "Kaburet",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaburet Motorcu haklı, kadın cesur. İngiltere'ye gittin \"polisimizi\" mi unuttun?"
+	},
+	{
+		"created_at": "Wed Sep 23 14:09:20 +0000 2020",
+		"id": 1308770429214101500,
+		"id_str": "1308770429214101507",
+		"full_text": "@isiIwen @ilkercanikligil Tamam. https://t.co/qnDdYEmzEH",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isiIwen",
+					"name": "rayser-i kum",
+					"id": 1072220303034671100,
+					"id_str": "1072220303034671104",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308770420343136300,
+					"id_str": "1308770420343136257",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Eimvw10XYAE0WNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eimvw10XYAE0WNC.jpg",
+					"url": "https://t.co/qnDdYEmzEH",
+					"display_url": "pic.twitter.com/qnDdYEmzEH",
+					"expanded_url": "https://twitter.com/emiracle/status/1308770429214101507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 487,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 487,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308770420343136300,
+					"id_str": "1308770420343136257",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Eimvw10XYAE0WNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eimvw10XYAE0WNC.jpg",
+					"url": "https://t.co/qnDdYEmzEH",
+					"display_url": "pic.twitter.com/qnDdYEmzEH",
+					"expanded_url": "https://twitter.com/emiracle/status/1308770429214101507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 487,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 487,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308770052099977200,
+		"in_reply_to_status_id_str": "1308770052099977220",
+		"in_reply_to_user_id": 1072220303034671100,
+		"in_reply_to_user_id_str": "1072220303034671104",
+		"in_reply_to_screen_name": "isiIwen",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@isiIwen @ilkercanikligil Tamam. https://t.co/qnDdYEmzEH"
+	},
+	{
+		"created_at": "Wed Sep 23 14:06:53 +0000 2020",
+		"id": 1308769812349440000,
+		"id_str": "1308769812349440000",
+		"full_text": "@isiIwen @ilkercanikligil Kendimi bir an için @ilkercanikligil'in yerine koydum da düşman başına. Ölümden beter bir yazgıymış. Sen daha okuduğunu anlayamıyorsun.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isiIwen",
+					"name": "rayser-i kum",
+					"id": 1072220303034671100,
+					"id_str": "1072220303034671104",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						46,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308769127880962000,
+		"in_reply_to_status_id_str": "1308769127880962051",
+		"in_reply_to_user_id": 1072220303034671100,
+		"in_reply_to_user_id_str": "1072220303034671104",
+		"in_reply_to_screen_name": "isiIwen",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@isiIwen @ilkercanikligil Kendimi bir an için @ilkercanikligil'in yerine koydum da düşman başına. Ölümden beter bir yazgıymış. Sen daha okuduğunu anlayamıyorsun."
+	},
+	{
+		"created_at": "Wed Sep 23 14:02:15 +0000 2020",
+		"id": 1308768645213048800,
+		"id_str": "1308768645213048832",
+		"full_text": "@isiIwen @ilkercanikligil Bu dediğinden tam olarak o çıkmaz. \"ESG seyircisinin\" kanala hiçbir faydası olmadığı çıkar. En otantik içerikler Presheva'nın serileri ama onlar ESG varken de izlenmiyordu sonuçta. ESG ve Oytun Erbaş \"TV personality\" olduklarından aynı oranda izlenmeleri de fazla.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isiIwen",
+					"name": "rayser-i kum",
+					"id": 1072220303034671100,
+					"id_str": "1072220303034671104",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308766578670997500,
+		"in_reply_to_status_id_str": "1308766578670997505",
+		"in_reply_to_user_id": 1072220303034671100,
+		"in_reply_to_user_id_str": "1072220303034671104",
+		"in_reply_to_screen_name": "isiIwen",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@isiIwen @ilkercanikligil Bu dediğinden tam olarak o çıkmaz. \"ESG seyircisinin\" kanala hiçbir faydası olmadığı çıkar. En otantik içerikler Presheva'nın serileri ama onlar ESG varken de izlenmiyordu sonuçta. ESG ve Oytun Erbaş \"TV personality\" olduklarından aynı oranda izlenmeleri de fazla."
+	},
+	{
+		"created_at": "Wed Sep 23 13:53:02 +0000 2020",
+		"id": 1308766326735999000,
+		"id_str": "1308766326735998977",
+		"full_text": "@isiIwen @ilkercanikligil ESG ile bunun ne alakası var? Bu tamamen ayrı bir program. Ben severek izliyordum sonra @ilkercanikligil seyredilmiyor diyerek yayından kaldırmıştı. Ben de ona gönderme yaptım.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isiIwen",
+					"name": "rayser-i kum",
+					"id": 1072220303034671100,
+					"id_str": "1072220303034671104",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						114,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308765885688152000,
+		"in_reply_to_status_id_str": "1308765885688152065",
+		"in_reply_to_user_id": 1072220303034671100,
+		"in_reply_to_user_id_str": "1072220303034671104",
+		"in_reply_to_screen_name": "isiIwen",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 260,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@isiIwen @ilkercanikligil ESG ile bunun ne alakası var? Bu tamamen ayrı bir program. Ben severek izliyordum sonra @ilkercanikligil seyredilmiyor diyerek yayından kaldırmıştı. Ben de ona gönderme yaptım."
+	},
+	{
 		"created_at": "Wed Sep 23 00:14:38 +0000 2020",
 		"id": 1308560366935388200,
 		"id_str": "1308560366935388161",
