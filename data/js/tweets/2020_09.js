@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 00:56:17 +0000 2020",
+		"id": 1311107566919921700,
+		"id_str": "1311107566919921668",
+		"full_text": "@bonkers4memes It would be a headshot.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonkers4memes",
+					"name": "Jack Kubly",
+					"id": 755842553883222000,
+					"id_str": "755842553883222020",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1311078497104867300,
+		"in_reply_to_status_id_str": "1311078497104867329",
+		"in_reply_to_user_id": 755842553883222000,
+		"in_reply_to_user_id_str": "755842553883222020",
+		"in_reply_to_screen_name": "bonkers4memes",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 261,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bonkers4memes It would be a headshot."
+	},
+	{
+		"created_at": "Tue Sep 29 18:46:25 +0000 2020",
+		"id": 1311003821632630800,
+		"id_str": "1311014483968561152",
+		"full_text": "Ya bi yürüyün gidin abicim hadi ya. Tüm kariyerini büyük götü üzerine inşa etmiş bir magazin celebritisi için \"gotunden uydurma\" manasına gelecek bir söz hakkında şunu yazmak bin kat daha popülizm https://t.co/k4A0Boo0Qk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4A0Boo0Qk",
+					"expanded_url": "https://twitter.com/leylaalp/status/1310685117204045825",
+					"display_url": "twitter.com/leylaalp/statu…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1324516536,
+			"id_str": "1324516536",
+			"name": "Özgür ÖZTÜRK",
+			"screen_name": "ozgurozturknet",
+			"location": "Berlin",
+			"description": "Cloud Solution Architect @MicrosoftDE | Geek in Chief @aytitech | Husband&Dad @home | Opinions mine | 1l0l1l1l0l0l1l1l0l0l0l1l1l0l1l1l1",
+			"url": "https://t.co/7Sv5wplvoj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7Sv5wplvoj",
+							"expanded_url": "https://ozgurozturk.net",
+							"display_url": "ozgurozturk.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16952,
+			"friends_count": 597,
+			"listed_count": 58,
+			"created_at": "Wed Apr 03 12:52:35 +0000 2013",
+			"favourites_count": 27222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271040554822967296/obzpqjjO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271040554822967296/obzpqjjO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1324516536/1509051464",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310685117204045800,
+		"quoted_status_id_str": "1310685117204045825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k4A0Boo0Qk",
+			"expanded": "https://twitter.com/leylaalp/status/1310685117204045825",
+			"display": "twitter.com/leylaalp/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 28 20:57:37 +0000 2020",
+			"id": 1310685117204045800,
+			"id_str": "1310685117204045825",
+			"full_text": "Ece Üner’in Kim Kardashian’a verdiği yanıt , ‘efsane, ‘kapak’, ’muhteşem’ ‘ayar’ değil, cinsiyetçi, vasat, çapsız... Bir kadınının \" kadın haklarını savunuyorum\" deyip erkekleşmesinin ve popülizmin örneği.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124884842,
+				"id_str": "124884842",
+				"name": "Leyla Alp",
+				"screen_name": "leylaalp",
+				"location": "",
+				"description": "Yazar ama çizemez. \nÇizerek yazıyorum; yetenek eksikliğinden, boyayarak çizemediğim için. Ressam olamadığım için...",
+				"url": "https://t.co/pJSW1Jaf99",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pJSW1Jaf99",
+								"expanded_url": "http://instagram.com/leyla.alp",
+								"display_url": "instagram.com/leyla.alp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22449,
+				"friends_count": 1471,
+				"listed_count": 81,
+				"created_at": "Sat Mar 20 22:51:47 +0000 2010",
+				"favourites_count": 1853,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14813,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1286045321177563138/qF9nZYn-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286045321177563138/qF9nZYn-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124884842/1437376421",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1233,
+			"favorite_count": 18178,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 11,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Ya bi yürüyün gidin abicim hadi ya. Tüm kariyerini büyük götü üzerine inşa etmiş bir magazin celebritisi için \"gotunden uydurma\" manasına gelecek bir söz hakkında şunu yazmak bin kat daha popülizm https://t.co/k4A0Boo0Qk"
+	},
+	{
 		"created_at": "Mon Sep 28 13:58:38 +0000 2020",
 		"id": 1310579675719180300,
 		"id_str": "1310579675719180290",
