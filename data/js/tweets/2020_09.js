@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 19:32:43 +0000 2020",
+		"id": 1311388523962994700,
+		"id_str": "1311388523962994688",
+		"full_text": "Bizi rezil bir geleceğin kölesi yapmalarına izin vermemeliyiz. https://t.co/sRvjC0ZItb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sRvjC0ZItb",
+					"expanded_url": "https://twitter.com/CaKizil/status/1275253450234892290",
+					"display_url": "twitter.com/CaKizil/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 261,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275253450234892300,
+		"quoted_status_id_str": "1275253450234892290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sRvjC0ZItb",
+			"expanded": "https://twitter.com/CaKizil/status/1275253450234892290",
+			"display": "twitter.com/CaKizil/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 23 02:24:50 +0000 2020",
+			"id": 1275253450234892300,
+			"id_str": "1275253450234892290",
+			"full_text": "Bazı ülkelerdeki COVID-19 verilerinin paylaşılma biçimleri: \nBrezilya - https://t.co/gQd6DfHkHC https://t.co/AYrFfGGuuZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gQd6DfHkHC",
+						"expanded_url": "https://covid.saude.gov.br/",
+						"display_url": "covid.saude.gov.br",
+						"indices": [
+							72,
+							95
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1275235289909416000,
+						"id_str": "1275235289909415937",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/EbKLvVwX0AEQWjN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbKLvVwX0AEQWjN.jpg",
+						"url": "https://t.co/AYrFfGGuuZ",
+						"display_url": "pic.twitter.com/AYrFfGGuuZ",
+						"expanded_url": "https://twitter.com/CaKizil/status/1275253450234892290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 607,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1349,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1275235289909416000,
+						"id_str": "1275235289909415937",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/EbKLvVwX0AEQWjN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbKLvVwX0AEQWjN.jpg",
+						"url": "https://t.co/AYrFfGGuuZ",
+						"display_url": "pic.twitter.com/AYrFfGGuuZ",
+						"expanded_url": "https://twitter.com/CaKizil/status/1275253450234892290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 607,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1349,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1275235305675804700,
+						"id_str": "1275235305675804673",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/EbKLwQfX0AEye6t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbKLwQfX0AEye6t.jpg",
+						"url": "https://t.co/AYrFfGGuuZ",
+						"display_url": "pic.twitter.com/AYrFfGGuuZ",
+						"expanded_url": "https://twitter.com/CaKizil/status/1275253450234892290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 524,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 297,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1369,
+								"h": 598,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1275235289909379000,
+						"id_str": "1275235289909379072",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/EbKLvVwXQAAoMPE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbKLvVwXQAAoMPE.jpg",
+						"url": "https://t.co/AYrFfGGuuZ",
+						"display_url": "pic.twitter.com/AYrFfGGuuZ",
+						"expanded_url": "https://twitter.com/CaKizil/status/1275253450234892290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 514,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 291,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1329,
+								"h": 569,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1275235289909387300,
+						"id_str": "1275235289909387266",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/EbKLvVwXYAIuzx3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbKLvVwXYAIuzx3.jpg",
+						"url": "https://t.co/AYrFfGGuuZ",
+						"display_url": "pic.twitter.com/AYrFfGGuuZ",
+						"expanded_url": "https://twitter.com/CaKizil/status/1275253450234892290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1395,
+								"h": 714,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 614,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 433558867,
+				"id_str": "433558867",
+				"name": "Caghan Kizil",
+				"screen_name": "CaKizil",
+				"location": "Germany",
+				"description": "Assoc. Prof. Genetics/Neuroscience | @helmholtz_de @tudresden_de | https://t.co/4TsitTvg1P | @Kizil_Lab_DZNE | Former @maxplanckpress @Columbia @METU_ODTU | Views my own",
+				"url": "https://t.co/rDcqV4Zmwu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rDcqV4Zmwu",
+								"expanded_url": "https://kizillab.org",
+								"display_url": "kizillab.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4TsitTvg1P",
+								"expanded_url": "http://dzne.de/kizil",
+								"display_url": "dzne.de/kizil",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 146566,
+				"friends_count": 2918,
+				"listed_count": 250,
+				"created_at": "Sat Dec 10 18:27:56 +0000 2011",
+				"favourites_count": 12894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7782,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027493516749012992/KITUNnP5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027493516749012992/KITUNnP5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/433558867/1585339073",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 481,
+			"favorite_count": 1574,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Bizi rezil bir geleceğin kölesi yapmalarına izin vermemeliyiz. https://t.co/sRvjC0ZItb"
+	},
+	{
+		"created_at": "Wed Sep 30 15:55:36 +0000 2020",
+		"id": 1311333887352635400,
+		"id_str": "1311333887352635393",
+		"full_text": "@fidaner Birincisi güzeldi, severek okudum. Hatta hatılarsan ePUB'ını sana ben yollamıştım :)",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fidaner",
+					"name": "Işık Barış Fidaner 🌍",
+					"id": 15856156,
+					"id_str": "15856156",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1311333297612492800,
+		"in_reply_to_status_id_str": "1311333297612492801",
+		"in_reply_to_user_id": 15856156,
+		"in_reply_to_user_id_str": "15856156",
+		"in_reply_to_screen_name": "fidaner",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 261,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@fidaner Birincisi güzeldi, severek okudum. Hatta hatılarsan ePUB'ını sana ben yollamıştım :)"
+	},
+	{
 		"created_at": "Wed Sep 30 00:56:17 +0000 2020",
 		"id": 1311107566919921700,
 		"id_str": "1311107566919921668",
