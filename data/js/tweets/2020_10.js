@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 21:54:56 +0000 2020",
+		"id": 1314685048424202200,
+		"id_str": "1314685807198908421",
+		"full_text": "Manitaya attığım / gerçekte olan https://t.co/Wl1HXpQ7wJ https://t.co/E8VkOwmQf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wl1HXpQ7wJ",
+					"expanded_url": "https://twitter.com/berrakue/status/1300884343741710336",
+					"display_url": "twitter.com/berrakue/statu…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314685033408598000,
+					"id_str": "1314685033408598016",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej6zEofXkAA5FYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej6zEofXkAA5FYj.jpg",
+					"url": "https://t.co/E8VkOwmQf6",
+					"display_url": "pic.twitter.com/E8VkOwmQf6",
+					"expanded_url": "https://twitter.com/tumsev/status/1314685048424202247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1960,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1148,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314685033408598000,
+					"id_str": "1314685033408598016",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej6zEofXkAA5FYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej6zEofXkAA5FYj.jpg",
+					"url": "https://t.co/E8VkOwmQf6",
+					"display_url": "pic.twitter.com/E8VkOwmQf6",
+					"expanded_url": "https://twitter.com/tumsev/status/1314685048424202247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1960,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1148,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314685033429577700,
+					"id_str": "1314685033429577730",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej6zEokXsAIH-cG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej6zEokXsAIH-cG.jpg",
+					"url": "https://t.co/E8VkOwmQf6",
+					"display_url": "pic.twitter.com/E8VkOwmQf6",
+					"expanded_url": "https://twitter.com/tumsev/status/1314685048424202247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297340072,
+			"id_str": "297340072",
+			"name": "tümsev",
+			"screen_name": "tumsev",
+			"location": "İstanbul, Türkiye",
+			"description": "roses are red, this life is a lie, existence is pain, i just wanna die. -mr. meeseeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 446,
+			"friends_count": 591,
+			"listed_count": 0,
+			"created_at": "Thu May 12 10:43:52 +0000 2011",
+			"favourites_count": 15884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300881384295354368/5aMban9g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300881384295354368/5aMban9g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1588439049",
+			"profile_link_color": "0A0909",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1300884343741710300,
+		"quoted_status_id_str": "1300884343741710336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wl1HXpQ7wJ",
+			"expanded": "https://twitter.com/berrakue/status/1300884343741710336",
+			"display": "twitter.com/berrakue/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 01 19:52:51 +0000 2020",
+			"id": 1300884343741710300,
+			"id_str": "1300884343741710336",
+			"full_text": "Manitaya attığım / gerçekte olan https://t.co/bRIqKWhTmA https://t.co/DB1O6muOzo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bRIqKWhTmA",
+						"expanded_url": "https://twitter.com/beesandbirbs/status/1300883506017513473",
+						"display_url": "twitter.com/beesandbirbs/s…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1300884320706592800,
+						"id_str": "1300884320706592769",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg2rZbWXgAESZd0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg2rZbWXgAESZd0.jpg",
+						"url": "https://t.co/DB1O6muOzo",
+						"display_url": "pic.twitter.com/DB1O6muOzo",
+						"expanded_url": "https://twitter.com/berrakue/status/1300884343741710336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1300884320706592800,
+						"id_str": "1300884320706592769",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg2rZbWXgAESZd0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg2rZbWXgAESZd0.jpg",
+						"url": "https://t.co/DB1O6muOzo",
+						"display_url": "pic.twitter.com/DB1O6muOzo",
+						"expanded_url": "https://twitter.com/berrakue/status/1300884343741710336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1300884320740139000,
+						"id_str": "1300884320740139011",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg2rZbeXYAMJvYJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg2rZbeXYAMJvYJ.jpg",
+						"url": "https://t.co/DB1O6muOzo",
+						"display_url": "pic.twitter.com/DB1O6muOzo",
+						"expanded_url": "https://twitter.com/berrakue/status/1300884343741710336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24938586,
+				"id_str": "24938586",
+				"name": "berrak",
+				"screen_name": "berrakue",
+				"location": "",
+				"description": "shitposter & oversharer",
+				"url": "https://t.co/4gRXkPVbB2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4gRXkPVbB2",
+								"expanded_url": "http://instagram.com/berraque",
+								"display_url": "instagram.com/berraque",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78939,
+				"friends_count": 1316,
+				"listed_count": 199,
+				"created_at": "Tue Mar 17 19:36:30 +0000 2009",
+				"favourites_count": 100344,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63889,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1285999538445180928/rluES4bN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285999538445180928/rluES4bN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24938586/1479595751",
+				"profile_link_color": "FFAABB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1300883506017513500,
+			"quoted_status_id_str": "1300883506017513473",
+			"quoted_status_permalink": {
+				"url": "https://t.co/bRIqKWhTmA",
+				"expanded": "https://twitter.com/beesandbirbs/status/1300883506017513473",
+				"display": "twitter.com/beesandbirbs/s…"
+			},
+			"retweet_count": 36,
+			"favorite_count": 2824,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Manitaya attığım / gerçekte olan https://t.co/Wl1HXpQ7wJ https://t.co/E8VkOwmQf6"
+	},
+	{
 		"created_at": "Wed Oct 07 12:31:02 +0000 2020",
 		"id": 1313819118278250500,
 		"id_str": "1313819118278250497",
