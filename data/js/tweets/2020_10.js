@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 02:32:07 +0000 2020",
+		"id": 1315926168479072300,
+		"id_str": "1316205113296420867",
+		"full_text": "Futboldan en çok zevk aldığınız zaman sorulduğunda genelde unutulmayan bir gol,farklı kazanılan bir derbi akla gelir. Bence en güzel an; çocukken götürülen ilk maçta stadyum merdivenlerinden çıkarken çimlerin gözü kamaştırdığı o andır. “Fever Pitch” 1997 https://t.co/4k7MBRiDYt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239166142473699300,
+					"id_str": "1239166142473699329",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239166142473699329/pu/img/LyLabjuF765xUiGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239166142473699329/pu/img/LyLabjuF765xUiGA.jpg",
+					"url": "https://t.co/4k7MBRiDYt",
+					"display_url": "pic.twitter.com/4k7MBRiDYt",
+					"expanded_url": "https://twitter.com/harungunduz_/status/1239166251760525312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1239166251760525300,
+					"source_status_id_str": "1239166251760525312",
+					"source_user_id": 1133820035187826700,
+					"source_user_id_str": "1133820035187826689"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239166142473699300,
+					"id_str": "1239166142473699329",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239166142473699329/pu/img/LyLabjuF765xUiGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239166142473699329/pu/img/LyLabjuF765xUiGA.jpg",
+					"url": "https://t.co/4k7MBRiDYt",
+					"display_url": "pic.twitter.com/4k7MBRiDYt",
+					"expanded_url": "https://twitter.com/harungunduz_/status/1239166251760525312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1239166251760525300,
+					"source_status_id_str": "1239166251760525312",
+					"source_user_id": 1133820035187826700,
+					"source_user_id_str": "1133820035187826689",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							5
+						],
+						"duration_millis": 134120,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239166142473699329/pu/pl/PqG5exnyghjDOdAq.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239166142473699329/pu/vid/486x270/eJqBhohzZtHlTAQS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239166142473699329/pu/vid/576x320/dgMErqNmNCJNom5M.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1133820035187826700,
+							"id_str": "1133820035187826689",
+							"name": "Harun Gündüz",
+							"screen_name": "harungunduz_",
+							"location": "",
+							"description": "Professional Football Scout | @ipsofootball , @thepfsa History of football , less is more",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 10108,
+							"friends_count": 693,
+							"listed_count": 26,
+							"created_at": "Wed May 29 19:38:56 +0000 2019",
+							"favourites_count": 19123,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 6869,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1248200625117990913/8RHmRjhT_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248200625117990913/8RHmRjhT_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133820035187826689/1559159097",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1133820035187826700,
+			"id_str": "1133820035187826689",
+			"name": "Harun Gündüz",
+			"screen_name": "harungunduz_",
+			"location": "",
+			"description": "Professional Football Scout | @ipsofootball , @thepfsa History of football , less is more",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10108,
+			"friends_count": 693,
+			"listed_count": 26,
+			"created_at": "Wed May 29 19:38:56 +0000 2019",
+			"favourites_count": 19123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248200625117990913/8RHmRjhT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248200625117990913/8RHmRjhT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133820035187826689/1559159097",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Futboldan en çok zevk aldığınız zaman sorulduğunda genelde unutulmayan bir gol,farklı kazanılan bir derbi akla gelir. Bence en güzel an; çocukken götürülen ilk maçta stadyum merdivenlerinden çıkarken çimlerin gözü kamaştırdığı o andır. “Fever Pitch” 1997 https://t.co/4k7MBRiDYt"
+	},
+	{
 		"created_at": "Sun Oct 11 14:34:09 +0000 2020",
 		"id": 1315299655840936000,
 		"id_str": "1315299655840935939",
