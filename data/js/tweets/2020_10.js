@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 14:32:48 +0000 2020",
+		"id": 1317111252947247000,
+		"id_str": "1317111252947247105",
+		"full_text": "@yalinalpay @taylanyildiz @flutivi \"İnternetçi arkadaş\" diyerek  badem bıyıkları altından gülen kabzımal arkadaşı ne zaman davet edeceksiniz? Bence o da ilginç bir konuk olurdu.",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yalinalpay",
+					"name": "Yalın Alpay",
+					"id": 82624033,
+					"id_str": "82624033",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "taylanyildiz",
+					"name": "Dr. Taylan Yıldız",
+					"id": 70542134,
+					"id_str": "70542134",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "flutivi",
+					"name": "flu tv",
+					"id": 1098932852593475600,
+					"id_str": "1098932852593475586",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1317070795873652700,
+		"in_reply_to_status_id_str": "1317070795873652736",
+		"in_reply_to_user_id": 82624033,
+		"in_reply_to_user_id_str": "82624033",
+		"in_reply_to_screen_name": "yalinalpay",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 262,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@yalinalpay @taylanyildiz @flutivi \"İnternetçi arkadaş\" diyerek  badem bıyıkları altından gülen kabzımal arkadaşı ne zaman davet edeceksiniz? Bence o da ilginç bir konuk olurdu."
+	},
+	{
 		"created_at": "Wed Oct 14 02:32:07 +0000 2020",
 		"id": 1315926168479072300,
 		"id_str": "1316205113296420867",
