@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 22:38:12 +0000 2020",
+		"id": 1301547473123651600,
+		"id_str": "1318682960116199425",
+		"full_text": "Propaganda Yayınları nedir videomuz! https://t.co/OIoJWaKQCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301547210895757300,
+					"id_str": "1301547210895757312",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301547210895757312/pu/img/0tBPXninxeNYgDzR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301547210895757312/pu/img/0tBPXninxeNYgDzR.jpg",
+					"url": "https://t.co/OIoJWaKQCj",
+					"display_url": "pic.twitter.com/OIoJWaKQCj",
+					"expanded_url": "https://twitter.com/PropagandaY/status/1301547473123651585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301547210895757300,
+					"id_str": "1301547210895757312",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301547210895757312/pu/img/0tBPXninxeNYgDzR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301547210895757312/pu/img/0tBPXninxeNYgDzR.jpg",
+					"url": "https://t.co/OIoJWaKQCj",
+					"display_url": "pic.twitter.com/OIoJWaKQCj",
+					"expanded_url": "https://twitter.com/PropagandaY/status/1301547473123651585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 63840,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301547210895757312/pu/vid/640x360/u-UvtP5BkboKaNZ_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301547210895757312/pu/vid/1280x720/H22opR71NGV88p1r.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1301547210895757312/pu/pl/wAMgs0F7jwIb5YmW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301547210895757312/pu/vid/480x270/FnLKICnIXllMA_Le.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2278784460,
+			"id_str": "2278784460",
+			"name": "Propaganda Yayınları",
+			"screen_name": "PropagandaY",
+			"location": "The Earth",
+			"description": "Okunası eKitaplar yayınlarız. Türkiye'nin ilk ve tek radikal #eKitap yayıneviyiz. (the only radical #ebook publisher in Turkish)",
+			"url": "https://t.co/PBRT3ytCQY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PBRT3ytCQY",
+							"expanded_url": "http://propagandayayinlari.net",
+							"display_url": "propagandayayinlari.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 99,
+			"listed_count": 18,
+			"created_at": "Mon Jan 06 08:34:43 +0000 2014",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915210492960022529/xhXtECMe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915210492960022529/xhXtECMe_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2278784460/1388998552",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Propaganda Yayınları nedir videomuz! https://t.co/OIoJWaKQCj"
+	},
+	{
+		"created_at": "Tue Oct 20 22:34:51 +0000 2020",
+		"id": 1318682117220520000,
+		"id_str": "1318682117220519940",
+		"full_text": "@PropagandaY 2015 sonbaharıydı. Şimdi baktım $450-$500 filanmış. O zaman elimdeki üç beşi tutsaymışım belki bugün yayınevini komple alabilirdim 😂 Hatta o zaman bir haftada bir yükseliş olmuştu, ettiğim kârdan kitap bana bedavaya mı ne gelmişti.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PropagandaY",
+					"name": "Propaganda Yayınları",
+					"id": 2278784460,
+					"id_str": "2278784460",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1318678814927585300,
+		"in_reply_to_status_id_str": "1318678814927585282",
+		"in_reply_to_user_id": 2278784460,
+		"in_reply_to_user_id_str": "2278784460",
+		"in_reply_to_screen_name": "PropagandaY",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 262,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@PropagandaY 2015 sonbaharıydı. Şimdi baktım $450-$500 filanmış. O zaman elimdeki üç beşi tutsaymışım belki bugün yayınevini komple alabilirdim 😂 Hatta o zaman bir haftada bir yükseliş olmuştu, ettiğim kârdan kitap bana bedavaya mı ne gelmişti."
+	},
+	{
+		"created_at": "Tue Oct 20 20:18:50 +0000 2020",
+		"id": 1318647886721241000,
+		"id_str": "1318647886721241089",
+		"full_text": "@PropagandaY Bu yayınevinden bitcoin ile alışveriş yapan ilk kişi de benim 😉",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PropagandaY",
+					"name": "Propaganda Yayınları",
+					"id": 2278784460,
+					"id_str": "2278784460",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": 1318589293380718600,
+		"in_reply_to_status_id_str": "1318589293380718597",
+		"in_reply_to_user_id": 2278784460,
+		"in_reply_to_user_id_str": "2278784460",
+		"in_reply_to_screen_name": "PropagandaY",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 262,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@PropagandaY Bu yayınevinden bitcoin ile alışveriş yapan ilk kişi de benim 😉"
+	},
+	{
+		"created_at": "Tue Oct 20 18:17:30 +0000 2020",
+		"id": 1318617352343269400,
+		"id_str": "1318617352343269378",
+		"full_text": "@doksanlarla Bizim 80'lerde TRT'de izlediğimiz Red Kit'in jeneriği tam olarak buydu. https://t.co/VH3ybK59Pi",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doksanlarla",
+					"name": "90'larla Yaşıyorum",
+					"id": 977103180642373600,
+					"id_str": "977103180642373632",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VH3ybK59Pi",
+					"expanded_url": "https://www.youtube.com/watch?v=GP2e31NH3L4",
+					"display_url": "youtube.com/watch?v=GP2e31…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1318616724246122500,
+		"in_reply_to_status_id_str": "1318616724246122496",
+		"in_reply_to_user_id": 977103180642373600,
+		"in_reply_to_user_id_str": "977103180642373632",
+		"in_reply_to_screen_name": "doksanlarla",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 262,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@doksanlarla Bizim 80'lerde TRT'de izlediğimiz Red Kit'in jeneriği tam olarak buydu. https://t.co/VH3ybK59Pi"
+	},
+	{
+		"created_at": "Tue Oct 20 18:09:03 +0000 2020",
+		"id": 1318615227454337000,
+		"id_str": "1318615227454337025",
+		"full_text": "En az saygıdeğer olanlar kendilerine sayın diye hitap edilmesinden hoşlanırlar. \"Devlet büyüğü\" diye de bir şey olamaz. Devletin büyüğü de küçüğü de sinek gibi mide bulandırır. Yani uzun lafın kısası bunları saymayın, kovun!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 262,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "En az saygıdeğer olanlar kendilerine sayın diye hitap edilmesinden hoşlanırlar. \"Devlet büyüğü\" diye de bir şey olamaz. Devletin büyüğü de küçüğü de sinek gibi mide bulandırır. Yani uzun lafın kısası bunları saymayın, kovun!"
+	},
+	{
 		"created_at": "Mon Oct 19 15:58:09 +0000 2020",
 		"id": 1318219895230898200,
 		"id_str": "1318219895230898177",
