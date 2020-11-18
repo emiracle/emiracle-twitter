@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 23:46:18 +0000 2020",
+		"id": 1328846960854528000,
+		"id_str": "1328846960854528000",
+		"full_text": "@cankantarci İkidir \"aman hocam, bulamadık paşam\" çekiyorlar. Loop'a girdi zahir. Niyet de ettiydim tweet'leşmemizin yüzü suyu hürmetine ama kısmet olmadı henüz 😒 İşte gerçek gündelik yaşam bilimkurgusu! https://t.co/lXIE0tGewa",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cankantarci",
+					"name": "Can Kantarci",
+					"id": 455001534,
+					"id_str": "455001534",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328846051734921200,
+					"id_str": "1328846051734921218",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EnECcYrXIAIsWJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnECcYrXIAIsWJt.jpg",
+					"url": "https://t.co/lXIE0tGewa",
+					"display_url": "pic.twitter.com/lXIE0tGewa",
+					"expanded_url": "https://twitter.com/emiracle/status/1328846960854528000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1410,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328846051734921200,
+					"id_str": "1328846051734921218",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EnECcYrXIAIsWJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnECcYrXIAIsWJt.jpg",
+					"url": "https://t.co/lXIE0tGewa",
+					"display_url": "pic.twitter.com/lXIE0tGewa",
+					"expanded_url": "https://twitter.com/emiracle/status/1328846960854528000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1410,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326907270626762800,
+		"in_reply_to_status_id_str": "1326907270626762762",
+		"in_reply_to_user_id": 455001534,
+		"in_reply_to_user_id_str": "455001534",
+		"in_reply_to_screen_name": "cankantarci",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 266,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@cankantarci İkidir \"aman hocam, bulamadık paşam\" çekiyorlar. Loop'a girdi zahir. Niyet de ettiydim tweet'leşmemizin yüzü suyu hürmetine ama kısmet olmadı henüz 😒 İşte gerçek gündelik yaşam bilimkurgusu! https://t.co/lXIE0tGewa"
+	},
+	{
 		"created_at": "Wed Nov 11 19:59:41 +0000 2020",
 		"id": 1326615603952672800,
 		"id_str": "1326615603952672769",
