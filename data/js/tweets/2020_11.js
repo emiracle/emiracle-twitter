@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 19 22:58:45 +0000 2020",
+		"id": 1329554406518435800,
+		"id_str": "1329559768822910976",
+		"full_text": "2020’ye dair “haydi artık bitsin” hissiyatını anlamak hiç zor olmasa da, şunu da hatırda tutmalı fikrimce: Her zaman beterin beteri olabileceği gibi, sürekli gelecekteki bir zamanı isteyerek yaşamanın bizi bugünün değerini bilmek ve o değeri vermekten alıkoyan bir tarafı var.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7137412,
+			"id_str": "7137412",
+			"name": "Pelin Kesebir",
+			"screen_name": "PelinKesebir",
+			"location": "Madison, Wisconsin",
+			"description": "Sosyal psikolog",
+			"url": "https://t.co/yDELLzosWR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yDELLzosWR",
+							"expanded_url": "https://centerhealthyminds.org/about/people/pelin-kesebir",
+							"display_url": "centerhealthyminds.org/about/people/p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82983,
+			"friends_count": 1856,
+			"listed_count": 183,
+			"created_at": "Thu Jun 28 19:31:06 +0000 2007",
+			"favourites_count": 5869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/18429482/Pelin1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/18429482/Pelin1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7137412/1423962510",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAB189",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 564,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "2020’ye dair “haydi artık bitsin” hissiyatını anlamak hiç zor olmasa da, şunu da hatırda tutmalı fikrimce: Her zaman beterin beteri olabileceği gibi, sürekli gelecekteki bir zamanı isteyerek yaşamanın bizi bugünün değerini bilmek ve o değeri vermekten alıkoyan bir tarafı var."
+	},
+	{
+		"created_at": "Thu Nov 19 21:49:11 +0000 2020",
+		"id": 1329542262406189000,
+		"id_str": "1329542262406189056",
+		"full_text": "Dünyanın tüm web geliştiricileri, birleşin! https://t.co/LInI4bJJnK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LInI4bJJnK",
+					"expanded_url": "https://twitter.com/altbilisim/status/1329530331725258756",
+					"display_url": "twitter.com/altbilisim/sta…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 269,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329530331725258800,
+		"quoted_status_id_str": "1329530331725258756",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LInI4bJJnK",
+			"expanded": "https://twitter.com/altbilisim/status/1329530331725258756",
+			"display": "twitter.com/altbilisim/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 19 21:01:47 +0000 2020",
+			"id": 1329530331725258800,
+			"id_str": "1329530331725258756",
+			"full_text": "Üyesi olduğumuz EDRI' nin öncülüğünde web geliştiricileri için hazırlanan Etik Web Geliştirme ve Bakım Kılavuzu derneğimiz tarafından Türkçe' ye çevrildi. @sinanasci\nve @gulumsener e teşekkürler. Buradan indirebilir ve paylaşabilirsiniz...\nhttps://t.co/7g0PlEyzIQ https://t.co/g5P0LflI8s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sinanasci",
+						"name": "Sinan Aşçı",
+						"id": 105585625,
+						"id_str": "105585625",
+						"indices": [
+							155,
+							165
+						]
+					},
+					{
+						"screen_name": "gulumsener",
+						"name": "gulumsener",
+						"id": 1402030766,
+						"id_str": "1402030766",
+						"indices": [
+							169,
+							180
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7g0PlEyzIQ",
+						"expanded_url": "https://ekitap.alternatifbilisim.org/etik-web-gelistirme/",
+						"display_url": "ekitap.alternatifbilisim.org/etik-web-gelis…",
+						"indices": [
+							240,
+							263
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1329529604130939000,
+						"id_str": "1329529604130938880",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/EnNwIXyXIAAKUoH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnNwIXyXIAAKUoH.jpg",
+						"url": "https://t.co/g5P0LflI8s",
+						"display_url": "pic.twitter.com/g5P0LflI8s",
+						"expanded_url": "https://twitter.com/altbilisim/status/1329530331725258756/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 584,
+								"h": 826,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 826,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1329529604130939000,
+						"id_str": "1329529604130938880",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/EnNwIXyXIAAKUoH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnNwIXyXIAAKUoH.jpg",
+						"url": "https://t.co/g5P0LflI8s",
+						"display_url": "pic.twitter.com/g5P0LflI8s",
+						"expanded_url": "https://twitter.com/altbilisim/status/1329530331725258756/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 584,
+								"h": 826,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 826,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239557410,
+				"id_str": "239557410",
+				"name": "Alternatif Bilişim",
+				"screen_name": "altbilisim",
+				"location": "",
+				"description": "Alternatif Bilişim Derneği / Alternative Informatics Association",
+				"url": "https://t.co/9AFpJMZY1f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9AFpJMZY1f",
+								"expanded_url": "https://alternatifbilisim.org",
+								"display_url": "alternatifbilisim.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5586,
+				"friends_count": 155,
+				"listed_count": 102,
+				"created_at": "Mon Jan 17 22:19:31 +0000 2011",
+				"favourites_count": 434,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1687101133/logo-transparan-noname_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1687101133/logo-transparan-noname_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239557410/1437036580",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Dünyanın tüm web geliştiricileri, birleşin! https://t.co/LInI4bJJnK"
+	},
+	{
+		"created_at": "Thu Nov 19 18:32:41 +0000 2020",
+		"id": 1329492809750110200,
+		"id_str": "1329492809750110214",
+		"full_text": "@yeniyasamgazete @umit_k Hollanda'nın Türkiye'den ileride olduğunu gösteren yeni bir detayla daha karşı karşıyayız sevgili izleyenler.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yeniyasamgazete",
+					"name": "Yeni Yaşam Gazetesi",
+					"id": 999262997250965500,
+					"id_str": "999262997250965504",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "umit_k",
+					"name": "ümit kıvanç",
+					"id": 256665334,
+					"id_str": "256665334",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1329479551437607000,
+		"in_reply_to_status_id_str": "1329479551437606912",
+		"in_reply_to_user_id": 999262997250965500,
+		"in_reply_to_user_id_str": "999262997250965504",
+		"in_reply_to_screen_name": "yeniyasamgazete",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 269,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@yeniyasamgazete @umit_k Hollanda'nın Türkiye'den ileride olduğunu gösteren yeni bir detayla daha karşı karşıyayız sevgili izleyenler."
+	},
+	{
 		"created_at": "Thu Nov 19 01:12:34 +0000 2020",
 		"id": 1329231055476416500,
 		"id_str": "1329231055476416512",
