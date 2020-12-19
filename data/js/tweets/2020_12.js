@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 18 03:06:20 +0000 2020",
+		"id": 1339768936422903800,
+		"id_str": "1339768936422903809",
+		"full_text": "@mserdark Gördüm, artırıyorum! İlk severek okuduğum kitaptır. https://t.co/Lv0jiNR2Pc",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mserdark",
+					"name": "M. Serdar Kuzuloğlu",
+					"id": 15263572,
+					"id_str": "15263572",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339768933662920700,
+					"id_str": "1339768933662920704",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EpfQvywVEAAavZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpfQvywVEAAavZa.jpg",
+					"url": "https://t.co/Lv0jiNR2Pc",
+					"display_url": "pic.twitter.com/Lv0jiNR2Pc",
+					"expanded_url": "https://twitter.com/emiracle/status/1339768936422903809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 275,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 275,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 275,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339768933662920700,
+					"id_str": "1339768933662920704",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EpfQvywVEAAavZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpfQvywVEAAavZa.jpg",
+					"url": "https://t.co/Lv0jiNR2Pc",
+					"display_url": "pic.twitter.com/Lv0jiNR2Pc",
+					"expanded_url": "https://twitter.com/emiracle/status/1339768936422903809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 275,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 275,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 275,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1339719783206408200,
+		"in_reply_to_status_id_str": "1339719783206408192",
+		"in_reply_to_user_id": 15263572,
+		"in_reply_to_user_id_str": "15263572",
+		"in_reply_to_screen_name": "mserdark",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 272,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@mserdark Gördüm, artırıyorum! İlk severek okuduğum kitaptır. https://t.co/Lv0jiNR2Pc"
+	},
+	{
 		"created_at": "Tue Dec 15 23:54:28 +0000 2020",
 		"id": 1338995875469783000,
 		"id_str": "1338995875469783047",
