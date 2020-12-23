@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 19:19:45 +0000 2020",
+		"id": 1341461941173235700,
+		"id_str": "1341463454708887552",
+		"full_text": "Okumayı en sevdiğim yıl sonu listelerinden biri. Not: Çip taktırmadım. https://t.co/IhPopRQJWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IhPopRQJWm",
+					"expanded_url": "https://twitter.com/openculture/status/1341460346272268290",
+					"display_url": "twitter.com/openculture/st…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297340072,
+			"id_str": "297340072",
+			"name": "tümsev",
+			"screen_name": "tumsev",
+			"location": "İstanbul, Türkiye",
+			"description": "This is the way!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438,
+			"friends_count": 583,
+			"listed_count": 0,
+			"created_at": "Thu May 12 10:43:52 +0000 2011",
+			"favourites_count": 15847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333705692675497985/x965XFH2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333705692675497985/x965XFH2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297340072/1588439049",
+			"profile_link_color": "0A0909",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341460346272268300,
+		"quoted_status_id_str": "1341460346272268290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IhPopRQJWm",
+			"expanded": "https://twitter.com/openculture/status/1341460346272268290",
+			"display": "twitter.com/openculture/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 22 19:07:24 +0000 2020",
+			"id": 1341460346272268300,
+			"id_str": "1341460346272268290",
+			"full_text": "Bill Gates Picks 5 Good Books for a Lousy Year \n\nhttps://t.co/y6RWbqHupY https://t.co/zHRiZVxn2B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y6RWbqHupY",
+						"expanded_url": "https://www.openculture.com/2020/12/bill-gates-picks-5-good-books-for-a-lousy-year.html",
+						"display_url": "openculture.com/2020/12/bill-g…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1341460145037930500,
+						"id_str": "1341460145037930497",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/Ep3S5QFUcAE2jeA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ep3S5QFUcAE2jeA.jpg",
+						"url": "https://t.co/zHRiZVxn2B",
+						"display_url": "pic.twitter.com/zHRiZVxn2B",
+						"expanded_url": "https://twitter.com/openculture/status/1341460346272268290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 564,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 564,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1341460145037930500,
+						"id_str": "1341460145037930497",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/Ep3S5QFUcAE2jeA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ep3S5QFUcAE2jeA.jpg",
+						"url": "https://t.co/zHRiZVxn2B",
+						"display_url": "pic.twitter.com/zHRiZVxn2B",
+						"expanded_url": "https://twitter.com/openculture/status/1341460346272268290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 564,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 564,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19826509,
+				"id_str": "19826509",
+				"name": "Open Culture",
+				"screen_name": "openculture",
+				"location": "Planet Claire",
+				"description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+				"url": "http://t.co/HVA1Vpy2Ba",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HVA1Vpy2Ba",
+								"expanded_url": "http://www.openculture.com",
+								"display_url": "openculture.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 444929,
+				"friends_count": 988,
+				"listed_count": 12442,
+				"created_at": "Sat Jan 31 19:01:34 +0000 2009",
+				"favourites_count": 816,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80922,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "86ACB7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+				"profile_link_color": "306885",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "F6F2E3",
+				"profile_text_color": "62625D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Okumayı en sevdiğim yıl sonu listelerinden biri. Not: Çip taktırmadım. https://t.co/IhPopRQJWm"
+	},
+	{
 		"created_at": "Mon Dec 21 15:42:54 +0000 2020",
 		"id": 1341046495924146200,
 		"id_str": "1341046495924146179",
