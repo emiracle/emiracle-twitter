@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 23 15:56:36 +0000 2020",
+		"id": 1341774718538543000,
+		"id_str": "1341774718538543104",
+		"full_text": "@umtk50 Yazma hızını da yüzdeye vurduğunda %400'den fazla fark oluyor. 😎",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "umtk50",
+					"name": "Umut Koçak",
+					"id": 1443804056,
+					"id_str": "1443804056",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1341773294459121700,
+		"in_reply_to_status_id_str": "1341773294459121668",
+		"in_reply_to_user_id": 1443804056,
+		"in_reply_to_user_id_str": "1443804056",
+		"in_reply_to_screen_name": "umtk50",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 270,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@umtk50 Yazma hızını da yüzdeye vurduğunda %400'den fazla fark oluyor. 😎"
+	},
+	{
+		"created_at": "Wed Dec 23 14:13:15 +0000 2020",
+		"id": 1341748710284406800,
+		"id_str": "1341748710284406785",
+		"full_text": "@umtk50 Ben benchmark'ı bu elimdeki bellekten alıyorum. Al sana özel test de yaptım. 24 lira için değer mi? https://t.co/WIjb4Xt6Ir",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "umtk50",
+					"name": "Umut Koçak",
+					"id": 1443804056,
+					"id_str": "1443804056",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341747821830168600,
+					"id_str": "1341747821830168577",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7YiPpXYAETOy_.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7YiPpXYAETOy_.png",
+					"url": "https://t.co/WIjb4Xt6Ir",
+					"display_url": "pic.twitter.com/WIjb4Xt6Ir",
+					"expanded_url": "https://twitter.com/emiracle/status/1341748710284406785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 505,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 505,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341747821830168600,
+					"id_str": "1341747821830168577",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7YiPpXYAETOy_.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7YiPpXYAETOy_.png",
+					"url": "https://t.co/WIjb4Xt6Ir",
+					"display_url": "pic.twitter.com/WIjb4Xt6Ir",
+					"expanded_url": "https://twitter.com/emiracle/status/1341748710284406785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 505,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 505,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341748109655814100,
+					"id_str": "1341748109655814145",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7Yy_4WMAEj7n5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7Yy_4WMAEj7n5.jpg",
+					"url": "https://t.co/WIjb4Xt6Ir",
+					"display_url": "pic.twitter.com/WIjb4Xt6Ir",
+					"expanded_url": "https://twitter.com/emiracle/status/1341748710284406785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1399,
+							"h": 888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 762,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341744309050224600,
+		"in_reply_to_status_id_str": "1341744309050224642",
+		"in_reply_to_user_id": 1443804056,
+		"in_reply_to_user_id_str": "1443804056",
+		"in_reply_to_screen_name": "umtk50",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 270,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@umtk50 Ben benchmark'ı bu elimdeki bellekten alıyorum. Al sana özel test de yaptım. 24 lira için değer mi? https://t.co/WIjb4Xt6Ir"
+	},
+	{
 		"created_at": "Tue Dec 22 19:19:45 +0000 2020",
 		"id": 1341461941173235700,
 		"id_str": "1341463454708887552",
