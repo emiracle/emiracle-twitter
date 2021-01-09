@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 23:37:22 +0000 2021",
+		"id": 1347688881177698300,
+		"id_str": "1347688881177698307",
+		"full_text": "FAKE NEWS! https://t.co/6LrRVkQdx9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6LrRVkQdx9",
+					"expanded_url": "https://twitter.com/shanselman/status/1347686692652683264",
+					"display_url": "twitter.com/shanselman/sta…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 273,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347686692652683300,
+		"quoted_status_id_str": "1347686692652683264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6LrRVkQdx9",
+			"expanded": "https://twitter.com/shanselman/status/1347686692652683264",
+			"display": "twitter.com/shanselman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 08 23:28:40 +0000 2021",
+			"id": 1347686692652683300,
+			"id_str": "1347686692652683264",
+			"full_text": "Yep. https://t.co/PWpw8Z8oqS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				4
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347686668443160600,
+						"id_str": "1347686668443160581",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/ErPx4nUVkAUiafb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErPx4nUVkAUiafb.jpg",
+						"url": "https://t.co/PWpw8Z8oqS",
+						"display_url": "pic.twitter.com/PWpw8Z8oqS",
+						"expanded_url": "https://twitter.com/shanselman/status/1347686692652683264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1032,
+								"h": 594,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1032,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347686668443160600,
+						"id_str": "1347686668443160581",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/ErPx4nUVkAUiafb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErPx4nUVkAUiafb.jpg",
+						"url": "https://t.co/PWpw8Z8oqS",
+						"display_url": "pic.twitter.com/PWpw8Z8oqS",
+						"expanded_url": "https://twitter.com/shanselman/status/1347686692652683264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1032,
+								"h": 594,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1032,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5676102,
+				"id_str": "5676102",
+				"name": "Scott Hanselman",
+				"screen_name": "shanselman",
+				"location": "Portland, Oregon",
+				"description": "Code, OSS, Web, Black Hair, Race, STEM, Beyoncé, @TheOfficialACM, MSFT, #T1D Umuntu ngumuntu ngabantu @Hanselminutes podcast! https://t.co/sFZPor97x9 ✌🏼🐹🌮",
+				"url": "https://t.co/KWE5X1k0pH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KWE5X1k0pH",
+								"expanded_url": "http://hanselman.com",
+								"display_url": "hanselman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sFZPor97x9",
+								"expanded_url": "http://youtube.com/shanselman",
+								"display_url": "youtube.com/shanselman",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 253049,
+				"friends_count": 10144,
+				"listed_count": 8235,
+				"created_at": "Tue May 01 05:55:26 +0000 2007",
+				"favourites_count": 131366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 211391,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D1CDC1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+				"profile_link_color": "72412C",
+				"profile_sidebar_border_color": "B8AA9C",
+				"profile_sidebar_fill_color": "B8AA9C",
+				"profile_text_color": "696969",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 608,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FAKE NEWS! https://t.co/6LrRVkQdx9"
+	},
+	{
 		"created_at": "Thu Jan 07 15:30:02 +0000 2021",
 		"id": 1347203850407706600,
 		"id_str": "1347203850407706624",
