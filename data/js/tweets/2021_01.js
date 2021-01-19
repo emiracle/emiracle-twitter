@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 15:20:30 +0000 2021",
+		"id": 1351187716650782700,
+		"id_str": "1351187716650782721",
+		"full_text": "@Kaburet İkinci yarı belli olur o işler. Belki diğeri Survivor Ünlüler-Gönüllüler takımına gelmiştir. Mesut hayaline kavuşmuş olabilir ama bizim de bir hayalimiz var.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaburet",
+					"name": "Burak Kılıç",
+					"id": 69017535,
+					"id_str": "69017535",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1351185878832603100,
+		"in_reply_to_status_id_str": "1351185878832603146",
+		"in_reply_to_user_id": 69017535,
+		"in_reply_to_user_id_str": "69017535",
+		"in_reply_to_screen_name": "Kaburet",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 273,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaburet İkinci yarı belli olur o işler. Belki diğeri Survivor Ünlüler-Gönüllüler takımına gelmiştir. Mesut hayaline kavuşmuş olabilir ama bizim de bir hayalimiz var."
+	},
+	{
+		"created_at": "Mon Jan 18 15:09:45 +0000 2021",
+		"id": 1351185010750058500,
+		"id_str": "1351185010750058500",
+		"full_text": "@Kaburet Benim umrumda değil, istersen sen oyna, kim iyi oynuyorsa o oynasın. Sempatiklik skalasında benim için \"Yunanistan\", reisçinin önündedir.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaburet",
+					"name": "Burak Kılıç",
+					"id": 69017535,
+					"id_str": "69017535",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1351184287987609600,
+		"in_reply_to_status_id_str": "1351184287987609603",
+		"in_reply_to_user_id": 69017535,
+		"in_reply_to_user_id_str": "69017535",
+		"in_reply_to_screen_name": "Kaburet",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 273,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaburet Benim umrumda değil, istersen sen oyna, kim iyi oynuyorsa o oynasın. Sempatiklik skalasında benim için \"Yunanistan\", reisçinin önündedir."
+	},
+	{
+		"created_at": "Mon Jan 18 15:06:09 +0000 2021",
+		"id": 1351184107267641300,
+		"id_str": "1351184107267641350",
+		"full_text": "@Kaburet Reisçi kurbağa prens geldi. Bir daha oynayacak mı, asıl soru bu olmalı.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaburet",
+					"name": "Burak Kılıç",
+					"id": 69017535,
+					"id_str": "69017535",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1351183804568924200,
+		"in_reply_to_status_id_str": "1351183804568924163",
+		"in_reply_to_user_id": 69017535,
+		"in_reply_to_user_id_str": "69017535",
+		"in_reply_to_screen_name": "Kaburet",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 273,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Kaburet Reisçi kurbağa prens geldi. Bir daha oynayacak mı, asıl soru bu olmalı."
+	},
+	{
 		"created_at": "Sun Jan 17 20:01:43 +0000 2021",
 		"id": 1350896099867979800,
 		"id_str": "1350896099867979777",
