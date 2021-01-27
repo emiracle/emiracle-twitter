@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 21:30:53 +0000 2021",
+		"id": 1354180029949870000,
+		"id_str": "1354180029949870081",
+		"full_text": "@AliErenDin2 Ne istiyorsan onu yap ama bu boş kafalara fazla takılma. Böylesine hastalıklı bir topluma adapte olabilmek zaten sağlık bir şey değil. @ilkercanikligil abine sor sana söylesin ;)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AliErenDin2",
+					"name": "Ali Eren Dinç",
+					"id": 1350211180133048300,
+					"id_str": "1350211180133048321",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						148,
+						164
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1354178162222100500,
+		"in_reply_to_status_id_str": "1354178162222100481",
+		"in_reply_to_user_id": 1350211180133048300,
+		"in_reply_to_user_id_str": "1350211180133048321",
+		"in_reply_to_screen_name": "AliErenDin2",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 273,
+			"listed_count": 8,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@AliErenDin2 Ne istiyorsan onu yap ama bu boş kafalara fazla takılma. Böylesine hastalıklı bir topluma adapte olabilmek zaten sağlık bir şey değil. @ilkercanikligil abine sor sana söylesin ;)"
+	},
+	{
 		"created_at": "Fri Jan 22 19:21:25 +0000 2021",
 		"id": 1352697899575103500,
 		"id_str": "1352697899575103488",
