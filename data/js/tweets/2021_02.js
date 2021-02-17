@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 00:51:28 +0000 2021",
+		"id": 1361840656415682600,
+		"id_str": "1361840656415682560",
+		"full_text": "Bizde laf ağızdan bir kere çıkar LastPass efendi! 🤬 https://t.co/rFOKipXGFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361840425078775800,
+					"id_str": "1361840425078775808",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EuY6prmWYAATYA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuY6prmWYAATYA8.jpg",
+					"url": "https://t.co/rFOKipXGFF",
+					"display_url": "pic.twitter.com/rFOKipXGFF",
+					"expanded_url": "https://twitter.com/emiracle/status/1361840656415682560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361840425078775800,
+					"id_str": "1361840425078775808",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EuY6prmWYAATYA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuY6prmWYAATYA8.jpg",
+					"url": "https://t.co/rFOKipXGFF",
+					"display_url": "pic.twitter.com/rFOKipXGFF",
+					"expanded_url": "https://twitter.com/emiracle/status/1361840656415682560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1361756193434325000,
+		"in_reply_to_status_id_str": "1361756193434324993",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 273,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Bizde laf ağızdan bir kere çıkar LastPass efendi! 🤬 https://t.co/rFOKipXGFF"
+	},
+	{
 		"created_at": "Mon Feb 15 13:37:06 +0000 2021",
 		"id": 1361308556339908600,
 		"id_str": "1361308556339908610",
