@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 16:14:24 +0000 2021",
+		"id": 1363884859006083000,
+		"id_str": "1363884859006083074",
+		"full_text": "Selo'yu tutsak edenlerin süresi azalıyor, bunu da herkes ama herkes biliyor. Tick tock, tick tock... ⏰ https://t.co/xTscNmgqwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xTscNmgqwn",
+					"expanded_url": "https://twitter.com/t24comtr/status/1363596607254585344",
+					"display_url": "twitter.com/t24comtr/statu…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 272,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363596607254585300,
+		"quoted_status_id_str": "1363596607254585344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xTscNmgqwn",
+			"expanded": "https://twitter.com/t24comtr/status/1363596607254585344",
+			"display": "twitter.com/t24comtr/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 21 21:09:00 +0000 2021",
+			"id": 1363596607254585300,
+			"id_str": "1363596607254585344",
+			"full_text": "Selahattin Demirtaş yazdı:\nİyi misiniz?\nhttps://t.co/BhR49SZfRM https://t.co/zk1eWYozhe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BhR49SZfRM",
+						"expanded_url": "https://t24.com.tr/yazarlar/selahattin-demirtas/iyi-misiniz,29975",
+						"display_url": "t24.com.tr/yazarlar/selah…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1363579993750720500,
+						"id_str": "1363579993750720512",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/Euxox55XUAAMKhu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euxox55XUAAMKhu.jpg",
+						"url": "https://t.co/zk1eWYozhe",
+						"display_url": "pic.twitter.com/zk1eWYozhe",
+						"expanded_url": "https://twitter.com/t24comtr/status/1363596607254585344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363579993750720500,
+						"id_str": "1363579993750720512",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/Euxox55XUAAMKhu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euxox55XUAAMKhu.jpg",
+						"url": "https://t.co/zk1eWYozhe",
+						"display_url": "pic.twitter.com/zk1eWYozhe",
+						"expanded_url": "https://twitter.com/t24comtr/status/1363596607254585344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80549263,
+				"id_str": "80549263",
+				"name": "T24",
+				"screen_name": "t24comtr",
+				"location": "Türkiye",
+				"description": "Bağımsız İnternet Gazetesi\nhttps://t.co/SY3V445OdN\nhttps://t.co/VYsK2ngebT\nhttps://t.co/0qnVHpOMMV",
+				"url": "http://t.co/w3HmMEXsvI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/w3HmMEXsvI",
+								"expanded_url": "http://t24.com.tr",
+								"display_url": "t24.com.tr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SY3V445OdN",
+								"expanded_url": "http://facebook.com/T24comtr",
+								"display_url": "facebook.com/T24comtr",
+								"indices": [
+									27,
+									50
+								]
+							},
+							{
+								"url": "https://t.co/VYsK2ngebT",
+								"expanded_url": "http://instagram.com/T24comtr",
+								"display_url": "instagram.com/T24comtr",
+								"indices": [
+									51,
+									74
+								]
+							},
+							{
+								"url": "https://t.co/0qnVHpOMMV",
+								"expanded_url": "http://youtube.com/T24comtr",
+								"display_url": "youtube.com/T24comtr",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1610889,
+				"friends_count": 8,
+				"listed_count": 2823,
+				"created_at": "Wed Oct 07 10:59:41 +0000 2009",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 450697,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C2043",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235942547526123520/tW9IcZ0V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235942547526123520/tW9IcZ0V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80549263/1583506330",
+				"profile_link_color": "087FC2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "FF9F0F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1242,
+			"favorite_count": 5350,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Selo'yu tutsak edenlerin süresi azalıyor, bunu da herkes ama herkes biliyor. Tick tock, tick tock... ⏰ https://t.co/xTscNmgqwn"
+	},
+	{
 		"created_at": "Sun Feb 21 14:25:06 +0000 2021",
 		"id": 1363494964894785500,
 		"id_str": "1363494964894785538",
