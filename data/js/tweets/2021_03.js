@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 22 12:50:44 +0000 2021",
+		"id": 1373980463673573400,
+		"id_str": "1373980463673573382",
+		"full_text": "@Enes0zkan @daktilo1984 @NOnurkuru @taylanyildiz \"In Romania the temperature never officially dropped below 10deg C, even when there was ice and snow on the ground, because the law said that heating in public buildings had to be turned on when it did.\"\n-From Revolution 1989: The Fall of the Soviet Empire, by Victor Sebestyen\"",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			327
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Enes0zkan",
+					"name": "Enes Özkan",
+					"id": 69579516,
+					"id_str": "69579516",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "daktilo1984",
+					"name": "Daktilo1984",
+					"id": 1091080531008196600,
+					"id_str": "1091080531008196608",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "NOnurkuru",
+					"name": "Nezih Onur Kuru",
+					"id": 1242921083885543400,
+					"id_str": "1242921083885543424",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "taylanyildiz",
+					"name": "Dr. Taylan Yıldız",
+					"id": 70542134,
+					"id_str": "70542134",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1373978493080453000,
+		"in_reply_to_status_id_str": "1373978493080453123",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 273,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Enes0zkan @daktilo1984 @NOnurkuru @taylanyildiz \"In Romania the temperature never officially dropped below 10deg C, even when there was ice and snow on the ground, because the law said that heating in public buildings had to be turned on when it did.\"\n-From Revolution 1989: The Fall of the Soviet Empire, by Victor Sebestyen\""
+	},
+	{
+		"created_at": "Mon Mar 22 12:42:54 +0000 2021",
+		"id": 1373978493080453000,
+		"id_str": "1373978493080453123",
+		"full_text": "@Enes0zkan @daktilo1984 @NOnurkuru @taylanyildiz Hikayeyi bilmiyordum, akıl yürüttüm öyledir herhalde diye :) Gerçekten merak ettim, hangi hikayeymiş, yazarı kimmiş filan okumak isterim.",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Enes0zkan",
+					"name": "Enes Özkan",
+					"id": 69579516,
+					"id_str": "69579516",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "daktilo1984",
+					"name": "Daktilo1984",
+					"id": 1091080531008196600,
+					"id_str": "1091080531008196608",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "NOnurkuru",
+					"name": "Nezih Onur Kuru",
+					"id": 1242921083885543400,
+					"id_str": "1242921083885543424",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "taylanyildiz",
+					"name": "Dr. Taylan Yıldız",
+					"id": 70542134,
+					"id_str": "70542134",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1373976389729259500,
+		"in_reply_to_status_id_str": "1373976389729259521",
+		"in_reply_to_user_id": 69579516,
+		"in_reply_to_user_id_str": "69579516",
+		"in_reply_to_screen_name": "Enes0zkan",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 273,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Enes0zkan @daktilo1984 @NOnurkuru @taylanyildiz Hikayeyi bilmiyordum, akıl yürüttüm öyledir herhalde diye :) Gerçekten merak ettim, hangi hikayeymiş, yazarı kimmiş filan okumak isterim."
+	},
+	{
+		"created_at": "Mon Mar 22 11:48:39 +0000 2021",
+		"id": 1373964841594065000,
+		"id_str": "1373964841594064898",
+		"full_text": "@daktilo1984 @Enes0zkan @NOnurkuru @taylanyildiz \"Çavuşesku'nun Termometresi\" adının hikayesi nedir? Bir fıkradan mı, öyküden mi nereden geliyor? Çavuşesku'nun termometresi her zaman havayı kendisi için\"güneşli\" mi gösteriyormuş? Lütfen çok merak ediyorum 😀",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daktilo1984",
+					"name": "Daktilo1984",
+					"id": 1091080531008196600,
+					"id_str": "1091080531008196608",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Enes0zkan",
+					"name": "Enes Özkan",
+					"id": 69579516,
+					"id_str": "69579516",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "NOnurkuru",
+					"name": "Nezih Onur Kuru",
+					"id": 1242921083885543400,
+					"id_str": "1242921083885543424",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "taylanyildiz",
+					"name": "Dr. Taylan Yıldız",
+					"id": 70542134,
+					"id_str": "70542134",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1373952609615286300,
+		"in_reply_to_status_id_str": "1373952609615286275",
+		"in_reply_to_user_id": 1091080531008196600,
+		"in_reply_to_user_id_str": "1091080531008196608",
+		"in_reply_to_screen_name": "daktilo1984",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 273,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@daktilo1984 @Enes0zkan @NOnurkuru @taylanyildiz \"Çavuşesku'nun Termometresi\" adının hikayesi nedir? Bir fıkradan mı, öyküden mi nereden geliyor? Çavuşesku'nun termometresi her zaman havayı kendisi için\"güneşli\" mi gösteriyormuş? Lütfen çok merak ediyorum 😀"
+	},
+	{
 		"created_at": "Sun Mar 21 02:29:03 +0000 2021",
 		"id": 1373461622673567700,
 		"id_str": "1373461622673567750",
