@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 19:46:48 +0000 2021",
+		"id": 1381332929431933000,
+		"id_str": "1381332929431932933",
+		"full_text": "Ayakkabı kutularındaki sıfırlayamadıkları \"bozuk paralar\" hakkında hesap vermeyenler, 128 milyar dolar için hesap mı verirler? Bu birinden 50 lira borç isteyip, vermeyince 50.000 lira istemek gibi bir şey. Bunlara artık hesap filan sorulmasın, bunların hesabı kesilsin!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 276,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Ayakkabı kutularındaki sıfırlayamadıkları \"bozuk paralar\" hakkında hesap vermeyenler, 128 milyar dolar için hesap mı verirler? Bu birinden 50 lira borç isteyip, vermeyince 50.000 lira istemek gibi bir şey. Bunlara artık hesap filan sorulmasın, bunların hesabı kesilsin!"
+	},
+	{
+		"created_at": "Sun Apr 11 17:00:25 +0000 2021",
+		"id": 1381291054226415600,
+		"id_str": "1381291054226415617",
+		"full_text": "@ErayOzer @Hurriyet İnsan zaten bildiği bir şeyi öğrenmez ancak teyit eder. Sizi düzgün, \"normal\" bir insan olarak bellemiştim, podcast yayınlarınızı ilk günden beri takip eden bir dinleyici olarak takibe de almıştım ama bir tane sorudan bu kadar ajite olmanız bende açıkçası hayalkırıklığı yarattı.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ErayOzer",
+					"name": "Eray Özer",
+					"id": 68681919,
+					"id_str": "68681919",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Hurriyet",
+					"name": "Hürriyet.com.tr",
+					"id": 65642163,
+					"id_str": "65642163",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1381289611448701000,
+		"in_reply_to_status_id_str": "1381289611448700940",
+		"in_reply_to_user_id": 68681919,
+		"in_reply_to_user_id_str": "68681919",
+		"in_reply_to_screen_name": "ErayOzer",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 276,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ErayOzer @Hurriyet İnsan zaten bildiği bir şeyi öğrenmez ancak teyit eder. Sizi düzgün, \"normal\" bir insan olarak bellemiştim, podcast yayınlarınızı ilk günden beri takip eden bir dinleyici olarak takibe de almıştım ama bir tane sorudan bu kadar ajite olmanız bende açıkçası hayalkırıklığı yarattı."
+	},
+	{
+		"created_at": "Sun Apr 11 16:50:23 +0000 2021",
+		"id": 1381288530350071800,
+		"id_str": "1381288530350071813",
+		"full_text": "@ErayOzer @Hurriyet Neyle ilgisi varmış? Hürriyet'in Okur İletişim Hattı'na yazın da biz de öğrenelim.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ErayOzer",
+					"name": "Eray Özer",
+					"id": 68681919,
+					"id_str": "68681919",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Hurriyet",
+					"name": "Hürriyet.com.tr",
+					"id": 65642163,
+					"id_str": "65642163",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1381285347137630200,
+		"in_reply_to_status_id_str": "1381285347137630213",
+		"in_reply_to_user_id": 68681919,
+		"in_reply_to_user_id_str": "68681919",
+		"in_reply_to_screen_name": "ErayOzer",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 276,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ErayOzer @Hurriyet Neyle ilgisi varmış? Hürriyet'in Okur İletişim Hattı'na yazın da biz de öğrenelim."
+	},
+	{
 		"created_at": "Fri Apr 09 01:38:05 +0000 2021",
 		"id": 1380334165506334700,
 		"id_str": "1380334165506334720",
