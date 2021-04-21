@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 20 23:49:31 +0000 2021",
+		"id": 1384655499552039000,
+		"id_str": "1384655499552038914",
+		"full_text": "Kalitesiz ülkeye kalitesiz çete yakışır. 1-2-3 bakanlık yetmez, 4-5-6 olsun! https://t.co/KfPcFWmMMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384655467583086600,
+					"id_str": "1384655467583086597",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EzdIz8GXoAUt4-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzdIz8GXoAUt4-6.jpg",
+					"url": "https://t.co/KfPcFWmMMG",
+					"display_url": "pic.twitter.com/KfPcFWmMMG",
+					"expanded_url": "https://twitter.com/emiracle/status/1384655499552038914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 210,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384655467583086600,
+					"id_str": "1384655467583086597",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EzdIz8GXoAUt4-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzdIz8GXoAUt4-6.jpg",
+					"url": "https://t.co/KfPcFWmMMG",
+					"display_url": "pic.twitter.com/KfPcFWmMMG",
+					"expanded_url": "https://twitter.com/emiracle/status/1384655499552038914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 210,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 275,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Kalitesiz ülkeye kalitesiz çete yakışır. 1-2-3 bakanlık yetmez, 4-5-6 olsun! https://t.co/KfPcFWmMMG"
+	},
+	{
+		"created_at": "Tue Apr 20 12:19:19 +0000 2021",
+		"id": 1384481805206757400,
+		"id_str": "1384481805206757377",
+		"full_text": "@bombakurt Hayvan sevmemeyi bile bir yere kadar anlayabilirim ama sahiplendiği bir hayvanı terk etmek ancak insanların yapacağı bir zalimlik. Arthur Schopenhauer dediği gibi: \"İnsanları tanıdığımdan beri hayvanları severim.\"  \nSen ona iyi bakarsın, belki beraber de koşarsınız.😀",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bombakurt",
+					"name": "Ayca 🏃🏼‍♀️",
+					"id": 19867827,
+					"id_str": "19867827",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384480059940081700,
+		"in_reply_to_status_id_str": "1384480059940081664",
+		"in_reply_to_user_id": 19867827,
+		"in_reply_to_user_id_str": "19867827",
+		"in_reply_to_screen_name": "bombakurt",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 275,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@bombakurt Hayvan sevmemeyi bile bir yere kadar anlayabilirim ama sahiplendiği bir hayvanı terk etmek ancak insanların yapacağı bir zalimlik. Arthur Schopenhauer dediği gibi: \"İnsanları tanıdığımdan beri hayvanları severim.\"  \nSen ona iyi bakarsın, belki beraber de koşarsınız.😀"
+	},
+	{
 		"created_at": "Mon Apr 19 14:39:22 +0000 2021",
 		"id": 1384154661209268200,
 		"id_str": "1384154661209268232",
