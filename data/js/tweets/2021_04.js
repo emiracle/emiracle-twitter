@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 23 21:26:28 +0000 2021",
+		"id": 1385695179085078500,
+		"id_str": "1385706662359621636",
+		"full_text": "Subcomandante Galeano'dan mesaj var! 7 kişilik bir Zapatista heyeti Avrupa turnesine çıkıyor, Türkiye'ye de uğrayacaklar. 421. Filo yola koyulmak üzere.\nTürkçe çeviri 👇🏽\nhttps://t.co/PrgO9EIGZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PrgO9EIGZy",
+					"expanded_url": "http://enlacezapatista.ezln.org.mx/2021/04/22/421-filo/",
+					"display_url": "enlacezapatista.ezln.org.mx/2021/04/22/421…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 345977094,
+			"id_str": "345977094",
+			"name": "çiğdem aztürk",
+			"screen_name": "acigdemozturk",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1463,
+			"friends_count": 1379,
+			"listed_count": 2,
+			"created_at": "Sun Jul 31 14:21:14 +0000 2011",
+			"favourites_count": 2243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/483630569884893185/2LUtmpjm_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/483630569884893185/2LUtmpjm_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/345977094/1404139596",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Subcomandante Galeano'dan mesaj var! 7 kişilik bir Zapatista heyeti Avrupa turnesine çıkıyor, Türkiye'ye de uğrayacaklar. 421. Filo yola koyulmak üzere.\nTürkçe çeviri 👇🏽\nhttps://t.co/PrgO9EIGZy"
+	},
+	{
 		"created_at": "Thu Apr 22 23:51:33 +0000 2021",
 		"id": 1385380785524560000,
 		"id_str": "1385380785524559873",
