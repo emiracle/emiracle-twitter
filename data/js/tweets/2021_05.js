@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 17:29:52 +0000 2021",
+		"id": 1397968307928588300,
+		"id_str": "1397968307928588291",
+		"full_text": "Dünyanın bütün diktatörleri ülkelerindeki gençlerin katilidir. https://t.co/DZxJHLalC1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZxJHLalC1",
+					"expanded_url": "https://twitter.com/VICEWorldNews/status/1397949127112200195",
+					"display_url": "twitter.com/VICEWorldNews/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 281,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1397949127112200200,
+		"quoted_status_id_str": "1397949127112200195",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DZxJHLalC1",
+			"expanded": "https://twitter.com/VICEWorldNews/status/1397949127112200195",
+			"display": "twitter.com/VICEWorldNews/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 27 16:13:39 +0000 2021",
+			"id": 1397949127112200200,
+			"id_str": "1397949127112200195",
+			"full_text": "Belarus' president ordered a fighter jet to intercept a civilian airliner carrying exiled journalist Roman Protasevich, citing an alleged bomb threat.\nhttps://t.co/xFOHEXz0kx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xFOHEXz0kx",
+						"expanded_url": "https://trib.al/I0ern1s",
+						"display_url": "trib.al/I0ern1s",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1245033248507469800,
+				"id_str": "1245033248507469870",
+				"name": "VICE World News",
+				"screen_name": "VICEWorldNews",
+				"location": "",
+				"description": "Original reporting on everything that matters.",
+				"url": "https://t.co/mVkJQ8MH1h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mVkJQ8MH1h",
+								"expanded_url": "https://www.vice.com/en_us/section/world",
+								"display_url": "vice.com/en_us/section/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13306,
+				"friends_count": 63,
+				"listed_count": 128,
+				"created_at": "Tue Mar 31 17:00:43 +0000 2020",
+				"favourites_count": 422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4216,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1296805537309437952/R5zbeRV9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296805537309437952/R5zbeRV9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1245033248507469870/1598021317",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Dünyanın bütün diktatörleri ülkelerindeki gençlerin katilidir. https://t.co/DZxJHLalC1"
+	},
+	{
 		"created_at": "Wed May 26 18:43:51 +0000 2021",
 		"id": 1397624540407214000,
 		"id_str": "1397624540407214083",
