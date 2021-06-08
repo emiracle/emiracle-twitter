@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 12:24:41 +0000 2021",
+		"id": 1401877774713884700,
+		"id_str": "1401877774713884672",
+		"full_text": "Medyanın tamamını toplasan bir Ahmet Şık etmez. Öldürseniz de tutsak etseniz de gerçekleri suratınıza haykıracağız. https://t.co/fRdP7unSSn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fRdP7unSSn",
+					"expanded_url": "https://twitter.com/sahmetsahmet/status/1401863159644893186",
+					"display_url": "twitter.com/sahmetsahmet/s…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 282,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1401863159644893200,
+		"quoted_status_id_str": "1401863159644893186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fRdP7unSSn",
+			"expanded": "https://twitter.com/sahmetsahmet/status/1401863159644893186",
+			"display": "twitter.com/sahmetsahmet/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 07 11:26:37 +0000 2021",
+			"id": 1401863159644893200,
+			"id_str": "1401863159644893186",
+			"full_text": "Devlet katil sözlerim nedeniyle eleştirileceksem/yargılanacaksam eksik tespit yaptığım için bu olmalı. \nÇünkü devlet seri cinayetler işleten bir katildir. \nHiçbir devlet yoktur ki elinde kan olmasın. https://t.co/jof8xfRDFq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jof8xfRDFq",
+						"expanded_url": "https://twitter.com/t24comtr/status/1401860854556020741",
+						"display_url": "twitter.com/t24comtr/statu…",
+						"indices": [
+							200,
+							223
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 96955327,
+				"id_str": "96955327",
+				"name": "ahmet şık",
+				"screen_name": "sahmetsahmet",
+				"location": "",
+				"description": "TİP İstanbul milletvekili/gazeteci https://t.co/bXSaU3jfys ahmetinadresi@yandex.com",
+				"url": "https://t.co/h42gkQg38b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h42gkQg38b",
+								"expanded_url": "http://Instagram.com/ahmetsahmet",
+								"display_url": "Instagram.com/ahmetsahmet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bXSaU3jfys",
+								"expanded_url": "http://ahmetinadresi.org",
+								"display_url": "ahmetinadresi.org",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 956205,
+				"friends_count": 2503,
+				"listed_count": 1318,
+				"created_at": "Tue Dec 15 10:25:48 +0000 2009",
+				"favourites_count": 2750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29340,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96955327/1398439202",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1401860854556020700,
+			"quoted_status_id_str": "1401860854556020741",
+			"quoted_status_permalink": {
+				"url": "https://t.co/jof8xfRDFq",
+				"expanded": "https://twitter.com/t24comtr/status/1401860854556020741",
+				"display": "twitter.com/t24comtr/statu…"
+			},
+			"retweet_count": 1607,
+			"favorite_count": 10925,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Medyanın tamamını toplasan bir Ahmet Şık etmez. Öldürseniz de tutsak etseniz de gerçekleri suratınıza haykıracağız. https://t.co/fRdP7unSSn"
+	},
+	{
 		"created_at": "Sat Jun 05 17:24:21 +0000 2021",
 		"id": 1401228412283502600,
 		"id_str": "1401228412283502592",
