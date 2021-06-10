@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 13:09:53 +0000 2021",
+		"id": 1402613925624090600,
+		"id_str": "1402613925624090627",
+		"full_text": "@Gamsizm 2020'de Ekşi Sözlük'e böyle yazmıştım. Senin filmin öncesini anlatıyor herhalde :) https://t.co/wYQjgij1FG",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gamsizm",
+					"name": "Murat Gamsız",
+					"id": 41779319,
+					"id_str": "41779319",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402610002209169400,
+					"id_str": "1402610002209169413",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E3cSXZwWYAUzoLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3cSXZwWYAUzoLP.jpg",
+					"url": "https://t.co/wYQjgij1FG",
+					"display_url": "pic.twitter.com/wYQjgij1FG",
+					"expanded_url": "https://twitter.com/emiracle/status/1402613925624090627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1316,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 286,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 162,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402610002209169400,
+					"id_str": "1402610002209169413",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E3cSXZwWYAUzoLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3cSXZwWYAUzoLP.jpg",
+					"url": "https://t.co/wYQjgij1FG",
+					"display_url": "pic.twitter.com/wYQjgij1FG",
+					"expanded_url": "https://twitter.com/emiracle/status/1402613925624090627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1316,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 286,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 162,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1402603880995770400,
+		"in_reply_to_status_id_str": "1402603880995770371",
+		"in_reply_to_user_id": 41779319,
+		"in_reply_to_user_id_str": "41779319",
+		"in_reply_to_screen_name": "Gamsizm",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 282,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@Gamsizm 2020'de Ekşi Sözlük'e böyle yazmıştım. Senin filmin öncesini anlatıyor herhalde :) https://t.co/wYQjgij1FG"
+	},
+	{
 		"created_at": "Mon Jun 07 12:24:41 +0000 2021",
 		"id": 1401877774713884700,
 		"id_str": "1401877774713884672",
