@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 20:59:48 +0000 2021",
+		"id": 1405631287348564000,
+		"id_str": "1405631287348563973",
+		"full_text": "@canonduygu Dünya Kupası ya da Avrupa Şampiyonası tarihinde, bu Türkiye'nin olduğu gibi turnuvanın tartışmasız en kötüsü olduğu bir ülke var mı? Vibe olarak yoktur da istatistiki olarak var mı?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "canonduygu",
+					"name": "can önduygu",
+					"id": 94771214,
+					"id_str": "94771214",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1405568403948114000,
+		"in_reply_to_status_id_str": "1405568403948113925",
+		"in_reply_to_user_id": 94771214,
+		"in_reply_to_user_id_str": "94771214",
+		"in_reply_to_screen_name": "canonduygu",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 281,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@canonduygu Dünya Kupası ya da Avrupa Şampiyonası tarihinde, bu Türkiye'nin olduğu gibi turnuvanın tartışmasız en kötüsü olduğu bir ülke var mı? Vibe olarak yoktur da istatistiki olarak var mı?"
+	},
+	{
+		"created_at": "Thu Jun 17 18:38:58 +0000 2021",
+		"id": 1405595843537916000,
+		"id_str": "1405595843537915904",
+		"full_text": "@alpos Bir işe yaramıyor mu, nasıl yaramaz?!? Diktatörlerin false flag darbelerinde sokağa çıkıp ölmeye, hırsızların savaşlarında vatan uğruna\"şehit\" olmaya, çeteler soygunlara devam ederken açlıktan nefesi kokmasına rağmen avuçları patlayıncaya kadar alkışlamaya yarıyor.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alpos",
+					"name": "Alp Ulagay",
+					"id": 26708466,
+					"id_str": "26708466",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1405591570003501000,
+		"in_reply_to_status_id_str": "1405591570003501057",
+		"in_reply_to_user_id": 26708466,
+		"in_reply_to_user_id_str": "26708466",
+		"in_reply_to_screen_name": "alpos",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 281,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@alpos Bir işe yaramıyor mu, nasıl yaramaz?!? Diktatörlerin false flag darbelerinde sokağa çıkıp ölmeye, hırsızların savaşlarında vatan uğruna\"şehit\" olmaya, çeteler soygunlara devam ederken açlıktan nefesi kokmasına rağmen avuçları patlayıncaya kadar alkışlamaya yarıyor."
+	},
+	{
 		"created_at": "Wed Jun 16 22:06:04 +0000 2021",
 		"id": 1405268991061364700,
 		"id_str": "1405285573355446273",
