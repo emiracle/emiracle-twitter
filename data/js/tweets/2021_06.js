@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 12:03:50 +0000 2021",
+		"id": 1405830707566497800,
+		"id_str": "1405858791741169668",
+		"full_text": "Öğrencileri, protesto haklarını kullandıkları için dahi 4 gün gözaltında tutanlar planlı, projeli bir siyasi cinayetin failini 24 saat dolmadan göz önünden çektiler. https://t.co/P8UrhWhIbb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P8UrhWhIbb",
+					"expanded_url": "https://twitter.com/t24comtr/status/1405812432975585292",
+					"display_url": "twitter.com/t24comtr/statu…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96955327,
+			"id_str": "96955327",
+			"name": "ahmet şık",
+			"screen_name": "sahmetsahmet",
+			"location": "",
+			"description": "TİP İstanbul milletvekili/gazeteci https://t.co/bXSaU3jfys ahmetinadresi@yandex.com",
+			"url": "https://t.co/h42gkQg38b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h42gkQg38b",
+							"expanded_url": "http://Instagram.com/ahmetsahmet",
+							"display_url": "Instagram.com/ahmetsahmet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bXSaU3jfys",
+							"expanded_url": "http://ahmetinadresi.org",
+							"display_url": "ahmetinadresi.org",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 971412,
+			"friends_count": 2505,
+			"listed_count": 1340,
+			"created_at": "Tue Dec 15 10:25:48 +0000 2009",
+			"favourites_count": 2749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96955327/1398439202",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405812432975585300,
+		"quoted_status_id_str": "1405812432975585292",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P8UrhWhIbb",
+			"expanded": "https://twitter.com/t24comtr/status/1405812432975585292",
+			"display": "twitter.com/t24comtr/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 18 08:59:37 +0000 2021",
+			"id": 1405812432975585300,
+			"id_str": "1405812432975585292",
+			"full_text": "HDP binasına saldıran ve parti çalışanı Deniz Poyraz'ı öldüren Onur Gencer tutuklandı\nhttps://t.co/W5DP7Yz0kx https://t.co/WuWiMzTnFs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/W5DP7Yz0kx",
+						"expanded_url": "https://t24.com.tr/haber/hdp-binasina-saldiran-ve-parti-calisani-deniz-poyraz-i-olduren-onur-gencer-tutuklandi,959969",
+						"display_url": "t24.com.tr/haber/hdp-bina…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1405812398188109800,
+						"id_str": "1405812398188109826",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/E4Jy7YbXoAIF0Hw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4Jy7YbXoAIF0Hw.jpg",
+						"url": "https://t.co/WuWiMzTnFs",
+						"display_url": "pic.twitter.com/WuWiMzTnFs",
+						"expanded_url": "https://twitter.com/t24comtr/status/1405812432975585292/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405812398188109800,
+						"id_str": "1405812398188109826",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/E4Jy7YbXoAIF0Hw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4Jy7YbXoAIF0Hw.jpg",
+						"url": "https://t.co/WuWiMzTnFs",
+						"display_url": "pic.twitter.com/WuWiMzTnFs",
+						"expanded_url": "https://twitter.com/t24comtr/status/1405812432975585292/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80549263,
+				"id_str": "80549263",
+				"name": "T24",
+				"screen_name": "t24comtr",
+				"location": "Türkiye",
+				"description": "Bağımsız İnternet Gazetesi\nhttps://t.co/SY3V445OdN\nhttps://t.co/VYsK2ngebT\nhttps://t.co/0qnVHpOMMV",
+				"url": "http://t.co/w3HmMEXsvI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/w3HmMEXsvI",
+								"expanded_url": "http://t24.com.tr",
+								"display_url": "t24.com.tr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SY3V445OdN",
+								"expanded_url": "http://facebook.com/T24comtr",
+								"display_url": "facebook.com/T24comtr",
+								"indices": [
+									27,
+									50
+								]
+							},
+							{
+								"url": "https://t.co/VYsK2ngebT",
+								"expanded_url": "http://instagram.com/T24comtr",
+								"display_url": "instagram.com/T24comtr",
+								"indices": [
+									51,
+									74
+								]
+							},
+							{
+								"url": "https://t.co/0qnVHpOMMV",
+								"expanded_url": "http://youtube.com/T24comtr",
+								"display_url": "youtube.com/T24comtr",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1687315,
+				"friends_count": 8,
+				"listed_count": 3010,
+				"created_at": "Wed Oct 07 10:59:41 +0000 2009",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 483558,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C2043",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235942547526123520/tW9IcZ0V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235942547526123520/tW9IcZ0V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80549263/1583506330",
+				"profile_link_color": "087FC2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "FF9F0F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 166,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 1044,
+		"favorite_count": 5207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Öğrencileri, protesto haklarını kullandıkları için dahi 4 gün gözaltında tutanlar planlı, projeli bir siyasi cinayetin failini 24 saat dolmadan göz önünden çektiler. https://t.co/P8UrhWhIbb"
+	},
+	{
 		"created_at": "Thu Jun 17 20:59:48 +0000 2021",
 		"id": 1405631287348564000,
 		"id_str": "1405631287348563973",
