@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 12:49:09 +0000 2021",
+		"id": 1413117953965449200,
+		"id_str": "1413117953965449219",
+		"full_text": "\"Fenerbahçe Cumhuriyeti ortalıkta yoksa, Türkiye yoktur, futbol yoktur, bolluk yoktur, insanlar yoktur, canlılar güç nefes alır ve bu ülke kısa süre sonra yaşayan yer olmaktan çıkıp, mezarlık olur.\" https://t.co/dXfIYZJ127",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXfIYZJ127",
+					"expanded_url": "https://twitter.com/FBTarihiOrg/status/1413116909088755717",
+					"display_url": "twitter.com/FBTarihiOrg/st…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 279,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413116909088755700,
+		"quoted_status_id_str": "1413116909088755717",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dXfIYZJ127",
+			"expanded": "https://twitter.com/FBTarihiOrg/status/1413116909088755717",
+			"display": "twitter.com/FBTarihiOrg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 08 12:45:00 +0000 2021",
+			"id": 1413116909088755700,
+			"id_str": "1413116909088755717",
+			"full_text": "Görmeyenlere, duymayanlara...\n\nBill Stephenson imzalı,\n25 yıllık Fenerbahçe fotoğrafları - 20/21\n\nTamamı için 👇👇👇\nhttps://t.co/xTrsR7GO2K https://t.co/CsUEmcG4dB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xTrsR7GO2K",
+						"expanded_url": "https://fenerbahcetarihi.org/bill-stephenson/",
+						"display_url": "fenerbahcetarihi.org/bill-stephenso…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1413039564332150800,
+						"id_str": "1413039564332150788",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/E5wf_0WXMAQWkjW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5wf_0WXMAQWkjW.jpg",
+						"url": "https://t.co/CsUEmcG4dB",
+						"display_url": "pic.twitter.com/CsUEmcG4dB",
+						"expanded_url": "https://twitter.com/FBTarihiOrg/status/1413116909088755717/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1460,
+								"h": 1460,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413039564332150800,
+						"id_str": "1413039564332150788",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/E5wf_0WXMAQWkjW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5wf_0WXMAQWkjW.jpg",
+						"url": "https://t.co/CsUEmcG4dB",
+						"display_url": "pic.twitter.com/CsUEmcG4dB",
+						"expanded_url": "https://twitter.com/FBTarihiOrg/status/1413116909088755717/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1460,
+								"h": 1460,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1104312224154374100,
+				"id_str": "1104312224154374144",
+				"name": "Fenerbahçe Tarihi",
+				"screen_name": "FBTarihiOrg",
+				"location": "İstanbul, Türkiye",
+				"description": "Fenerbahçe Tarihi Çalışma Organizasyonu\nPodcast Kanalı : https://t.co/PJJGqiqErI",
+				"url": "https://t.co/nwJZD7BEmb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nwJZD7BEmb",
+								"expanded_url": "http://www.fenerbahcetarihi.org/",
+								"display_url": "fenerbahcetarihi.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PJJGqiqErI",
+								"expanded_url": "https://spoti.fi/32R1RhX",
+								"display_url": "spoti.fi/32R1RhX",
+								"indices": [
+									57,
+									80
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13872,
+				"friends_count": 96,
+				"listed_count": 56,
+				"created_at": "Sat Mar 09 09:25:26 +0000 2019",
+				"favourites_count": 1366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8857,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1384175880130293760/hC3M7_eF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384175880130293760/hC3M7_eF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104312224154374144/1618848223",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "\"Fenerbahçe Cumhuriyeti ortalıkta yoksa, Türkiye yoktur, futbol yoktur, bolluk yoktur, insanlar yoktur, canlılar güç nefes alır ve bu ülke kısa süre sonra yaşayan yer olmaktan çıkıp, mezarlık olur.\" https://t.co/dXfIYZJ127"
+	},
+	{
 		"created_at": "Wed Jul 07 21:17:52 +0000 2021",
 		"id": 1412883587439816700,
 		"id_str": "1412883587439816706",
