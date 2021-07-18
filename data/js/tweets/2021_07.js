@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 23:22:30 +0000 2021",
+		"id": 1416507654449606700,
+		"id_str": "1416538832024096775",
+		"full_text": "Ötekini sevmeyenin hayvansever olabilmesi,  hayvanların konuşmaması ve hak talep edememesi ile ilgili. Kedi, köpek konuşabilse, andımızı ezberletirler bi tas mama için.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1416506648995246000,
+		"in_reply_to_status_id_str": "1416506648995246085",
+		"in_reply_to_user_id": 94428988,
+		"in_reply_to_user_id_str": "94428988",
+		"in_reply_to_screen_name": "AlinOzinian",
+		"user": {
+			"id": 94428988,
+			"id_str": "94428988",
+			"name": "Alin Ozinian",
+			"screen_name": "AlinOzinian",
+			"location": "in the village of my dreams. ",
+			"description": "Political Analyst & Columnist | Covering #Turkey and the region | \nSiz ne derseniz deyiniz \nBenim bir gizli bildiğim var.\n \nhttps://t.co/nhBImAkLRo…",
+			"url": "https://t.co/NOzBDyDRl0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NOzBDyDRl0",
+							"expanded_url": "https://alinozinian.wordpress.com",
+							"display_url": "alinozinian.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nhBImAkLRo",
+							"expanded_url": "http://instagram.com/annalinkitchen",
+							"display_url": "instagram.com/annalinkitchen",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46790,
+			"friends_count": 1110,
+			"listed_count": 119,
+			"created_at": "Thu Dec 03 22:26:38 +0000 2009",
+			"favourites_count": 21195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1416459831842590730/L2bQYFty_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1416459831842590730/L2bQYFty_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94428988/1618262996",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Ötekini sevmeyenin hayvansever olabilmesi,  hayvanların konuşmaması ve hak talep edememesi ile ilgili. Kedi, köpek konuşabilse, andımızı ezberletirler bi tas mama için."
+	},
+	{
 		"created_at": "Thu Jul 15 15:45:39 +0000 2021",
 		"id": 1415699086565642200,
 		"id_str": "1415699086565642247",
