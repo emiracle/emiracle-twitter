@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 22:52:23 +0000 2021",
+		"id": 1416472781840162800,
+		"id_str": "1418705583163777029",
+		"full_text": "Bundan birkaç yıl önce çok sevdiğim bir yakınım beni aradı. Kötü bir bel fıtığı vardı, daha önce filmini görmüş ve mutlaka ameliyat olması gerektiğini söylemiştim.\nAmeliyatsız bel fıtığı tedavi eden birisinin ismini duymuş bir yerden, beni oraya götürür müsün 'muayeneye' dedi. \n+",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151329521,
+			"id_str": "151329521",
+			"name": "Mehmet Emin Adin, MD",
+			"screen_name": "emin_adin",
+			"location": "New Haven, CT",
+			"description": "@Yale @YaleMed (Prev. @JohnsHopkins Çapa Tıp ‘09) Tweets 🇹🇷|🇬🇧 News,Website&S Media committees of @theASNR & @the_ASPNR Vaccine adv. #sustainability🌿 |✊🏿|",
+			"url": "https://t.co/eVgjMhdpFZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eVgjMhdpFZ",
+							"expanded_url": "https://medicine.yale.edu/profile/mehmet_adin/",
+							"display_url": "medicine.yale.edu/profile/mehmet…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75349,
+			"friends_count": 523,
+			"listed_count": 129,
+			"created_at": "Thu Jun 03 04:30:28 +0000 2010",
+			"favourites_count": 8790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1416575454870446084/lSHEPxsQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1416575454870446084/lSHEPxsQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151329521/1626572969",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2414,
+		"favorite_count": 19463,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Bundan birkaç yıl önce çok sevdiğim bir yakınım beni aradı. Kötü bir bel fıtığı vardı, daha önce filmini görmüş ve mutlaka ameliyat olması gerektiğini söylemiştim.\nAmeliyatsız bel fıtığı tedavi eden birisinin ismini duymuş bir yerden, beni oraya götürür müsün 'muayeneye' dedi. \n+"
+	},
+	{
 		"created_at": "Wed Jul 21 13:46:23 +0000 2021",
 		"id": 1417843401614110700,
 		"id_str": "1417843401614110722",
