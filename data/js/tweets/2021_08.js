@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 10:29:03 +0000 2021",
+		"id": 1422867169050833000,
+		"id_str": "1422867169050832899",
+		"full_text": "@isil_arican @SinanAlper_ Bu hesapların ortak bir noktası var: Profil fotoğrafları ya da cover fotoğrafları mutlaka Atatürk. Hiç sekmiyor. Güdülmeye teşne bir topluluk, Amerika yaptı, PKK yaptı diyerek bunlara her türlü pisliğin propagandasını yaptırabilirsiniz.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isil_arican",
+					"name": "Işıl Arıcan",
+					"id": 20569249,
+					"id_str": "20569249",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SinanAlper_",
+					"name": "Sinan Alper",
+					"id": 332256791,
+					"id_str": "332256791",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1422809059367952400,
+		"in_reply_to_status_id_str": "1422809059367952385",
+		"in_reply_to_user_id": 20569249,
+		"in_reply_to_user_id_str": "20569249",
+		"in_reply_to_screen_name": "isil_arican",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 280,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@isil_arican @SinanAlper_ Bu hesapların ortak bir noktası var: Profil fotoğrafları ya da cover fotoğrafları mutlaka Atatürk. Hiç sekmiyor. Güdülmeye teşne bir topluluk, Amerika yaptı, PKK yaptı diyerek bunlara her türlü pisliğin propagandasını yaptırabilirsiniz."
+	},
+	{
 		"created_at": "Tue Aug 03 09:48:59 +0000 2021",
 		"id": 1422494697394774000,
 		"id_str": "1422494697394774016",
@@ -16,7 +120,7 @@ Grailbird.data.tweets_2021_08 =
 			"user_mentions": [
 				{
 					"screen_name": "bombakurt",
-					"name": "Ayca 🏃🏼‍♀️",
+					"name": "Ayca 🏃🏼♀️",
 					"id": 19867827,
 					"id_str": "19867827",
 					"indices": [
