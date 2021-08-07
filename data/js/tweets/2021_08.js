@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 19:11:01 +0000 2021",
+		"id": 1423723301692706800,
+		"id_str": "1423723301692706820",
+		"full_text": "Edward abimizden iyi mi tanıyorsunuz devleti? https://t.co/zZyIGJk4v8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZyIGJk4v8",
+					"expanded_url": "https://twitter.com/808constituent/status/1423700369369088003",
+					"display_url": "twitter.com/808constituent…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 281,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1423700369369088000,
+		"quoted_status_id_str": "1423700369369088003",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zZyIGJk4v8",
+			"expanded": "https://twitter.com/808constituent/status/1423700369369088003",
+			"display": "twitter.com/808constituent…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 06 17:39:53 +0000 2021",
+			"id": 1423700369369088000,
+			"id_str": "1423700369369088003",
+			"full_text": "\"A citizen without courage is a subject.\" – Edward Snowden https://t.co/wJVTVVLB5W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1423700200833618000,
+						"id_str": "1423700200833617925",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/E8H_yiFXEAUp0vD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8H_yiFXEAUp0vD.jpg",
+						"url": "https://t.co/wJVTVVLB5W",
+						"display_url": "pic.twitter.com/wJVTVVLB5W",
+						"expanded_url": "https://twitter.com/808constituent/status/1423700369369088003/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1423700200833618000,
+						"id_str": "1423700200833617925",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/E8H_yiFXEAUp0vD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8H_yiFXEAUp0vD.jpg",
+						"url": "https://t.co/wJVTVVLB5W",
+						"display_url": "pic.twitter.com/wJVTVVLB5W",
+						"expanded_url": "https://twitter.com/808constituent/status/1423700369369088003/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 851335608702189600,
+				"id_str": "851335608702189568",
+				"name": "Constituent 🌺⏳🍀",
+				"screen_name": "808constituent",
+				"location": "Hawaii, Hawaiʻi",
+				"description": "🦜FollowMeFor: #NaturePhotography #HomelessRights #RegenerativeAgriculture #CannabisNews #Politics\n🦚Join our #AlohaMovement🌺 \nHome of #BirdsOfHawaii 🌈",
+				"url": "https://t.co/RVdaulISGz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RVdaulISGz",
+								"expanded_url": "https://twitter.com/808constituent",
+								"display_url": "twitter.com/808constituent",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5086,
+				"friends_count": 5543,
+				"listed_count": 28,
+				"created_at": "Mon Apr 10 07:26:40 +0000 2017",
+				"favourites_count": 161972,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80747,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1251787821586640896/n3kb00gK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251787821586640896/n3kb00gK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/851335608702189568/1547966431",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 441,
+			"favorite_count": 1832,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Edward abimizden iyi mi tanıyorsunuz devleti? https://t.co/zZyIGJk4v8"
+	},
+	{
+		"created_at": "Fri Aug 06 12:38:26 +0000 2021",
+		"id": 1423624504824279000,
+		"id_str": "1423624504824279041",
+		"full_text": "@RabighTufaili @actoker Her ikisi de ahlaksızlıktır. T.C.'ye kahir ekseriyetle o ya da bu şekilde direnmiş, takiye yapmamış hatta zindanlarından kaçmış birisi için modern tıbbın şimdilik en iyi seçeneğini olan aşılarını sorgulamak bir sürü ahmağın değirmenine su taşımaktır ve bilişsel bir önyargıdır.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RabighTufaili",
+					"name": "Sevan Nisanyan",
+					"id": 1332371187134050300,
+					"id_str": "1332371187134050306",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "actoker",
+					"name": "actoker",
+					"id": 1217211572608815000,
+					"id_str": "1217211572608815105",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1423608885978570800,
+		"in_reply_to_status_id_str": "1423608885978570755",
+		"in_reply_to_user_id": 1332371187134050300,
+		"in_reply_to_user_id_str": "1332371187134050306",
+		"in_reply_to_screen_name": "RabighTufaili",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 281,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@RabighTufaili @actoker Her ikisi de ahlaksızlıktır. T.C.'ye kahir ekseriyetle o ya da bu şekilde direnmiş, takiye yapmamış hatta zindanlarından kaçmış birisi için modern tıbbın şimdilik en iyi seçeneğini olan aşılarını sorgulamak bir sürü ahmağın değirmenine su taşımaktır ve bilişsel bir önyargıdır."
+	},
+	{
 		"created_at": "Thu Aug 05 19:09:12 +0000 2021",
 		"id": 1423360456794726400,
 		"id_str": "1423360456794726400",
