@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 14:49:14 +0000 2021",
+		"id": 1429094954152784000,
+		"id_str": "1430180405559316492",
+		"full_text": "Remember the modem dial-up sound?\n\nHere it is visualized.\n\nhttps://t.co/mdTQ0eFI67",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 700974248593121300,
+					"id_str": "700974248593121280",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/700974248593121280/pu/img/uDoqF2rLLz6eGPta.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/700974248593121280/pu/img/uDoqF2rLLz6eGPta.jpg",
+					"url": "https://t.co/mdTQ0eFI67",
+					"display_url": "pic.twitter.com/mdTQ0eFI67",
+					"expanded_url": "https://twitter.com/Modem_DialUp/status/700975589717573632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 700975589717573600,
+					"source_status_id_str": "700975589717573632",
+					"source_user_id": 2373872048,
+					"source_user_id_str": "2373872048"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 700974248593121300,
+					"id_str": "700974248593121280",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/700974248593121280/pu/img/uDoqF2rLLz6eGPta.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/700974248593121280/pu/img/uDoqF2rLLz6eGPta.jpg",
+					"url": "https://t.co/mdTQ0eFI67",
+					"display_url": "pic.twitter.com/mdTQ0eFI67",
+					"expanded_url": "https://twitter.com/Modem_DialUp/status/700975589717573632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 700975589717573600,
+					"source_status_id_str": "700975589717573632",
+					"source_user_id": 2373872048,
+					"source_user_id_str": "2373872048",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28567,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/700974248593121280/pu/vid/640x360/ea62unltghmfu807.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/700974248593121280/pu/vid/320x180/XtUbNIu7DoEMjBw7.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/700974248593121280/pu/pl/YgtOFKjvJRlWntTI.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2373872048,
+							"id_str": "2373872048",
+							"name": "Modem Dial-Up",
+							"screen_name": "Modem_DialUp",
+							"location": "",
+							"description": "Tuuuuuu.... ti ti tu ti ti tu ti ... brrrr ... grrrr... chrip ... crrrrrr ... chrip ... crrrrrr ...",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1571,
+							"friends_count": 0,
+							"listed_count": 18,
+							"created_at": "Wed Mar 05 14:44:22 +0000 2014",
+							"favourites_count": 37,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 33,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/502145512632352768/vd4xYGU1_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/502145512632352768/vd4xYGU1_normal.png",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11484622,
+			"id_str": "11484622",
+			"name": "M⟠kΞ 🦇🔊",
+			"screen_name": "MikeAbundo",
+			"location": "Philippines",
+			"description": "Realign humanity's incentives.\n\nCommittee Chairman @FintechPHL | City Shaman @Karma_DAO | Lurker #CryptoPH | Degen Score 470 | @Zapper_fi Lv. 9",
+			"url": "https://t.co/UR8P0EnB8T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UR8P0EnB8T",
+							"expanded_url": "http://mikeabundo.com",
+							"display_url": "mikeabundo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4046,
+			"friends_count": 4999,
+			"listed_count": 106,
+			"created_at": "Mon Dec 24 18:43:33 +0000 2007",
+			"favourites_count": 321904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "911C1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429979743848329217/HP8v1zao_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429979743848329217/HP8v1zao_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11484622/1564049453",
+			"profile_link_color": "DB3D40",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 2573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember the modem dial-up sound?\n\nHere it is visualized.\n\nhttps://t.co/mdTQ0eFI67"
+	},
+	{
 		"created_at": "Sun Aug 22 10:33:38 +0000 2021",
 		"id": 1429391303444418600,
 		"id_str": "1429391303444418563",
