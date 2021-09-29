@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 28 13:29:54 +0000 2021",
+		"id": 1442844014877761500,
+		"id_str": "1442844014877761539",
+		"full_text": "@wardumpp Benim bu konuda fikrim ektedir: https://t.co/8T19dnLb0J",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8T19dnLb0J",
+					"expanded_url": "https://twitter.com/emiracle/status/1365710185625444354",
+					"display_url": "twitter.com/emiracle/statu…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442842827248083000,
+		"in_reply_to_status_id_str": "1442842827248082953",
+		"in_reply_to_user_id": 19335165,
+		"in_reply_to_user_id_str": "19335165",
+		"in_reply_to_screen_name": "wardumpp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 283,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365710185625444400,
+		"quoted_status_id_str": "1365710185625444354",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8T19dnLb0J",
+			"expanded": "https://twitter.com/emiracle/status/1365710185625444354",
+			"display": "twitter.com/emiracle/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 27 17:07:36 +0000 2021",
+			"id": 1365710185625444400,
+			"id_str": "1365710185625444354",
+			"full_text": "Toksik kelimesini kullanan birinde sike sürülecek akıl görmedim daha. Tok sik, aç sik, sür sür ye. 🤮",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18937325,
+				"id_str": "18937325",
+				"name": "Emir Kaymakoğlu",
+				"screen_name": "emiracle",
+				"location": "Istanbul",
+				"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 315,
+				"friends_count": 283,
+				"listed_count": 7,
+				"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+				"favourites_count": 1604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "12121A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+				"profile_link_color": "140DEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAEDC8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@wardumpp Benim bu konuda fikrim ektedir: https://t.co/8T19dnLb0J"
+	},
+	{
 		"created_at": "Mon Sep 27 23:55:01 +0000 2021",
 		"id": 1442638944479367200,
 		"id_str": "1442638944479367169",
