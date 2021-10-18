@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 22:38:17 +0000 2021",
+		"id": 1449844930793197600,
+		"id_str": "1449867387663261701",
+		"full_text": "Şu anda Silikon Vadisi'ne yakın bir muhitte oturduğumuz ev sokaktaki çoğu diğer ev gibi 1963 yapımı. Sokağın karşısındaki komşularımız 1963 yılında taşınmış, evin orjinal sahibi 85-90 yaşlarında tontin bir İtalyan çift. Ara sıra denk geldikçe ayak üstü laflıyoruz...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24086775,
+			"id_str": "24086775",
+			"name": "cuneyt ozdas",
+			"screen_name": "cozdas",
+			"location": "San Francisco Bay Area",
+			"description": "Offline/Real-Time Ray Tracer, Light Transporter, Sub-pixel hunter, Eye Tracker, Color Computer, Photon Bouncer, Electron Mover, Photographer, Science Lover.",
+			"url": "https://t.co/DdAsCArZKb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DdAsCArZKb",
+							"expanded_url": "http://cuneytozdas.com",
+							"display_url": "cuneytozdas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7007,
+			"friends_count": 521,
+			"listed_count": 70,
+			"created_at": "Fri Mar 13 00:44:10 +0000 2009",
+			"favourites_count": 13319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/653328264170090497/CJrPRUhn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/653328264170090497/CJrPRUhn_normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Şu anda Silikon Vadisi'ne yakın bir muhitte oturduğumuz ev sokaktaki çoğu diğer ev gibi 1963 yapımı. Sokağın karşısındaki komşularımız 1963 yılında taşınmış, evin orjinal sahibi 85-90 yaşlarında tontin bir İtalyan çift. Ara sıra denk geldikçe ayak üstü laflıyoruz..."
+	},
+	{
 		"created_at": "Sat Oct 16 23:09:43 +0000 2021",
 		"id": 1449512910280171500,
 		"id_str": "1449512910280171520",
