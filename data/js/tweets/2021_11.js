@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 19:58:54 +0000 2021",
+		"id": 1458886977458258000,
+		"id_str": "1458886977458257930",
+		"full_text": "T.C. tarihi bir soykırım ve yağma tarihidir. Aptal aptal süfli şeylerden, kanlı bayraklardan, tek adam ikonalarından kimlik almayın da biraz tarihinizi öğrenin. https://t.co/KkCy8eJc2Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KkCy8eJc2Y",
+					"expanded_url": "https://twitter.com/sibelyukler/status/1458730614690127875",
+					"display_url": "twitter.com/sibelyukler/st…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 282,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458730614690128000,
+		"quoted_status_id_str": "1458730614690127875",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KkCy8eJc2Y",
+			"expanded": "https://twitter.com/sibelyukler/status/1458730614690127875",
+			"display": "twitter.com/sibelyukler/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 11 09:37:35 +0000 2021",
+			"id": 1458730614690128000,
+			"id_str": "1458730614690127875",
+			"full_text": "daha önce mübadeleler, soykırım, yangınlar, trakya pogromu, yirmi kur’a, vatandaş türkçe konuş kampanyası ve varlık vergisi ile hazırlanan, sonrasında 6-7 eylül pogromu ve rum kararnamesi ile pekiştirilen politika şuydu: türkiye türklerindir. + https://t.co/kv9G09Hclo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1458728149311705000,
+						"id_str": "1458728149311705089",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FD5xheuWUAEneX5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD5xheuWUAEneX5.jpg",
+						"url": "https://t.co/kv9G09Hclo",
+						"display_url": "pic.twitter.com/kv9G09Hclo",
+						"expanded_url": "https://twitter.com/sibelyukler/status/1458730614690127875/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 292,
+								"h": 173,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 292,
+								"h": 173,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 292,
+								"h": 173,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1458728149311705000,
+						"id_str": "1458728149311705089",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FD5xheuWUAEneX5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD5xheuWUAEneX5.jpg",
+						"url": "https://t.co/kv9G09Hclo",
+						"display_url": "pic.twitter.com/kv9G09Hclo",
+						"expanded_url": "https://twitter.com/sibelyukler/status/1458730614690127875/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 292,
+								"h": 173,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 292,
+								"h": 173,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 292,
+								"h": 173,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 799085143,
+				"id_str": "799085143",
+				"name": "sibel yükler 🌈",
+				"screen_name": "sibelyukler",
+				"location": "",
+				"description": "gayriresmi gasteci, editör / dzer tatiki dustry @IFJGlobal",
+				"url": "https://t.co/7A896o60Th",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7A896o60Th",
+								"expanded_url": "https://www.literaedebiyat.com/post/nermin-yildirim-sibel-yukler-soylesi",
+								"display_url": "literaedebiyat.com/post/nermin-yi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14532,
+				"friends_count": 1438,
+				"listed_count": 49,
+				"created_at": "Sun Sep 02 21:32:15 +0000 2012",
+				"favourites_count": 49127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34459,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297217189527814144/FHLmxEm0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297217189527814144/FHLmxEm0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/799085143/1433971070",
+				"profile_link_color": "9266BB",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "T.C. tarihi bir soykırım ve yağma tarihidir. Aptal aptal süfli şeylerden, kanlı bayraklardan, tek adam ikonalarından kimlik almayın da biraz tarihinizi öğrenin. https://t.co/KkCy8eJc2Y"
+	},
+	{
 		"created_at": "Tue Nov 09 17:27:20 +0000 2021",
 		"id": 1458124058017636400,
 		"id_str": "1458124058017636361",
