@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 09:30:18 +0000 2021",
+		"id": 1459091171595243500,
+		"id_str": "1459091171595243525",
+		"full_text": "@sarphanuzunoglu https://t.co/O6Rj2Nh2SX",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarphanuzunoglu",
+					"name": "Sarphan Uzunoğlu",
+					"id": 34636405,
+					"id_str": "34636405",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O6Rj2Nh2SX",
+					"expanded_url": "https://twitter.com/bulentcosan/status/1459080807281311763?t=9cr18inc1G1VCpxHPyXM_Q&s=19",
+					"display_url": "twitter.com/bulentcosan/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1459090061153247200,
+		"in_reply_to_status_id_str": "1459090061153247237",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 282,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459080807281311700,
+		"quoted_status_id_str": "1459080807281311763",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O6Rj2Nh2SX",
+			"expanded": "https://twitter.com/bulentcosan/status/1459080807281311763?t=9cr18inc1G1VCpxHPyXM_Q&s=19",
+			"display": "twitter.com/bulentcosan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 08:49:07 +0000 2021",
+			"id": 1459080807281311700,
+			"id_str": "1459080807281311763",
+			"full_text": "@RTErdogan Fatih'e cuma namazına gelmiş. Tramvay Beyazıt'a kadar çalışıyor. Çemberlitaş'tan aşağı yaya bile almıyorlar. Ara sokaklardan vapura indim şimdi vapur seferleri iptal diye haber geldi. Cuma namazı kılacağım diye bu kadar hakka girmek, küfür yemek ne kadar anlamlı acaba.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RTErdogan",
+						"name": "Recep Tayyip Erdoğan",
+						"id": 68034431,
+						"id_str": "68034431",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 68034431,
+			"in_reply_to_user_id_str": "68034431",
+			"in_reply_to_screen_name": "RTErdogan",
+			"user": {
+				"id": 758367097730822100,
+				"id_str": "758367097730822145",
+				"name": "Bülent",
+				"screen_name": "bulentcosan",
+				"location": "",
+				"description": "#ynwa Boğaziçi University ✊🏻✊🏼✊🏽✊🏾✊🏿",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175,
+				"friends_count": 745,
+				"listed_count": 0,
+				"created_at": "Wed Jul 27 18:23:00 +0000 2016",
+				"favourites_count": 5624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2883,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160915335970807808/zDNwyNNl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160915335970807808/zDNwyNNl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/758367097730822145/1601375365",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@sarphanuzunoglu https://t.co/O6Rj2Nh2SX"
+	},
+	{
 		"created_at": "Thu Nov 11 19:58:54 +0000 2021",
 		"id": 1458886977458258000,
 		"id_str": "1458886977458257930",
