@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 19:29:45 +0000 2021",
+		"id": 1468664112880226300,
+		"id_str": "1468664112880226305",
+		"full_text": "2021 Türkiyesi, Çavuşesku'nun 1989 Romanyası'na rahmet okutur. https://t.co/WcF4TbJwmW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WcF4TbJwmW",
+					"expanded_url": "https://twitter.com/evrenbarisyavuz/status/1468662859861315587",
+					"display_url": "twitter.com/evrenbarisyavu…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468662859861315600,
+		"quoted_status_id_str": "1468662859861315587",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WcF4TbJwmW",
+			"expanded": "https://twitter.com/evrenbarisyavuz/status/1468662859861315587",
+			"display": "twitter.com/evrenbarisyavu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 08 19:24:46 +0000 2021",
+			"id": 1468662859861315600,
+			"id_str": "1468662859861315587",
+			"full_text": "İstanbul Büyükşehir Belediyesi, İstanbul’da her gün 1.500.000 ekmek çıkartıyor ve olabilecek en düşük fiyatla halka ulaştırmaya çalışıyor. Metaverse, uzay çağı, öğrenen makine derken ekmek için insanların sıraya girdiği gerçeğin içindeyiz. https://t.co/HriFNQMEvq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1468662851309080600,
+						"id_str": "1468662851309080581",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FGG9FPsXEAUy-SE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGG9FPsXEAUy-SE.jpg",
+						"url": "https://t.co/HriFNQMEvq",
+						"display_url": "pic.twitter.com/HriFNQMEvq",
+						"expanded_url": "https://twitter.com/evrenbarisyavuz/status/1468662859861315587/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 889,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 896,
+								"h": 1209,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468662851309080600,
+						"id_str": "1468662851309080581",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FGG9FPsXEAUy-SE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGG9FPsXEAUy-SE.jpg",
+						"url": "https://t.co/HriFNQMEvq",
+						"display_url": "pic.twitter.com/HriFNQMEvq",
+						"expanded_url": "https://twitter.com/evrenbarisyavuz/status/1468662859861315587/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 889,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 896,
+								"h": 1209,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79176661,
+				"id_str": "79176661",
+				"name": "Evren Barış Yavuz",
+				"screen_name": "evrenbarisyavuz",
+				"location": "Beşiktaş, İstanbul",
+				"description": "“artık yaklaştı o yaklaşmakta olan.” necm 57.",
+				"url": "https://t.co/5f7Ddos5YZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5f7Ddos5YZ",
+								"expanded_url": "http://evrenbarisyavuz.com",
+								"display_url": "evrenbarisyavuz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50818,
+				"friends_count": 1619,
+				"listed_count": 116,
+				"created_at": "Fri Oct 02 13:10:48 +0000 2009",
+				"favourites_count": 67,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12789,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1460226049791438851/nPVVZHtd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460226049791438851/nPVVZHtd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79176661/1638988693",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "2021 Türkiyesi, Çavuşesku'nun 1989 Romanyası'na rahmet okutur. https://t.co/WcF4TbJwmW"
+	},
+	{
 		"created_at": "Tue Dec 07 14:55:24 +0000 2021",
 		"id": 1468232683172077600,
 		"id_str": "1468232683172077568",
