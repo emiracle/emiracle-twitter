@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 12 00:06:00 +0000 2022",
+		"id": 1481036909442969600,
+		"id_str": "1481054821390168064",
+		"full_text": "Building things in the 1880s:\nThe Statue of Liberty 1883\nThe Eiffel Tower, Paris 1888\nTower Bridge, London 1889 https://t.co/xuFhIfvKtZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481036656383778800,
+					"id_str": "1481036656383778823",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FI2y_fsWYAcFbqC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI2y_fsWYAcFbqC.jpg",
+					"url": "https://t.co/xuFhIfvKtZ",
+					"display_url": "pic.twitter.com/xuFhIfvKtZ",
+					"expanded_url": "https://twitter.com/StuartHumphryes/status/1481036909442969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 1926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481036656383778800,
+					"id_str": "1481036656383778823",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FI2y_fsWYAcFbqC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI2y_fsWYAcFbqC.jpg",
+					"url": "https://t.co/xuFhIfvKtZ",
+					"display_url": "pic.twitter.com/xuFhIfvKtZ",
+					"expanded_url": "https://twitter.com/StuartHumphryes/status/1481036909442969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 1926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481036697584521200,
+					"id_str": "1481036697584521217",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FI2zB5LX0AEUr4f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI2zB5LX0AEUr4f.jpg",
+					"url": "https://t.co/xuFhIfvKtZ",
+					"display_url": "pic.twitter.com/xuFhIfvKtZ",
+					"expanded_url": "https://twitter.com/StuartHumphryes/status/1481036909442969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481036712004489200,
+					"id_str": "1481036712004489222",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FI2zCu5XEAYvpo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI2zCu5XEAYvpo_.jpg",
+					"url": "https://t.co/xuFhIfvKtZ",
+					"display_url": "pic.twitter.com/xuFhIfvKtZ",
+					"expanded_url": "https://twitter.com/StuartHumphryes/status/1481036909442969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 312847877,
+			"id_str": "312847877",
+			"name": "BabelColour",
+			"screen_name": "StuartHumphryes",
+			"location": "London, England",
+			"description": "I'm Stuart, a digital artist who enhances & transforms early colour photography (I don't colourise them). It is enhancement, not restoration.\nIt's just a hobby.",
+			"url": "https://t.co/xNfHUtmNtc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNfHUtmNtc",
+							"expanded_url": "https://ko-fi.com/babelcolour",
+							"display_url": "ko-fi.com/babelcolour",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172692,
+			"friends_count": 173,
+			"listed_count": 1020,
+			"created_at": "Tue Jun 07 19:22:52 +0000 2011",
+			"favourites_count": 53591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1474887805289603075/58r5Nbfw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1474887805289603075/58r5Nbfw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/312847877/1620406333",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 1036,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Building things in the 1880s:\nThe Statue of Liberty 1883\nThe Eiffel Tower, Paris 1888\nTower Bridge, London 1889 https://t.co/xuFhIfvKtZ"
+	},
+	{
+		"created_at": "Tue Jan 11 16:03:26 +0000 2022",
+		"id": 1480933376630603800,
+		"id_str": "1480933376630603781",
+		"full_text": "Türk aile yapısı pisliğin kaynağıdır. Kendi evlatlarını din ve devlet yolunda ölüme göndermekten imtina etmeyecek bir karanlıktır. Bu pislik yapıyı korumak için götlerini yırtmaları boşuna değil. Bu bataklık kurutulmadan hiçbir kalıcı çözüm mümkün değil maalesef. #EnesKara",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EnesKara",
+					"indices": [
+						264,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 284,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Türk aile yapısı pisliğin kaynağıdır. Kendi evlatlarını din ve devlet yolunda ölüme göndermekten imtina etmeyecek bir karanlıktır. Bu pislik yapıyı korumak için götlerini yırtmaları boşuna değil. Bu bataklık kurutulmadan hiçbir kalıcı çözüm mümkün değil maalesef. #EnesKara"
+	},
+	{
 		"created_at": "Mon Jan 10 18:59:51 +0000 2022",
 		"id": 1480615387913990100,
 		"id_str": "1480615387913990147",
