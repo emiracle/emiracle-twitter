@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 21:12:35 +0000 2022",
+		"id": 1483825043306123300,
+		"id_str": "1484272670850093057",
+		"full_text": "Türkiye kedilerini derledim. 🐈\n\nOnları tanıyalım, koruyalım! 😻 https://t.co/7FoZAl3We2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483825035928346600,
+					"id_str": "1483825035928346630",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FJebAi9XIAY-QzE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJebAi9XIAY-QzE.jpg",
+					"url": "https://t.co/7FoZAl3We2",
+					"display_url": "pic.twitter.com/7FoZAl3We2",
+					"expanded_url": "https://twitter.com/PedramTurkoglu/status/1483825043306123267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1624,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483825035928346600,
+					"id_str": "1483825035928346630",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FJebAi9XIAY-QzE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJebAi9XIAY-QzE.jpg",
+					"url": "https://t.co/7FoZAl3We2",
+					"display_url": "pic.twitter.com/7FoZAl3We2",
+					"expanded_url": "https://twitter.com/PedramTurkoglu/status/1483825043306123267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1624,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985201248,
+			"id_str": "985201248",
+			"name": "Pedram Türkoğlu",
+			"screen_name": "PedramTurkoglu",
+			"location": "İran/Türkiye",
+			"description": "Tıp Doktoru (M.D.) | Doğa Gözlemci | Yazar | Genel Editör (@evrimagaci) | Editör (@bilimkurgukulup) | Evrimsel Tıp, Paleobiyoloji, Zooloji, Taksonomi",
+			"url": "https://t.co/l6d4DfmKcf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l6d4DfmKcf",
+							"expanded_url": "https://dar.vin/pedram",
+							"display_url": "dar.vin/pedram",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28557,
+			"friends_count": 97,
+			"listed_count": 75,
+			"created_at": "Sun Dec 02 19:12:07 +0000 2012",
+			"favourites_count": 7630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408186295940272133/nx5Ewz7g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408186295940272133/nx5Ewz7g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985201248/1624572864",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 689,
+		"favorite_count": 8267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Türkiye kedilerini derledim. 🐈\n\nOnları tanıyalım, koruyalım! 😻 https://t.co/7FoZAl3We2"
+	},
+	{
 		"created_at": "Mon Jan 17 10:16:55 +0000 2022",
 		"id": 1483020503157817300,
 		"id_str": "1483020503157817347",
@@ -16,7 +191,7 @@ Grailbird.data.tweets_2022_01 =
 			"user_mentions": [
 				{
 					"screen_name": "bombakurt",
-					"name": "Ayca 🏃🏻‍♂️🏃🏻‍♂️",
+					"name": "Ayca 🏃🏻♂️🏃🏻♂️",
 					"id": 19867827,
 					"id_str": "19867827",
 					"indices": [
