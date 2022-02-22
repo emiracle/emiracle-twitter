@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 12:42:48 +0000 2022",
+		"id": 1495740788818518000,
+		"id_str": "1495740788818518021",
+		"full_text": "@SportsDigitale Benzer işler. https://t.co/3wmBUiDYiP",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SportsDigitale",
+					"name": "Sports Digitale",
+					"id": 1172113041552552000,
+					"id_str": "1172113041552551936",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3wmBUiDYiP",
+					"expanded_url": "https://twitter.com/EskidenFutbol/status/1116343103965810688?t=ow-9w6W3nXY_XUQs9JQU9Q&s=19",
+					"display_url": "twitter.com/EskidenFutbol/…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1495735506663059500,
+		"in_reply_to_status_id_str": "1495735506663059459",
+		"in_reply_to_user_id": 1172113041552552000,
+		"in_reply_to_user_id_str": "1172113041552551936",
+		"in_reply_to_screen_name": "SportsDigitale",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116343103965810700,
+		"quoted_status_id_str": "1116343103965810688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3wmBUiDYiP",
+			"expanded": "https://twitter.com/EskidenFutbol/status/1116343103965810688?t=ow-9w6W3nXY_XUQs9JQU9Q&s=19",
+			"display": "twitter.com/EskidenFutbol/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 11 14:11:51 +0000 2019",
+			"id": 1116343103965810700,
+			"id_str": "1116343103965810688",
+			"full_text": "Yıl 2006.\n\nFenerbahçeli futbolcular, Nicolas Anelka'nın Galatasaray'a attığı gol öncesi topu rakiplerine vermeden 35 pas yapıyorlar. \n\n32. pastan sonra tribünler \"Fener gol, gol, gol\" tezahüratı yapıyor. https://t.co/b6KYPPLumF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116341966994923500,
+						"id_str": "1116341966994923520",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116341966994923520/pu/img/JRyh03LDIR1_J67E.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116341966994923520/pu/img/JRyh03LDIR1_J67E.jpg",
+						"url": "https://t.co/b6KYPPLumF",
+						"display_url": "pic.twitter.com/b6KYPPLumF",
+						"expanded_url": "https://twitter.com/EskidenFutbol/status/1116343103965810688/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116341966994923500,
+						"id_str": "1116341966994923520",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116341966994923520/pu/img/JRyh03LDIR1_J67E.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116341966994923520/pu/img/JRyh03LDIR1_J67E.jpg",
+						"url": "https://t.co/b6KYPPLumF",
+						"display_url": "pic.twitter.com/b6KYPPLumF",
+						"expanded_url": "https://twitter.com/EskidenFutbol/status/1116343103965810688/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 117200,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1116341966994923520/pu/pl/nQjvvoB2fFCoTsiX.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1116341966994923520/pu/vid/640x360/KsdhTvlc5iTs49kU.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1116341966994923520/pu/vid/320x180/qUyDUuXr5eiqEtfT.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1116341966994923520/pu/vid/854x480/OQxh9SmL-R9-KWlY.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1116018521115385900,
+			"in_reply_to_status_id_str": "1116018521115385857",
+			"in_reply_to_user_id": 4702271504,
+			"in_reply_to_user_id_str": "4702271504",
+			"in_reply_to_screen_name": "EskidenFutbol",
+			"user": {
+				"id": 4702271504,
+				"id_str": "4702271504",
+				"name": "Eskiden Futbol",
+				"screen_name": "EskidenFutbol",
+				"location": "",
+				"description": "Futbol ve Tribün tarihine dair foto, video ve gazete kupürleri. İş birliği ve iletişim için DM atabilirsiniz.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96613,
+				"friends_count": 70,
+				"listed_count": 161,
+				"created_at": "Sun Jan 03 11:29:03 +0000 2016",
+				"favourites_count": 921,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2390,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1010615046907539456/QVGhCVBK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010615046907539456/QVGhCVBK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4702271504/1529787072",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 502,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@SportsDigitale Benzer işler. https://t.co/3wmBUiDYiP"
+	},
+	{
 		"created_at": "Sat Feb 19 22:18:31 +0000 2022",
 		"id": 1495160898088054800,
 		"id_str": "1495160898088054786",
