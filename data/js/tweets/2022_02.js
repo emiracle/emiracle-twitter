@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 11:56:05 +0000 2022",
+		"id": 1496816195076599800,
+		"id_str": "1496816195076599810",
+		"full_text": "19 yaşında çocukları ölüme gönderen hırsız, katil ve orospu çocuğu diktatörlerin karşısında olmak siyasi değil  ahlâki bir tutumdur. https://t.co/Wjwawp26YD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wjwawp26YD",
+					"expanded_url": "https://twitter.com/AubreyBelford/status/1496812441568694277",
+					"display_url": "twitter.com/AubreyBelford/…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 289,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496812441568694300,
+		"quoted_status_id_str": "1496812441568694277",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wjwawp26YD",
+			"expanded": "https://twitter.com/AubreyBelford/status/1496812441568694277",
+			"display": "twitter.com/AubreyBelford/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 24 11:41:10 +0000 2022",
+			"id": 1496812441568694300,
+			"id_str": "1496812441568694277",
+			"full_text": "One of the first captured Russian soldiers has been identified. 19-year-old Rafik Rahmanulov. Absolutely tragic to see virtual children thrown into this shit, as always. Lucky for this kid he'll now likely survive the war. https://t.co/RnYpC1BTqs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RnYpC1BTqs",
+						"expanded_url": "https://twitter.com/666_mancer/status/1496809082694602754",
+						"display_url": "twitter.com/666_mancer/sta…",
+						"indices": [
+							223,
+							246
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26469815,
+				"id_str": "26469815",
+				"name": "Aubrey Belford",
+				"screen_name": "AubreyBelford",
+				"location": "Sydney",
+				"description": "Australia and Pacific editor at Organized Crime and Corruption Reporting Project (OCCRP). \n\naubrey@occrp.org",
+				"url": "https://t.co/3iBOgdbfVe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3iBOgdbfVe",
+								"expanded_url": "http://occrp.org",
+								"display_url": "occrp.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8406,
+				"friends_count": 2961,
+				"listed_count": 321,
+				"created_at": "Wed Mar 25 10:40:56 +0000 2009",
+				"favourites_count": 1856,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1477,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1453991569544019970/r1znfKZ8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453991569544019970/r1znfKZ8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26469815/1602708636",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1496809082694602800,
+			"quoted_status_id_str": "1496809082694602754",
+			"quoted_status_permalink": {
+				"url": "https://t.co/RnYpC1BTqs",
+				"expanded": "https://twitter.com/666_mancer/status/1496809082694602754",
+				"display": "twitter.com/666_mancer/sta…"
+			},
+			"retweet_count": 39,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "19 yaşında çocukları ölüme gönderen hırsız, katil ve orospu çocuğu diktatörlerin karşısında olmak siyasi değil  ahlâki bir tutumdur. https://t.co/Wjwawp26YD"
+	},
+	{
 		"created_at": "Wed Feb 23 01:39:05 +0000 2022",
 		"id": 1496298537495183400,
 		"id_str": "1496298537495183361",
