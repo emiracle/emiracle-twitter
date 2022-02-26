@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 12:56:05 +0000 2022",
+		"id": 1497186758479519700,
+		"id_str": "1497193683543859231",
+		"full_text": "Yeni dünyayı anlamıyor, gençleri dinlemiyorsunuz. Antik ezberlerinize yapışıp kalmışsınız. Keşke gidip bu politikayı NATO ülkesi olmayan ülkelerde yaşayıp yapsanız, aa yapamazsınız çünkü oraları Rusya işgal edip tüm farklı sesleri susturuyor. https://t.co/y17hkjfaYW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y17hkjfaYW",
+					"expanded_url": "https://twitter.com/tipgenelmerkez/status/1496133490148052993",
+					"display_url": "twitter.com/tipgenelmerkez…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25440619,
+			"id_str": "25440619",
+			"name": "Tufan Demir",
+			"screen_name": "Tufan_Demir",
+			"location": "",
+			"description": "Opinions are my own; who else's would they be?",
+			"url": "https://t.co/Pr7GPSywE1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pr7GPSywE1",
+							"expanded_url": "https://www.youtube.com/channel/UCGzh_9rccvePQjUNgFjTiJQ",
+							"display_url": "youtube.com/channel/UCGzh_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 383,
+			"listed_count": 19,
+			"created_at": "Fri Mar 20 02:27:13 +0000 2009",
+			"favourites_count": 15079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856089947836690432/0bVNF_VY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856089947836690432/0bVNF_VY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25440619/1424431014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496133490148053000,
+		"quoted_status_id_str": "1496133490148052993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y17hkjfaYW",
+			"expanded": "https://twitter.com/tipgenelmerkez/status/1496133490148052993",
+			"display": "twitter.com/tipgenelmerkez…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 22 14:43:15 +0000 2022",
+			"id": 1496133490148053000,
+			"id_str": "1496133490148052993",
+			"full_text": "Genel Başkanımız Erkan Baş, İstanbul İl Örgütümüzde düzenlediği basın toplantısında gündeme ilişkin değerlendirmelerde bulundu:\n\n“Orta ve Doğu Avrupa’yı bir cephaneliğe çeviren, emperyalist bir suç örgütü olarak değerlendirdiğimiz NATO’yu Ukrayna’dan elini çekmeye çağırıyoruz.” https://t.co/C6tsJeMvRX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1496132439403602000,
+						"id_str": "1496132439403601924",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496132439403601924/pu/img/fgLa_Sdnvg-h2j-s.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496132439403601924/pu/img/fgLa_Sdnvg-h2j-s.jpg",
+						"url": "https://t.co/C6tsJeMvRX",
+						"display_url": "pic.twitter.com/C6tsJeMvRX",
+						"expanded_url": "https://twitter.com/tipgenelmerkez/status/1496133490148052993/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496132439403602000,
+						"id_str": "1496132439403601924",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496132439403601924/pu/img/fgLa_Sdnvg-h2j-s.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496132439403601924/pu/img/fgLa_Sdnvg-h2j-s.jpg",
+						"url": "https://t.co/C6tsJeMvRX",
+						"display_url": "pic.twitter.com/C6tsJeMvRX",
+						"expanded_url": "https://twitter.com/tipgenelmerkez/status/1496133490148052993/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 123960,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1496132439403601924/pu/vid/720x720/gy_zuRUI_uKKobFn.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1496132439403601924/pu/pl/imMG_T4Yozkp6v8Z.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1496132439403601924/pu/vid/320x320/xt35JZt2ZlqeGJaW.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1496132439403601924/pu/vid/540x540/ipshMUJoPChPckDP.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2740534176,
+				"id_str": "2740534176",
+				"name": "Türkiye İşçi Partisi",
+				"screen_name": "tipgenelmerkez",
+				"location": "",
+				"description": "TİP Resmi Twitter Hesabı \nFacebook: https://t.co/7a5jr7MrEe\nInstagram: https://t.co/ClPyYm6ihe\nTelegram: https://t.co/cSLFa8W8Ba",
+				"url": "https://t.co/BoyAaX4lxX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BoyAaX4lxX",
+								"expanded_url": "http://tip.org.tr/tipe-katil/",
+								"display_url": "tip.org.tr/tipe-katil/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7a5jr7MrEe",
+								"expanded_url": "http://facebook.com/tipgenelmerkez",
+								"display_url": "facebook.com/tipgenelmerkez",
+								"indices": [
+									36,
+									59
+								]
+							},
+							{
+								"url": "https://t.co/ClPyYm6ihe",
+								"expanded_url": "http://instagram.com/tipgenelmerkez",
+								"display_url": "instagram.com/tipgenelmerkez",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/cSLFa8W8Ba",
+								"expanded_url": "http://t.me/TIPgenelmerkez",
+								"display_url": "t.me/TIPgenelmerkez",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 183377,
+				"friends_count": 6,
+				"listed_count": 239,
+				"created_at": "Sun Aug 17 21:37:05 +0000 2014",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3969,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048508408276635649/sD3UH2Pr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048508408276635649/sD3UH2Pr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740534176/1643912371",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 181,
+			"favorite_count": 1257,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Yeni dünyayı anlamıyor, gençleri dinlemiyorsunuz. Antik ezberlerinize yapışıp kalmışsınız. Keşke gidip bu politikayı NATO ülkesi olmayan ülkelerde yaşayıp yapsanız, aa yapamazsınız çünkü oraları Rusya işgal edip tüm farklı sesleri susturuyor. https://t.co/y17hkjfaYW"
+	},
+	{
 		"created_at": "Thu Feb 24 11:56:05 +0000 2022",
 		"id": 1496816195076599800,
 		"id_str": "1496816195076599810",
