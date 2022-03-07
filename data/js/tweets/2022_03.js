@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 06 23:22:13 +0000 2022",
+		"id": 1500465032966062000,
+		"id_str": "1500612747423363075",
+		"full_text": "This, out of #Ukraine, is 100% one of the most incredible videos I have ever seen.\n\nThis Russian POW has the heart of a lion 🦁 https://t.co/KIx1rsN0CZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ukraine",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500464405821239300,
+					"id_str": "1500464405821239302",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500464405821239302/pu/img/TbNYxijr1fn4oVUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500464405821239302/pu/img/TbNYxijr1fn4oVUB.jpg",
+					"url": "https://t.co/KIx1rsN0CZ",
+					"display_url": "pic.twitter.com/KIx1rsN0CZ",
+					"expanded_url": "https://twitter.com/hackingbutlegal/status/1500465032966062082/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500464405821239300,
+					"id_str": "1500464405821239302",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500464405821239302/pu/img/TbNYxijr1fn4oVUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500464405821239302/pu/img/TbNYxijr1fn4oVUB.jpg",
+					"url": "https://t.co/KIx1rsN0CZ",
+					"display_url": "pic.twitter.com/KIx1rsN0CZ",
+					"expanded_url": "https://twitter.com/hackingbutlegal/status/1500465032966062082/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 588800,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500464405821239302/pu/vid/640x360/TY0gymbWs_2xZdh_.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500464405821239302/pu/vid/480x270/Cd85M2Ev6TldcOX7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1500464405821239302/pu/pl/X79eptziPr1IihiF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500464405821239302/pu/vid/1280x720/lAr2tR8L93vFnkhh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3004269184,
+			"id_str": "3004269184",
+			"name": "Jackie Singh 🇺🇦 🇺🇸",
+			"screen_name": "hackingbutlegal",
+			"location": "United States",
+			"description": "Director @STOPSpyingNY. Formerly @JoeBiden. Opinions: Mine! Infosec, Human/Digital Rights, Surveillance, Privacy, Crime, Geopolitics, Web3◎, Code, Art, Finance.",
+			"url": "https://t.co/2q4xzGmALO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2q4xzGmALO",
+							"expanded_url": "http://STOPSpying.org/jackiesingh-bio",
+							"display_url": "STOPSpying.org/jackiesingh-bio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28759,
+			"friends_count": 2099,
+			"listed_count": 829,
+			"created_at": "Thu Jan 29 17:44:05 +0000 2015",
+			"favourites_count": 87574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496147490160136194/jRg32oFF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496147490160136194/jRg32oFF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004269184/1645544345",
+			"profile_link_color": "B967FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54894,
+		"favorite_count": 129745,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This, out of #Ukraine, is 100% one of the most incredible videos I have ever seen.\n\nThis Russian POW has the heart of a lion 🦁 https://t.co/KIx1rsN0CZ"
+	},
+	{
 		"created_at": "Sat Mar 05 19:08:41 +0000 2022",
 		"id": 1500186555448807400,
 		"id_str": "1500186555448807425",
