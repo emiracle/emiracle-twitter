@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 09 16:46:11 +0000 2022",
+		"id": 1501600246673154000,
+		"id_str": "1501600246673154049",
+		"full_text": "@umtk50 Mahalle bilgisayarcısı işletme modu gelecekmiş. Elde kalmış eski donanımları güncelmiş gibi satma, RAM çalma, SSD'yi söküp HDD takma gibi achievement'ları tamamlayarak kan emici zincir bir teknoloji dükkanına dönüşmeye çalışılacak.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "umtk50",
+					"name": "Umut Koçak",
+					"id": 1443804056,
+					"id_str": "1443804056",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1501598290160373800,
+		"in_reply_to_status_id_str": "1501598290160373760",
+		"in_reply_to_user_id": 1443804056,
+		"in_reply_to_user_id_str": "1443804056",
+		"in_reply_to_screen_name": "umtk50",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@umtk50 Mahalle bilgisayarcısı işletme modu gelecekmiş. Elde kalmış eski donanımları güncelmiş gibi satma, RAM çalma, SSD'yi söküp HDD takma gibi achievement'ları tamamlayarak kan emici zincir bir teknoloji dükkanına dönüşmeye çalışılacak."
+	},
+	{
+		"created_at": "Wed Mar 09 10:58:40 +0000 2022",
+		"id": 1501512791420768300,
+		"id_str": "1501512791420768257",
+		"full_text": "@Tufan_Demir https://t.co/Waq0KQPxyi",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tufan_Demir",
+					"name": "Tufan Demir",
+					"id": 25440619,
+					"id_str": "25440619",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Waq0KQPxyi",
+					"expanded_url": "https://twitter.com/emiracle/status/1501498731362979841?t=5X9pNbBEJq2L45wdVYaQ7Q&s=19",
+					"display_url": "twitter.com/emiracle/statu…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1501505171788124200,
+		"in_reply_to_status_id_str": "1501505171788124161",
+		"in_reply_to_user_id": 25440619,
+		"in_reply_to_user_id_str": "25440619",
+		"in_reply_to_screen_name": "Tufan_Demir",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501498731362979800,
+		"quoted_status_id_str": "1501498731362979841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Waq0KQPxyi",
+			"expanded": "https://twitter.com/emiracle/status/1501498731362979841?t=5X9pNbBEJq2L45wdVYaQ7Q&s=19",
+			"display": "twitter.com/emiracle/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 09 10:02:48 +0000 2022",
+			"id": 1501498731362979800,
+			"id_str": "1501498731362979841",
+			"full_text": "@NisanyanHimself Artık çocuklarınızı utandıracak noktaya geldiniz, tebrikler. \"Unpopular olan her şey doğrudur ve savunulmalıdır\" mantığınız sevdiği grup popüler olunca dinlemeyi bırak bir ergen gibi. Yaşlanmak böyle bir şey ise umarım genç ölürüm aynı masum \"sahtekâr\" Ukraynalılar gibi.",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NisanyanHimself",
+						"name": "Nisanyan Himself",
+						"id": 1483487948339392500,
+						"id_str": "1483487948339392517",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1501478891105435600,
+			"in_reply_to_status_id_str": "1501478891105435648",
+			"in_reply_to_user_id": 1483487948339392500,
+			"in_reply_to_user_id_str": "1483487948339392517",
+			"in_reply_to_screen_name": "NisanyanHimself",
+			"user": {
+				"id": 18937325,
+				"id_str": "18937325",
+				"name": "Emir Kaymakoğlu",
+				"screen_name": "emiracle",
+				"location": "Istanbul",
+				"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 309,
+				"friends_count": 287,
+				"listed_count": 7,
+				"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+				"favourites_count": 1729,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "12121A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+				"profile_link_color": "140DEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAEDC8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Tufan_Demir https://t.co/Waq0KQPxyi"
+	},
+	{
 		"created_at": "Tue Mar 08 23:33:12 +0000 2022",
 		"id": 1501340284499726300,
 		"id_str": "1501340284499726342",
