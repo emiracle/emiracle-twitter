@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 27 15:48:32 +0000 2022",
+		"id": 1508108719741096000,
+		"id_str": "1508108719741095940",
+		"full_text": "@kemaleddinnnn @mserdark Evet. Amiga 500 fabrika çıkışı 512 KB. Expansion ile 1 MB oluyordu. Bende Amiga 600 vardı. O 1 MB ile geliyordu.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kemaleddinnnn",
+					"name": "Kemaleddin",
+					"id": 707311112283398100,
+					"id_str": "707311112283398148",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mserdark",
+					"name": "M. Serdar Kuzuloğlu",
+					"id": 15263572,
+					"id_str": "15263572",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1508105686818996200,
+		"in_reply_to_status_id_str": "1508105686818996235",
+		"in_reply_to_user_id": 707311112283398100,
+		"in_reply_to_user_id_str": "707311112283398148",
+		"in_reply_to_screen_name": "kemaleddinnnn",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@kemaleddinnnn @mserdark Evet. Amiga 500 fabrika çıkışı 512 KB. Expansion ile 1 MB oluyordu. Bende Amiga 600 vardı. O 1 MB ile geliyordu."
+	},
+	{
 		"created_at": "Sat Mar 26 13:38:20 +0000 2022",
 		"id": 1507713563179294700,
 		"id_str": "1507713563179294724",
