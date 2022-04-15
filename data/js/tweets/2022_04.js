@@ -1,6 +1,1149 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 00:27:09 +0000 2022",
+		"id": 1514762214472917000,
+		"id_str": "1514762214472916994",
+		"full_text": "@burakkaraoglu_ Avrupa'daki aşırı sağcı popülist siyasi partiler de benzer argümanlar öne sürüyor. Bizim ülke olarak dertlerimizi saysak buradan köye yol olur. Şu anda üzerimize çöreklenmiş çeteyi yenilgiye uğratmak en önemli hedef olmalıdır. https://t.co/VIgqSBLnXa",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "burakkaraoglu_",
+					"name": "Burak Karaoğlu",
+					"id": 2580884377,
+					"id_str": "2580884377",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514761024662089700,
+					"id_str": "1514761024662089731",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWDIFqXMAMZBkQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWDIFqXMAMZBkQ.jpg",
+					"url": "https://t.co/VIgqSBLnXa",
+					"display_url": "pic.twitter.com/VIgqSBLnXa",
+					"expanded_url": "https://twitter.com/emiracle/status/1514762214472916994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1632,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514761024662089700,
+					"id_str": "1514761024662089731",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWDIFqXMAMZBkQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWDIFqXMAMZBkQ.jpg",
+					"url": "https://t.co/VIgqSBLnXa",
+					"display_url": "pic.twitter.com/VIgqSBLnXa",
+					"expanded_url": "https://twitter.com/emiracle/status/1514762214472916994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1632,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514759478310314000,
+		"in_reply_to_status_id_str": "1514759478310313985",
+		"in_reply_to_user_id": 2580884377,
+		"in_reply_to_user_id_str": "2580884377",
+		"in_reply_to_screen_name": "burakkaraoglu_",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@burakkaraoglu_ Avrupa'daki aşırı sağcı popülist siyasi partiler de benzer argümanlar öne sürüyor. Bizim ülke olarak dertlerimizi saysak buradan köye yol olur. Şu anda üzerimize çöreklenmiş çeteyi yenilgiye uğratmak en önemli hedef olmalıdır. https://t.co/VIgqSBLnXa"
+	},
+	{
+		"created_at": "Fri Apr 15 00:10:28 +0000 2022",
+		"id": 1514758015764906000,
+		"id_str": "1514758015764906003",
+		"full_text": "@burakkaraoglu_ Yasal statü tanınması, uluslararası mülteci hakları hukuku, ciddi entegrasyon vs. bir sürü yöntem varken hiçbir şey yapmıyorlar, kapıları ağzına kadar açmışlar bu tabii ki normal değil ama tümöre neşter vurunca tüm vücuda yayılır.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "burakkaraoglu_",
+					"name": "Burak Karaoğlu",
+					"id": 2580884377,
+					"id_str": "2580884377",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514757392872976400,
+		"in_reply_to_status_id_str": "1514757392872976384",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@burakkaraoglu_ Yasal statü tanınması, uluslararası mülteci hakları hukuku, ciddi entegrasyon vs. bir sürü yöntem varken hiçbir şey yapmıyorlar, kapıları ağzına kadar açmışlar bu tabii ki normal değil ama tümöre neşter vurunca tüm vücuda yayılır."
+	},
+	{
+		"created_at": "Fri Apr 15 00:07:59 +0000 2022",
+		"id": 1514757392872976400,
+		"id_str": "1514757392872976384",
+		"full_text": "@burakkaraoglu_ Ben senin ne demek istediğini anlıyorum ve hak veriyorum. Sen de benim ne demek istediğimi anlıyorsundur diye düşünüyorum. Gelenlerin %80'i gitmeyecek, öyle bir dünya yok maalesef. Pogrom yapacağız, kurunun yanında yaşı da yakacağız diyorsanız başka.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "burakkaraoglu_",
+					"name": "Burak Karaoğlu",
+					"id": 2580884377,
+					"id_str": "2580884377",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514756168941514800,
+		"in_reply_to_status_id_str": "1514756168941514754",
+		"in_reply_to_user_id": 2580884377,
+		"in_reply_to_user_id_str": "2580884377",
+		"in_reply_to_screen_name": "burakkaraoglu_",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@burakkaraoglu_ Ben senin ne demek istediğini anlıyorum ve hak veriyorum. Sen de benim ne demek istediğimi anlıyorsundur diye düşünüyorum. Gelenlerin %80'i gitmeyecek, öyle bir dünya yok maalesef. Pogrom yapacağız, kurunun yanında yaşı da yakacağız diyorsanız başka."
+	},
+	{
+		"created_at": "Thu Apr 14 23:57:13 +0000 2022",
+		"id": 1514754683029622800,
+		"id_str": "1514754683029622792",
+		"full_text": "@burakkaraoglu_ Özellikle abartılı bir yorumda bulundum elbet. Öfkenin kanalize edilmesi gereken hedef iktidâr mı olmalıdır yoksa rastgele mülteciler mi? Senin devletinin kadınlara bakışı ne ki Afgan'dan, Paki'den hesap soruyorsun. Hep beraber hesabı iktidardan sormalıyız.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "burakkaraoglu_",
+					"name": "Burak Karaoğlu",
+					"id": 2580884377,
+					"id_str": "2580884377",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514733811787088000,
+		"in_reply_to_status_id_str": "1514733811787087883",
+		"in_reply_to_user_id": 2580884377,
+		"in_reply_to_user_id_str": "2580884377",
+		"in_reply_to_screen_name": "burakkaraoglu_",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@burakkaraoglu_ Özellikle abartılı bir yorumda bulundum elbet. Öfkenin kanalize edilmesi gereken hedef iktidâr mı olmalıdır yoksa rastgele mülteciler mi? Senin devletinin kadınlara bakışı ne ki Afgan'dan, Paki'den hesap soruyorsun. Hep beraber hesabı iktidardan sormalıyız."
+	},
+	{
+		"created_at": "Thu Apr 14 21:59:00 +0000 2022",
+		"id": 1514724932948832300,
+		"id_str": "1514724932948832259",
+		"full_text": "Rahmetli zamanında bu toplumun ne olduğunu söylemişti. Büyük adamdı, yakmak istediler. Kendilerine vatansever diyen ödleklerin sesi çok çıkıyor bu günlerde. Mültecileri kovacaklarmış... Siz başımızdaki çeteyi kovsanıza önce. Yemiyor mu? https://t.co/hHU7Tt6Tp2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hHU7Tt6Tp2",
+					"expanded_url": "https://www.youtube.com/watch?v=MmlHpdE5hUM",
+					"display_url": "youtube.com/watch?v=MmlHpd…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Rahmetli zamanında bu toplumun ne olduğunu söylemişti. Büyük adamdı, yakmak istediler. Kendilerine vatansever diyen ödleklerin sesi çok çıkıyor bu günlerde. Mültecileri kovacaklarmış... Siz başımızdaki çeteyi kovsanıza önce. Yemiyor mu? https://t.co/hHU7Tt6Tp2"
+	},
+	{
+		"created_at": "Thu Apr 14 21:30:59 +0000 2022",
+		"id": 1514717882717982700,
+		"id_str": "1514717882717982730",
+		"full_text": "@lactarus Mücadelenizi siyasal islamcı iktidarla yapın. Ona yemiyor galiba? Fakire fukaraya vurmak kolay ya şeyiniz ona kalkar ancak. Sahte kabadayısınız. En başta da dediğim gibi fena hâlde uyduruk heriflersiniz.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lactarus",
+					"name": "Ayhan",
+					"id": 194931990,
+					"id_str": "194931990",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514716292703522800,
+		"in_reply_to_status_id_str": "1514716292703522817",
+		"in_reply_to_user_id": 194931990,
+		"in_reply_to_user_id_str": "194931990",
+		"in_reply_to_screen_name": "lactarus",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@lactarus Mücadelenizi siyasal islamcı iktidarla yapın. Ona yemiyor galiba? Fakire fukaraya vurmak kolay ya şeyiniz ona kalkar ancak. Sahte kabadayısınız. En başta da dediğim gibi fena hâlde uyduruk heriflersiniz."
+	},
+	{
+		"created_at": "Thu Apr 14 21:21:31 +0000 2022",
+		"id": 1514715497132089300,
+		"id_str": "1514715497132089348",
+		"full_text": "@lactarus Suriyeli gitsin, ben gideyim, Kürt gitsin, Rum gitsin, Yahudi gitsin, bütün topraklar otlanman için senin ve benzerin öküzlere kalsın istiyorsunun değil mi açgözlü dalyarak seni.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lactarus",
+					"name": "Ayhan",
+					"id": 194931990,
+					"id_str": "194931990",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514712715532591000,
+		"in_reply_to_status_id_str": "1514712715532591106",
+		"in_reply_to_user_id": 194931990,
+		"in_reply_to_user_id_str": "194931990",
+		"in_reply_to_screen_name": "lactarus",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@lactarus Suriyeli gitsin, ben gideyim, Kürt gitsin, Rum gitsin, Yahudi gitsin, bütün topraklar otlanman için senin ve benzerin öküzlere kalsın istiyorsunun değil mi açgözlü dalyarak seni."
+	},
+	{
+		"created_at": "Thu Apr 14 21:18:23 +0000 2022",
+		"id": 1514714709806694400,
+		"id_str": "1514714709806694407",
+		"full_text": "@gkhnlprn @jeandpardaillan Sen kafadan kontaksın belli ki. Normal ama bu topluma adapte olmuş görünüyorsun. Ben hocaya cevap verdim. Sana ne oluyor ki en başta. Sen bok atıyorsun ben de fırlattığın boku sana iade ediyorum.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gkhnlprn",
+					"name": "gkhn",
+					"id": 1497556312355483600,
+					"id_str": "1497556312355483648",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514713329352290300,
+		"in_reply_to_status_id_str": "1514713329352290307",
+		"in_reply_to_user_id": 1497556312355483600,
+		"in_reply_to_user_id_str": "1497556312355483648",
+		"in_reply_to_screen_name": "gkhnlprn",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@gkhnlprn @jeandpardaillan Sen kafadan kontaksın belli ki. Normal ama bu topluma adapte olmuş görünüyorsun. Ben hocaya cevap verdim. Sana ne oluyor ki en başta. Sen bok atıyorsun ben de fırlattığın boku sana iade ediyorum."
+	},
+	{
+		"created_at": "Thu Apr 14 21:07:14 +0000 2022",
+		"id": 1514711902768844800,
+		"id_str": "1514711902768844826",
+		"full_text": "@gkhnlprn @jeandpardaillan Hocan \"tartışma kültürü\" yok da diyor aynı zincirde Sen cümleyi lale diye bitiriyorsun. Ben de bunu diyorum işte siz öküz Anadoluların iler tutar yanı yok, beğenmediğiniz Suriyelilerden daha iyi filan değilsiniz.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gkhnlprn",
+					"name": "gkhn",
+					"id": 1497556312355483600,
+					"id_str": "1497556312355483648",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514687179263549400,
+		"in_reply_to_status_id_str": "1514687179263549450",
+		"in_reply_to_user_id": 1497556312355483600,
+		"in_reply_to_user_id_str": "1497556312355483648",
+		"in_reply_to_screen_name": "gkhnlprn",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@gkhnlprn @jeandpardaillan Hocan \"tartışma kültürü\" yok da diyor aynı zincirde Sen cümleyi lale diye bitiriyorsun. Ben de bunu diyorum işte siz öküz Anadoluların iler tutar yanı yok, beğenmediğiniz Suriyelilerden daha iyi filan değilsiniz."
+	},
+	{
+		"created_at": "Thu Apr 14 21:03:36 +0000 2022",
+		"id": 1514710990528598000,
+		"id_str": "1514710990528598026",
+		"full_text": "@lactarus @jeandpardaillan Bak bak peşin hükümlere bak. Çomar seni. Ulan Suriyelinin en azından otantik falafeli var. Senin kime ne faydan var? Belli ki uyduruk herifin tekisin. Seninle aynı toplumda yaşadıysam bunca zaman Suriyeli ile de yaşarım.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lactarus",
+					"name": "Ayhan",
+					"id": 194931990,
+					"id_str": "194931990",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514684914813255700,
+		"in_reply_to_status_id_str": "1514684914813255682",
+		"in_reply_to_user_id": 194931990,
+		"in_reply_to_user_id_str": "194931990",
+		"in_reply_to_screen_name": "lactarus",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@lactarus @jeandpardaillan Bak bak peşin hükümlere bak. Çomar seni. Ulan Suriyelinin en azından otantik falafeli var. Senin kime ne faydan var? Belli ki uyduruk herifin tekisin. Seninle aynı toplumda yaşadıysam bunca zaman Suriyeli ile de yaşarım."
+	},
+	{
+		"created_at": "Thu Apr 14 18:36:09 +0000 2022",
+		"id": 1514673883202343000,
+		"id_str": "1514673883202342912",
+		"full_text": "@jeandpardaillan Doğru ama gelenlerin ortalama 'Anadolu irfanı'ndan çok daha aşağıda olduğunu düşünmüyorum. Burası Norveç değil.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514672789973835800,
+		"in_reply_to_status_id_str": "1514672789973835789",
+		"in_reply_to_user_id": 14457172,
+		"in_reply_to_user_id_str": "14457172",
+		"in_reply_to_screen_name": "jeandpardaillan",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@jeandpardaillan Doğru ama gelenlerin ortalama 'Anadolu irfanı'ndan çok daha aşağıda olduğunu düşünmüyorum. Burası Norveç değil."
+	},
+	{
 		"created_at": "Tue Apr 12 00:25:27 +0000 2022",
 		"id": 1513674623304482800,
 		"id_str": "1513674623304482819",
