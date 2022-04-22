@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 17:51:28 +0000 2022",
+		"id": 1517199350794965000,
+		"id_str": "1517199350794964992",
+		"full_text": "@esesci @street_coder @mundikitap Çevirisini inşallah yazarın kendisi yapıyordur :)",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "esesci",
+					"name": "sedat kapanoğlu",
+					"id": 16626982,
+					"id_str": "16626982",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "street_coder",
+					"name": "Street Coder",
+					"id": 1313683146387251200,
+					"id_str": "1313683146387251201",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "mundikitap",
+					"name": "Mundi",
+					"id": 1054727583898722300,
+					"id_str": "1054727583898722304",
+					"indices": [
+						22,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517198750443196400,
+		"in_reply_to_status_id_str": "1517198750443196416",
+		"in_reply_to_user_id": 16626982,
+		"in_reply_to_user_id_str": "16626982",
+		"in_reply_to_screen_name": "esesci",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@esesci @street_coder @mundikitap Çevirisini inşallah yazarın kendisi yapıyordur :)"
+	},
+	{
 		"created_at": "Mon Apr 18 19:42:14 +0000 2022",
 		"id": 1516140065478615000,
 		"id_str": "1516140065478615048",
