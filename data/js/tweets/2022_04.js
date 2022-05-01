@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 30 19:44:21 +0000 2022",
+		"id": 1520489249719697400,
+		"id_str": "1520489249719697412",
+		"full_text": "@_kaankoc_ İnşallah atarlar.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_kaankoc_",
+					"name": "Kaan Koç",
+					"id": 239845344,
+					"id_str": "239845344",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1520488766229684200,
+		"in_reply_to_status_id_str": "1520488766229684225",
+		"in_reply_to_user_id": 239845344,
+		"in_reply_to_user_id_str": "239845344",
+		"in_reply_to_screen_name": "_kaankoc_",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 286,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@_kaankoc_ İnşallah atarlar."
+	},
+	{
+		"created_at": "Sat Apr 30 17:16:09 +0000 2022",
+		"id": 1520451954597671000,
+		"id_str": "1520451954597670917",
+		"full_text": "Şizofren hamsi kafalılar, kifayetsiz muhterisler, şımartılmış kıtalar... https://t.co/ajfRpGG2It",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ajfRpGG2It",
+					"expanded_url": "https://twitter.com/Trabzonspor/status/1520450658247135232",
+					"display_url": "twitter.com/Trabzonspor/st…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 286,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1520450658247135200,
+		"quoted_status_id_str": "1520450658247135232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ajfRpGG2It",
+			"expanded": "https://twitter.com/Trabzonspor/status/1520450658247135232",
+			"display": "twitter.com/Trabzonspor/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 30 17:11:00 +0000 2022",
+			"id": 1520450658247135200,
+			"id_str": "1520450658247135232",
+			"full_text": "𝐓𝐄𝐑𝐓𝐄𝐌𝐢𝐙! #ŞampiyonlaraSaygıyla 🏆 https://t.co/q2FPG792AN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ŞampiyonlaraSaygıyla",
+						"indices": [
+							10,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1520353457617739800,
+						"id_str": "1520353457617739777",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/FRlhah5XoAEbEjJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRlhah5XoAEbEjJ.jpg",
+						"url": "https://t.co/q2FPG792AN",
+						"display_url": "pic.twitter.com/q2FPG792AN",
+						"expanded_url": "https://twitter.com/Trabzonspor/status/1520450658247135232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1520353457617739800,
+						"id_str": "1520353457617739777",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/FRlhah5XoAEbEjJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRlhah5XoAEbEjJ.jpg",
+						"url": "https://t.co/q2FPG792AN",
+						"display_url": "pic.twitter.com/q2FPG792AN",
+						"expanded_url": "https://twitter.com/Trabzonspor/status/1520450658247135232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137957360,
+				"id_str": "137957360",
+				"name": "Trabzonspor",
+				"screen_name": "Trabzonspor",
+				"location": "Trabzon, Türkiye",
+				"description": "Trabzonspor Kulübü Resmi Twitter Hesabı (Official Twitter Account) English: @Trabzonspor_EN_ #Yanyana | #İnadıylaŞampiyon",
+				"url": "https://t.co/VChzlrdIHI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VChzlrdIHI",
+								"expanded_url": "http://www.trabzonspor.org.tr",
+								"display_url": "trabzonspor.org.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1938957,
+				"friends_count": 33,
+				"listed_count": 1121,
+				"created_at": "Wed Apr 28 06:58:32 +0000 2010",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34142,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "61C9E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1520490651955118083/HnSpb--6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520490651955118083/HnSpb--6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137957360/1651348197",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "B80707",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4455,
+			"favorite_count": 26513,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Şizofren hamsi kafalılar, kifayetsiz muhterisler, şımartılmış kıtalar... https://t.co/ajfRpGG2It"
+	},
+	{
 		"created_at": "Thu Apr 28 10:37:34 +0000 2022",
 		"id": 1519626871163478000,
 		"id_str": "1519626871163478017",
