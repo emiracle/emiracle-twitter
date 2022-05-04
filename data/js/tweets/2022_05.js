@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 03 15:08:29 +0000 2022",
+		"id": 1521472410851152000,
+		"id_str": "1521506992392712192",
+		"full_text": "Kuantum yoga ya da Chemtrails gibi konularda eleştirel düşünmek kolay.\n\nMarifet daha karmaşık sosyal, politik ve felsefi olgularda güdümlü düşünceyi yenmekte.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43152485,
+			"id_str": "43152485",
+			"name": "Serdar Başeğmez",
+			"screen_name": "sbasegmez",
+			"location": "London, UK",
+			"description": "Boğaziçili, @yalansavar ekibinde bilimsel skeptik, Londra gezgini, #Podcast seven, Kız babası, #OpenSource yazan lotusçu danışman, For English @serdar_basegmez",
+			"url": "https://t.co/WevQNlJe31",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WevQNlJe31",
+							"expanded_url": "http://lotusnotus.com",
+							"display_url": "lotusnotus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5495,
+			"friends_count": 415,
+			"listed_count": 86,
+			"created_at": "Thu May 28 17:21:36 +0000 2009",
+			"favourites_count": 11767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/587623281626259456/CI2g2p4x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/587623281626259456/CI2g2p4x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43152485/1624452837",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Kuantum yoga ya da Chemtrails gibi konularda eleştirel düşünmek kolay.\n\nMarifet daha karmaşık sosyal, politik ve felsefi olgularda güdümlü düşünceyi yenmekte."
+	},
+	{
 		"created_at": "Mon May 02 15:26:47 +0000 2022",
 		"id": 1521149208337817600,
 		"id_str": "1521149208337817600",
