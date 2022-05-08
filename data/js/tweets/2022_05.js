@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 22:25:10 +0000 2022",
+		"id": 1523061337781244000,
+		"id_str": "1523066436733874178",
+		"full_text": "Bilerek ya da bilmeyerek yangının üzerine benzinle gidişin nasıl bir insanlık trajedisi yaratacağını tahayyül edemeyenler bir düşünün. Böyle alınıp götürüldüğünüzü… Sevdiğiniz bir insanın böyle alınıp götürüldüğünü…\nhttps://t.co/LzkhGVYtRS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LzkhGVYtRS",
+					"expanded_url": "https://www.evrensel.net/haber/461040/soven-saldirilarin-bugunku-gorunumu-florya-sahilinden-toplanan-multeciler-geride-kalan-aileler",
+					"display_url": "evrensel.net/haber/461040/s…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 411769677,
+			"id_str": "411769677",
+			"name": "Foti Benlisoy",
+			"screen_name": "fotibenlisoy",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27914,
+			"friends_count": 1970,
+			"listed_count": 112,
+			"created_at": "Sun Nov 13 21:15:44 +0000 2011",
+			"favourites_count": 5666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505532847293149187/oX0Fnb7r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505532847293149187/oX0Fnb7r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/411769677/1397654550",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Bilerek ya da bilmeyerek yangının üzerine benzinle gidişin nasıl bir insanlık trajedisi yaratacağını tahayyül edemeyenler bir düşünün. Böyle alınıp götürüldüğünüzü… Sevdiğiniz bir insanın böyle alınıp götürüldüğünü…\nhttps://t.co/LzkhGVYtRS"
+	},
+	{
 		"created_at": "Thu May 05 09:47:43 +0000 2022",
 		"id": 1522151044758872000,
 		"id_str": "1522151044758872065",
