@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 23:30:47 +0000 2022",
+		"id": 1526706830411501600,
+		"id_str": "1526706830411501568",
+		"full_text": "Güzel bir mikro-eylem olmuş. Vekili kutlarım. https://t.co/Tm6BOJekjE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tm6BOJekjE",
+					"expanded_url": "https://twitter.com/nurhayataltaca/status/1526560272281964544",
+					"display_url": "twitter.com/nurhayataltaca…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 288,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526560272281964500,
+		"quoted_status_id_str": "1526560272281964544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tm6BOJekjE",
+			"expanded": "https://twitter.com/nurhayataltaca/status/1526560272281964544",
+			"display": "twitter.com/nurhayataltaca…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 17 13:48:25 +0000 2022",
+			"id": 1526560272281964500,
+			"id_str": "1526560272281964544",
+			"full_text": "Söyleyeceklerim bu kadar!\n#TürkülerYasak\n#FestivalYasak\n#SkeçYasak\n#KPOPYasak\n#GeliyorGelmekteOlan\n#ÖzgürGünlerYakındır https://t.co/a6cV6x6qeN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TürkülerYasak",
+						"indices": [
+							26,
+							40
+						]
+					},
+					{
+						"text": "FestivalYasak",
+						"indices": [
+							41,
+							55
+						]
+					},
+					{
+						"text": "SkeçYasak",
+						"indices": [
+							56,
+							66
+						]
+					},
+					{
+						"text": "KPOPYasak",
+						"indices": [
+							67,
+							77
+						]
+					},
+					{
+						"text": "GeliyorGelmekteOlan",
+						"indices": [
+							78,
+							98
+						]
+					},
+					{
+						"text": "ÖzgürGünlerYakındır",
+						"indices": [
+							99,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1526560205483434000,
+						"id_str": "1526560205483433985",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526560205483433985/pu/img/4d6QiIJBs_TA6MjU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526560205483433985/pu/img/4d6QiIJBs_TA6MjU.jpg",
+						"url": "https://t.co/a6cV6x6qeN",
+						"display_url": "pic.twitter.com/a6cV6x6qeN",
+						"expanded_url": "https://twitter.com/nurhayataltaca/status/1526560272281964544/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1526560205483434000,
+						"id_str": "1526560205483433985",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526560205483433985/pu/img/4d6QiIJBs_TA6MjU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526560205483433985/pu/img/4d6QiIJBs_TA6MjU.jpg",
+						"url": "https://t.co/a6cV6x6qeN",
+						"display_url": "pic.twitter.com/a6cV6x6qeN",
+						"expanded_url": "https://twitter.com/nurhayataltaca/status/1526560272281964544/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								85,
+								48
+							],
+							"duration_millis": 51341,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1526560205483433985/pu/vid/478x270/ZqclabK9CiIVN9rO.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1526560205483433985/pu/vid/636x360/W9-JQYCtuEYluTrm.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1526560205483433985/pu/pl/qBGbAfzABy5fiUGW.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1526560205483433985/pu/vid/850x480/OA1OS4sUEsEjCNas.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101692365,
+				"id_str": "101692365",
+				"name": "Nurhayat ALTACA KAYIŞOĞLU",
+				"screen_name": "nurhayataltaca",
+				"location": "",
+				"description": "Avukat, CHP PM Üyesi, Bursa Milletvekili, TBMM AB Uyum Komisyonu Üyesi",
+				"url": "https://t.co/ttacnOJzlw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ttacnOJzlw",
+								"expanded_url": "https://www.tbmm.gov.tr/develop/owa/milletvekillerimiz_sd.bilgi?p_donem=26&p_sicil=7241",
+								"display_url": "tbmm.gov.tr/develop/owa/mi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74816,
+				"friends_count": 2470,
+				"listed_count": 151,
+				"created_at": "Mon Jan 04 07:33:30 +0000 2010",
+				"favourites_count": 58372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19924,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1446103178781630466/MrQTJUOT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446103178781630466/MrQTJUOT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101692365/1633878650",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2273,
+			"favorite_count": 10777,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Güzel bir mikro-eylem olmuş. Vekili kutlarım. https://t.co/Tm6BOJekjE"
+	},
+	{
+		"created_at": "Tue May 17 16:22:19 +0000 2022",
+		"id": 1526599001872777200,
+		"id_str": "1526599001872777216",
+		"full_text": "@ohannes_klcdg Zahmet olmazsa beni takip edebilir misiniz? Size DM'den bir şey sormak istiyorum.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ohannes_klcdg",
+					"name": "ohannes kılıçdağı",
+					"id": 1478766751,
+					"id_str": "1478766751",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1526591755369455600,
+		"in_reply_to_status_id_str": "1526591755369455616",
+		"in_reply_to_user_id": 1478766751,
+		"in_reply_to_user_id_str": "1478766751",
+		"in_reply_to_screen_name": "ohannes_klcdg",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 288,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ohannes_klcdg Zahmet olmazsa beni takip edebilir misiniz? Size DM'den bir şey sormak istiyorum."
+	},
+	{
+		"created_at": "Tue May 17 10:43:20 +0000 2022",
+		"id": 1526513695760711700,
+		"id_str": "1526513695760711680",
+		"full_text": "Hayatımda gittiğim ilk Fenerbahçe maçı, 88-89 sezonunda Kadıköy'de 4-2 kazandığımız bu Boluspor maçıydı. https://t.co/nCPnJN8HOa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nCPnJN8HOa",
+					"expanded_url": "https://www.youtube.com/watch?v=HBfSzz3GaxM&t=73s",
+					"display_url": "youtube.com/watch?v=HBfSzz…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 288,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Hayatımda gittiğim ilk Fenerbahçe maçı, 88-89 sezonunda Kadıköy'de 4-2 kazandığımız bu Boluspor maçıydı. https://t.co/nCPnJN8HOa"
+	},
+	{
 		"created_at": "Tue May 17 00:29:49 +0000 2022",
 		"id": 1526359297134841900,
 		"id_str": "1526359297134841859",
