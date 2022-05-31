@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 30 13:36:54 +0000 2022",
+		"id": 1531268417034002400,
+		"id_str": "1531268417034002432",
+		"full_text": "@Tufan_Demir Cemaat, Monçiçiler, Şirinler, Kabataş'taki deri kıyafetliler vs. fark etmez, hesap sorulması gereken iktidardır. Ne istedilerse verenlerdir. Gezi, darbe vs. fark etmez, fail hep iktidardır, hesap da failden sorulmalıdır diyorum.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tufan_Demir",
+					"name": "Tufan Demir",
+					"id": 25440619,
+					"id_str": "25440619",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1531264735534096400,
+		"in_reply_to_status_id_str": "1531264735534096386",
+		"in_reply_to_user_id": 25440619,
+		"in_reply_to_user_id_str": "25440619",
+		"in_reply_to_screen_name": "Tufan_Demir",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Tufan_Demir Cemaat, Monçiçiler, Şirinler, Kabataş'taki deri kıyafetliler vs. fark etmez, hesap sorulması gereken iktidardır. Ne istedilerse verenlerdir. Gezi, darbe vs. fark etmez, fail hep iktidardır, hesap da failden sorulmalıdır diyorum."
+	},
+	{
+		"created_at": "Mon May 30 13:32:14 +0000 2022",
+		"id": 1531267243014865000,
+		"id_str": "1531267243014864898",
+		"full_text": "@Tufan_Demir Doğru tamam ama \"kullanmak\" muğlak bir şey. Gezi'yi kullanmayan mı var olumlu ya da olumsuz? Yayınevlerinden tribün gruplarına, parkın köşesindeki maske işportacısından ulusalcılara, kitap okuyan Okan Bayülgen'e kadar herkes kullandı.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tufan_Demir",
+					"name": "Tufan Demir",
+					"id": 25440619,
+					"id_str": "25440619",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1531266125106905000,
+		"in_reply_to_status_id_str": "1531266125106905089",
+		"in_reply_to_user_id": 25440619,
+		"in_reply_to_user_id_str": "25440619",
+		"in_reply_to_screen_name": "Tufan_Demir",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Tufan_Demir Doğru tamam ama \"kullanmak\" muğlak bir şey. Gezi'yi kullanmayan mı var olumlu ya da olumsuz? Yayınevlerinden tribün gruplarına, parkın köşesindeki maske işportacısından ulusalcılara, kitap okuyan Okan Bayülgen'e kadar herkes kullandı."
+	},
+	{
+		"created_at": "Mon May 30 13:22:21 +0000 2022",
+		"id": 1531264753913536500,
+		"id_str": "1531264753913536512",
+		"full_text": "@Tufan_Demir Kullanılmıştır da Gezi kendiliğinden gelişen bir anomaliydi. Neredeyse 10 sene geçti, bir daha olur diyemiyorsak bugün, bu onun kendiliğindenliğine kanıttır. O yüzden iktidar da kendi yaldızlarının dökülmesi uğruna dahi olsa bugün 10 kişiye indirerek kriminalize etti.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tufan_Demir",
+					"name": "Tufan Demir",
+					"id": 25440619,
+					"id_str": "25440619",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1531262740748193800,
+		"in_reply_to_status_id_str": "1531262740748193797",
+		"in_reply_to_user_id": 25440619,
+		"in_reply_to_user_id_str": "25440619",
+		"in_reply_to_screen_name": "Tufan_Demir",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Tufan_Demir Kullanılmıştır da Gezi kendiliğinden gelişen bir anomaliydi. Neredeyse 10 sene geçti, bir daha olur diyemiyorsak bugün, bu onun kendiliğindenliğine kanıttır. O yüzden iktidar da kendi yaldızlarının dökülmesi uğruna dahi olsa bugün 10 kişiye indirerek kriminalize etti."
+	},
+	{
+		"created_at": "Mon May 30 11:31:09 +0000 2022",
+		"id": 1531236771438252000,
+		"id_str": "1531236771438252032",
+		"full_text": "@Tufan_Demir Üstelik Boyunsuz Muammer'in ses kayıtları çıkmıştı: \"Normalde böyle sertleşmeye gerek yok ama adam nuh diyor peygamber demiyor abi, benim sözüm geçmiyor.\" diye dert yanıyordu Kalyon İnşaat'ın sahibine... Cemaat memaat, \"polise talimatı ben verdim\" diyenler hâlâ iktidar.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tufan_Demir",
+					"name": "Tufan Demir",
+					"id": 25440619,
+					"id_str": "25440619",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1531235174050152400,
+		"in_reply_to_status_id_str": "1531235174050152448",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Tufan_Demir Üstelik Boyunsuz Muammer'in ses kayıtları çıkmıştı: \"Normalde böyle sertleşmeye gerek yok ama adam nuh diyor peygamber demiyor abi, benim sözüm geçmiyor.\" diye dert yanıyordu Kalyon İnşaat'ın sahibine... Cemaat memaat, \"polise talimatı ben verdim\" diyenler hâlâ iktidar."
+	},
+	{
 		"created_at": "Thu May 26 01:08:23 +0000 2022",
 		"id": 1529630491695104000,
 		"id_str": "1529630491695104000",
