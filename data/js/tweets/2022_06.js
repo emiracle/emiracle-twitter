@@ -1,6 +1,97 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 15:34:15 +0000 2022",
+		"id": 1532385110024134700,
+		"id_str": "1532385110024134656",
+		"full_text": "Jorge hocam, TR'de futbol Fenerbahçe'ye karşı oynanan bir oyundur. Kendinizi buna mental olarak hazırlayınız. Asimetrik adalet kantarının topuzuna gerek kalmadan inşallah iyi futbol ile ligi domine ederiz. #YaşaFenerbahçe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YaşaFenerbahçe",
+					"indices": [
+						206,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1532385108400939000,
+		"in_reply_to_status_id_str": "1532385108400939015",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626765905989627905/CJ7Fgw1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Jorge hocam, TR'de futbol Fenerbahçe'ye karşı oynanan bir oyundur. Kendinizi buna mental olarak hazırlayınız. Asimetrik adalet kantarının topuzuna gerek kalmadan inşallah iyi futbol ile ligi domine ederiz. #YaşaFenerbahçe"
+	},
+	{
 		"created_at": "Wed Jun 01 14:36:22 +0000 2022",
 		"id": 1532008154611032000,
 		"id_str": "1532008154611032064",
