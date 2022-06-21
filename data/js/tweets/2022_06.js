@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 21:55:46 +0000 2022",
+		"id": 1538991396912259000,
+		"id_str": "1539004106567720962",
+		"full_text": "Zulüm varken tarafsız olan zalimin suç ortağıdır. https://t.co/y6OS5Cucjy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y6OS5Cucjy",
+					"expanded_url": "https://twitter.com/muratsarisac/status/1538974710263910407",
+					"display_url": "twitter.com/muratsarisac/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96955327,
+			"id_str": "96955327",
+			"name": "ahmet şık",
+			"screen_name": "sahmetsahmet",
+			"location": "",
+			"description": "TİP İstanbul milletvekili/gazeteci ahmetinadresi@yandex.com",
+			"url": "https://t.co/h42gkQg38b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h42gkQg38b",
+							"expanded_url": "http://Instagram.com/ahmetsahmet",
+							"display_url": "Instagram.com/ahmetsahmet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1091114,
+			"friends_count": 2669,
+			"listed_count": 1514,
+			"created_at": "Tue Dec 15 10:25:48 +0000 2009",
+			"favourites_count": 2734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96955327/1398439202",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1538974710263910400,
+		"quoted_status_id_str": "1538974710263910407",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y6OS5Cucjy",
+			"expanded": "https://twitter.com/muratsarisac/status/1538974710263910407",
+			"display": "twitter.com/muratsarisac/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 20 19:58:58 +0000 2022",
+			"id": 1538974710263910400,
+			"id_str": "1538974710263910407",
+			"full_text": "Van’ın Başkale ilçesine bağlı Xaşkan Mahallesi’nde sıradan bir gözaltı için bile halka yaşatılan zulme iyi bakınız. Sıkılan kurşunlar, darp edilen kadınlar ve dahası. Bunlar Kürt coğrafyasında oluyor diye mi bu duyarsızlık? Bunun adı zulümdür! https://t.co/I1YhbGtZtb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1538974657080066000,
+						"id_str": "1538974657080066048",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538974657080066048/pu/img/cbEVHggYxy4xOs42.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538974657080066048/pu/img/cbEVHggYxy4xOs42.jpg",
+						"url": "https://t.co/I1YhbGtZtb",
+						"display_url": "pic.twitter.com/I1YhbGtZtb",
+						"expanded_url": "https://twitter.com/muratsarisac/status/1538974710263910407/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1538974657080066000,
+						"id_str": "1538974657080066048",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538974657080066048/pu/img/cbEVHggYxy4xOs42.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538974657080066048/pu/img/cbEVHggYxy4xOs42.jpg",
+						"url": "https://t.co/I1YhbGtZtb",
+						"display_url": "pic.twitter.com/I1YhbGtZtb",
+						"expanded_url": "https://twitter.com/muratsarisac/status/1538974710263910407/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								11,
+								20
+							],
+							"duration_millis": 83233,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1538974657080066048/pu/pl/Z2JFlY9-9uSves8I.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1538974657080066048/pu/vid/320x580/cVNpr_6lVWH0KA-f.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1538974657080066048/pu/vid/352x640/nP5xeADEAKne0qTF.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 357049414,
+				"id_str": "357049414",
+				"name": "Murat Sarısaç",
+				"screen_name": "muratsarisac",
+				"location": "Türkiye",
+				"description": "HDP Van Milletvekili-Parlamenteré HDP’ê yê Wanê",
+				"url": "https://t.co/H63KYxZDAS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H63KYxZDAS",
+								"expanded_url": "http://www.hdp.org.tr",
+								"display_url": "hdp.org.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55189,
+				"friends_count": 1014,
+				"listed_count": 62,
+				"created_at": "Wed Aug 17 19:27:25 +0000 2011",
+				"favourites_count": 24173,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9319,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1379032235253321730/5_Gsc5CY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379032235253321730/5_Gsc5CY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/357049414/1567429565",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 912,
+			"favorite_count": 2714,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 267,
+		"favorite_count": 1554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Zulüm varken tarafsız olan zalimin suç ortağıdır. https://t.co/y6OS5Cucjy"
+	},
+	{
 		"created_at": "Sun Jun 19 21:13:50 +0000 2022",
 		"id": 1538631162175832000,
 		"id_str": "1538631162175832065",
