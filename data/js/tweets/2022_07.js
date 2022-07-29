@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 09:24:13 +0000 2022",
+		"id": 1552585710296776700,
+		"id_str": "1552585710296776706",
+		"full_text": "@Golbafe @mortifera @nevsinmengu Futbol kültürü Kıta Avrupası'nda da toksik. Lazio tribünlerinde Nazi bayrakları açılıyordu zaman zaman. Rangers-Celtic rekabetinde filan ne örnekler var. Bize yakışmıyor kısmı biraz komik olmamış mı? Biz Konya'da İzlanda milli marşını ısıklamış bir toplumuz. Orada tahrik de yok.",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Golbafe",
+					"name": "Gomis",
+					"id": 1432751325259894800,
+					"id_str": "1432751325259894790",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "mortifera",
+					"name": "Kutsal Bayraktar",
+					"id": 85420539,
+					"id_str": "85420539",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "nevsinmengu",
+					"name": "nevsin mengu",
+					"id": 107655313,
+					"id_str": "107655313",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1552577237525872600,
+		"in_reply_to_status_id_str": "1552577237525872640",
+		"in_reply_to_user_id": 1432751325259894800,
+		"in_reply_to_user_id_str": "1432751325259894790",
+		"in_reply_to_screen_name": "Golbafe",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 286,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Golbafe @mortifera @nevsinmengu Futbol kültürü Kıta Avrupası'nda da toksik. Lazio tribünlerinde Nazi bayrakları açılıyordu zaman zaman. Rangers-Celtic rekabetinde filan ne örnekler var. Bize yakışmıyor kısmı biraz komik olmamış mı? Biz Konya'da İzlanda milli marşını ısıklamış bir toplumuz. Orada tahrik de yok."
+	},
+	{
 		"created_at": "Thu Jul 21 20:23:53 +0000 2022",
 		"id": 1550215005953458200,
 		"id_str": "1550215005953458176",
