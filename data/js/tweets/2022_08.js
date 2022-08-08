@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 12:30:55 +0000 2022",
+		"id": 1556256573126762500,
+		"id_str": "1556256573126762498",
+		"full_text": "Hakkıdır hakk'a tapan milletimin izmihlal! https://t.co/BiLLd5WyQr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BiLLd5WyQr",
+					"expanded_url": "https://twitter.com/buraksu42/status/1556166302628184064",
+					"display_url": "twitter.com/buraksu42/stat…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 286,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1556166302628184000,
+		"quoted_status_id_str": "1556166302628184064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BiLLd5WyQr",
+			"expanded": "https://twitter.com/buraksu42/status/1556166302628184064",
+			"display": "twitter.com/buraksu42/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 07 06:32:13 +0000 2022",
+			"id": 1556166302628184000,
+			"id_str": "1556166302628184064",
+			"full_text": "Vatandaş şikayet eder (sayfalarca), devlet \"algı\" üretir. https://t.co/nnKtZ8Dm24",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1556166007676354600,
+						"id_str": "1556166007676354561",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FZicvTMWQAEsr0V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZicvTMWQAEsr0V.jpg",
+						"url": "https://t.co/nnKtZ8Dm24",
+						"display_url": "pic.twitter.com/nnKtZ8Dm24",
+						"expanded_url": "https://twitter.com/buraksu42/status/1556166302628184064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1334,
+								"h": 790,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 711,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1556166007676354600,
+						"id_str": "1556166007676354561",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FZicvTMWQAEsr0V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZicvTMWQAEsr0V.jpg",
+						"url": "https://t.co/nnKtZ8Dm24",
+						"display_url": "pic.twitter.com/nnKtZ8Dm24",
+						"expanded_url": "https://twitter.com/buraksu42/status/1556166302628184064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1334,
+								"h": 790,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 711,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1556166007672246300,
+						"id_str": "1556166007672246276",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FZicvTLXkAQi1rG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZicvTLXkAQi1rG.jpg",
+						"url": "https://t.co/nnKtZ8Dm24",
+						"display_url": "pic.twitter.com/nnKtZ8Dm24",
+						"expanded_url": "https://twitter.com/buraksu42/status/1556166302628184064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1084,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1192,
+								"h": 1320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 614,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1354781699125739500,
+				"id_str": "1354781699125739522",
+				"name": "Burak Su \"42\"",
+				"screen_name": "buraksu42",
+				"location": "Gokceada - Istanbul",
+				"description": "Let's make marketing great again!\nEmpowers Entrepreneurs & Developers & Digital Projects & SaaS \nPartner @kroppadigital \nWrites for https://t.co/XjcozxoIeV",
+				"url": "https://t.co/r2kTLIVwSO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r2kTLIVwSO",
+								"expanded_url": "https://buraksu.com",
+								"display_url": "buraksu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XjcozxoIeV",
+								"expanded_url": "http://buraksu.com",
+								"display_url": "buraksu.com",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2207,
+				"friends_count": 1322,
+				"listed_count": 6,
+				"created_at": "Thu Jan 28 13:22:25 +0000 2021",
+				"favourites_count": 1899,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542958064533389313/DkxJMMel_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542958064533389313/DkxJMMel_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354781699125739522/1650810650",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 881,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Hakkıdır hakk'a tapan milletimin izmihlal! https://t.co/BiLLd5WyQr"
+	},
+	{
 		"created_at": "Tue Aug 02 23:12:56 +0000 2022",
 		"id": 1554606203237449700,
 		"id_str": "1554606203237449728",
