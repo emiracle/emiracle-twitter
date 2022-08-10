@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 21:14:44 +0000 2022",
+		"id": 1557113171013402600,
+		"id_str": "1557113171013402626",
+		"full_text": "@getir hiçbir şekilde yardımcı olmadığınız gibi iletişimi de tek taraflı sonlandırdınız. Bu nasıl bir müşteri ilişkileri yaklaşımı? @IsBankasiDestek belki siz bana yardımcı olabilirsiniz. https://t.co/MpiFayPaWb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getir",
+					"name": "getir",
+					"id": 3221312057,
+					"id_str": "3221312057",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "IsBankasiDestek",
+					"name": "İş Bankası Destek",
+					"id": 413770944,
+					"id_str": "413770944",
+					"indices": [
+						132,
+						148
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557113035260665900,
+					"id_str": "1557113035260665858",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FZv6Dj3XoAIYmT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZv6Dj3XoAIYmT6.jpg",
+					"url": "https://t.co/MpiFayPaWb",
+					"display_url": "pic.twitter.com/MpiFayPaWb",
+					"expanded_url": "https://twitter.com/emiracle/status/1557113171013402626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557113035260665900,
+					"id_str": "1557113035260665858",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FZv6Dj3XoAIYmT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZv6Dj3XoAIYmT6.jpg",
+					"url": "https://t.co/MpiFayPaWb",
+					"display_url": "pic.twitter.com/MpiFayPaWb",
+					"expanded_url": "https://twitter.com/emiracle/status/1557113171013402626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557113059646251000,
+					"id_str": "1557113059646251010",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FZv6E-tWIAIIn-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZv6E-tWIAIIn-I.jpg",
+					"url": "https://t.co/MpiFayPaWb",
+					"display_url": "pic.twitter.com/MpiFayPaWb",
+					"expanded_url": "https://twitter.com/emiracle/status/1557113171013402626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3221312057,
+		"in_reply_to_user_id_str": "3221312057",
+		"in_reply_to_screen_name": "getir",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 286,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@getir hiçbir şekilde yardımcı olmadığınız gibi iletişimi de tek taraflı sonlandırdınız. Bu nasıl bir müşteri ilişkileri yaklaşımı? @IsBankasiDestek belki siz bana yardımcı olabilirsiniz. https://t.co/MpiFayPaWb"
+	},
+	{
 		"created_at": "Sun Aug 07 12:30:55 +0000 2022",
 		"id": 1556256573126762500,
 		"id_str": "1556256573126762498",
