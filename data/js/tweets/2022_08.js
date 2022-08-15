@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 14 14:35:20 +0000 2022",
+		"id": 1558824596610113500,
+		"id_str": "1558824596610113536",
+		"full_text": "@yalnizkral178 @canonduygu YT'da çok komik bir versiyonu vardı eskiden. Bu sözlerle yabancı bir piyaniste söyletmişler ama bulamadım, silinmiş herhalde. Beethoven 9. Senfoni işte müziği 😀",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yalnizkral178",
+					"name": "Historian",
+					"id": 1227677694067957800,
+					"id_str": "1227677694067957760",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "canonduygu",
+					"name": "can önduygu",
+					"id": 94771214,
+					"id_str": "94771214",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1558822943672656000,
+		"in_reply_to_status_id_str": "1558822943672655874",
+		"in_reply_to_user_id": 1227677694067957800,
+		"in_reply_to_user_id_str": "1227677694067957760",
+		"in_reply_to_screen_name": "yalnizkral178",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 286,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@yalnizkral178 @canonduygu YT'da çok komik bir versiyonu vardı eskiden. Bu sözlerle yabancı bir piyaniste söyletmişler ama bulamadım, silinmiş herhalde. Beethoven 9. Senfoni işte müziği 😀"
+	},
+	{
 		"created_at": "Wed Aug 10 22:35:23 +0000 2022",
 		"id": 1557495857599185000,
 		"id_str": "1557495857599184896",
