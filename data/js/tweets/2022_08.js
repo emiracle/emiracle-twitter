@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 22:19:37 +0000 2022",
+		"id": 1563290094559441000,
+		"id_str": "1563290094559440896",
+		"full_text": "Dünya üzerinde siyasetçilerden daha menfur bir insan topluluğu yoktur. https://t.co/XFg9HpXLMK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XFg9HpXLMK",
+					"expanded_url": "https://twitter.com/ANCA_DC/status/1562596280429268992",
+					"display_url": "twitter.com/ANCA_DC/status…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 285,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1562596280429269000,
+		"quoted_status_id_str": "1562596280429268992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XFg9HpXLMK",
+			"expanded": "https://twitter.com/ANCA_DC/status/1562596280429268992",
+			"display": "twitter.com/ANCA_DC/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 25 00:22:39 +0000 2022",
+			"id": 1562596280429269000,
+			"id_str": "1562596280429268992",
+			"full_text": "VIDEO: @ANCA_DC and @HellenicLeaders are working to #StopOz - ally of Turkish dictator Recep Erdogan and paid agent for Turkey’s state-owned @TurkishAirlines - who:\n\n- Votes in Turkish elections\n- Served in Turkish military\n- Denies #Armenian #Genocide\n\nhttps://t.co/Dh3Wpx68Sh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StopOz",
+						"indices": [
+							52,
+							59
+						]
+					},
+					{
+						"text": "Armenian",
+						"indices": [
+							233,
+							242
+						]
+					},
+					{
+						"text": "Genocide",
+						"indices": [
+							243,
+							252
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ANCA_DC",
+						"name": "ANCA",
+						"id": 23387115,
+						"id_str": "23387115",
+						"indices": [
+							7,
+							15
+						]
+					},
+					{
+						"screen_name": "HellenicLeaders",
+						"name": "HellenicLeaders",
+						"id": 385521929,
+						"id_str": "385521929",
+						"indices": [
+							20,
+							36
+						]
+					},
+					{
+						"screen_name": "TurkishAirlines",
+						"name": "Turkish Airlines",
+						"id": 18909186,
+						"id_str": "18909186",
+						"indices": [
+							141,
+							157
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1562587764381589500,
+						"id_str": "1562587764381589504",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1562587764381589504/pu/img/ofa_freqIrqObqwi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1562587764381589504/pu/img/ofa_freqIrqObqwi.jpg",
+						"url": "https://t.co/Dh3Wpx68Sh",
+						"display_url": "pic.twitter.com/Dh3Wpx68Sh",
+						"expanded_url": "https://twitter.com/HellenicLeaders/status/1562587823429267457/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1562587823429267500,
+						"source_status_id_str": "1562587823429267457",
+						"source_user_id": 385521929,
+						"source_user_id_str": "385521929"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1562587764381589500,
+						"id_str": "1562587764381589504",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1562587764381589504/pu/img/ofa_freqIrqObqwi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1562587764381589504/pu/img/ofa_freqIrqObqwi.jpg",
+						"url": "https://t.co/Dh3Wpx68Sh",
+						"display_url": "pic.twitter.com/Dh3Wpx68Sh",
+						"expanded_url": "https://twitter.com/HellenicLeaders/status/1562587823429267457/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1562587823429267500,
+						"source_status_id_str": "1562587823429267457",
+						"source_user_id": 385521929,
+						"source_user_id_str": "385521929",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 66538,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1562587764381589504/pu/vid/1280x720/8bhUjQepQyq7ONJ5.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1562587764381589504/pu/vid/640x360/gmbdNmAArNCddSkg.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1562587764381589504/pu/vid/480x270/3JvRjOg_pLHo-VQI.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1562587764381589504/pu/pl/gGLTGv0wFaqyMwGH.m3u8?tag=12&container=fmp4&v=4dc"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 385521929,
+								"id_str": "385521929",
+								"name": "HellenicLeaders",
+								"screen_name": "HellenicLeaders",
+								"location": "",
+								"description": "",
+								"url": "http://t.co/BIOgxklNvs",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/BIOgxklNvs",
+												"expanded_url": "http://www.hellenicleaders.com",
+												"display_url": "hellenicleaders.com",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 14823,
+								"friends_count": 380,
+								"listed_count": 131,
+								"created_at": "Wed Oct 05 17:05:04 +0000 2011",
+								"favourites_count": 9229,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 22350,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1644153007/halc_logomark_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1644153007/halc_logomark_normal.jpg",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23387115,
+				"id_str": "23387115",
+				"name": "ANCA",
+				"screen_name": "ANCA_DC",
+				"location": "Washington, DC",
+				"description": "The Armenian National Committee of America works for truth, justice, peace & freedom on for all friends of the Armenian Cause. Also: @anca_er @anca_wr 🇦🇲",
+				"url": "https://t.co/KRUb5IMboU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KRUb5IMboU",
+								"expanded_url": "http://anca.org",
+								"display_url": "anca.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58690,
+				"friends_count": 8876,
+				"listed_count": 352,
+				"created_at": "Mon Mar 09 01:59:58 +0000 2009",
+				"favourites_count": 18391,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34615,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1156984567187890177/CaBLtiO4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156984567187890177/CaBLtiO4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23387115/1634669178",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 347,
+			"favorite_count": 632,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Dünya üzerinde siyasetçilerden daha menfur bir insan topluluğu yoktur. https://t.co/XFg9HpXLMK"
+	},
+	{
 		"created_at": "Thu Aug 25 18:18:20 +0000 2022",
 		"id": 1562866985679335400,
 		"id_str": "1562866985679335425",
