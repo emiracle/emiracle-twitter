@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 23:10:18 +0000 2022",
+		"id": 1565839562777182200,
+		"id_str": "1565839562777182208",
+		"full_text": "Çocukluğumuzun sesleri. https://t.co/HFbfDZcIcY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HFbfDZcIcY",
+					"expanded_url": "https://www.tiktok.com/@rerunthe80s/video/7135418706833968430?is_from_webapp=1&sender_device=pc&web_id=7037896533564016129",
+					"display_url": "tiktok.com/@rerunthe80s/v…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 289,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Çocukluğumuzun sesleri. https://t.co/HFbfDZcIcY"
+	},
+	{
+		"created_at": "Fri Sep 02 14:54:57 +0000 2022",
+		"id": 1565663692787798000,
+		"id_str": "1565714903545044995",
+		"full_text": "İktidarınız sona erip memlekete hukuk geldiğinde, menfaatini değil hukukun haysiyetini önemseyen şimdiki gibi kuklaya çevirdiklerinize benzemeyen yargı mensupları kimin terörist kimin çete lideri olduğuna karar verecek.\nO zaman konuşuruz bu konuyu. https://t.co/BMZWORRdEg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BMZWORRdEg",
+					"expanded_url": "https://twitter.com/birgun_gazetesi/status/1565657539722838022",
+					"display_url": "twitter.com/birgun_gazetes…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96955327,
+			"id_str": "96955327",
+			"name": "ahmet şık",
+			"screen_name": "sahmetsahmet",
+			"location": "",
+			"description": "TİP İstanbul milletvekili/gazeteci ahmetinadresi@yandex.com",
+			"url": "https://t.co/h42gkQg38b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h42gkQg38b",
+							"expanded_url": "http://Instagram.com/ahmetsahmet",
+							"display_url": "Instagram.com/ahmetsahmet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1103495,
+			"friends_count": 2702,
+			"listed_count": 1532,
+			"created_at": "Tue Dec 15 10:25:48 +0000 2009",
+			"favourites_count": 2728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96955327/1398439202",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1565657539722838000,
+		"quoted_status_id_str": "1565657539722838022",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BMZWORRdEg",
+			"expanded": "https://twitter.com/birgun_gazetesi/status/1565657539722838022",
+			"display": "twitter.com/birgun_gazetes…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 02 11:07:00 +0000 2022",
+			"id": 1565657539722838000,
+			"id_str": "1565657539722838022",
+			"full_text": "Erdoğan, TİP Milletvekili Ahmet Şık'ı hedef aldı: Teröristin tekidir, paçasını nasıl kurtaracak ona baksın\nhttps://t.co/kYbMGj5vAF https://t.co/HlNhDuN04K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kYbMGj5vAF",
+						"expanded_url": "https://bit.ly/3RxymbK",
+						"display_url": "bit.ly/3RxymbK",
+						"indices": [
+							107,
+							130
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1565657530877067300,
+						"id_str": "1565657530877067264",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FbpVOqfXwAA2hR-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbpVOqfXwAA2hR-.jpg",
+						"url": "https://t.co/HlNhDuN04K",
+						"display_url": "pic.twitter.com/HlNhDuN04K",
+						"expanded_url": "https://twitter.com/BirGun_Gazetesi/status/1565657539722838022/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1565657530877067300,
+						"id_str": "1565657530877067264",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FbpVOqfXwAA2hR-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbpVOqfXwAA2hR-.jpg",
+						"url": "https://t.co/HlNhDuN04K",
+						"display_url": "pic.twitter.com/HlNhDuN04K",
+						"expanded_url": "https://twitter.com/BirGun_Gazetesi/status/1565657539722838022/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 99620272,
+				"id_str": "99620272",
+				"name": "BirGün Gazetesi",
+				"screen_name": "BirGun_Gazetesi",
+				"location": "Türkiye",
+				"description": "BirGün'ü takip edin:\nhttps://t.co/EZXYdpfVxk • https://t.co/cJSvejJp3a • https://t.co/a34UHKP2dJ • https://t.co/OUPBqIYgyQ",
+				"url": "https://t.co/kDwVu39M82",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kDwVu39M82",
+								"expanded_url": "http://www.birgun.net/",
+								"display_url": "birgun.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EZXYdpfVxk",
+								"expanded_url": "http://instagram.com/birgungazetesi",
+								"display_url": "instagram.com/birgungazetesi",
+								"indices": [
+									21,
+									44
+								]
+							},
+							{
+								"url": "https://t.co/cJSvejJp3a",
+								"expanded_url": "http://facebook.com/birgungazetesi",
+								"display_url": "facebook.com/birgungazetesi",
+								"indices": [
+									47,
+									70
+								]
+							},
+							{
+								"url": "https://t.co/a34UHKP2dJ",
+								"expanded_url": "http://youtube.com/c/birgunmedya",
+								"display_url": "youtube.com/c/birgunmedya",
+								"indices": [
+									73,
+									96
+								]
+							},
+							{
+								"url": "https://t.co/OUPBqIYgyQ",
+								"expanded_url": "http://t.me/birgunmedya",
+								"display_url": "t.me/birgunmedya",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1976985,
+				"friends_count": 15,
+				"listed_count": 3372,
+				"created_at": "Sun Dec 27 02:27:30 +0000 2009",
+				"favourites_count": 186,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 484788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1369051576535576585/PPTAJ0j9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369051576535576585/PPTAJ0j9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/99620272/1614077097",
+				"profile_link_color": "900000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 103,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 1160,
+		"favorite_count": 7023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "İktidarınız sona erip memlekete hukuk geldiğinde, menfaatini değil hukukun haysiyetini önemseyen şimdiki gibi kuklaya çevirdiklerinize benzemeyen yargı mensupları kimin terörist kimin çete lideri olduğuna karar verecek.\nO zaman konuşuruz bu konuyu. https://t.co/BMZWORRdEg"
+	},
+	{
 		"created_at": "Thu Sep 01 17:41:12 +0000 2022",
 		"id": 1565394355497717800,
 		"id_str": "1565394355497717760",
