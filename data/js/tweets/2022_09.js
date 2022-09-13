@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 19:33:55 +0000 2022",
+		"id": 1569407520942219300,
+		"id_str": "1569408988051083271",
+		"full_text": "İngiliz stadyumlarının yıllar içindeki değişimi. Bazıları ciddi anlamda Britanya futbol kültürüne ihanet gibi https://t.co/mT53z4uPlX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569086284127248400,
+					"id_str": "1569086284127248384",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569086284127248384/pu/img/zAIsxAF5WIsLaO8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569086284127248384/pu/img/zAIsxAF5WIsLaO8y.jpg",
+					"url": "https://t.co/mT53z4uPlX",
+					"display_url": "pic.twitter.com/mT53z4uPlX",
+					"expanded_url": "https://twitter.com/StoolFootball/status/1569086455598686211/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1569086455598686200,
+					"source_status_id_str": "1569086455598686211",
+					"source_user_id": 1451239625209565200,
+					"source_user_id_str": "1451239625209565198"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569086284127248400,
+					"id_str": "1569086284127248384",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569086284127248384/pu/img/zAIsxAF5WIsLaO8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569086284127248384/pu/img/zAIsxAF5WIsLaO8y.jpg",
+					"url": "https://t.co/mT53z4uPlX",
+					"display_url": "pic.twitter.com/mT53z4uPlX",
+					"expanded_url": "https://twitter.com/StoolFootball/status/1569086455598686211/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1569086455598686200,
+					"source_status_id_str": "1569086455598686211",
+					"source_user_id": 1451239625209565200,
+					"source_user_id_str": "1451239625209565198",
+					"video_info": {
+						"aspect_ratio": [
+							72,
+							71
+						],
+						"duration_millis": 69333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569086284127248384/pu/pl/lbfg3CFD_wBvkDnY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569086284127248384/pu/vid/364x360/IWPxH_pynar7XHOk.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569086284127248384/pu/vid/576x568/W8sF__ymEmuvAY9M.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569086284127248384/pu/vid/272x270/fbJbrw5aENHczmOr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1451239625209565200,
+							"id_str": "1451239625209565198",
+							"name": "Barstool Football",
+							"screen_name": "StoolFootball",
+							"location": "",
+							"description": "The @BarstoolSports account for all things Football worldwide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 31720,
+							"friends_count": 25,
+							"listed_count": 89,
+							"created_at": "Thu Oct 21 17:31:22 +0000 2021",
+							"favourites_count": 121,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 3258,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1452744110037770245/9ATzpb9Y_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452744110037770245/9ATzpb9Y_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1451239625209565198/1635195567",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1133820035187826700,
+			"id_str": "1133820035187826689",
+			"name": "Harun Gündüz",
+			"screen_name": "harungunduz_",
+			"location": "",
+			"description": "“Football like other attractions is also confusing, alienating. like a drug. When they forget the country's problems football becomes the opium of the people”",
+			"url": "https://t.co/DvMdJwAuTR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DvMdJwAuTR",
+							"expanded_url": "http://scoutium.com",
+							"display_url": "scoutium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21389,
+			"friends_count": 815,
+			"listed_count": 88,
+			"created_at": "Wed May 29 19:38:56 +0000 2019",
+			"favourites_count": 36006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391077388029681670/JPCEaS_Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391077388029681670/JPCEaS_Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133820035187826689/1559159097",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "İngiliz stadyumlarının yıllar içindeki değişimi. Bazıları ciddi anlamda Britanya futbol kültürüne ihanet gibi https://t.co/mT53z4uPlX"
+	},
+	{
 		"created_at": "Sun Sep 11 15:25:05 +0000 2022",
 		"id": 1568983980665618400,
 		"id_str": "1568983980665618433",
