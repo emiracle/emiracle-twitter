@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 22 16:24:48 +0000 2022",
+		"id": 1595012965786587100,
+		"id_str": "1595090933498122240",
+		"full_text": "Returned some more Qatar 2022 Football Sticker packs to the shops today with these stickers inside. #BoycottQatar2022 https://t.co/gGrhHnmhzS https://t.co/73KqJ8Rllj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoycottQatar2022",
+					"indices": [
+						100,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gGrhHnmhzS",
+					"expanded_url": "https://twitter.com/i/web/status/1595012965786587136",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1595012868407173000,
+					"id_str": "1595012868407173120",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FiKfwMmWIAAzjoi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiKfwMmWIAAzjoi.jpg",
+					"url": "https://t.co/73KqJ8Rllj",
+					"display_url": "pic.twitter.com/73KqJ8Rllj",
+					"expanded_url": "https://twitter.com/darren_cullen/status/1595012965786587136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595012868407173000,
+					"id_str": "1595012868407173120",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FiKfwMmWIAAzjoi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiKfwMmWIAAzjoi.jpg",
+					"url": "https://t.co/73KqJ8Rllj",
+					"display_url": "pic.twitter.com/73KqJ8Rllj",
+					"expanded_url": "https://twitter.com/darren_cullen/status/1595012965786587136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66383858,
+			"id_str": "66383858",
+			"name": "@spellingmistakescostlives@mastodon.ie",
+			"screen_name": "darren_cullen",
+			"location": "London, England",
+			"description": "\"\"Artist\"\" - Daily Mail \n\"Britain-hating anarchist who knows the value of nothing\" - Johnny Mercer MP. @pocketmoneyloan at Dismaland. Co-curator @museumofneolib",
+			"url": "https://t.co/PudFZc5nhp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PudFZc5nhp",
+							"expanded_url": "http://www.spellingmistakescostlives.com/shop",
+							"display_url": "spellingmistakescostlives.com/shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13707,
+			"friends_count": 1531,
+			"listed_count": 117,
+			"created_at": "Mon Aug 17 15:48:20 +0000 2009",
+			"favourites_count": 74129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031580309916139521/oVxD-82r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031580309916139521/oVxD-82r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66383858/1624639420",
+			"profile_link_color": "1F6ABA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Returned some more Qatar 2022 Football Sticker packs to the shops today with these stickers inside. #BoycottQatar2022 https://t.co/gGrhHnmhzS https://t.co/73KqJ8Rllj"
+	},
+	{
+		"created_at": "Tue Nov 22 12:25:06 +0000 2022",
+		"id": 1595030608761454600,
+		"id_str": "1595030608761454594",
+		"full_text": "@volkitolkifb Ben de yattım ama iyi oldu. Suudlar hak etti. Haydi bol şans!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "volkitolkifb",
+					"name": "Volkitolkifb",
+					"id": 1397224092722503700,
+					"id_str": "1397224092722503680",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1595030236206403600,
+		"in_reply_to_status_id_str": "1595030236206403584",
+		"in_reply_to_user_id": 1397224092722503700,
+		"in_reply_to_user_id_str": "1397224092722503680",
+		"in_reply_to_screen_name": "volkitolkifb",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 293,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@volkitolkifb Ben de yattım ama iyi oldu. Suudlar hak etti. Haydi bol şans!"
+	},
+	{
 		"created_at": "Mon Nov 21 12:35:17 +0000 2022",
 		"id": 1594670783867281400,
 		"id_str": "1594670783867281410",
