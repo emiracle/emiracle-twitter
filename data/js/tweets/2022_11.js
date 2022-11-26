@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 22:01:37 +0000 2022",
+		"id": 1596262857997426700,
+		"id_str": "1596262857997426688",
+		"full_text": "Darren Cullen, you are my master! 🫶 https://t.co/D5bh9SFVxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D5bh9SFVxw",
+					"expanded_url": "https://twitter.com/darren_cullen/status/1596260708827951106",
+					"display_url": "twitter.com/darren_cullen/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1596260708827951000,
+		"quoted_status_id_str": "1596260708827951106",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D5bh9SFVxw",
+			"expanded": "https://twitter.com/darren_cullen/status/1596260708827951106",
+			"display": "twitter.com/darren_cullen/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 25 21:53:04 +0000 2022",
+			"id": 1596260708827951000,
+			"id_str": "1596260708827951106",
+			"full_text": "Made a video about my Qatar World Cup sticker album of dead workers. #BoycottQatar2022 #Qatar2022 https://t.co/bDl5zRCXyL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BoycottQatar2022",
+						"indices": [
+							69,
+							86
+						]
+					},
+					{
+						"text": "Qatar2022",
+						"indices": [
+							87,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1596260469450367000,
+						"id_str": "1596260469450366976",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1596260469450366976/pu/img/YUD_2axV7FqhlucS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1596260469450366976/pu/img/YUD_2axV7FqhlucS.jpg",
+						"url": "https://t.co/bDl5zRCXyL",
+						"display_url": "pic.twitter.com/bDl5zRCXyL",
+						"expanded_url": "https://twitter.com/darren_cullen/status/1596260708827951106/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1596260469450367000,
+						"id_str": "1596260469450366976",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1596260469450366976/pu/img/YUD_2axV7FqhlucS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1596260469450366976/pu/img/YUD_2axV7FqhlucS.jpg",
+						"url": "https://t.co/bDl5zRCXyL",
+						"display_url": "pic.twitter.com/bDl5zRCXyL",
+						"expanded_url": "https://twitter.com/darren_cullen/status/1596260708827951106/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 99017,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1596260469450366976/pu/pl/GY0V0tcD_eW-Rq_A.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1596260469450366976/pu/vid/720x1280/U6Oy4UBK4ctHT0lN.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1596260469450366976/pu/vid/480x852/uKGnF1EJvUkozaJU.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1596260469450366976/pu/vid/320x568/QjUJ3X9CjMZKFQgC.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66383858,
+				"id_str": "66383858",
+				"name": "@spellingmistakescostlives@mastodon.ie",
+				"screen_name": "darren_cullen",
+				"location": "London, England",
+				"description": "\"\"Artist\"\" - Daily Mail \n\"Britain-hating anarchist who knows the value of nothing\" - Johnny Mercer MP. @pocketmoneyloan at Dismaland. Co-curator @museumofneolib",
+				"url": "https://t.co/PudFZc5nhp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PudFZc5nhp",
+								"expanded_url": "http://www.spellingmistakescostlives.com/shop",
+								"display_url": "spellingmistakescostlives.com/shop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13700,
+				"friends_count": 1528,
+				"listed_count": 117,
+				"created_at": "Mon Aug 17 15:48:20 +0000 2009",
+				"favourites_count": 74117,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031580309916139521/oVxD-82r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031580309916139521/oVxD-82r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66383858/1624639420",
+				"profile_link_color": "1F6ABA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Darren Cullen, you are my master! 🫶 https://t.co/D5bh9SFVxw"
+	},
+	{
 		"created_at": "Thu Nov 24 14:51:17 +0000 2022",
 		"id": 1595792175610331100,
 		"id_str": "1595792175610331136",
