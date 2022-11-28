@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 21:48:41 +0000 2022",
+		"id": 1596924643612426200,
+		"id_str": "1596984381469773824",
+		"full_text": "Türkiye'de direkt devlet kurumlarından kaynaklı siyasi şiddet var. Bunu çözmeden, spordaki şiddet dahil, hiçbir toplumsal şiddet türünü çözemezsiniz.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3762482423,
+			"id_str": "3762482423",
+			"name": "Dağhan Irak",
+			"screen_name": "daghanirak",
+			"location": "Yorkshire, United Kingdom",
+			"description": "Dr., Senior Lecturer in media&communication at @hudunimedia. He/him. Cat person. Immigrant. Istanbulite. Tweets in EN/TR/FR/GR. @dikencomtr'de muharrir.",
+			"url": "https://t.co/ger8NltSJb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ger8NltSJb",
+							"expanded_url": "https://mastodon.social/@daghan",
+							"display_url": "mastodon.social/@daghan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11565,
+			"friends_count": 814,
+			"listed_count": 42,
+			"created_at": "Thu Sep 24 17:45:27 +0000 2015",
+			"favourites_count": 13322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1436650920734040064/iCCbTegM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436650920734040064/iCCbTegM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3762482423/1617619359",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "Türkiye'de direkt devlet kurumlarından kaynaklı siyasi şiddet var. Bunu çözmeden, spordaki şiddet dahil, hiçbir toplumsal şiddet türünü çözemezsiniz."
+	},
+	{
 		"created_at": "Fri Nov 25 22:01:37 +0000 2022",
 		"id": 1596262857997426700,
 		"id_str": "1596262857997426688",
