@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 08:59:47 +0000 2022",
+		"id": 1597153268656115700,
+		"id_str": "1597153268656115717",
+		"full_text": "@emrec_f @alarayesilay @ertanece @kubilayyesilay https://t.co/rbtyoLQJPO",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emrec_f",
+					"name": "emre",
+					"id": 93204546,
+					"id_str": "93204546",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "alarayesilay",
+					"name": "governor alarium",
+					"id": 964859750,
+					"id_str": "964859750",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "ertanece",
+					"name": "Ertan Ece",
+					"id": 70122747,
+					"id_str": "70122747",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "kubilayyesilay",
+					"name": "kubikin",
+					"id": 86535564,
+					"id_str": "86535564",
+					"indices": [
+						33,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rbtyoLQJPO",
+					"expanded_url": "https://twitter.com/emiracle/status/1004802053003194368?t=_hgip-TPVWh4d55SbQCUfg&s=19",
+					"display_url": "twitter.com/emiracle/statu…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1597143743144292400,
+		"in_reply_to_status_id_str": "1597143743144292352",
+		"in_reply_to_user_id": 93204546,
+		"in_reply_to_user_id_str": "93204546",
+		"in_reply_to_screen_name": "emrec_f",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1004802053003194400,
+		"quoted_status_id_str": "1004802053003194368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rbtyoLQJPO",
+			"expanded": "https://twitter.com/emiracle/status/1004802053003194368?t=_hgip-TPVWh4d55SbQCUfg&s=19",
+			"display": "twitter.com/emiracle/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 07 19:07:32 +0000 2018",
+			"id": 1004802053003194400,
+			"id_str": "1004802053003194368",
+			"full_text": "Bu kadar gay bir küfür duymamıştım daha önce. https://t.co/RGwIAsAMIf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004802049974956000,
+						"id_str": "1004802049974956032",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DfHGJApXcAAFaoU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfHGJApXcAAFaoU.jpg",
+						"url": "https://t.co/RGwIAsAMIf",
+						"display_url": "pic.twitter.com/RGwIAsAMIf",
+						"expanded_url": "https://twitter.com/emiracle/status/1004802053003194368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004802049974956000,
+						"id_str": "1004802049974956032",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DfHGJApXcAAFaoU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfHGJApXcAAFaoU.jpg",
+						"url": "https://t.co/RGwIAsAMIf",
+						"display_url": "pic.twitter.com/RGwIAsAMIf",
+						"expanded_url": "https://twitter.com/emiracle/status/1004802053003194368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18937325,
+				"id_str": "18937325",
+				"name": "Emir Kaymakoğlu",
+				"screen_name": "emiracle",
+				"location": "Istanbul",
+				"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 307,
+				"friends_count": 292,
+				"listed_count": 7,
+				"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+				"favourites_count": 1862,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6130,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "12121A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+				"profile_link_color": "140DEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAEDC8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@emrec_f @alarayesilay @ertanece @kubilayyesilay https://t.co/rbtyoLQJPO"
+	},
+	{
 		"created_at": "Sun Nov 27 21:48:41 +0000 2022",
 		"id": 1596924643612426200,
 		"id_str": "1596984381469773824",
