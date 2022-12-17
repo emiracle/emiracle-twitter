@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 01:16:11 +0000 2022",
+		"id": 1603921969485078500,
+		"id_str": "1603921969485078528",
+		"full_text": "Öküz aleyhisselamların çoğunluk olduğu bir ülkede, kıssadan hisse. https://t.co/vauifpI9kM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vauifpI9kM",
+					"expanded_url": "https://twitter.com/hdpdemirtas/status/1603380525481267200",
+					"display_url": "twitter.com/hdpdemirtas/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1603380525481267200,
+		"quoted_status_id_str": "1603380525481267200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vauifpI9kM",
+			"expanded": "https://twitter.com/hdpdemirtas/status/1603380525481267200",
+			"display": "twitter.com/hdpdemirtas/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 15 13:24:41 +0000 2022",
+			"id": 1603380525481267200,
+			"id_str": "1603380525481267200",
+			"full_text": "Bana verilen ceza üst mahkemede, Saray'ın açık talimatıyla 41 günde, Diyarbakır Belediye Başkanı Selçuk Mızraklı'ya verilen ceza ise 35 günde onaylandı. \n\nÜzgünüm ama sarı öküzü vermeyecektiniz. \n\nYine de geç değil. Şimdi hep birlikte direnme ve hep birlikte kazanma zamanıdır.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224609329,
+				"id_str": "224609329",
+				"name": "Selahattin Demirtaş",
+				"screen_name": "hdpdemirtas",
+				"location": "",
+				"description": "Siyasi rehine",
+				"url": "https://t.co/pVLTaDQQ7y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pVLTaDQQ7y",
+								"expanded_url": "http://www.hdp.org.tr",
+								"display_url": "hdp.org.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2156259,
+				"friends_count": 901,
+				"listed_count": 1650,
+				"created_at": "Thu Dec 09 12:21:24 +0000 2010",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2249,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1546533152629325824/H2ZA-zhh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546533152629325824/H2ZA-zhh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224609329/1639078781",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6687,
+			"favorite_count": 51705,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Öküz aleyhisselamların çoğunluk olduğu bir ülkede, kıssadan hisse. https://t.co/vauifpI9kM"
+	},
+	{
 		"created_at": "Thu Dec 15 08:56:00 +0000 2022",
 		"id": 1603294148467085300,
 		"id_str": "1603312910889017344",
