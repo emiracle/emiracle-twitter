@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 22:42:25 +0000 2022",
+		"id": 1608231927265247200,
+		"id_str": "1608231927265247232",
+		"full_text": "Oh. Greta Thunberg done it again! 👌 https://t.co/kw1m8xQeNw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kw1m8xQeNw",
+					"expanded_url": "https://twitter.com/GretaThunberg/status/1608056944501178368",
+					"display_url": "twitter.com/GretaThunberg/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1608056944501178400,
+		"quoted_status_id_str": "1608056944501178368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kw1m8xQeNw",
+			"expanded": "https://twitter.com/GretaThunberg/status/1608056944501178368",
+			"display": "twitter.com/GretaThunberg/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 28 11:07:06 +0000 2022",
+			"id": 1608056944501178400,
+			"id_str": "1608056944501178368",
+			"full_text": "yes, please do enlighten me. email me at smalldickenergy@getalife.com https://t.co/V8geeVvEvg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V8geeVvEvg",
+						"expanded_url": "https://twitter.com/Cobratate/status/1607677190254235648",
+						"display_url": "twitter.com/Cobratate/stat…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1006419421244678100,
+				"id_str": "1006419421244678144",
+				"name": "Greta Thunberg",
+				"screen_name": "GretaThunberg",
+				"location": "Sverige",
+				"description": "Autistic climate justice activist\nBorn at 375 ppm",
+				"url": "https://t.co/0HwowCDzNy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0HwowCDzNy",
+								"expanded_url": "http://fridaysforfuture.org",
+								"display_url": "fridaysforfuture.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5085802,
+				"friends_count": 2850,
+				"listed_count": 11901,
+				"created_at": "Tue Jun 12 06:14:23 +0000 2018",
+				"favourites_count": 17982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11715,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1607677190254235600,
+			"quoted_status_id_str": "1607677190254235648",
+			"quoted_status_permalink": {
+				"url": "https://t.co/V8geeVvEvg",
+				"expanded": "https://twitter.com/Cobratate/status/1607677190254235648",
+				"display": "twitter.com/Cobratate/stat…"
+			},
+			"retweet_count": 334949,
+			"favorite_count": 1956260,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh. Greta Thunberg done it again! 👌 https://t.co/kw1m8xQeNw"
+	},
+	{
 		"created_at": "Thu Dec 22 11:58:42 +0000 2022",
 		"id": 1605895603199692800,
 		"id_str": "1605895603199692800",
