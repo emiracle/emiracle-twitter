@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 18:19:48 +0000 2022",
+		"id": 1609248716510171100,
+		"id_str": "1609253002346639361",
+		"full_text": "Rosa Luxemburg ile yeni yıla dair: \nhttps://t.co/IuHlVJs249",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IuHlVJs249",
+					"expanded_url": "https://youtu.be/4Bj7Hei6N6o",
+					"display_url": "youtu.be/4Bj7Hei6N6o",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 411769677,
+			"id_str": "411769677",
+			"name": "Foti Benlisoy",
+			"screen_name": "fotibenlisoy",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28665,
+			"friends_count": 2036,
+			"listed_count": 117,
+			"created_at": "Sun Nov 13 21:15:44 +0000 2011",
+			"favourites_count": 6039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1607705388803137536/m_wIyZxo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1607705388803137536/m_wIyZxo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/411769677/1397654550",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Rosa Luxemburg ile yeni yıla dair: \nhttps://t.co/IuHlVJs249"
+	},
+	{
 		"created_at": "Wed Dec 28 22:42:25 +0000 2022",
 		"id": 1608231927265247200,
 		"id_str": "1608231927265247232",
