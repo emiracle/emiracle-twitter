@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 16 22:58:19 +0000 2023",
+		"id": 1615121298056941600,
+		"id_str": "1615121298056941577",
+		"full_text": "Twitter'dan yıllardır edit fonksiyonunu getirmesini talep ettik ama sonunda kala kala Elon Musk'un insafına kaldık. Sürekli bir şeyleri kurcalıyor ve her geçen gün daha da kötüye gidiyor. Şımarık, sosyopat zenginlerden hiçbir yerde fayda gelmez. Ne Dünya'da ne de Mars'ta.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Twitter'dan yıllardır edit fonksiyonunu getirmesini talep ettik ama sonunda kala kala Elon Musk'un insafına kaldık. Sürekli bir şeyleri kurcalıyor ve her geçen gün daha da kötüye gidiyor. Şımarık, sosyopat zenginlerden hiçbir yerde fayda gelmez. Ne Dünya'da ne de Mars'ta."
+	},
+	{
+		"created_at": "Mon Jan 16 22:05:36 +0000 2023",
+		"id": 1615108030017994800,
+		"id_str": "1615108030017994753",
+		"full_text": "@wardumpp Bilemedim valla. Sonuç: Evet, yaşlandık. https://t.co/mZewFC04I6",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat Çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1615108021360763000,
+					"id_str": "1615108021360762919",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FmoEMC8XoCcmbml.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FmoEMC8XoCcmbml.jpg",
+					"url": "https://t.co/mZewFC04I6",
+					"display_url": "pic.twitter.com/mZewFC04I6",
+					"expanded_url": "https://twitter.com/emiracle/status/1615108030017994753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 182,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615108021360763000,
+					"id_str": "1615108021360762919",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FmoEMC8XoCcmbml.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FmoEMC8XoCcmbml.jpg",
+					"url": "https://t.co/mZewFC04I6",
+					"display_url": "pic.twitter.com/mZewFC04I6",
+					"expanded_url": "https://twitter.com/emiracle/status/1615108030017994753/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 182,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 182,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							91
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FmoEMC8XoCcmbml.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1615071759220236300,
+		"in_reply_to_status_id_str": "1615071759220236288",
+		"in_reply_to_user_id": 19335165,
+		"in_reply_to_user_id_str": "19335165",
+		"in_reply_to_screen_name": "wardumpp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@wardumpp Bilemedim valla. Sonuç: Evet, yaşlandık. https://t.co/mZewFC04I6"
+	},
+	{
+		"created_at": "Mon Jan 16 18:32:55 +0000 2023",
+		"id": 1615054506110161000,
+		"id_str": "1615054506110160919",
+		"full_text": "@wardumpp O da vardı galiba ama benim hatırladığım Küçükçiftlik'in girişindeydi. Konser vardı ama ne konseri hatırlamıyorum 😁",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat Çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1615054063971799000,
+		"in_reply_to_status_id_str": "1615054063971799044",
+		"in_reply_to_user_id": 19335165,
+		"in_reply_to_user_id_str": "19335165",
+		"in_reply_to_screen_name": "wardumpp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@wardumpp O da vardı galiba ama benim hatırladığım Küçükçiftlik'in girişindeydi. Konser vardı ama ne konseri hatırlamıyorum 😁"
+	},
+	{
 		"created_at": "Sun Jan 15 10:47:40 +0000 2023",
 		"id": 1614575036085452800,
 		"id_str": "1614575036085452800",
