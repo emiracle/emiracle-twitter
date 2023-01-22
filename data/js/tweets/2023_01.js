@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 21 15:37:35 +0000 2023",
+		"id": 1616815219270992000,
+		"id_str": "1616822321028956160",
+		"full_text": "TR enteresan bir yer. İnsanlar sevdiği, bağlandığı şeyle ilgili bile en temel bilgileri bilmiyorlar. \n\nSınav yapsak memleketin yarısı kendi ideolojisinden/ilgi alanında vs. sınıfta kalır herhalde.  Belki de bu bilgisizlik onları fanatik yapıyor.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14457172,
+			"id_str": "14457172",
+			"name": "Emrah Safa Gürkan",
+			"screen_name": "jeandpardaillan",
+			"location": "İstanbul",
+			"description": "Prof.Dr./Georgetown'12-Bilkent'03&06 TUBA Young Scientist Award 14th Kadir Has Promising Scientist Award TUBA Monograph Award ---- İletişim: content@diatom.biz",
+			"url": "https://t.co/FMJJ8ZbxZG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FMJJ8ZbxZG",
+							"expanded_url": "https://emrahsafagrkanesg.academia.edu/cv",
+							"display_url": "emrahsafagrkanesg.academia.edu/cv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376307,
+			"friends_count": 1824,
+			"listed_count": 560,
+			"created_at": "Mon Apr 21 01:51:54 +0000 2008",
+			"favourites_count": 34390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F1E6F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481706621424345093/69ECdQA5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481706621424345093/69ECdQA5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14457172/1641893639",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 467,
+		"favorite_count": 6979,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "TR enteresan bir yer. İnsanlar sevdiği, bağlandığı şeyle ilgili bile en temel bilgileri bilmiyorlar. \n\nSınav yapsak memleketin yarısı kendi ideolojisinden/ilgi alanında vs. sınıfta kalır herhalde.  Belki de bu bilgisizlik onları fanatik yapıyor."
+	},
+	{
 		"created_at": "Fri Jan 20 11:42:41 +0000 2023",
 		"id": 1616400821817856000,
 		"id_str": "1616400821817856000",
