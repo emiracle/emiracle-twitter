@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 16:26:30 +0000 2023",
+		"id": 1617559406845038600,
+		"id_str": "1617559406845038592",
+		"full_text": "@AxelCorlu Zamanında şöyle bir tweet atmıştım. Bana onu hatırlattı.\nhttps://t.co/vhVXYccc3x",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AxelCorlu",
+					"name": "Axel Bertamini-Corluyan",
+					"id": 1285930223188488200,
+					"id_str": "1285930223188488199",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vhVXYccc3x",
+					"expanded_url": "https://twitter.com/emiracle/status/1565394355497717760?t=YRoBKj2A0kC8j18qDWFSUw&s=19",
+					"display_url": "twitter.com/emiracle/statu…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1617558133341053000,
+		"in_reply_to_status_id_str": "1617558133341052931",
+		"in_reply_to_user_id": 1285930223188488200,
+		"in_reply_to_user_id_str": "1285930223188488199",
+		"in_reply_to_screen_name": "AxelCorlu",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1565394355497717800,
+		"quoted_status_id_str": "1565394355497717760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vhVXYccc3x",
+			"expanded": "https://twitter.com/emiracle/status/1565394355497717760?t=YRoBKj2A0kC8j18qDWFSUw&s=19",
+			"display": "twitter.com/emiracle/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 01 17:41:12 +0000 2022",
+			"id": 1565394355497717800,
+			"id_str": "1565394355497717760",
+			"full_text": "\"miz\" iyelik eki ile konuşan kimseyi ciddiye alamıyorum. Bkz. Cumhurbaşkanı-mız, devleti-miz, büyükleri-miz,  vs... Zira, ciddiye almayı geçtim ahmak ve sinik buluyorum.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18937325,
+				"id_str": "18937325",
+				"name": "Emir Kaymakoğlu",
+				"screen_name": "emiracle",
+				"location": "Istanbul",
+				"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 305,
+				"friends_count": 291,
+				"listed_count": 7,
+				"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+				"favourites_count": 1919,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6178,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "12121A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+				"profile_link_color": "140DEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAEDC8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@AxelCorlu Zamanında şöyle bir tweet atmıştım. Bana onu hatırlattı.\nhttps://t.co/vhVXYccc3x"
+	},
+	{
+		"created_at": "Mon Jan 23 16:19:15 +0000 2023",
+		"id": 1617557584868778000,
+		"id_str": "1617557584868777984",
+		"full_text": "@AxelCorlu ABD tax payers'ın parasını almak için bin dereden su getiriyor. Burada halk oğlu öldüğünde vatan sağ olsun diyor. Kabul edelim ki böyle halkın karşısında diktatör olmamak için de çaba gerekiyor.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AxelCorlu",
+					"name": "Axel Bertamini-Corluyan",
+					"id": 1285930223188488200,
+					"id_str": "1285930223188488199",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1617556921203974100,
+		"in_reply_to_status_id_str": "1617556921203974144",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@AxelCorlu ABD tax payers'ın parasını almak için bin dereden su getiriyor. Burada halk oğlu öldüğünde vatan sağ olsun diyor. Kabul edelim ki böyle halkın karşısında diktatör olmamak için de çaba gerekiyor."
+	},
+	{
+		"created_at": "Mon Jan 23 16:16:37 +0000 2023",
+		"id": 1617556921203974100,
+		"id_str": "1617556921203974144",
+		"full_text": "@AxelCorlu Bu propagandaya düşmemek için biraz az ahmak olmanın yetmesi lazım normal şartlar altında ama maalesef ortalama çok çok kötü. Bu ülkede propaganda bile incelikli değil, kaba.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AxelCorlu",
+					"name": "Axel Bertamini-Corluyan",
+					"id": 1285930223188488200,
+					"id_str": "1285930223188488199",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1617554184743825400,
+		"in_reply_to_status_id_str": "1617554184743825409",
+		"in_reply_to_user_id": 1285930223188488200,
+		"in_reply_to_user_id_str": "1285930223188488199",
+		"in_reply_to_screen_name": "AxelCorlu",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@AxelCorlu Bu propagandaya düşmemek için biraz az ahmak olmanın yetmesi lazım normal şartlar altında ama maalesef ortalama çok çok kötü. Bu ülkede propaganda bile incelikli değil, kaba."
+	},
+	{
 		"created_at": "Sat Jan 21 15:37:35 +0000 2023",
 		"id": 1616815219270992000,
 		"id_str": "1616822321028956160",
