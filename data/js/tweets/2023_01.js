@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 17:40:32 +0000 2023",
+		"id": 1620114753506132000,
+		"id_str": "1620114753506131969",
+		"full_text": "Çeteyi yok etme konusunda mutabıkız! Bu metindekilerin yarısı hayata geçirilse, çetenin vermiş olduğu zararlardan çok daha hızlı bir şekilde kurtuluruz. https://t.co/gOWv2blelO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOWv2blelO",
+					"expanded_url": "https://twitter.com/demirdenizchp/status/1619989595466375171",
+					"display_url": "twitter.com/demirdenizchp/…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 290,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1619989595466375200,
+		"quoted_status_id_str": "1619989595466375171",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gOWv2blelO",
+			"expanded": "https://twitter.com/demirdenizchp/status/1619989595466375171",
+			"display": "twitter.com/demirdenizchp/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 30 09:23:12 +0000 2023",
+			"id": 1619989595466375200,
+			"id_str": "1619989595466375171",
+			"full_text": "Mutabakat Metni:\n\n📌Seçim barajı %3 olacak\n\n📌HSK, Hakimler Kurulu ve Savcılar Kurulu olarak ayrılacak, Adalet Bakanı Hakimler Kurulunda olmayacak\n\n📌Cumhurbaşkanı 1 defa 7 yıllık seçilecek\n\n📌AİHM veya AYM kararlarına uymayan hakim ve savcılara yaptırım uygulanacak",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3170782581,
+				"id_str": "3170782581",
+				"name": "Deniz Demir",
+				"screen_name": "demirdenizchp",
+				"location": "Ankara",
+				"description": "Cumhuriyet Halk Partisi Parti Meclisi Üyesi - Genel Başkan Başdanışmanı | 🇹🇷",
+				"url": "https://t.co/JjeUiCt8hZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JjeUiCt8hZ",
+								"expanded_url": "http://www.instagram.com/denizdemirchp",
+								"display_url": "instagram.com/denizdemirchp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 133801,
+				"friends_count": 990,
+				"listed_count": 112,
+				"created_at": "Wed Apr 15 18:18:07 +0000 2015",
+				"favourites_count": 6600,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12158,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1515060818534191110/ee1JiUY6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515060818534191110/ee1JiUY6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3170782581/1674484194",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2033,
+			"favorite_count": 12201,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Çeteyi yok etme konusunda mutabıkız! Bu metindekilerin yarısı hayata geçirilse, çetenin vermiş olduğu zararlardan çok daha hızlı bir şekilde kurtuluruz. https://t.co/gOWv2blelO"
+	},
+	{
 		"created_at": "Fri Jan 27 13:24:59 +0000 2023",
 		"id": 1618963278759338000,
 		"id_str": "1618963278759337985",
