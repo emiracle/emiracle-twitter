@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 04 15:38:38 +0000 2023",
+		"id": 1621896015392526300,
+		"id_str": "1621896015392526337",
+		"full_text": "@wardumpp Bir sürü var. Cory Doctorow, William Gibson, Neal Stephenson, Daniel Suarez vb. İngilizce okuyabiliyorsan çok var da TR'ye ancak bir kısmı tercüme edilmiştir.  Aradığın tarz \"techo-thriller\". Bkz.: https://t.co/4DEJRPgsF9",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat Çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4DEJRPgsF9",
+					"expanded_url": "https://www.wikiwand.com/en/List_of_techno-thriller_novels",
+					"display_url": "wikiwand.com/en/List_of_tec…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1621885744313761800,
+		"in_reply_to_status_id_str": "1621885744313761799",
+		"in_reply_to_user_id": 19335165,
+		"in_reply_to_user_id_str": "19335165",
+		"in_reply_to_screen_name": "wardumpp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 290,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@wardumpp Bir sürü var. Cory Doctorow, William Gibson, Neal Stephenson, Daniel Suarez vb. İngilizce okuyabiliyorsan çok var da TR'ye ancak bir kısmı tercüme edilmiştir.  Aradığın tarz \"techo-thriller\". Bkz.: https://t.co/4DEJRPgsF9"
+	},
+	{
 		"created_at": "Thu Feb 02 19:50:18 +0000 2023",
 		"id": 1621234576767975400,
 		"id_str": "1621234576767975424",
