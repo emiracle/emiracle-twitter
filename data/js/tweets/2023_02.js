@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 17:02:23 +0000 2023",
+		"id": 1623363662491578400,
+		"id_str": "1623366643018567685",
+		"full_text": "İnşaat ustasından önemli çağrı: \n\nBizim işimiz, beton ve demiri kesmek, yalvarırım bizi enkaz bölgesine gönderin \n\nhttps://t.co/o2Vad50GeQ https://t.co/hmB4uyH2vA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o2Vad50GeQ",
+					"expanded_url": "https://abcgazetesi.com/insaat-ustasindan-onemli-cagri-bizim-isimiz-beton-ve-demiri-kesmek-yalvaririm-bizi-enkaz-461970",
+					"display_url": "abcgazetesi.com/insaat-ustasin…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1623363481733931000,
+					"id_str": "1623363481733931009",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1623363481733931009/pu/img/huVFhFcwJH01nBC5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1623363481733931009/pu/img/huVFhFcwJH01nBC5.jpg",
+					"url": "https://t.co/hmB4uyH2vA",
+					"display_url": "pic.twitter.com/hmB4uyH2vA",
+					"expanded_url": "https://twitter.com/abcgazete/status/1623363662491578368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623363481733931000,
+					"id_str": "1623363481733931009",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1623363481733931009/pu/img/huVFhFcwJH01nBC5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1623363481733931009/pu/img/huVFhFcwJH01nBC5.jpg",
+					"url": "https://t.co/hmB4uyH2vA",
+					"display_url": "pic.twitter.com/hmB4uyH2vA",
+					"expanded_url": "https://twitter.com/abcgazete/status/1623363662491578368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 90046,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1623363481733931009/pu/vid/720x720/RwHaJB3yVf_kgb7E.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1623363481733931009/pu/vid/540x540/C2HeTKRsfM7pvAvC.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1623363481733931009/pu/vid/320x320/R9NBm3opu-aINlBN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1623363481733931009/pu/pl/SJQTyunMsnBp49VH.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4002014542,
+			"id_str": "4002014542",
+			"name": "ABC Gazetesi",
+			"screen_name": "abcgazete",
+			"location": "İstanbul, Türkiye",
+			"description": "https://t.co/IhLeiCi8H5 https://t.co/V9p75tNczi https://t.co/hCCHsyxPKB  https://t.co/38LNbC4gRU",
+			"url": "https://t.co/fWwYl3fB5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fWwYl3fB5a",
+							"expanded_url": "http://abcgazetesi.com",
+							"display_url": "abcgazetesi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IhLeiCi8H5",
+							"expanded_url": "http://instagram.com/abcgazetesi",
+							"display_url": "instagram.com/abcgazetesi",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/V9p75tNczi",
+							"expanded_url": "http://facebook.com/abcgazete",
+							"display_url": "facebook.com/abcgazete",
+							"indices": [
+								24,
+								47
+							]
+						},
+						{
+							"url": "https://t.co/hCCHsyxPKB",
+							"expanded_url": "http://t.me/abcgazete",
+							"display_url": "t.me/abcgazete",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/38LNbC4gRU",
+							"expanded_url": "https://www.youtube.com/c/ABCGazetesiTV",
+							"display_url": "youtube.com/c/ABCGazetesiTV",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 327322,
+			"friends_count": 58,
+			"listed_count": 1014,
+			"created_at": "Tue Oct 20 12:30:59 +0000 2015",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 411672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408952597545996289/gmEphgDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408952597545996289/gmEphgDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4002014542/1624653443",
+			"profile_link_color": "A0000B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "İnşaat ustasından önemli çağrı: \n\nBizim işimiz, beton ve demiri kesmek, yalvarırım bizi enkaz bölgesine gönderin \n\nhttps://t.co/o2Vad50GeQ https://t.co/hmB4uyH2vA"
+	},
+	{
+		"created_at": "Wed Feb 08 16:48:19 +0000 2023",
+		"id": 1623363104829501400,
+		"id_str": "1623363104829501440",
+		"full_text": "Bu bizim Çernobilimiz. Parti devletinin yıkımının da başlangıcı.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Bu bizim Çernobilimiz. Parti devletinin yıkımının da başlangıcı."
+	},
+	{
+		"created_at": "Wed Feb 08 15:07:35 +0000 2023",
+		"id": 1623337754577830000,
+		"id_str": "1623337754577829888",
+		"full_text": "Kariyerist orospuların kalitelileri 5 yıldızlı otellerde, en ucuzları ise havuz medyasında iş tutar.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Kariyerist orospuların kalitelileri 5 yıldızlı otellerde, en ucuzları ise havuz medyasında iş tutar."
+	},
+	{
+		"created_at": "Wed Feb 08 14:47:36 +0000 2023",
+		"id": 1623332723493331000,
+		"id_str": "1623332723493330946",
+		"full_text": "Her hareketlerine şaşırıp kızmayın artık. Anlayın, bunlar bizim düşmanımız. Bu kadar basit. İşgalci Putin bile Ukrayna'da 'humanitarian corridor'a izin veriyordu, internet çalışıyordu.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Her hareketlerine şaşırıp kızmayın artık. Anlayın, bunlar bizim düşmanımız. Bu kadar basit. İşgalci Putin bile Ukrayna'da 'humanitarian corridor'a izin veriyordu, internet çalışıyordu."
+	},
+	{
 		"created_at": "Tue Feb 07 16:10:02 +0000 2023",
 		"id": 1622991081326387200,
 		"id_str": "1622991081326387200",
