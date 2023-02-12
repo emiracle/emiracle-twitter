@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 11 19:30:24 +0000 2023",
+		"id": 1624423901752172500,
+		"id_str": "1624491058926178304",
+		"full_text": "Bu gördükleriniz Antigone oyunu değil; sokakta yatan annem ve ananem. naaşlarina devletten kimseye el sürdürmedim, ellerimle çıkardım ellerimle gömdüm, başında nöbet tuttum tüm gece. kimseyi yaklaştırmadım bile. taziye mesajları atıyorsunuz atmayın; üzgün değil, öfkeliyim. https://t.co/7ngi0XWbdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1624422987179913200,
+					"id_str": "1624422987179913216",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624422987179913216/pu/img/yMJQiVsZLta3Bg-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624422987179913216/pu/img/yMJQiVsZLta3Bg-_.jpg",
+					"url": "https://t.co/7ngi0XWbdG",
+					"display_url": "pic.twitter.com/7ngi0XWbdG",
+					"expanded_url": "https://twitter.com/thePerdesiz/status/1624423901752172544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624422987179913200,
+					"id_str": "1624422987179913216",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624422987179913216/pu/img/yMJQiVsZLta3Bg-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624422987179913216/pu/img/yMJQiVsZLta3Bg-_.jpg",
+					"url": "https://t.co/7ngi0XWbdG",
+					"display_url": "pic.twitter.com/7ngi0XWbdG",
+					"expanded_url": "https://twitter.com/thePerdesiz/status/1624423901752172544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 8816,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1624422987179913216/pu/vid/720x1280/o49qdaIQUwUmbjTX.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1624422987179913216/pu/vid/320x568/lWqcbCRwaJGfDjKk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1624422987179913216/pu/pl/jFrKw9WIGFA1T1iG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1624422987179913216/pu/vid/480x852/b8ljog7vju8_QvBF.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1503836096190423000,
+			"id_str": "1503836096190423047",
+			"name": "Yusuf Unutmaz",
+			"screen_name": "thePerdesiz",
+			"location": "Ankara, Türkiye",
+			"description": "elbet bulurum bir at, katılırım süvarilere... \nIslığını duyduğum devlerin üstüne sürerim yine!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11261,
+			"friends_count": 98,
+			"listed_count": 8,
+			"created_at": "Tue Mar 15 20:51:02 +0000 2022",
+			"favourites_count": 11668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1619492479765549057/zUn4rTF7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1619492479765549057/zUn4rTF7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1503836096190423047/1674952123",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11477,
+		"favorite_count": 57480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Bu gördükleriniz Antigone oyunu değil; sokakta yatan annem ve ananem. naaşlarina devletten kimseye el sürdürmedim, ellerimle çıkardım ellerimle gömdüm, başında nöbet tuttum tüm gece. kimseyi yaklaştırmadım bile. taziye mesajları atıyorsunuz atmayın; üzgün değil, öfkeliyim. https://t.co/7ngi0XWbdG"
+	},
+	{
 		"created_at": "Fri Feb 10 10:56:38 +0000 2023",
 		"id": 1623999375348211700,
 		"id_str": "1623999375348211713",
