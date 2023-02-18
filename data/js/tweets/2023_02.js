@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 12:58:01 +0000 2023",
+		"id": 1626566637796171800,
+		"id_str": "1626566637796171778",
+		"full_text": "@efesto Zaten aynı şey. Eleştiri devletin varlığına yapılır. Sorun da zaten devlettir. Korkak ve sinik olanlar hükumet ayrı devlet ayrı der. Oysa ki devlet dediğin bir çete, hükumet ise çetenin idaresinde aktif rol oynayandır.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "efesto",
+					"name": "efe öktem",
+					"id": 30257959,
+					"id_str": "30257959",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1626563604810965000,
+		"in_reply_to_status_id_str": "1626563604810964993",
+		"in_reply_to_user_id": 30257959,
+		"in_reply_to_user_id_str": "30257959",
+		"in_reply_to_screen_name": "efesto",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 290,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@efesto Zaten aynı şey. Eleştiri devletin varlığına yapılır. Sorun da zaten devlettir. Korkak ve sinik olanlar hükumet ayrı devlet ayrı der. Oysa ki devlet dediğin bir çete, hükumet ise çetenin idaresinde aktif rol oynayandır."
+	},
+	{
 		"created_at": "Tue Feb 14 21:08:09 +0000 2023",
 		"id": 1625602822812074000,
 		"id_str": "1625602822812073990",
