@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 23:05:23 +0000 2023",
+		"id": 1625897535263875000,
+		"id_str": "1627806650949042178",
+		"full_text": "Onurları yok… https://t.co/U1b9jvT3OW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625897499931160600,
+					"id_str": "1625897499931160582",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1625897499931160582/img/T96NzNLvgj6NCObo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1625897499931160582/img/T96NzNLvgj6NCObo.jpg",
+					"url": "https://t.co/U1b9jvT3OW",
+					"display_url": "pic.twitter.com/U1b9jvT3OW",
+					"expanded_url": "https://twitter.com/cngzkync/status/1625897535263875072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 758,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 758,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625897499931160600,
+					"id_str": "1625897499931160582",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1625897499931160582/img/T96NzNLvgj6NCObo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1625897499931160582/img/T96NzNLvgj6NCObo.jpg",
+					"url": "https://t.co/U1b9jvT3OW",
+					"display_url": "pic.twitter.com/U1b9jvT3OW",
+					"expanded_url": "https://twitter.com/cngzkync/status/1625897535263875072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 758,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 758,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							379,
+							320
+						],
+						"duration_millis": 14300,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1625897499931160582/vid/318x270/CNIhmXRHd9P5_Eao.mp4?tag=16"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1625897499931160582/vid/426x360/8Eu0QKytJ2mObMPp.mp4?tag=16"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1625897499931160582/vid/758x640/WLjvbynNX481XcMX.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1625897499931160582/pl/BqOBU6jE387R7iEI.m3u8?tag=16&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 284965110,
+			"id_str": "284965110",
+			"name": "CK",
+			"screen_name": "cngzkync",
+			"location": "Toronto, CA",
+			"description": "3.YOL / Former HDP PCM #Freelance #CitizenJournalism Tweets in #Kurdish #Turkish #English mostly on #Politics https://t.co/bxgjalKTUg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bxgjalKTUg",
+							"expanded_url": "http://Instagram.com/cngzkync",
+							"display_url": "Instagram.com/cngzkync",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27095,
+			"friends_count": 1323,
+			"listed_count": 72,
+			"created_at": "Wed Apr 20 08:47:38 +0000 2011",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613459622962122753/PbJrfHDb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613459622962122753/PbJrfHDb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/284965110/1446868745",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 2035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Onurları yok… https://t.co/U1b9jvT3OW"
+	},
+	{
 		"created_at": "Sat Feb 18 10:49:57 +0000 2023",
 		"id": 1626896799079202800,
 		"id_str": "1626896799079202816",
