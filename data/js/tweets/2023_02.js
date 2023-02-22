@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 17:44:06 +0000 2023",
+		"id": 1628088185531117600,
+		"id_str": "1628088185531117596",
+		"full_text": "Zindanları da sandıkları da kıracağız Selo başkan! https://t.co/BYqc8pX7iS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BYqc8pX7iS",
+					"expanded_url": "https://twitter.com/hdpdemirtas/status/1628065421667586048",
+					"display_url": "twitter.com/hdpdemirtas/st…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 290,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1628065421667586000,
+		"quoted_status_id_str": "1628065421667586048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BYqc8pX7iS",
+			"expanded": "https://twitter.com/hdpdemirtas/status/1628065421667586048",
+			"display": "twitter.com/hdpdemirtas/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 21 16:13:39 +0000 2023",
+			"id": 1628065421667586000,
+			"id_str": "1628065421667586048",
+			"full_text": "Yürü Emek ve Özgürlük İttifakı!\nYürü Sosyalist Güç Birliği!\nYürü Millet İttifakı!\nYürü Bay Kemal!\n\nYan yana yürüyün.\n\nBirleştirin, barıştırın\nve yeniden inşa edelim, yıkılan bu ülkeyi.\n\nBaşka çaremiz yok,\nbaşaracağız.\n\n3/3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224609329,
+				"id_str": "224609329",
+				"name": "Selahattin Demirtaş",
+				"screen_name": "hdpdemirtas",
+				"location": "",
+				"description": "Siyasi rehine",
+				"url": "https://t.co/iPYU8So0ql",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iPYU8So0ql",
+								"expanded_url": "https://www.instagram.com/hdpdemirtas",
+								"display_url": "instagram.com/hdpdemirtas",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2299706,
+				"friends_count": 898,
+				"listed_count": 1724,
+				"created_at": "Thu Dec 09 12:21:24 +0000 2010",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2637,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1622592417747566592/aG2vIIoI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1622592417747566592/aG2vIIoI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224609329/1675691132",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9137,
+			"favorite_count": 54321,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Zindanları da sandıkları da kıracağız Selo başkan! https://t.co/BYqc8pX7iS"
+	},
+	{
 		"created_at": "Mon Feb 20 23:05:23 +0000 2023",
 		"id": 1625897535263875000,
 		"id_str": "1627806650949042178",
