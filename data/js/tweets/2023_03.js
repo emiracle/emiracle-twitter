@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 09 10:58:14 +0000 2023",
+		"id": 1633784252650102800,
+		"id_str": "1633784252650102784",
+		"full_text": "@zalambOdOnt Aaa He-Man'daki Ram Man'in federasyon başkanı olmasını desteklemiyor musun? https://t.co/otlNhKPg5X",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zalambOdOnt",
+					"name": "Meriç",
+					"id": 15659467,
+					"id_str": "15659467",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1633783341487988700,
+					"id_str": "1633783341487988737",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FqxdSv1XoAEWAhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqxdSv1XoAEWAhB.jpg",
+					"url": "https://t.co/otlNhKPg5X",
+					"display_url": "pic.twitter.com/otlNhKPg5X",
+					"expanded_url": "https://twitter.com/emiracle/status/1633784252650102784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1633783341487988700,
+					"id_str": "1633783341487988737",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FqxdSv1XoAEWAhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqxdSv1XoAEWAhB.jpg",
+					"url": "https://t.co/otlNhKPg5X",
+					"display_url": "pic.twitter.com/otlNhKPg5X",
+					"expanded_url": "https://twitter.com/emiracle/status/1633784252650102784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1633780293722046500,
+		"in_reply_to_status_id_str": "1633780293722046464",
+		"in_reply_to_user_id": 15659467,
+		"in_reply_to_user_id_str": "15659467",
+		"in_reply_to_screen_name": "zalambOdOnt",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 293,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@zalambOdOnt Aaa He-Man'daki Ram Man'in federasyon başkanı olmasını desteklemiyor musun? https://t.co/otlNhKPg5X"
+	},
+	{
 		"created_at": "Wed Mar 08 13:01:39 +0000 2023",
 		"id": 1633450783344582700,
 		"id_str": "1633452924444585985",
