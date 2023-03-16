@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 12:45:46 +0000 2023",
+		"id": 1635985640864063500,
+		"id_str": "1635985640864063488",
+		"full_text": "@fotibenlisoy \"Kapitalist Kıyamet\" kitabınızı yayımladıktan beri ülkede felaketlerin her çeşidini görüyor/yaşıyoruz. Kafayı değiştirmedikçe de bir şey değişmeyeceğini anlıyoruz. Merak ettim, bu sizde \"ben size demiştim!\" hissiyatı ve haklılıktan gelen bir kibir yaratıyor mu? 😊",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fotibenlisoy",
+					"name": "Foti Benlisoy",
+					"id": 411769677,
+					"id_str": "411769677",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635972359747149800,
+		"in_reply_to_status_id_str": "1635972359747149829",
+		"in_reply_to_user_id": 411769677,
+		"in_reply_to_user_id_str": "411769677",
+		"in_reply_to_screen_name": "fotibenlisoy",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@fotibenlisoy \"Kapitalist Kıyamet\" kitabınızı yayımladıktan beri ülkede felaketlerin her çeşidini görüyor/yaşıyoruz. Kafayı değiştirmedikçe de bir şey değişmeyeceğini anlıyoruz. Merak ettim, bu sizde \"ben size demiştim!\" hissiyatı ve haklılıktan gelen bir kibir yaratıyor mu? 😊"
+	},
+	{
+		"created_at": "Wed Mar 15 09:18:13 +0000 2023",
+		"id": 1635933409359822800,
+		"id_str": "1635933409359822850",
+		"full_text": "@mortifera @orkutmurat Marketleri yağmalayanları daha depremin ikinci gününde gündeme getirmeleri, bu gerçek yağmacı ve hırsızlara erketecilik içindi zaten.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mortifera",
+					"name": "Kutsal Bayraktar",
+					"id": 85420539,
+					"id_str": "85420539",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "orkutmurat",
+					"name": "Orkut Murat Yılmaz",
+					"id": 19928103,
+					"id_str": "19928103",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1635630400604344300,
+		"in_reply_to_status_id_str": "1635630400604344321",
+		"in_reply_to_user_id": 85420539,
+		"in_reply_to_user_id_str": "85420539",
+		"in_reply_to_screen_name": "mortifera",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@mortifera @orkutmurat Marketleri yağmalayanları daha depremin ikinci gününde gündeme getirmeleri, bu gerçek yağmacı ve hırsızlara erketecilik içindi zaten."
+	},
+	{
 		"created_at": "Fri Mar 10 15:24:53 +0000 2023",
 		"id": 1634213744132739000,
 		"id_str": "1634213744132739073",
