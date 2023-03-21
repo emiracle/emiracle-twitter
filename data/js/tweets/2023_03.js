@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 19:58:52 +0000 2023",
+		"id": 1637906572562034700,
+		"id_str": "1637906572562034689",
+		"full_text": "@mehmetakcayy @qethsegol @jeandpardaillan @JuristPhD @tercumeihal @cagrimbakirci Herkesin böyle bir arkadaşı olmaz mı zaten?",
+		"truncated": false,
+		"display_text_range": [
+			81,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mehmetakcayy",
+					"name": "Mehmet Akçay",
+					"id": 121567010,
+					"id_str": "121567010",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "qethsegol",
+					"name": "Qeths 𐱅𐰇𐰼𐰰",
+					"id": 1211028488,
+					"id_str": "1211028488",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "JuristPhD",
+					"name": "Doktorand",
+					"id": 1113845690726277100,
+					"id_str": "1113845690726277120",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "tercumeihal",
+					"name": "kerim burak",
+					"id": 1472629147629412400,
+					"id_str": "1472629147629412357",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "cagrimbakirci",
+					"name": "Çağrı Mert Bakırcı",
+					"id": 187316309,
+					"id_str": "187316309",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1637902631891882000,
+		"in_reply_to_status_id_str": "1637902631891881986",
+		"in_reply_to_user_id": 121567010,
+		"in_reply_to_user_id_str": "121567010",
+		"in_reply_to_screen_name": "mehmetakcayy",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@mehmetakcayy @qethsegol @jeandpardaillan @JuristPhD @tercumeihal @cagrimbakirci Herkesin böyle bir arkadaşı olmaz mı zaten?"
+	},
+	{
+		"created_at": "Mon Mar 20 18:34:07 +0000 2023",
+		"id": 1637885244551438300,
+		"id_str": "1637885244551438336",
+		"full_text": "@qethsegol @jeandpardaillan @JuristPhD @mehmetakcayy @tercumeihal @cagrimbakirci Bizim bir arkadaş bu eklerin \"-ler\"ini  çoğul eki zannediyormuş. Pastaneye gitmiş, büyük olanlardan bir tanesini göstererek \"Bir tane ek alabilir miyim?\" demiş adama. Kıçımızla gülmüştük herife 🤣",
+		"truncated": false,
+		"display_text_range": [
+			81,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qethsegol",
+					"name": "Qeths 𐱅𐰇𐰼𐰰",
+					"id": 1211028488,
+					"id_str": "1211028488",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "JuristPhD",
+					"name": "Doktorand",
+					"id": 1113845690726277100,
+					"id_str": "1113845690726277120",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "mehmetakcayy",
+					"name": "Mehmet Akçay",
+					"id": 121567010,
+					"id_str": "121567010",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "tercumeihal",
+					"name": "kerim burak",
+					"id": 1472629147629412400,
+					"id_str": "1472629147629412357",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "cagrimbakirci",
+					"name": "Çağrı Mert Bakırcı",
+					"id": 187316309,
+					"id_str": "187316309",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1637881414174531600,
+		"in_reply_to_status_id_str": "1637881414174531584",
+		"in_reply_to_user_id": 1211028488,
+		"in_reply_to_user_id_str": "1211028488",
+		"in_reply_to_screen_name": "qethsegol",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@qethsegol @jeandpardaillan @JuristPhD @mehmetakcayy @tercumeihal @cagrimbakirci Bizim bir arkadaş bu eklerin \"-ler\"ini  çoğul eki zannediyormuş. Pastaneye gitmiş, büyük olanlardan bir tanesini göstererek \"Bir tane ek alabilir miyim?\" demiş adama. Kıçımızla gülmüştük herife 🤣"
+	},
+	{
+		"created_at": "Mon Mar 20 18:29:56 +0000 2023",
+		"id": 1637884193479729200,
+		"id_str": "1637884193479729174",
+		"full_text": "0,75x- Neden Öğren(e)miyoruz? - @jeandpardaillan  https://t.co/H2jVr769gN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						32,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H2jVr769gN",
+					"expanded_url": "https://youtu.be/iYE-feneWNA",
+					"display_url": "youtu.be/iYE-feneWNA",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "0,75x- Neden Öğren(e)miyoruz? - @jeandpardaillan  https://t.co/H2jVr769gN"
+	},
+	{
+		"created_at": "Mon Mar 20 17:43:35 +0000 2023",
+		"id": 1637872529602650000,
+		"id_str": "1637872529602650127",
+		"full_text": "@jeandpardaillan @JuristPhD @mehmetakcayy @tercumeihal @cagrimbakirci Hoca bırak şimdi fiil çekimlerini. F. Altaylı'nın karşısında üst kimliğin olan Fenerbahçeliliği unutma 😉",
+		"truncated": false,
+		"display_text_range": [
+			70,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeandpardaillan",
+					"name": "Emrah Safa Gürkan",
+					"id": 14457172,
+					"id_str": "14457172",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "JuristPhD",
+					"name": "Doktorand",
+					"id": 1113845690726277100,
+					"id_str": "1113845690726277120",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "mehmetakcayy",
+					"name": "Mehmet Akçay",
+					"id": 121567010,
+					"id_str": "121567010",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "tercumeihal",
+					"name": "kerim burak",
+					"id": 1472629147629412400,
+					"id_str": "1472629147629412357",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "cagrimbakirci",
+					"name": "Çağrı Mert Bakırcı",
+					"id": 187316309,
+					"id_str": "187316309",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1637868338087878700,
+		"in_reply_to_status_id_str": "1637868338087878679",
+		"in_reply_to_user_id": 14457172,
+		"in_reply_to_user_id_str": "14457172",
+		"in_reply_to_screen_name": "jeandpardaillan",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1519913693",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@jeandpardaillan @JuristPhD @mehmetakcayy @tercumeihal @cagrimbakirci Hoca bırak şimdi fiil çekimlerini. F. Altaylı'nın karşısında üst kimliğin olan Fenerbahçeliliği unutma 😉"
+	},
+	{
 		"created_at": "Fri Mar 17 14:23:41 +0000 2023",
 		"id": 1636735057262985200,
 		"id_str": "1636735057262985220",
