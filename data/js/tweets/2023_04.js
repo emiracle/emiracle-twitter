@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 23:00:30 +0000 2023",
+		"id": 1646287202236735500,
+		"id_str": "1646287202236735489",
+		"full_text": "@darren_cullen Best of luck! I would be happy if I could help a little.  I really dig your works and always moved by them. Cheers from Istanbul!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darren_cullen",
+					"name": "Spelling Mistakes Cost Lives",
+					"id": 66383858,
+					"id_str": "66383858",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1646285286710583300,
+		"in_reply_to_status_id_str": "1646285286710583297",
+		"in_reply_to_user_id": 66383858,
+		"in_reply_to_user_id_str": "66383858",
+		"in_reply_to_screen_name": "darren_cullen",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@darren_cullen Best of luck! I would be happy if I could help a little.  I really dig your works and always moved by them. Cheers from Istanbul!"
+	},
+	{
+		"created_at": "Wed Apr 12 14:54:44 +0000 2023",
+		"id": 1646164955496865800,
+		"id_str": "1646164955496865799",
+		"full_text": "@darren_cullen What parts do you need exactly? I found this: https://t.co/qw7j4fUjms",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darren_cullen",
+					"name": "Spelling Mistakes Cost Lives",
+					"id": 66383858,
+					"id_str": "66383858",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qw7j4fUjms",
+					"expanded_url": "https://bisonparts.co.uk/bmc",
+					"display_url": "bisonparts.co.uk/bmc",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1646162938363883500,
+		"in_reply_to_status_id_str": "1646162938363883530",
+		"in_reply_to_user_id": 66383858,
+		"in_reply_to_user_id_str": "66383858",
+		"in_reply_to_screen_name": "darren_cullen",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@darren_cullen What parts do you need exactly? I found this: https://t.co/qw7j4fUjms"
+	},
+	{
+		"created_at": "Wed Apr 12 14:44:36 +0000 2023",
+		"id": 1646162406953963500,
+		"id_str": "1646162406953963521",
+		"full_text": "@darren_cullen Turkish founded, crony capitalistic, pro-goverment shitty company, %49 of it owned by Qatar Armed Forces Industry Committee. https://t.co/DpOeTn8ilV",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darren_cullen",
+					"name": "Spelling Mistakes Cost Lives",
+					"id": 66383858,
+					"id_str": "66383858",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646162336061833200,
+					"id_str": "1646162336061833218",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FthX7EOXwAIxYr9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FthX7EOXwAIxYr9.png",
+					"url": "https://t.co/DpOeTn8ilV",
+					"display_url": "pic.twitter.com/DpOeTn8ilV",
+					"expanded_url": "https://twitter.com/emiracle/status/1646162406953963521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 409,
+							"h": 770,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 409,
+							"h": 770,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 361,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646162336061833200,
+					"id_str": "1646162336061833218",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FthX7EOXwAIxYr9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FthX7EOXwAIxYr9.png",
+					"url": "https://t.co/DpOeTn8ilV",
+					"display_url": "pic.twitter.com/DpOeTn8ilV",
+					"expanded_url": "https://twitter.com/emiracle/status/1646162406953963521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 409,
+							"h": 770,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 409,
+							"h": 770,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 361,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1646159706186997800,
+		"in_reply_to_status_id_str": "1646159706186997761",
+		"in_reply_to_user_id": 66383858,
+		"in_reply_to_user_id_str": "66383858",
+		"in_reply_to_screen_name": "darren_cullen",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@darren_cullen Turkish founded, crony capitalistic, pro-goverment shitty company, %49 of it owned by Qatar Armed Forces Industry Committee. https://t.co/DpOeTn8ilV"
+	},
+	{
 		"created_at": "Tue Apr 11 09:30:19 +0000 2023",
 		"id": 1645720926032412700,
 		"id_str": "1645720926032412673",
