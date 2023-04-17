@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 22:51:19 +0000 2023",
+		"id": 1647695562416984000,
+		"id_str": "1647734442012872705",
+		"full_text": "haksız orantısız her erişim engeli türkiye'nin itibarına ölçülmesi karmaşık ve telafisi güç bir darbe vuruyor. aşağıdaki bugün hackernews'te popüler olan linklerden biri. kast ettiği de 2019'da kaldırılan wikipedia erişim engeli. bu ürkek izansızlığın lekesi yıllarca çıkmıyor. https://t.co/OhzBmsqBO1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1647683544729387000,
+					"id_str": "1647683544729387008",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft2_dEHaAAA3vI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft2_dEHaAAA3vI_.jpg",
+					"url": "https://t.co/OhzBmsqBO1",
+					"display_url": "pic.twitter.com/OhzBmsqBO1",
+					"expanded_url": "https://twitter.com/esesci/status/1647695562416984067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1577,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647683544729387000,
+					"id_str": "1647683544729387008",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft2_dEHaAAA3vI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft2_dEHaAAA3vI_.jpg",
+					"url": "https://t.co/OhzBmsqBO1",
+					"display_url": "pic.twitter.com/OhzBmsqBO1",
+					"expanded_url": "https://twitter.com/esesci/status/1647695562416984067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1577,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16626982,
+			"id_str": "16626982",
+			"name": "sedat kapanoğlu",
+			"screen_name": "esesci",
+			"location": "san francisco, california",
+			"description": "written @street_coder / founded @sozluk / ex-@microsoft / https://t.co/9k9eO1u8YV https://t.co/GNELdjDuah  sedat@kapanoglu.com @ssg@hachyderm.io https://t.co/ksobiswM6O",
+			"url": "https://t.co/2EbaHz43Aq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2EbaHz43Aq",
+							"expanded_url": "https://streetcoder.org",
+							"display_url": "streetcoder.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9k9eO1u8YV",
+							"expanded_url": "http://ssg.dev",
+							"display_url": "ssg.dev",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/GNELdjDuah",
+							"expanded_url": "http://github.com/ssg",
+							"display_url": "github.com/ssg",
+							"indices": [
+								82,
+								105
+							]
+						},
+						{
+							"url": "https://t.co/ksobiswM6O",
+							"expanded_url": "http://eksisozluk.com/@ssg",
+							"display_url": "eksisozluk.com/@ssg",
+							"indices": [
+								145,
+								168
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 125941,
+			"friends_count": 1002,
+			"listed_count": 439,
+			"created_at": "Tue Oct 07 07:47:01 +0000 2008",
+			"favourites_count": 171890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1624249391422005251/ahkT3JZk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1624249391422005251/ahkT3JZk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16626982/1649525993",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "haksız orantısız her erişim engeli türkiye'nin itibarına ölçülmesi karmaşık ve telafisi güç bir darbe vuruyor. aşağıdaki bugün hackernews'te popüler olan linklerden biri. kast ettiği de 2019'da kaldırılan wikipedia erişim engeli. bu ürkek izansızlığın lekesi yıllarca çıkmıyor. https://t.co/OhzBmsqBO1"
+	},
+	{
 		"created_at": "Fri Apr 14 10:05:54 +0000 2023",
 		"id": 1646817043822391300,
 		"id_str": "1646817043822391298",
