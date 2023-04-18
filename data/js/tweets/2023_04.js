@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 09:40:34 +0000 2023",
+		"id": 1647897834174263300,
+		"id_str": "1647897834174263296",
+		"full_text": "@AlevAkkor Sakura çiçek açmış, yaz mı gelecek. Tayyip bu sevdadan 14 Mayıs'ta vaz mı geçecek. 😉\nhttps://t.co/Sy1tCa9idV",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlevAkkor",
+					"name": "Alev Akkor",
+					"id": 8356762,
+					"id_str": "8356762",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sy1tCa9idV",
+					"expanded_url": "https://www.aa.com.tr/tr/yasam/turk-japon-dostlugunun-simgesi-sakura-agaclari-istanbulda-cicek-acti/2866142#",
+					"display_url": "aa.com.tr/tr/yasam/turk-…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1647894924808044500,
+		"in_reply_to_status_id_str": "1647894924808044544",
+		"in_reply_to_user_id": 8356762,
+		"in_reply_to_user_id_str": "8356762",
+		"in_reply_to_screen_name": "AlevAkkor",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@AlevAkkor Sakura çiçek açmış, yaz mı gelecek. Tayyip bu sevdadan 14 Mayıs'ta vaz mı geçecek. 😉\nhttps://t.co/Sy1tCa9idV"
+	},
+	{
+		"created_at": "Mon Apr 17 09:26:02 +0000 2023",
+		"id": 1647894173662544000,
+		"id_str": "1647894173662543874",
+		"full_text": "@AlevAkkor Wikipedia sayfasından: \"Hastane toplam 1.021.000 m2 büyüklüğe sahiptir, bu alanın 171.000 m2'sine çam ve sakura ağaçları dikilmiştir.\" \n\nKesin yalandır gerçi. Bu beton sevicilerin sakura ağacı filan diktiğine inanmam. Belki göstermelik 1-2 tane vardır.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlevAkkor",
+					"name": "Alev Akkor",
+					"id": 8356762,
+					"id_str": "8356762",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1647774833999233000,
+		"in_reply_to_status_id_str": "1647774833999233024",
+		"in_reply_to_user_id": 8356762,
+		"in_reply_to_user_id_str": "8356762",
+		"in_reply_to_screen_name": "AlevAkkor",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 291,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@AlevAkkor Wikipedia sayfasından: \"Hastane toplam 1.021.000 m2 büyüklüğe sahiptir, bu alanın 171.000 m2'sine çam ve sakura ağaçları dikilmiştir.\" \n\nKesin yalandır gerçi. Bu beton sevicilerin sakura ağacı filan diktiğine inanmam. Belki göstermelik 1-2 tane vardır."
+	},
+	{
 		"created_at": "Sun Apr 16 22:51:19 +0000 2023",
 		"id": 1647695562416984000,
 		"id_str": "1647734442012872705",
