@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 22 17:21:58 +0000 2023",
+		"id": 1649825886131179500,
+		"id_str": "1649825886131179523",
+		"full_text": "Doğru bir eleştiri. https://t.co/bCXbv1TBEK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bCXbv1TBEK",
+					"expanded_url": "https://twitter.com/orhan_sener_/status/1649753998906253313",
+					"display_url": "twitter.com/orhan_sener_/s…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649753998906253300,
+		"quoted_status_id_str": "1649753998906253313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bCXbv1TBEK",
+			"expanded": "https://twitter.com/orhan_sener_/status/1649753998906253313",
+			"display": "twitter.com/orhan_sener_/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 22 12:36:18 +0000 2023",
+			"id": 1649753998906253300,
+			"id_str": "1649753998906253313",
+			"full_text": "Elinde çekiç olan, her yerde çivi görüyor. \n\nAmerikan kavramlarıyla Türkiye'yi anlamak zor, hatta yanıltıcı. \n\n\"Bizim vergilerimizle iktidarlarını ve rantlarını korumak için tepemizde helikopter uçuruyorlar\" denebilecekken olmayacak yerden tutulmuş mesele.\n\nWhite Anglosaxon… https://t.co/gyhitcec0x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				299
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gyhitcec0x",
+						"expanded_url": "https://twitter.com/i/web/status/1649753998906253313",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							276,
+							299
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18006571,
+				"id_str": "18006571",
+				"name": "Orhan Şener Deliormanlı",
+				"screen_name": "orhan_sener_",
+				"location": "",
+				"description": "📚Academic: TechEcoPol, Journ., SocSci... | @tgsakademi | @insidetrnews | studied @gsuilt| @cityunilondon almn. | Reading notes, pop culture, media, ecopol...",
+				"url": "https://t.co/wdiKU2gQAk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wdiKU2gQAk",
+								"expanded_url": "https://linktr.ee/orhan_sener_",
+								"display_url": "linktr.ee/orhan_sener_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5858,
+				"friends_count": 1992,
+				"listed_count": 85,
+				"created_at": "Tue Dec 09 23:50:18 +0000 2008",
+				"favourites_count": 97580,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27504,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2F577A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1604092485822828544/loHxmGMX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1604092485822828544/loHxmGMX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18006571/1650302923",
+				"profile_link_color": "2F577A",
+				"profile_sidebar_border_color": "1B1F22",
+				"profile_sidebar_fill_color": "1B1F22",
+				"profile_text_color": "074991",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1649455453708099600,
+			"quoted_status_id_str": "1649455453708099585",
+			"quoted_status_permalink": {
+				"url": "https://t.co/3kv8QIQwuG",
+				"expanded": "https://twitter.com/dw_turkce/status/1649455453708099585",
+				"display": "twitter.com/dw_turkce/stat…"
+			},
+			"retweet_count": 195,
+			"favorite_count": 1787,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Doğru bir eleştiri. https://t.co/bCXbv1TBEK"
+	},
+	{
+		"created_at": "Sat Apr 22 17:06:35 +0000 2023",
+		"id": 1649822014117499000,
+		"id_str": "1649822014117498882",
+		"full_text": "@wardumpp Derinlik konusu bu daha çok. Troll'lere laf yetiştirenlerin derinliği de troll'lere eş. Biri kırmızı takım diğeri turuncu takım gibi düşün.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wardumpp",
+					"name": "Murat Çakır",
+					"id": 19335165,
+					"id_str": "19335165",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1649818931132092400,
+		"in_reply_to_status_id_str": "1649818931132092419",
+		"in_reply_to_user_id": 19335165,
+		"in_reply_to_user_id_str": "19335165",
+		"in_reply_to_screen_name": "wardumpp",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@wardumpp Derinlik konusu bu daha çok. Troll'lere laf yetiştirenlerin derinliği de troll'lere eş. Biri kırmızı takım diğeri turuncu takım gibi düşün."
+	},
+	{
+		"created_at": "Sat Apr 22 09:37:05 +0000 2023",
+		"id": 1649708895647027200,
+		"id_str": "1649708895647027202",
+		"full_text": "@cankantarci Goodspeed you black emperor! 🤘🏻",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cankantarci",
+					"name": "Can Kantarcı",
+					"id": 455001534,
+					"id_str": "455001534",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1649708762809131000,
+		"in_reply_to_status_id_str": "1649708762809131008",
+		"in_reply_to_user_id": 455001534,
+		"in_reply_to_user_id_str": "455001534",
+		"in_reply_to_screen_name": "cankantarci",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cankantarci Goodspeed you black emperor! 🤘🏻"
+	},
+	{
 		"created_at": "Fri Apr 21 20:39:54 +0000 2023",
 		"id": 1649513313095524400,
 		"id_str": "1649513313095524354",
