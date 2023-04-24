@@ -1,6 +1,808 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 23 18:43:15 +0000 2023",
+		"id": 1650208732985319400,
+		"id_str": "1650208732985319441",
+		"full_text": "@cgdscv @erincbilican 4 puan önde olmana rağmen \"Gitti şampiyonluk\" demişsin. Ben de aynısını söylüyorum, gitti şampiyonluk. Birbirimizi üzmeyelim, aynı noktadayız. :)",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cgdscv",
+					"name": "cgdscvs",
+					"id": 162963247,
+					"id_str": "162963247",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "erincbilican",
+					"name": "Erinç Bilican",
+					"id": 69714127,
+					"id_str": "69714127",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1650208189328109600,
+		"in_reply_to_status_id_str": "1650208189328109569",
+		"in_reply_to_user_id": 162963247,
+		"in_reply_to_user_id_str": "162963247",
+		"in_reply_to_screen_name": "cgdscv",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@cgdscv @erincbilican 4 puan önde olmana rağmen \"Gitti şampiyonluk\" demişsin. Ben de aynısını söylüyorum, gitti şampiyonluk. Birbirimizi üzmeyelim, aynı noktadayız. :)"
+	},
+	{
+		"created_at": "Sun Apr 23 18:38:31 +0000 2023",
+		"id": 1650207540968411100,
+		"id_str": "1650207540968411139",
+		"full_text": "@cgdscv @erincbilican Aslında soruma cevap aramıyorum. Sizin adalet terazinizin kantarı yıllardır bozuk. İnşallah aynı penaltıyı yarın bize verirler 90'da.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cgdscv",
+					"name": "cgdscvs",
+					"id": 162963247,
+					"id_str": "162963247",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "erincbilican",
+					"name": "Erinç Bilican",
+					"id": 69714127,
+					"id_str": "69714127",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1650207204652220400,
+		"in_reply_to_status_id_str": "1650207204652220417",
+		"in_reply_to_user_id": 162963247,
+		"in_reply_to_user_id_str": "162963247",
+		"in_reply_to_screen_name": "cgdscv",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@cgdscv @erincbilican Aslında soruma cevap aramıyorum. Sizin adalet terazinizin kantarı yıllardır bozuk. İnşallah aynı penaltıyı yarın bize verirler 90'da."
+	},
+	{
+		"created_at": "Sun Apr 23 18:35:28 +0000 2023",
+		"id": 1650206771707887600,
+		"id_str": "1650206771707887616",
+		"full_text": "@erincbilican Travma yükleniyor, korkunun ecele faydası yok. Ağzından Lale Orta'yı düşürmüyorsun, penaltıya diyecek bir şeyin var mı sen ondan bahset.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erincbilican",
+					"name": "Erinç Bilican",
+					"id": 69714127,
+					"id_str": "69714127",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1650206397189980200,
+		"in_reply_to_status_id_str": "1650206397189980161",
+		"in_reply_to_user_id": 69714127,
+		"in_reply_to_user_id_str": "69714127",
+		"in_reply_to_screen_name": "erincbilican",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@erincbilican Travma yükleniyor, korkunun ecele faydası yok. Ağzından Lale Orta'yı düşürmüyorsun, penaltıya diyecek bir şeyin var mı sen ondan bahset."
+	},
+	{
+		"created_at": "Sun Apr 23 18:28:59 +0000 2023",
+		"id": 1650205140169678800,
+		"id_str": "1650205140169678849",
+		"full_text": "@erincbilican Seyahat Vlogger'ından Zürt Tesellisi: Korku Dağları Aşmış",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erincbilican",
+					"name": "Erinç Bilican",
+					"id": 69714127,
+					"id_str": "69714127",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1650204802209464300,
+		"in_reply_to_status_id_str": "1650204802209464323",
+		"in_reply_to_user_id": 69714127,
+		"in_reply_to_user_id_str": "69714127",
+		"in_reply_to_screen_name": "erincbilican",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@erincbilican Seyahat Vlogger'ından Zürt Tesellisi: Korku Dağları Aşmış"
+	},
+	{
+		"created_at": "Sun Apr 23 14:39:30 +0000 2023",
+		"id": 1650147390811254800,
+		"id_str": "1650147390811254784",
+		"full_text": "@mutsuzstitch @mortifera Tabii elbette öyledir. Bunlar çete zaten. Senin benim paramla zenginleşip, bir de millete parmak sallıyorlar.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mutsuzstitch",
+					"name": "tüylü 🏆 ⚡",
+					"id": 1125199708429934600,
+					"id_str": "1125199708429934592",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "mortifera",
+					"name": "Kutsal Bayraktar",
+					"id": 85420539,
+					"id_str": "85420539",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1650145039966675000,
+		"in_reply_to_status_id_str": "1650145039966674946",
+		"in_reply_to_user_id": 1125199708429934600,
+		"in_reply_to_user_id_str": "1125199708429934592",
+		"in_reply_to_screen_name": "mutsuzstitch",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@mutsuzstitch @mortifera Tabii elbette öyledir. Bunlar çete zaten. Senin benim paramla zenginleşip, bir de millete parmak sallıyorlar."
+	},
+	{
+		"created_at": "Sun Apr 23 11:32:02 +0000 2023",
+		"id": 1650100210255777800,
+		"id_str": "1650100210255777793",
+		"full_text": "@DaghanUzgur Çok doğru. Bir de senaryonun Hakan Günday tarafından yazılmış olması gerçeği var. Nerede bir Hakan Günday senaryosu görürsen orada bir müsamere vardır. Herhalde o şişman evinden çıkmıyor, gerçeklikle bağı kopuk birisi olduğunu düşünüyorum.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaghanUzgur",
+					"name": "Dağhan",
+					"id": 277540005,
+					"id_str": "277540005",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1650098531544232000,
+		"in_reply_to_status_id_str": "1650098531544231940",
+		"in_reply_to_user_id": 277540005,
+		"in_reply_to_user_id_str": "277540005",
+		"in_reply_to_screen_name": "DaghanUzgur",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@DaghanUzgur Çok doğru. Bir de senaryonun Hakan Günday tarafından yazılmış olması gerçeği var. Nerede bir Hakan Günday senaryosu görürsen orada bir müsamere vardır. Herhalde o şişman evinden çıkmıyor, gerçeklikle bağı kopuk birisi olduğunu düşünüyorum."
+	},
+	{
+		"created_at": "Sun Apr 23 11:24:30 +0000 2023",
+		"id": 1650098316867248000,
+		"id_str": "1650098316867248130",
+		"full_text": "@mortifera O iş öyle olmuyor ki. Bunlar AKP'nin ülkenin başına gelmiş en iyi şey olduğunu düşünüyorlar. Kendilerini kandırmadan böyle yaşayamazlar. İnsanların kendini kandırma kapasitesini hafife almamak lazım.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mortifera",
+					"name": "Kutsal Bayraktar",
+					"id": 85420539,
+					"id_str": "85420539",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1650095435871056000,
+		"in_reply_to_status_id_str": "1650095435871055875",
+		"in_reply_to_user_id": 85420539,
+		"in_reply_to_user_id_str": "85420539",
+		"in_reply_to_screen_name": "mortifera",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@mortifera O iş öyle olmuyor ki. Bunlar AKP'nin ülkenin başına gelmiş en iyi şey olduğunu düşünüyorlar. Kendilerini kandırmadan böyle yaşayamazlar. İnsanların kendini kandırma kapasitesini hafife almamak lazım."
+	},
+	{
+		"created_at": "Sun Apr 23 10:30:44 +0000 2023",
+		"id": 1650084785757331500,
+		"id_str": "1650084785757331459",
+		"full_text": "@orkutmurat @umka23 @UASonay Doğru. Bizim zamanımızda böyle şeyler yoktu ki. Lise mezunu diye de bir kategori vardı. Şimdi hepsini birleştirip adına da \"ortaöğretim\" demişler. Uyarı için teşekkürler.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "orkutmurat",
+					"name": "Orkut Murat Yılmaz",
+					"id": 19928103,
+					"id_str": "19928103",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "umka23",
+					"name": "Umut K.",
+					"id": 68760624,
+					"id_str": "68760624",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "UASonay",
+					"name": "Umut Arman Sonay",
+					"id": 1636999457379156000,
+					"id_str": "1636999457379155969",
+					"indices": [
+						20,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1650083581585178600,
+		"in_reply_to_status_id_str": "1650083581585178625",
+		"in_reply_to_user_id": 19928103,
+		"in_reply_to_user_id_str": "19928103",
+		"in_reply_to_screen_name": "orkutmurat",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@orkutmurat @umka23 @UASonay Doğru. Bizim zamanımızda böyle şeyler yoktu ki. Lise mezunu diye de bir kategori vardı. Şimdi hepsini birleştirip adına da \"ortaöğretim\" demişler. Uyarı için teşekkürler."
+	},
+	{
 		"created_at": "Sat Apr 22 17:21:58 +0000 2023",
 		"id": 1649825886131179500,
 		"id_str": "1649825886131179523",
