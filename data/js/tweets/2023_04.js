@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 26 10:57:27 +0000 2023",
+		"id": 1651178671762288600,
+		"id_str": "1651178671762288641",
+		"full_text": "@korayphlvglu Kendisine \"Atatürkçü\" ya da \"Kemalist\" diyen muteber bir kişi bile olmaz mı? Bu ülkenin en büyük kanseri bunlar. Hırsız siyasal islamcılar bile bunların yanında normal kalıyor.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "korayphlvglu",
+					"name": "Koray Pehlivanoğlu",
+					"id": 190247958,
+					"id_str": "190247958",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1651171022949826600,
+		"in_reply_to_status_id_str": "1651171022949826560",
+		"in_reply_to_user_id": 190247958,
+		"in_reply_to_user_id_str": "190247958",
+		"in_reply_to_screen_name": "korayphlvglu",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@korayphlvglu Kendisine \"Atatürkçü\" ya da \"Kemalist\" diyen muteber bir kişi bile olmaz mı? Bu ülkenin en büyük kanseri bunlar. Hırsız siyasal islamcılar bile bunların yanında normal kalıyor."
+	},
+	{
+		"created_at": "Wed Apr 26 10:52:40 +0000 2023",
+		"id": 1651177466487099400,
+		"id_str": "1651177466487099393",
+		"full_text": "@levent_kazak https://t.co/hZKbtqno66\nBunu yazdım. Sildi tweet'i.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "levent_kazak",
+					"name": "levent kazak",
+					"id": 121095372,
+					"id_str": "121095372",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hZKbtqno66",
+					"expanded_url": "https://twitter.com/emiracle/status/1651175784244035586?t=XcTPKPx7Z0y8amEOKP577Q&s=19",
+					"display_url": "twitter.com/emiracle/statu…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1651172532202926000,
+		"in_reply_to_status_id_str": "1651172532202926080",
+		"in_reply_to_user_id": 121095372,
+		"in_reply_to_user_id_str": "121095372",
+		"in_reply_to_screen_name": "levent_kazak",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1651175784244035600,
+		"quoted_status_id_str": "1651175784244035586",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hZKbtqno66",
+			"expanded": "https://twitter.com/emiracle/status/1651175784244035586?t=XcTPKPx7Z0y8amEOKP577Q&s=19",
+			"display": "twitter.com/emiracle/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 26 10:45:58 +0000 2023",
+			"id": 1651175784244035600,
+			"id_str": "1651175784244035586",
+			"full_text": "@nobasaran Sırrı'nın hiçbir görünen faydası olmasa bile senin gibi muteber görünen vasatların yaldızını dökerek içerisindeki tenekeyi ortaya çıkardığı için bile yeğdir. CV'sinde Kafa dergisinde yazmak ve TRT 2'de Alev Alatlı gibi bir aparatçik ile program yapmak olan birisin nihayetinde.",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nobasaran",
+						"name": "Başar Başaran",
+						"id": 154124486,
+						"id_str": "154124486",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1650223511233867800,
+			"in_reply_to_status_id_str": "1650223511233867778",
+			"in_reply_to_user_id": 154124486,
+			"in_reply_to_user_id_str": "154124486",
+			"in_reply_to_screen_name": "nobasaran",
+			"user": {
+				"id": 18937325,
+				"id_str": "18937325",
+				"name": "Emir Kaymakoğlu",
+				"screen_name": "emiracle",
+				"location": "Istanbul",
+				"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 307,
+				"friends_count": 292,
+				"listed_count": 7,
+				"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+				"favourites_count": 2031,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6281,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "12121A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+				"profile_link_color": "140DEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAEDC8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@levent_kazak https://t.co/hZKbtqno66\nBunu yazdım. Sildi tweet'i."
+	},
+	{
 		"created_at": "Tue Apr 25 18:02:32 +0000 2023",
 		"id": 1650923261612400600,
 		"id_str": "1650923261612400651",
