@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 16:23:06 +0000 2023",
+		"id": 1651985400259391500,
+		"id_str": "1651985400259391493",
+		"full_text": "https://t.co/u6UBh9CJCy https://t.co/pzNlVkvTjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u6UBh9CJCy",
+					"expanded_url": "https://twitter.com/sahmetsahmet/status/1651983630103719942",
+					"display_url": "twitter.com/sahmetsahmet/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1651985288586047500,
+					"id_str": "1651985288586047493",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu0H3gxXsAUpawM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu0H3gxXsAUpawM.jpg",
+					"url": "https://t.co/pzNlVkvTjV",
+					"display_url": "pic.twitter.com/pzNlVkvTjV",
+					"expanded_url": "https://twitter.com/emiracle/status/1651985400259391493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651985288586047500,
+					"id_str": "1651985288586047493",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu0H3gxXsAUpawM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu0H3gxXsAUpawM.jpg",
+					"url": "https://t.co/pzNlVkvTjV",
+					"display_url": "pic.twitter.com/pzNlVkvTjV",
+					"expanded_url": "https://twitter.com/emiracle/status/1651985400259391493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1651983630103720000,
+		"quoted_status_id_str": "1651983630103719942",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u6UBh9CJCy",
+			"expanded": "https://twitter.com/sahmetsahmet/status/1651983630103719942",
+			"display": "twitter.com/sahmetsahmet/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 28 16:16:04 +0000 2023",
+			"id": 1651983630103720000,
+			"id_str": "1651983630103719942",
+			"full_text": "14 Mayıs seçimlerine “darbe hazırlığı” diyen suçişleri bakanına “kaza, kurban gitmek, tahammül” sözcüklerini aynı cümle içinde kullanan reisi katıldı.\nMafya iktidarı derken hakaret kastımız yok. Sadece tespitte bulunuyoruz. https://t.co/WolmMKj8BZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WolmMKj8BZ",
+						"expanded_url": "https://twitter.com/onediocom/status/1651971451463892992",
+						"display_url": "twitter.com/onediocom/stat…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 96955327,
+				"id_str": "96955327",
+				"name": "ahmet şık",
+				"screen_name": "sahmetsahmet",
+				"location": "",
+				"description": "Türkiye İşçi Partisi İstanbul 2. Bölge Milletvekili Adayı. Gazeteci. ahmetinadresi@yandex.com",
+				"url": "https://t.co/h42gkQg38b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h42gkQg38b",
+								"expanded_url": "http://Instagram.com/ahmetsahmet",
+								"display_url": "Instagram.com/ahmetsahmet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1209048,
+				"friends_count": 2795,
+				"listed_count": 1654,
+				"created_at": "Tue Dec 15 10:25:48 +0000 2009",
+				"favourites_count": 2710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33888,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459712522409349120/c1DwHMQO_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96955327/1681242442",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1651971451463893000,
+			"quoted_status_id_str": "1651971451463892992",
+			"quoted_status_permalink": {
+				"url": "https://t.co/WolmMKj8BZ",
+				"expanded": "https://twitter.com/onediocom/status/1651971451463892992",
+				"display": "twitter.com/onediocom/stat…"
+			},
+			"retweet_count": 277,
+			"favorite_count": 2175,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/u6UBh9CJCy https://t.co/pzNlVkvTjV"
+	},
+	{
+		"created_at": "Fri Apr 28 16:12:58 +0000 2023",
+		"id": 1651982849195516000,
+		"id_str": "1651982849195515906",
+		"full_text": "Türkiye'de futbolun ne kadar kirli olduğunu gösteren bir ekran görüntüsü paylaşıyorum. Göz göre göre kara para aklıyorlar. Şampiyonlar Ligi finalinden daha pahalı bilet fiyatıyla işe Tuzlaspor - Eyüpspor derbisi! https://t.co/zC1IrvcvNE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1651982611974168600,
+					"id_str": "1651982611974168583",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu0FbtnXoAcRXYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu0FbtnXoAcRXYv.jpg",
+					"url": "https://t.co/zC1IrvcvNE",
+					"display_url": "pic.twitter.com/zC1IrvcvNE",
+					"expanded_url": "https://twitter.com/emiracle/status/1651982849195515906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1005,
+							"h": 814,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651982611974168600,
+					"id_str": "1651982611974168583",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu0FbtnXoAcRXYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu0FbtnXoAcRXYv.jpg",
+					"url": "https://t.co/zC1IrvcvNE",
+					"display_url": "pic.twitter.com/zC1IrvcvNE",
+					"expanded_url": "https://twitter.com/emiracle/status/1651982849195515906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1005,
+							"h": 814,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Türkiye'de futbolun ne kadar kirli olduğunu gösteren bir ekran görüntüsü paylaşıyorum. Göz göre göre kara para aklıyorlar. Şampiyonlar Ligi finalinden daha pahalı bilet fiyatıyla işe Tuzlaspor - Eyüpspor derbisi! https://t.co/zC1IrvcvNE"
+	},
+	{
 		"created_at": "Wed Apr 26 10:57:27 +0000 2023",
 		"id": 1651178671762288600,
 		"id_str": "1651178671762288641",
