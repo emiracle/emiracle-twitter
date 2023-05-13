@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 12 22:50:19 +0000 2023",
+		"id": 1657156275493298200,
+		"id_str": "1657156275493298176",
+		"full_text": "Seçime 48 saatten az kaldı. Recep Tayyip Erdoğan'ın son bir şansı hak ettiğine inanıyorum. Çekilsin, halka teslim olsun ve etkin pişmanlık yasasından yararlansın. İsterse kravatını, \"winner\" ceketini giysin, yargılanırken belki iyi halden yararlanabilir.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 293,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Seçime 48 saatten az kaldı. Recep Tayyip Erdoğan'ın son bir şansı hak ettiğine inanıyorum. Çekilsin, halka teslim olsun ve etkin pişmanlık yasasından yararlansın. İsterse kravatını, \"winner\" ceketini giysin, yargılanırken belki iyi halden yararlanabilir."
+	},
+	{
+		"created_at": "Fri May 12 17:16:20 +0000 2023",
+		"id": 1657065550588129300,
+		"id_str": "1657072227785768974",
+		"full_text": "Erdoğan’ı destekleseydim hapiste değil, Saray’da Cumhurbaşkanı yardımcısı olurdum ama onurunu yitirmiş bir hırsıza dönüşürdüm. \n\n85 milyon barış içinde, eşitçe, kardeşçe yaşasın diye bu zulme direniyorum, boyun eğmiyorum. \n\nSiz de hakikatin yanında olun, ilk turda bitirin bu işi. https://t.co/00AbU3FYhi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1657065416538161200,
+					"id_str": "1657065416538161152",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fv8UN4JXgAAVHrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fv8UN4JXgAAVHrN.jpg",
+					"url": "https://t.co/00AbU3FYhi",
+					"display_url": "pic.twitter.com/00AbU3FYhi",
+					"expanded_url": "https://twitter.com/hdpdemirtas/status/1657065550588129280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657065416538161200,
+					"id_str": "1657065416538161152",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fv8UN4JXgAAVHrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fv8UN4JXgAAVHrN.jpg",
+					"url": "https://t.co/00AbU3FYhi",
+					"display_url": "pic.twitter.com/00AbU3FYhi",
+					"expanded_url": "https://twitter.com/hdpdemirtas/status/1657065550588129280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224609329,
+			"id_str": "224609329",
+			"name": "Selahattin Demirtaş",
+			"screen_name": "hdpdemirtas",
+			"location": "",
+			"description": "Siyasi rehine",
+			"url": "https://t.co/iPYU8So0ql",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iPYU8So0ql",
+							"expanded_url": "https://www.instagram.com/hdpdemirtas",
+							"display_url": "instagram.com/hdpdemirtas",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2513536,
+			"friends_count": 826,
+			"listed_count": 1847,
+			"created_at": "Thu Dec 09 12:21:24 +0000 2010",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1643928268922339329/nCu-OhVK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1643928268922339329/nCu-OhVK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224609329/1680344452",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7072,
+		"favorite_count": 59866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Erdoğan’ı destekleseydim hapiste değil, Saray’da Cumhurbaşkanı yardımcısı olurdum ama onurunu yitirmiş bir hırsıza dönüşürdüm. \n\n85 milyon barış içinde, eşitçe, kardeşçe yaşasın diye bu zulme direniyorum, boyun eğmiyorum. \n\nSiz de hakikatin yanında olun, ilk turda bitirin bu işi. https://t.co/00AbU3FYhi"
+	},
+	{
 		"created_at": "Thu May 11 11:25:51 +0000 2023",
 		"id": 1656621635254755300,
 		"id_str": "1656621635254755329",
