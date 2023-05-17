@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 16 15:08:49 +0000 2023",
+		"id": 1658486697959776300,
+		"id_str": "1658489689027002368",
+		"full_text": "1- Merhabalar,\n\nYıllardır hileyle nasıl seçim kazanıp ülkeye el koyduklarına dair tahminlerimi ve alınması gereken önlemleri sizlerle paylaşmak istiyorum.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224609329,
+			"id_str": "224609329",
+			"name": "Selahattin Demirtaş",
+			"screen_name": "hdpdemirtas",
+			"location": "",
+			"description": "Siyasi rehine",
+			"url": "https://t.co/iPYU8So0ql",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iPYU8So0ql",
+							"expanded_url": "https://www.instagram.com/hdpdemirtas",
+							"display_url": "instagram.com/hdpdemirtas",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2558862,
+			"friends_count": 824,
+			"listed_count": 1871,
+			"created_at": "Thu Dec 09 12:21:24 +0000 2010",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1643928268922339329/nCu-OhVK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1643928268922339329/nCu-OhVK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224609329/1680344452",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16635,
+		"favorite_count": 73525,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "tr",
+		"text": "1- Merhabalar,\n\nYıllardır hileyle nasıl seçim kazanıp ülkeye el koyduklarına dair tahminlerimi ve alınması gereken önlemleri sizlerle paylaşmak istiyorum."
+	},
+	{
+		"created_at": "Tue May 16 10:41:39 +0000 2023",
+		"id": 1658422451288658000,
+		"id_str": "1658422451288657923",
+		"full_text": "@koraybirand Hem kendim reklam sektöründen biliyorum hem de tahmin edebiliyorum canım. Hüda-Par'lı, Yeniden Refahlı meclis açılsın, asıl o zaman ne pislikler göreceğiz.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "koraybirand",
+					"name": "Koray Birand",
+					"id": 36354667,
+					"id_str": "36354667",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1658419756599238700,
+		"in_reply_to_status_id_str": "1658419756599238656",
+		"in_reply_to_user_id": 36354667,
+		"in_reply_to_user_id_str": "36354667",
+		"in_reply_to_screen_name": "koraybirand",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@koraybirand Hem kendim reklam sektöründen biliyorum hem de tahmin edebiliyorum canım. Hüda-Par'lı, Yeniden Refahlı meclis açılsın, asıl o zaman ne pislikler göreceğiz."
+	},
+	{
 		"created_at": "Mon May 15 15:59:50 +0000 2023",
 		"id": 1658140137367167000,
 		"id_str": "1658140137367166977",
