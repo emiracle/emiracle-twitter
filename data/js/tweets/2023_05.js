@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 17 18:05:57 +0000 2023",
+		"id": 1658896654043422700,
+		"id_str": "1658896654043422739",
+		"full_text": "@emrahgulsunar Şımarık meczup. Ne teknik kabiliyeti? https://t.co/De5K4uetrG",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emrahgulsunar",
+					"name": "Emrah Gülsunar",
+					"id": 361885274,
+					"id_str": "361885274",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/De5K4uetrG",
+					"expanded_url": "https://twitter.com/ArsivUnutmaz/status/1452867833554145285",
+					"display_url": "twitter.com/ArsivUnutmaz/s…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1658870246189547500,
+		"in_reply_to_status_id_str": "1658870246189547521",
+		"in_reply_to_user_id": 361885274,
+		"in_reply_to_user_id_str": "361885274",
+		"in_reply_to_screen_name": "emrahgulsunar",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1452867833554145300,
+		"quoted_status_id_str": "1452867833554145285",
+		"quoted_status_permalink": {
+			"url": "https://t.co/De5K4uetrG",
+			"expanded": "https://twitter.com/ArsivUnutmaz/status/1452867833554145285",
+			"display": "twitter.com/ArsivUnutmaz/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 26 05:20:59 +0000 2021",
+			"id": 1452867833554145300,
+			"id_str": "1452867833554145285",
+			"full_text": "Süleyman Soylu \"Ben ömrümde bir tek güvenlik makalesi okumamış bir adamım. Okumadım yani. Ben içişleri bakanlığı ile ilgili bir şey biliyorum dersem yanlış olur.\" diyeli beş ay olmuş. https://t.co/rsLtflZh7n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1452867797588000800,
+						"id_str": "1452867797588000771",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1452867797588000771/pu/img/36Ho-KFrNi3DFywS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1452867797588000771/pu/img/36Ho-KFrNi3DFywS.jpg",
+						"url": "https://t.co/rsLtflZh7n",
+						"display_url": "pic.twitter.com/rsLtflZh7n",
+						"expanded_url": "https://twitter.com/ArsivUnutmaz/status/1452867833554145285/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1452867797588000800,
+						"id_str": "1452867797588000771",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1452867797588000771/pu/img/36Ho-KFrNi3DFywS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1452867797588000771/pu/img/36Ho-KFrNi3DFywS.jpg",
+						"url": "https://t.co/rsLtflZh7n",
+						"display_url": "pic.twitter.com/rsLtflZh7n",
+						"expanded_url": "https://twitter.com/ArsivUnutmaz/status/1452867833554145285/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16809,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1452867797588000771/pu/vid/640x360/rhA4unsY84lJrmKc.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1452867797588000771/pu/vid/480x270/SFWvlkiDICWlWG5R.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1452867797588000771/pu/pl/ycwTl0ZJEPWe9olY.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1452867797588000771/pu/vid/1280x720/0F6yyujMhwr6vnjJ.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 711652963916316700,
+				"id_str": "711652963916316672",
+				"name": "Arşiv Unutmaz",
+				"screen_name": "ArsivUnutmaz",
+				"location": "İstanbul, Türkiye",
+				"description": "geçmişi unutanlar onu yeniden yaşamaya mahkumdur #arşivunutmaz #unutmayın #unutturmayın #arşivgüzelşey",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 768857,
+				"friends_count": 1568,
+				"listed_count": 993,
+				"created_at": "Sun Mar 20 20:37:43 +0000 2016",
+				"favourites_count": 84908,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10489,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1442004930055720960/OJQTOeeK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442004930055720960/OJQTOeeK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/711652963916316672/1603344867",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 847,
+			"favorite_count": 4031,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "@emrahgulsunar Şımarık meczup. Ne teknik kabiliyeti? https://t.co/De5K4uetrG"
+	},
+	{
 		"created_at": "Tue May 16 15:08:49 +0000 2023",
 		"id": 1658486697959776300,
 		"id_str": "1658489689027002368",
