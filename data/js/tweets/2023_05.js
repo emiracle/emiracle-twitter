@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 23 17:56:33 +0000 2023",
+		"id": 1661068615787921400,
+		"id_str": "1661068615787921411",
+		"full_text": "@Gamsizm Ooo NBA Hangtime'ı (daha sonra seri NBA Jam adını alacak) biz de çok oynardık. Müthiş de gerçekten. Ağzımızdan keyif salyaları saça saça oynardık!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gamsizm",
+					"name": "Murat Gamsız",
+					"id": 41779319,
+					"id_str": "41779319",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1661065242699350000,
+		"in_reply_to_status_id_str": "1661065242699350017",
+		"in_reply_to_user_id": 41779319,
+		"in_reply_to_user_id_str": "41779319",
+		"in_reply_to_screen_name": "Gamsizm",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Gamsizm Ooo NBA Hangtime'ı (daha sonra seri NBA Jam adını alacak) biz de çok oynardık. Müthiş de gerçekten. Ağzımızdan keyif salyaları saça saça oynardık!"
+	},
+	{
+		"created_at": "Tue May 23 17:41:29 +0000 2023",
+		"id": 1661026010236870700,
+		"id_str": "1661064821960327177",
+		"full_text": "Sırrı Süreyya Önder / Seçimlere Dair\nÖnder: Ahlaki üstünlük bizde!\nLinkten izleyebilirsiniz👇\nhttps://t.co/vsyd3pXjZL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vsyd3pXjZL",
+					"expanded_url": "https://youtu.be/bqDk_SefJ4w",
+					"display_url": "youtu.be/bqDk_SefJ4w",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1868111306,
+			"id_str": "1868111306",
+			"name": "HDP İstanbul",
+			"screen_name": "HDPistanbul",
+			"location": "İstanbul",
+			"description": "HDP İstanbul İl Örgütü Resmi Twitter Hesabıdır",
+			"url": "https://t.co/lRL2XvRAJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lRL2XvRAJ6",
+							"expanded_url": "http://www.hdpistanbul.org",
+							"display_url": "hdpistanbul.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139906,
+			"friends_count": 129,
+			"listed_count": 104,
+			"created_at": "Sun Sep 15 15:16:56 +0000 2013",
+			"favourites_count": 5596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1373955996146667530/wPxZkGIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1373955996146667530/wPxZkGIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1868111306/1649246337",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Sırrı Süreyya Önder / Seçimlere Dair\nÖnder: Ahlaki üstünlük bizde!\nLinkten izleyebilirsiniz👇\nhttps://t.co/vsyd3pXjZL"
+	},
+	{
+		"created_at": "Tue May 23 17:23:09 +0000 2023",
+		"id": 1661060209484103700,
+		"id_str": "1661060209484103680",
+		"full_text": "@ilkercanikligil Her zaman söylerim. Dünyanın bütün organize dinleri, çocukları *ikmek içindir.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilkercanikligil",
+					"name": "ilker canikligil",
+					"id": 88629772,
+					"id_str": "88629772",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1661050489792782300,
+		"in_reply_to_status_id_str": "1661050489792782337",
+		"in_reply_to_user_id": 88629772,
+		"in_reply_to_user_id_str": "88629772",
+		"in_reply_to_screen_name": "ilkercanikligil",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ilkercanikligil Her zaman söylerim. Dünyanın bütün organize dinleri, çocukları *ikmek içindir."
+	},
+	{
+		"created_at": "Tue May 23 15:42:22 +0000 2023",
+		"id": 1661034845445714000,
+		"id_str": "1661034845445713921",
+		"full_text": "@Gamsizm @leventp Bu oyunları oynarken daha bıyıklarımız terlememişti. Peki bıyıklar terlemeye başladıktan sonra ofisteki yarı gönüllü turnuvalar hariç, kendiliğinden bile isteye hiç futbol oyunu oynadın mı? 😀",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gamsizm",
+					"name": "Murat Gamsız",
+					"id": 41779319,
+					"id_str": "41779319",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "leventp",
+					"name": "Levent Pekcan",
+					"id": 755912,
+					"id_str": "755912",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1661031942060376000,
+		"in_reply_to_status_id_str": "1661031942060376064",
+		"in_reply_to_user_id": 41779319,
+		"in_reply_to_user_id_str": "41779319",
+		"in_reply_to_screen_name": "Gamsizm",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@Gamsizm @leventp Bu oyunları oynarken daha bıyıklarımız terlememişti. Peki bıyıklar terlemeye başladıktan sonra ofisteki yarı gönüllü turnuvalar hariç, kendiliğinden bile isteye hiç futbol oyunu oynadın mı? 😀"
+	},
+	{
 		"created_at": "Mon May 22 15:22:17 +0000 2023",
 		"id": 1660656669037084700,
 		"id_str": "1660667405964640261",
