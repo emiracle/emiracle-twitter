@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 29 17:25:00 +0000 2023",
+		"id": 1663194542642974700,
+		"id_str": "1663235003227029548",
+		"full_text": "Kılıçdaroğlu'nun neden ve nasıl kaybettiğini Facebook reklam verileri ile tane tane anlatmak için bu akışı yazıyorum.\n\nBuradaki ekran görüntüleri Facebook Reklam Kütüphanesi raporundan alındı. Linke tıklayıp siz de inceleyebilirsiniz.\n\nhttps://t.co/BPlAuKg4tC\n\nBaşlıyorum. 👇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BPlAuKg4tC",
+					"expanded_url": "https://www.facebook.com/ads/library/report/",
+					"display_url": "facebook.com/ads/library/re…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1354781699125739500,
+			"id_str": "1354781699125739522",
+			"name": "Burak Su (42) - Buraksu.com 🇹🇷",
+			"screen_name": "buraksu42",
+			"location": "Gökçeada",
+			"description": "🧠 Marketing Strategist & AI Advocate @Kroppadigital\n🎯 Crafting cutting-edge strategies for marketers\n✍️ Dive into https://t.co/QlYhNugtBe 🇬🇧 - https://t.co/XjcozxoIeV 🇹🇷",
+			"url": "https://t.co/iDKGM8TowX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iDKGM8TowX",
+							"expanded_url": "https://burak.su",
+							"display_url": "burak.su",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QlYhNugtBe",
+							"expanded_url": "http://marketingmindset.org",
+							"display_url": "marketingmindset.org",
+							"indices": [
+								114,
+								137
+							]
+						},
+						{
+							"url": "https://t.co/XjcozxoIeV",
+							"expanded_url": "http://buraksu.com",
+							"display_url": "buraksu.com",
+							"indices": [
+								143,
+								166
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8660,
+			"friends_count": 5612,
+			"listed_count": 22,
+			"created_at": "Thu Jan 28 13:22:25 +0000 2021",
+			"favourites_count": 6739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582798412944228367/qaRZRV1E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582798412944228367/qaRZRV1E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354781699125739522/1670966313",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1887,
+		"favorite_count": 6525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Kılıçdaroğlu'nun neden ve nasıl kaybettiğini Facebook reklam verileri ile tane tane anlatmak için bu akışı yazıyorum.\n\nBuradaki ekran görüntüleri Facebook Reklam Kütüphanesi raporundan alındı. Linke tıklayıp siz de inceleyebilirsiniz.\n\nhttps://t.co/BPlAuKg4tC\n\nBaşlıyorum. 👇"
+	},
+	{
+		"created_at": "Mon May 29 11:32:03 +0000 2023",
+		"id": 1663146178245001200,
+		"id_str": "1663146178245001219",
+		"full_text": "\"Onunla yan yana gelmem, bununla yan yana gelmem\" dediniz. Türk milliyetçilerine inandınız. Şimdi bu faturayı bu yığınlarla hep birlikte ödeme zamanı. Anladık, onların oyları değişmiyor. Sizin kafanız değişmiyor. Nihayetinde de hiçbirimizin kaderi değişmiyor.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1663146176453984300,
+		"in_reply_to_status_id_str": "1663146176453984258",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "\"Onunla yan yana gelmem, bununla yan yana gelmem\" dediniz. Türk milliyetçilerine inandınız. Şimdi bu faturayı bu yığınlarla hep birlikte ödeme zamanı. Anladık, onların oyları değişmiyor. Sizin kafanız değişmiyor. Nihayetinde de hiçbirimizin kaderi değişmiyor."
+	},
+	{
+		"created_at": "Mon May 29 11:32:02 +0000 2023",
+		"id": 1663146176453984300,
+		"id_str": "1663146176453984258",
+		"full_text": "Her zaman söylediğim gibi bizim en büyük sorunumuz tek adam değil, yığın adamlar. Bu yığın adamların kendini sabote edecek kadar karşı taraf nefretini düşünerek, strateji kurarak ya da politik manevralarla aşabilmenin imkansızlığı içerisindeyiz.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1663146174163959800,
+		"in_reply_to_status_id_str": "1663146174163959817",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "Her zaman söylediğim gibi bizim en büyük sorunumuz tek adam değil, yığın adamlar. Bu yığın adamların kendini sabote edecek kadar karşı taraf nefretini düşünerek, strateji kurarak ya da politik manevralarla aşabilmenin imkansızlığı içerisindeyiz."
+	},
+	{
+		"created_at": "Mon May 29 11:32:02 +0000 2023",
+		"id": 1663146174163959800,
+		"id_str": "1663146174163959817",
+		"full_text": "TV kanalları, bakanları, bütçeleri, propagandistleri, montajları ve tüm gövdesi ile yüklenen bir parti devlet aygıtı karşısında yapılan bir seçimde, 5 senede bu kadar dibe çökmüşken \"heralde bu sefer oy vermezler\" dışında umut veren herhangi bir done kalmıyor.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1663146172402237400,
+		"in_reply_to_status_id_str": "1663146172402237442",
+		"in_reply_to_user_id": 18937325,
+		"in_reply_to_user_id_str": "18937325",
+		"in_reply_to_screen_name": "emiracle",
+		"user": {
+			"id": 18937325,
+			"id_str": "18937325",
+			"name": "Emir Kaymakoğlu",
+			"screen_name": "emiracle",
+			"location": "Istanbul",
+			"description": "Tweet'lerim otobiyografik ve bedbin öğeler taşımaktadır.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 292,
+			"listed_count": 7,
+			"created_at": "Tue Jan 13 13:08:09 +0000 2009",
+			"favourites_count": 2049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551283482025926656/9QG8B-GM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937325/1680133035",
+			"profile_link_color": "140DEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAEDC8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "TV kanalları, bakanları, bütçeleri, propagandistleri, montajları ve tüm gövdesi ile yüklenen bir parti devlet aygıtı karşısında yapılan bir seçimde, 5 senede bu kadar dibe çökmüşken \"heralde bu sefer oy vermezler\" dışında umut veren herhangi bir done kalmıyor."
+	},
+	{
 		"created_at": "Sun May 28 20:46:20 +0000 2023",
 		"id": 1662923282813706200,
 		"id_str": "1662923282813706243",
